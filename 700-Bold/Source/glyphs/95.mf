@@ -1,0 +1,70 @@
+% File parsed with Metapolator %
+
+% box dimension definition %
+
+beginfontchar(95, ((2.23*A_width + metapolation * (2.23*B_width - 2.23*A_width)) + spacing_95R) * width_95, 0, 0 );
+ 
+% point coordinates font A
+
+px1r := 0.68u ; py1r := 2.03u ;
+px1l := 1.5u ; py1l := 2.07u ;
+
+% reading mid points font A
+
+.5(px1l + px1r) = x210;
+.5(py1l + py1r) = y210;
+% fake extra l an r for metafont
+
+px1l = x1Bl; py1l = y1Bl; 
+px1r = x1Br; py1r = y1Br; 
+
+% pen width
+
+dist1 := length (z1Bl-z1Br) ;
+ 
+% point coordinates font B
+
+ppx1r := 0.68u ; ppy1r := 2.03u ;
+ppx1l := 1.5u ; ppy1l := 2.07u ;
+
+% reading mid points font B
+
+.5(ppx1l + ppx1r) = x21A;
+.5(ppy1l + ppy1r) = y21A;
+% fake extra l an r for font B
+
+ppx1l = x1Cl; ppy1l = y1Cl; 
+ppx1r = x1Cr; ppy1r = y1Cr; 
+
+% pen width Font B
+
+dist1B := length (z1Cl-z1Cr) ;
+
+% pen angle Font A
+
+ang1 := angle((z1Br + (metapolation * (z1Cr -z1Br))) - (z1Bl + (metapolation * (z1Cl -z1Bl))));
+
+% test extra pen angle
+
+
+% test extra pen angle
+
+ang1 := ang1;
+
+
+% test new penpos
+
+penpos1(1* (dist1 + (A_px + metapolation * (B_px - A_px)) + ((A_skeleton/50 + metapolation * (B_skeleton/50-A_skeleton/50)) * dist001)), ang1);
+
+% test new center (z) points
+
+z1=((A_width + metapolation * (B_width - A_width)) * (x210 + metapolation * (x21A - x210) + spacing_95L) * width_95, (y210 + metapolation *(y21A - y210))*((A_xheight + metapolation * (B_xheight - A_xheight)) / mean#));
+
+% penstrokes
+
+
+;
+
+% pen labels
+penlabels(range 1 thru 99);
+endchar;

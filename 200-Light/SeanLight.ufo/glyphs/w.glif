@@ -1,28 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="927"/>
+  <advance width="929"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="66" y="493" type="line"/>
-      <point x="268" y="0" type="line"/>
-      <point x="290" y="0" type="line"/>
-      <point x="458" y="462" type="line"/>
-      <point x="618" y="0" type="line"/>
-      <point x="639" y="0" type="line"/>
-      <point x="870" y="493" type="line"/>
-      <point x="848" y="493" type="line"/>
-      <point x="627" y="20" type="line"/>
-      <point x="469" y="493" type="line"/>
-      <point x="447" y="493" type="line"/>
-      <point x="275" y="19" type="line"/>
-      <point x="88" y="493" type="line"/>
+      <point x="63" y="533" type="line"/>
+      <point x="102" y="533" type="line"/>
+      <point x="276" y="36" type="line"/>
+      <point x="441" y="531" type="line"/>
+      <point x="441" y="533" type="line"/>
+      <point x="479" y="533" type="line"/>
+      <point x="627" y="39" type="line"/>
+      <point x="838" y="533" type="line"/>
+      <point x="878" y="533" type="line"/>
+      <point x="648" y="0" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="460" y="475" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>513</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

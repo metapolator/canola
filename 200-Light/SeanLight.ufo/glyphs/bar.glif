@@ -1,49 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="55"/>
+  <advance width="62"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="14" y="-433" type="line"/>
-      <point x="36" y="-433" type="line"/>
-      <point x="36" y="-351" type="line"/>
-      <point x="14" y="-351" type="line"/>
+      <point x="12" y="847" type="line"/>
+      <point x="50" y="847" type="line"/>
+      <point x="50" y="535" type="line"/>
+      <point x="12" y="535" type="line"/>
     </contour>
     <contour>
-      <point x="14" y="857" type="line"/>
-      <point x="36" y="857" type="line"/>
-      <point x="36" y="939" type="line"/>
-      <point x="14" y="939" type="line"/>
+      <point x="12" y="1" type="line"/>
+      <point x="12" y="532" type="line"/>
+      <point x="50" y="532" type="line"/>
+      <point x="50" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="14" y="783" type="line"/>
-      <point x="36" y="783" type="line"/>
-      <point x="36" y="786" type="line"/>
-      <point x="14" y="786" type="line"/>
-    </contour>
-    <contour>
-      <point x="14" y="495" type="line"/>
-      <point x="36" y="495" type="line"/>
-      <point x="36" y="740" type="line"/>
-      <point x="14" y="740" type="line"/>
-    </contour>
-    <contour>
-      <point x="14" y="1" type="line"/>
-      <point x="36" y="1" type="line"/>
-      <point x="36" y="492" type="line"/>
-      <point x="14" y="492" type="line"/>
-    </contour>
-    <contour>
-      <point x="14" y="-286" type="line"/>
-      <point x="36" y="-286" type="line"/>
-      <point x="36" y="-1" type="line"/>
-      <point x="14" y="-1" type="line"/>
+      <point x="12" y="-377" type="line"/>
+      <point x="12" y="-1" type="line"/>
+      <point x="50" y="-1" type="line"/>
+      <point x="50" y="-377" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-21</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>512</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>535</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>12</integer>
+	    <key>width</key>
+	    <integer>38</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

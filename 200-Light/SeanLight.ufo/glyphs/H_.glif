@@ -1,27 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="775"/>
+  <advance width="756"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="644" y="722" type="line"/>
-      <point x="644" y="373" type="line"/>
-      <point x="128" y="373" type="line"/>
-      <point x="128" y="722" type="line"/>
-      <point x="106" y="722" type="line"/>
-      <point x="105" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="127" y="351" type="line"/>
-      <point x="644" y="351" type="line"/>
-      <point x="644" y="0" type="line"/>
-      <point x="666" y="0" type="line"/>
-      <point x="666" y="722" type="line"/>
+      <point x="619" y="722" type="line"/>
+      <point x="657" y="722" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="619" y="344" type="line"/>
+      <point x="136" y="344" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="99" y="722" type="line"/>
+      <point x="137" y="722" type="line"/>
+      <point x="137" y="381" type="line"/>
+      <point x="619" y="381" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>344</integer>
+	    <key>width</key>	    <integer>37</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>702</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>98</integer>
+	    <key>width</key>
+	    <integer>38</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>619</integer>
+	    <key>width</key>
+	    <integer>38</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

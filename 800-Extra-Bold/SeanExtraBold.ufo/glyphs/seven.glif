@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="587"/>
+  <advance width="586"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="94" y="520" type="line"/>
-      <point x="94" y="407" type="line"/>
-      <point x="387" y="406" type="line"/>
-      <point x="77" y="-222" type="line"/>
-      <point x="212" y="-222" type="line"/>
-      <point x="533" y="406" type="line"/>
-      <point x="533" y="520" type="line"/>
+      <point x="94" y="526" type="line"/>
+      <point x="533" y="525" type="line"/>
+      <point x="533" y="401" type="line"/>
+      <point x="216" y="-222" type="line"/>
+      <point x="73" y="-222" type="line"/>
+      <point x="386" y="401" type="line"/>
+      <point x="94" y="402" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>402</integer>
+	    <key>width</key>	    <integer>124</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

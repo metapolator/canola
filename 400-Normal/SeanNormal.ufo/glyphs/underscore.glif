@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="1">
-  <advance width="711"/>
+  <advance width="713"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="20" y="-168" type="line"/>
-      <point x="20" y="-222" type="line"/>
-      <point x="691" y="-222" type="line"/>
-      <point x="691" y="-168" type="line"/>
+      <point x="25" y="-172" type="line"/>
+      <point x="692" y="-172" type="line"/>
+      <point x="692" y="-242" type="line"/>
+      <point x="25" y="-242" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-242</integer>
+	    <key>width</key>	    <integer>70</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

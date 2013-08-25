@@ -1,25 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="1">
-  <advance width="427"/>
+  <advance width="429"/>
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="195" y="229" type="line"/>
-      <point x="291" y="229" type="line"/>
-      <point x="297" y="722" type="line"/>
-      <point x="186" y="722" type="line"/>
+      <point x="194" y="229" type="line"/>
+      <point x="184" y="722" type="line"/>
+      <point x="303" y="722" type="line"/>
+      <point x="296" y="229" type="line"/>
     </contour>
     <contour>
-      <point x="187" y="134" type="line"/>
-      <point x="187" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="298" y="134" type="line"/>
+      <point x="185" y="142" type="line"/>
+      <point x="303" y="142" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>142</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>702</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>185</integer>
+	    <key>width</key>
+	    <integer>118</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>194</integer>
+	    <key>width</key>
+	    <integer>102</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

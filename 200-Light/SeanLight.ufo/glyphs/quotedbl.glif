@@ -1,25 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="430"/>
+  <advance width="435"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="277" y="609" type="line"/>
-      <point x="298" y="609" type="line"/>
-      <point x="338" y="782" type="line"/>
-      <point x="317" y="782" type="line"/>
+      <point x="273" y="658" type="line"/>
+      <point x="312" y="846" type="line"/>
+      <point x="349" y="846" type="line"/>
+      <point x="309" y="658" type="line"/>
     </contour>
     <contour>
-      <point x="90" y="609" type="line"/>
-      <point x="112" y="609" type="line"/>
-      <point x="152" y="782" type="line"/>
-      <point x="130" y="782" type="line"/>
+      <point x="88" y="658" type="line"/>
+      <point x="127" y="846" type="line"/>
+      <point x="164" y="846" type="line"/>
+      <point x="124" y="658" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>658</integer>
+	    <key>width</key>	    <integer>188</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>88</integer>
+	    <key>width</key>
+	    <integer>261</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

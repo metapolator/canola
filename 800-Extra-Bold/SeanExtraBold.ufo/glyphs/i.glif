@@ -1,25 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="287"/>
+  <advance width="286"/>
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="74" y="674" type="line"/>
-      <point x="220" y="674" type="line"/>
-      <point x="220" y="820" type="line"/>
-      <point x="74" y="820" type="line"/>
+      <point x="74" y="690" type="line"/>
+      <point x="74" y="837" type="line"/>
+      <point x="220" y="837" type="line"/>
+      <point x="220" y="690" type="line"/>
     </contour>
     <contour>
       <point x="80" y="0" type="line"/>
+      <point x="80" y="533" type="line"/>
+      <point x="214" y="533" type="line"/>
       <point x="215" y="0" type="line"/>
-      <point x="214" y="524" type="line"/>
-      <point x="80" y="524" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>513</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>690</integer>
+	    <key>width</key>	    <integer>147</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>74</integer>
+	    <key>width</key>
+	    <integer>146</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

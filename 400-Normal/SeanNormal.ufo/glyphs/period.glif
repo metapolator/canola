@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="1">
-  <advance width="330"/>
+  <advance width="335"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="138" y="146" type="line"/>
-      <point x="138" y="0" type="line"/>
-      <point x="194" y="0" type="line"/>
-      <point x="194" y="146" type="line"/>
+      <point x="133" y="157" type="line"/>
+      <point x="207" y="157" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>157</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>133</integer>
+	    <key>width</key>
+	    <integer>74</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

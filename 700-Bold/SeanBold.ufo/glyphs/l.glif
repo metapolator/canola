@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="292"/>
+  <advance width="294"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="93" y="1" type="line"/>
-      <point x="204" y="1" type="line"/>
-      <point x="203" y="843" type="line"/>
-      <point x="93" y="843" type="line"/>
+      <point x="91" y="1" type="line"/>
+      <point x="90" y="783" type="line"/>
+      <point x="209" y="783" type="line"/>
+      <point x="210" y="1" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>763</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>91</integer>
+	    <key>width</key>
+	    <integer>119</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

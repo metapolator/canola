@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="1">
-  <advance width="356"/>
+  <advance width="358"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="209" y="638" type="line"/>
-      <point x="319" y="638" type="line"/>
-      <point x="187" y="821" type="line"/>
-      <point x="77" y="821" type="line"/>
+      <point x="209" y="656" type="line"/>
+      <point x="60" y="846" type="line"/>
+      <point x="187" y="846" type="line"/>
+      <point x="327" y="656" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>656</integer>
+	    <key>width</key>	    <integer>190</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>60</integer>
+	    <key>width</key>
+	    <integer>267</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

@@ -1,0 +1,89 @@
+% File parsed with Metapolator %
+
+% box dimension definition %
+
+beginfontchar(12, ((2.28*A_width + metapolation * (2.28*B_width - 2.28*A_width)) + spacing_12R) * width_12, 0, 0 );
+ 
+% point coordinates font A
+
+px2l := 0.87u ; py2l := 0.71u ;
+px2r := 1.8u ; py2r := 0.71u ;
+px1l := 0.38u ; py1l := -0.73u ;
+px1r := 0.75u ; py1r := -0.73u ;
+
+% reading mid points font A
+
+.5(px2l + px2r) = x220;
+.5(py2l + py2r) = y220;
+.5(px1l + px1r) = x210;
+.5(py1l + py1r) = y210;
+% fake extra l an r for metafont
+
+px2l = x2Bl; py2l = y2Bl; 
+px2r = x2Br; py2r = y2Br; 
+px1l = x1Bl; py1l = y1Bl; 
+px1r = x1Br; py1r = y1Br; 
+
+% pen width
+
+dist2 := length (z2Bl-z2Br) ;
+dist1 := length (z1Bl-z1Br) ;
+ 
+% point coordinates font B
+
+ppx1l := 0.38u ; ppy1l := -0.73u ;
+ppx1r := 0.75u ; ppy1r := -0.73u ;
+ppx2l := 0.87u ; ppy2l := 0.71u ;
+ppx2r := 1.8u ; ppy2r := 0.71u ;
+
+% reading mid points font B
+
+.5(ppx1l + ppx1r) = x21A;
+.5(ppy1l + ppy1r) = y21A;
+.5(ppx2l + ppx2r) = x22A;
+.5(ppy2l + ppy2r) = y22A;
+% fake extra l an r for font B
+
+ppx1l = x1Cl; ppy1l = y1Cl; 
+ppx1r = x1Cr; ppy1r = y1Cr; 
+ppx2l = x2Cl; ppy2l = y2Cl; 
+ppx2r = x2Cr; ppy2r = y2Cr; 
+
+% pen width Font B
+
+dist1B := length (z1Cl-z1Cr) ;
+dist2B := length (z2Cl-z2Cr) ;
+
+% pen angle Font A
+
+ang2 := angle((z2Br + (metapolation * (z2Cr -z2Br))) - (z2Bl + (metapolation * (z2Cl -z2Bl))));
+ang1 := angle((z1Br + (metapolation * (z1Cr -z1Br))) - (z1Bl + (metapolation * (z1Cl -z1Bl))));
+
+% test extra pen angle
+
+
+% test extra pen angle
+
+ang1 := ang1;
+ang2 := ang2;
+
+
+% test new penpos
+
+penpos1(((1.0 + metapolation * (0.600000023842 - 1.0)))* (dist1 + (A_px + metapolation * (B_px - A_px)) + ((A_skeleton/50 + metapolation * (B_skeleton/50-A_skeleton/50)) * dist001)), ang1);
+penpos2(((1.0 + metapolation * (1.2 - 1.0)))* (dist2 + (A_px + metapolation * (B_px - A_px)) + ((A_skeleton/50 + metapolation * (B_skeleton/50-A_skeleton/50)) * dist002)), ang2);
+
+% test new center (z) points
+
+z1=((A_width + metapolation * (B_width - A_width)) * (x210 + metapolation * (x21A - x210) + spacing_12L) * width_12, (y210 + metapolation *(y21A - y210))*((A_xheight + metapolation * (B_xheight - A_xheight)) / mean#));
+z2=((A_width + metapolation * (B_width - A_width)) * (x220 + metapolation * (x22A - x220) + spacing_12L) * width_12, (y220 + metapolation *(y22A - y220))*((A_xheight + metapolation * (B_xheight - A_xheight)) / mean#));
+
+% penstrokes
+
+penstroke z1e shifted (0,-10mpx) ... 
+z2e
+;
+
+% pen labels
+penlabels(range 1 thru 99);
+endchar;

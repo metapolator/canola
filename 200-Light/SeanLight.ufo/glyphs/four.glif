@@ -1,31 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="603"/>
+  <advance width="606"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="22" y="92" type="line"/>
-      <point x="387" y="502" type="line"/>
-      <point x="387" y="92" type="line"/>
+      <point x="49" y="99" type="line"/>
+      <point x="381" y="99" type="line"/>
+      <point x="382" y="477" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="92" type="line"/>
-      <point x="0" y="70" type="line"/>
-      <point x="387" y="70" type="line"/>
-      <point x="387" y="-222" type="line"/>
-      <point x="409" y="-222" type="line"/>
-      <point x="409" y="70" type="line"/>
-      <point x="595" y="70" type="line"/>
-      <point x="595" y="92" type="line"/>
-      <point x="409" y="92" type="line"/>
-      <point x="409" y="527" type="line"/>
-      <point x="387" y="527" type="line"/>
+      <point x="6" y="99" type="line"/>
+      <point x="382" y="527" type="line"/>
+      <point x="421" y="527" type="line"/>
+      <point x="421" y="384"/>
+      <point x="420" y="242"/>
+      <point x="420" y="99" type="curve"/>
+      <point x="596" y="99" type="line"/>
+      <point x="596" y="63" type="line"/>
+      <point x="420" y="63" type="line"/>
+      <point x="419" y="-222" type="line"/>
+      <point x="381" y="-222" type="line"/>
+      <point x="381" y="63" type="line"/>
+      <point x="6" y="63" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>63</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>507</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>381</integer>
+	    <key>width</key>
+	    <integer>39</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

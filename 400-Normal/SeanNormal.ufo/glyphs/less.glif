@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="1">
-  <advance width="816"/>
+  <advance width="818"/>
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="167" y="283" type="line"/>
-      <point x="701" y="509" type="line"/>
-      <point x="701" y="564" type="line"/>
-      <point x="102" y="309" type="line"/>
-      <point x="102" y="255" type="line"/>
-      <point x="711" y="7" type="line"/>
-      <point x="711" y="61" type="line"/>
+      <point x="185" y="301" type="line"/>
+      <point x="711" y="72" type="line"/>
+      <point x="711" y="1" type="line"/>
+      <point x="106" y="265" type="line"/>
+      <point x="106" y="335" type="line"/>
+      <point x="701" y="605" type="line"/>
+      <point x="701" y="535" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>
