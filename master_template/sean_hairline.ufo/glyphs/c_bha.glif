@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c_bha" format="1">
-  <advance width="556"/>
+  <advance width="551"/>
   <unicode hex="092D"/>
   <outline>
-    <contour>
-      <point x="410" y="710" type="line"/>
-      <point x="410" y="0" type="line"/>
-      <point x="432" y="0" type="line"/>
-      <point x="432" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="561" y="700" type="line"/>
-      <point x="561" y="722" type="line"/>
-      <point x="282" y="722" type="line"/>
-      <point x="282" y="700" type="line"/>
-    </contour>
     <contour>
       <point x="232" y="606" type="curve"/>
       <point x="232" y="281" type="line"/>
@@ -59,55 +47,12 @@
       <point x="195" y="711"/>
       <point x="232" y="669"/>
     </contour>
+    <component base="kana" xOffset="290"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>c_bha</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>556</integer>
-        </dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>c_bha</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>556</integer>
-        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
