@@ -47,7 +47,18 @@
       <point x="195" y="711"/>
       <point x="232" y="669"/>
     </contour>
-    <component base="kana" xOffset="290"/>
+    <contour>
+      <point x="410" y="710" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="583" y="700" type="line"/>
+      <point x="583" y="722" type="line"/>
+      <point x="280" y="722" type="line"/>
+      <point x="280" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -57,8 +68,8 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
+        <real>0.8</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
     </dict>

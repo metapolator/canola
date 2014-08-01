@@ -8,12 +8,7 @@
       <point x="142" y="0" type="line"/>
       <point x="142" y="710" type="line"/>
     </contour>
-    <contour>
-      <point x="271" y="700" type="line"/>
-      <point x="271" y="722" type="line"/>
-      <point x="-12" y="722" type="line"/>
-      <point x="-12" y="700" type="line"/>
-    </contour>
+    <component base="component_6"/>
   </outline>
   <lib>
     <dict>
@@ -22,10 +17,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.6</real>
+        <real>1.0</real>
+        <real>0.8</real>
         <real>0.4</real>
-        <real>0.2</real>
-        <real>0.66</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>
