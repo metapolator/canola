@@ -32,23 +32,67 @@
       <point x="125" y="165"/>
     </contour>
     <contour>
-      <point x="211.5" y="-68" type="line"/>
-      <point x="637.5" y="844" type="line"/>
-      <point x="615.5" y="844" type="line"/>
-      <point x="189.5" y="-68" type="line"/>
+      <point x="194" y="-90" type="line"/>
+      <point x="620" y="822" type="line"/>
+      <point x="598" y="822" type="line"/>
+      <point x="172" y="-90" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>holes</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <integer>0</integer>
-        <integer>1</integer>
-        <integer>0</integer>
-        <real>0.5</real>
+        <real>0.2005</real>
+        <real>1.0</real>
+        <real>0.9416</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

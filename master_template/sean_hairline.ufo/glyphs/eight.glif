@@ -30,8 +30,6 @@
       <point x="379" y="331"/>
     </contour>
     <contour>
-      <point x="361" y="321"/>
-      <point x="450" y="282"/>
       <point x="450" y="174" type="curve" smooth="yes"/>
       <point x="450" y="70"/>
       <point x="376" y="11"/>
@@ -54,13 +52,66 @@
       <point x="83" y="465"/>
       <point x="163" y="419"/>
       <point x="261" y="371" type="curve" smooth="yes"/>
+      <point x="361" y="321"/>
+      <point x="450" y="282"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>holes</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eight</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>519</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eight</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>519</integer>
+        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2005</real>
+        <real>1.0</real>
+        <real>0.9416</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

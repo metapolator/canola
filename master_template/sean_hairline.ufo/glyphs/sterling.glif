@@ -20,7 +20,7 @@
       <point x="443" y="657" type="line"/>
       <point x="399" y="689"/>
       <point x="363" y="705"/>
-      <point x="309" y="705" type="curve"/>
+      <point x="309" y="705" type="curve" smooth="yes"/>
       <point x="160" y="705"/>
       <point x="125" y="555"/>
       <point x="163" y="375" type="curve" smooth="yes"/>
@@ -33,7 +33,7 @@
       <point x="185" y="372" type="curve" smooth="yes"/>
       <point x="152" y="541"/>
       <point x="169" y="684"/>
-      <point x="306" y="684" type="curve"/>
+      <point x="306" y="684" type="curve" smooth="yes"/>
       <point x="357" y="684"/>
       <point x="391" y="671"/>
     </contour>
@@ -42,7 +42,58 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>holes</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>sterling</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>505</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>sterling</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>505</integer>
+        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2005</real>
+        <real>1.0</real>
+        <real>0.9416</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

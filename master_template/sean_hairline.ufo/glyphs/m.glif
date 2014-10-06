@@ -10,10 +10,10 @@
       <point x="652" y="524" type="curve" smooth="yes"/>
       <point x="750" y="524"/>
       <point x="818" y="463"/>
-      <point x="818" y="367" type="curve"/>
+      <point x="818" y="367" type="curve" smooth="yes"/>
       <point x="818" y="0" type="line"/>
       <point x="840" y="0" type="line"/>
-      <point x="840" y="364" type="line"/>
+      <point x="840" y="364" type="line" smooth="yes"/>
       <point x="840" y="474"/>
       <point x="767" y="547"/>
       <point x="656" y="547" type="curve" smooth="yes"/>
@@ -34,10 +34,10 @@
       <point x="299" y="524" type="curve" smooth="yes"/>
       <point x="399" y="524"/>
       <point x="470" y="465"/>
-      <point x="470" y="367" type="curve"/>
+      <point x="470" y="367" type="curve" smooth="yes"/>
       <point x="470" y="0" type="line"/>
       <point x="492" y="0" type="line"/>
-      <point x="492" y="364" type="line"/>
+      <point x="492" y="364" type="line" smooth="yes"/>
       <point x="492" y="476"/>
       <point x="416" y="547"/>
       <point x="303" y="547" type="curve" smooth="yes"/>
@@ -48,68 +48,60 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>834</integer>
-          <key>y</key>
-          <integer>113</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>129</integer>
-          <key>y</key>
-          <integer>392</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>701</integer>
-          <key>y</key>
-          <integer>351</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>452</integer>
-          <key>y</key>
-          <integer>364</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>holes</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>981</integer>
+        </dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>981</integer>
+        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2005</real>
+        <real>1.0</real>
+        <real>0.9416</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
