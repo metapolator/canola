@@ -1,79 +1,615 @@
 <!DOCTYPE html>
-<html>
+<html lang="en"><head>
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Sean : Sean is the first typeface family being produced with Metapolator">
+    <title>Metapolator Neue: the Red Pill Interface</title>
+    <!-- development -->
+    <link rel="stylesheet/less" type="text/css" href="http://localhost:52323/lib/ui/redPill/app.less">
+    <style id="less:lib-ui-redPill-app" type="text/css">/* BASICS */
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+.CodeMirror {
+  /* Set height, width, borders, and global font properties here */
+  font-family: monospace;
+  height: 700px;
+}
 
-    <title>Sean</title>
-  </head>
 
+/* PADDING */
+
+
+
+/* GUTTER */
+
+.CodeMirror-gutters {
+  border-right: 1px solid #ddd;
+  background-color: #f7f7f7;
+}
+.CodeMirror-linenumbers {}
+.CodeMirror-linenumber {
+  padding: 0 3px 0 5px;
+  min-width: 20px;
+  text-align: right;
+  color: #999;
+
+}
+
+.CodeMirror-guttermarker { color: black; }
+.CodeMirror-guttermarker-subtle { color: #999; }
+
+/* CURSOR */
+
+.CodeMirror div.CodeMirror-cursor {
+  border-left: 1px solid black;
+}
+/* Shown when moving in bi-directional text */
+.CodeMirror div.CodeMirror-secondarycursor {
+  border-left: 1px solid silver;
+}
+.CodeMirror.cm-keymap-fat-cursor div.CodeMirror-cursor {
+  border: 0;
+  background: #7e7;
+}
+.cm-animate-fat-cursor {
+  border: 0;
+  -webkit-animation: blink 1.06s steps(1) infinite;
+  -moz-animation: blink 1.06s steps(1) infinite;
+  animation: blink 1.06s steps(1) infinite;
+}
+@-moz-keyframes blink {
+  0% { background: #7e7; }
+  50% { background: none; }
+  100% { background: #7e7; }
+}
+@-webkit-keyframes blink {
+  0% { background: #7e7; }
+  50% { background: none; }
+  100% { background: #7e7; }
+}
+@keyframes blink {
+  0% { background: #7e7; }
+  50% { background: none; }
+  100% { background: #7e7; }
+}
+
+/* Can style cursor different in overwrite (non-insert) mode */
+div.CodeMirror-overwrite div.CodeMirror-cursor {}
+
+.cm-tab { display: inline-block; }
+
+.CodeMirror-ruler {
+  border-left: 1px solid #ccc;
+  position: absolute;
+}
+
+/* DEFAULT THEME */
+
+.cm-s-default .cm-keyword {color: #708;}
+.cm-s-default .cm-atom {color: #219;}
+.cm-s-default .cm-number {color: #164;}
+.cm-s-default .cm-def {color: #00f;}
+.cm-s-default .cm-variable,
+.cm-s-default .cm-punctuation,
+.cm-s-default .cm-property,
+.cm-s-default .cm-operator {}
+.cm-s-default .cm-variable-2 {color: #05a;}
+.cm-s-default .cm-variable-3 {color: #085;}
+.cm-s-default .cm-comment {color: #a50;}
+.cm-s-default .cm-string {color: #a11;}
+.cm-s-default .cm-string-2 {color: #f50;}
+.cm-s-default .cm-meta {color: #555;}
+.cm-s-default .cm-qualifier {color: #555;}
+.cm-s-default .cm-builtin {color: #30a;}
+.cm-s-default .cm-bracket {color: #997;}
+.cm-s-default .cm-tag {color: #170;}
+.cm-s-default .cm-attribute {color: #00c;}
+.cm-s-default .cm-header {color: blue;}
+.cm-s-default .cm-quote {color: #090;}
+.cm-s-default .cm-hr {color: #999;}
+.cm-s-default .cm-link {color: #00c;}
+
+.cm-negative {color: #d44;}
+.cm-positive {color: #292;}
+.cm-header, .cm-strong {font-weight: bold;}
+.cm-em {font-style: italic;}
+.cm-link {text-decoration: underline;}
+
+.cm-s-default .cm-error {color: #f00;}
+.cm-invalidchar {color: #f00;}
+
+/* Default styles for common addons */
+
+div.CodeMirror span.CodeMirror-matchingbracket {color: #0f0;}
+div.CodeMirror span.CodeMirror-nonmatchingbracket {color: #f22;}
+.CodeMirror-matchingtag { background: rgba(255, 150, 0, .3); }
+.CodeMirror-activeline-background {background: #e8f2ff;}
+
+/* STOP */
+
+/* The rest of this file contains styles related to the mechanics of
+   the editor. You probably shouldn't touch them. */
+
+
+
+.CodeMirror-scroll {
+  /* 30px is the magic margin used to hide the element's real scrollbars */
+  /* See overflow: hidden in .CodeMirror */
+  margin-bottom: -30px; margin-right: -30px;
+  padding-bottom: 30px;
+  outline: none; /* Prevent dragging from highlighting the element */
+  position: absolute;
+}
+.CodeMirror-sizer {
+  position: absolute;
+  border-right: 30px solid transparent;
+}
+
+/* The fake, visible scrollbars. Used to force redraw during scrolling
+   before actuall scrolling happens, thus preventing shaking and
+   flickering artifacts. */
+.CodeMirror-vscrollbar, .CodeMirror-hscrollbar, .CodeMirror-scrollbar-filler, .CodeMirror-gutter-filler {
+  position: absolute;
+  z-index: 6;
+  display: none;
+}
+.CodeMirror-vscrollbar {
+  right: 0; top: 0;
+
+}
+.CodeMirror-hscrollbar {
+  bottom: 0; left: 0;
+
+}
+.CodeMirror-scrollbar-filler {
+  right: 0; bottom: 0;
+}
+.CodeMirror-gutter-filler {
+  left: 0; bottom: 0;
+}
+
+.CodeMirror-gutters {
+  position: absolute; left: 0; top: 0;
+  padding-bottom: 30px;
+  z-index: 3;
+}
+.CodeMirror-gutter {
+  white-space: normal;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  padding-bottom: 30px;
+  margin-bottom: -32px;
+  display: inline-block;
+  /* Hack to make IE7 behave */
+  *zoom:1;
+  *display:inline;
+}
+.CodeMirror-gutter-elt {
+  position: absolute;
+  cursor: default;
+  z-index: 4;
+}
+
+.CodeMirror-lines {
+  cursor: text;
+}
+.CodeMirror pre {
+  /* Reset some styles that the rest of the page might have set */
+  -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;
+  border-width: 0;
+  background: transparent;
+  font-family: inherit;
+  font-size: inherit;
+  margin: 0;
+  word-wrap: normal;
+  line-height: inherit;
+  color: inherit;
+  z-index: 2;
+  position: absolute;
+  }
+.CodeMirror-wrap pre {
+  white-space: pre-wrap;
+  word-break: normal;
+}
+
+.CodeMirror-linebackground {
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  z-index: 0;
+}
+
+.CodeMirror-linewidget {
+  position: absolute;
+  z-index: 2;
+}
+
+.CodeMirror-widget {}
+
+.CodeMirror-wrap .CodeMirror-scroll {
+  overflow-x: hidden;
+}
+
+.CodeMirror-measure {
+  position: absolute;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+.CodeMirror-measure pre { position: static; }
+
+.CodeMirror div.CodeMirror-cursor {
+  position: absolute;
+  border-right: none;
+  width: 0;
+}
+
+div.CodeMirror-cursors {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+}
+.CodeMirror-focused div.CodeMirror-cursors {
+  visibility: visible;
+}
+
+.CodeMirror-selected { background: #d9d9d9; }
+.CodeMirror-focused .CodeMirror-selected { background: #d7d4f0; }
+.CodeMirror-crosshair { cursor: crosshair; }
+
+.cm-searching {
+  background: #ffa;
+  background: rgba(255, 255, 0, .4);
+}
+
+/* IE7 hack to prevent it from returning funny offsetTops on the spans */
+.CodeMirror span { *vertical-align: text-bottom; }
+
+/* Used to force a border model for a node */
+.cm-force-border { padding-right: .1px; }
+
+@media print {
+  /* Hide the cursor when printing */
+  .CodeMirror div.CodeMirror-cursors {
+    visibility: hidden;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/filesMode\/filesMode\.less}line{font-family:\000034}}
+mtk-files-mode {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/filesMode\/filesMode\.less}line{font-family:\000038}}
+mtk-files-mode > ol {
+  list-style: none;
+  padding: 0 0 0.5em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/filesMode\/filesMode\.less}line{font-family:\0000313}}
+mtk-files-mode > ol > li {
+  margin-bottom: 0.5em;
+  border: 1px solid #000000;
+  background: #cccccc;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/filesMode\/filesMode\.less}line{font-family:\0000320}}
+mtk-files-mode .CodeMirror {
+  height: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/redPillMaster\/redPillMaster\.less}line{font-family:\000034}}
+mtk-red-pill-master {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/redPillMaster\/redPillMaster\.less}line{font-family:\000038}}
+mtk-red-pill-master .controls {
+  width: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\000039}}
+html {
+  font-family: monospace;
+  background-color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000314}}
+body {
+  margin: 0;
+  padding: 0 3em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000319}}
+red-pill label {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000323}}
+red-pill label select {
+  vertical-align: top;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000327}}
+red-pill {
+  display: block;
+  color: black;
+  border: 0px solid #000000;
+  padding: 0.5em;
+  background: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000336}}
+mtk-red-pill-glyphs {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000341}}
+mtk-red-pill-glyphs label {
+  display: inline;
+  vertical-align: bottom;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000346}}
+mtk-red-pill-glyphs > label > * {
+  vertical-align: middle;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000350}}
+mtk-red-pill-glyph {
+  display: block;
+  border: 0px solid #000000;
+  margin-left: 0.5em;
+  margin-bottom: 0.5em;
+
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000358}}
+mtk-red-pill-glyphs ol {
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000363}}
+mtk-red-pill-glyphs li {
+  display: inline-block;
+  vertical-align: top;
+  min-width: 25em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000369}}
+red-pill .children {
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000372}}
+red-pill .children .masters {
+
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/http\:\/\/localhost\:52323\/lib\/ui\/redPill\/app\.less}line{font-family:\0000376}}
+red-pill .children mtk-red-pill-glyphs,
+red-pill .children .masters {
+  vertical-align: top;
+}
+</style>
+    
+    </head>
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/metapolator/sean">View on GitHub</a>
+    <red-pill>
 
-          <h1 id="project_title">Sean</h1>
-          <h2 id="project_tagline">Sean is the first typeface family being produced with Metapolator</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/metapolator/sean/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/metapolator/sean/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Sean maintained by <a href="https://github.com/metapolator">metapolator</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+<div class="children">
+    <div class="masters">
 
     
+    
+        <!-- ngRepeat: name in [currentMaster] track by name --><mtk-red-pill-master class="ng-scope ng-isolate-scope" ng-repeat="name in [currentMaster] track by name" mtk-master-name="name">
 
-  </body>
-</html>
+<!--
+<label>edit Mode:
+    <select ng-model="data.mode" 
+            ng-options="name for name in modes"
+            ></select>
+</label>
+-->
+
+<div class="controls" ng-switch="" on="data.mode">
+      <!-- ngSwitchWhen: rules -->
+      <!-- ngSwitchWhen: files --><mtk-files-mode class="ng-scope ng-isolate-scope" ng-switch-when="files">
+
+<ol>
+    <!-- ngRepeat: source in data.files track by source -->
+</ol>
+</mtk-files-mode>
+      <!-- ngSwitchDefault:  -->
+</div>
+</mtk-red-pill-master><!-- end ngRepeat: name in [currentMaster] track by name --></div><!--
+    no whitespace in here!
+    --><mtk-red-pill-glyphs class="ng-isolate-scope">
+
+
+<ol>
+    <!-- ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Thin-Compressed:i(0) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M80.45,269 C80.45,404.276 100.788,519 217.55,519 C337.203,519 359.85,402.92 359.85,265 C359.85,128.908 338.771,14 220.65,14 C101.217,14 80.45,130.871 80.45,269 C110,269 87,268 57.45,268 C57.45,118.048 88.5727,-6 219.65,-6 C350.395,-6 382.85,116.156 382.85,266 C382.85,415.73 349.908,539 218.55,539 C89.2049,539 57.45,417.036 57.45,268 C87,268 110,269 80.45,269 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Extra-Light-Compressed:i(1) glyph#o:i(3)
+            <svg viewBox="-100 35 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M83.785,261.09 C83.785,390.849 105.219,500.23 217.405,500.23 C332.626,500.23 356.515,389.426 356.515,256.89 C356.515,126.331 334.321,16.78 220.795,16.78 C105.825,16.78 83.785,128.361 83.785,261.09 C110,269 87,268 54.115,259.8 C54.115,111.77 89.3915,-9.02 219.505,-9.02 C349.523,-9.02 386.185,110.046 386.185,258.18 C386.185,406.005 349.146,526.03 218.695,526.03 C90.0905,526.03 54.115,407.139 54.115,259.8 C87,268 110,269 83.785,261.09 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Light-Compressed:i(2) glyph#o:i(3)
+            <svg viewBox="-100 35 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M87.925,253.215 C87.925,376.996 110.027,480.76 217.225,480.76 C327.64,480.76 352.375,375.478 352.375,248.745 C352.375,124.18 329.49,20.26 220.975,20.26 C110.839,20.26 87.925,126.305 87.925,253.215 C110,269 87,268 49.975,251.565 C49.975,105.031 89.6461,-12.74 219.325,-12.74 C349.19,-12.74 390.325,103.499 390.325,250.395 C390.325,396.743 348.948,513.76 218.875,513.76 C90.44,513.76 49.975,397.678 49.975,251.565 C87,268 110,269 87.925,253.215 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Regular-Compressed:i(3) glyph#o:i(3)
+            <svg viewBox="-100 35 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M93.445,245.4 C93.445,362.412 115.51,460.09 216.985,460.09 C321.921,460.09 346.855,360.753 346.855,240.54 C346.855,122.76 323.978,24.94 221.215,24.94 C116.579,24.94 93.445,125.027 93.445,245.4 C110,269 87,268 44.455,243.27 C44.455,97.5002 88.9917,-17.66 219.085,-17.66 C349.723,-17.66 395.845,96.2018 395.845,242.67 C395.845,388.273 349.662,502.69 219.115,502.69 C89.929,502.69 44.455,388.965 44.455,243.27 C87,268 110,269 93.445,245.4 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Medium-Compressed:i(4) glyph#o:i(3)
+            <svg viewBox="-100 35 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M100.46,237.65 C100.46,347.037 121.735,438.12 216.68,438.12 C315.396,438.12 339.84,345.184 339.84,232.27 C339.84,122.131 317.715,30.92 221.52,30.92 C123.119,30.92 100.46,124.592 100.46,237.65 C110,269 87,268 37.44,234.91 C37.44,89.1049 87.3364,-23.88 218.78,-23.88 C351.209,-23.88 402.86,88.0841 402.86,235.01 C402.86,380.67 351.378,492.92 219.42,492.92 C88.4688,492.92 37.44,381.072 37.44,234.91 C87,268 110,269 100.46,237.65 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Semi-Bold-Compressed:i(5) glyph#o:i(3)
+            <svg viewBox="-100 40 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M109.43,232.67 C109.43,334.514 128.04,419.74 216.29,419.74 C308.691,419.74 330.87,332.384 330.87,226.57 C330.87,123.986 311.36,38.64 221.91,38.64 C129.812,38.64 109.43,126.724 109.43,232.67 C110,269 87,268 28.47,229.15 C28.47,81.0569 83.6447,-31.76 218.39,-31.76 C354.652,-31.76 411.83,80.3521 411.83,230.09 C411.83,378.055 355.118,490.14 219.81,490.14 C85.0588,490.14 28.47,378.128 28.47,229.15 C87,268 110,269 109.43,232.67 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Bold-Compressed:i(6) glyph#o:i(3)
+            <svg viewBox="-100 15 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M121.045,225.12 C121.045,316.704 136.563,393.77 215.785,393.77 C299.646,393.77 319.255,314.222 319.255,218.1 C319.255,125.794 302.77,48.62 222.415,48.62 C138.847,48.62 121.045,128.884 121.045,225.12 C110,269 87,268 16.855,220.59 C16.855,69.9899 79.0109,-41.98 217.885,-41.98 C358.97,-41.98 423.445,69.6988 423.445,222.63 C423.445,373.128 359.814,484.37 220.315,484.37 C80.7796,484.37 16.855,372.767 16.855,220.59 C87,268 110,269 121.045,225.12 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Black-Compressed:i(7) glyph#o:i(3)
+            <svg viewBox="-100 65 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M155.2,213.18 C155.2,279.176 157.659,337.62 214.3,337.62 C276.704,337.62 285.1,275.609 285.1,203.34 C285.1,136.65 281.409,78.12 223.9,78.12 C161.637,78.12 155.2,140.83 155.2,213.18 C110,269 87,268 -17.3,205.68 C-17.3,42.9589 62.0565,-71.88 216.4,-71.88 C374.921,-71.88 457.6,43.8018 457.6,210.84 C457.6,373.508 376.88,487.62 221.8,487.62 C64.9362,487.62 -17.3,371.965 -17.3,205.68 C87,268 110,269 155.2,213.18 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Thin-Condensed:i(8) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M96.21,269 C96.21,409.287 142.141,519 267.39,519 C396.118,519 444.73,408.096 444.73,265 C444.73,123.813 397.911,14 270.97,14 C142.885,14 96.21,125.784 96.21,269 C110,269 87,268 73.21,268 C73.21,112.894 129.32,-6 269.97,-6 C410.485,-6 467.73,110.957 467.73,266 C467.73,420.982 409.709,539 268.39,539 C129.587,539 73.21,422.145 73.21,268 C87,268 110,269 96.21,269 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Extra-Light-Condensed:i(9) glyph#o:i(3)
+            <svg viewBox="-100 30 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M98.56,261.09 C98.56,395.559 143.778,500.23 264.13,500.23 C388.088,500.23 436.09,394.296 436.09,256.89 C436.09,121.54 389.981,16.78 267.97,16.78 C144.664,16.78 98.56,123.578 98.56,261.09 C110,269 87,268 68.89,259.8 C68.89,106.887 127.167,-9.02 266.68,-9.02 C406.28,-9.02 465.76,105.116 465.76,258.18 C465.76,410.986 405.629,526.03 265.42,526.03 C127.527,526.03 68.89,411.981 68.89,259.8 C87,268 110,269 98.56,261.09 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Light-Condensed:i(10) glyph#o:i(3)
+            <svg viewBox="-100 30 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M102.7,253.215 C102.7,381.731 148.304,480.76 263.95,480.76 C383.409,480.76 431.95,380.38 431.95,248.745 C431.95,119.361 385.44,20.26 268.15,20.26 C149.377,20.26 102.7,121.496 102.7,253.215 C110,269 87,268 64.75,251.565 C64.75,100.067 126.914,-12.74 266.5,-12.74 C406.45,-12.74 469.9,98.4811 469.9,250.395 C469.9,401.812 405.934,513.76 265.6,513.76 C127.374,513.76 64.75,402.603 64.75,251.565 C87,268 110,269 102.7,253.215 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Regular-Condensed:i(11) glyph#o:i(3)
+            <svg viewBox="-100 30 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M107.235,245.4 C107.235,366.843 151.103,460.09 260.595,460.09 C374.135,460.09 421.125,365.345 421.125,240.54 C421.125,118.248 376.339,24.94 265.245,24.94 C152.394,24.94 107.235,120.525 107.235,245.4 C110,269 87,268 58.245,243.27 C58.245,92.7855 123.356,-17.66 263.115,-17.66 C403.581,-17.66 470.115,91.4301 470.115,242.67 C470.115,393.093 403.262,502.69 262.725,502.69 C123.985,502.69 58.245,393.647 58.245,243.27 C87,268 110,269 107.235,245.4 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Medium-Condensed:i(12) glyph#o:i(3)
+            <svg viewBox="-100 40 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M113.265,224.225 C113.265,331.832 158.313,411.67 257.175,411.67 C360.429,411.67 408.805,330.24 408.805,218.995 C408.805,110.572 362.833,30.72 262.405,30.72 C159.923,30.72 113.265,112.968 113.265,224.225 C110,269 87,268 50.245,221.485 C50.245,77.0603 122.122,-24.08 259.665,-24.08 C398.415,-24.08 471.825,76.0709 471.825,221.735 C471.825,366.168 398.327,466.47 259.915,466.47 C122.899,466.47 50.245,366.308 50.245,221.485 C87,268 110,269 113.265,224.225 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Semi-Bold-Condensed:i(13) glyph#o:i(3)
+            <svg viewBox="-100 40 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M122.235,221.93 C122.235,323.168 163.979,398.58 256.785,398.58 C354.421,398.58 399.835,321.285 399.835,215.95 C399.835,113.905 357.13,38.48 262.795,38.48 C165.921,38.48 122.235,116.588 122.235,221.93 C110,269 87,268 41.275,218.41 C41.275,70.3888 117.357,-31.92 259.275,-31.92 C402.907,-31.92 480.795,69.6906 480.795,219.47 C480.795,367.512 403.117,468.98 260.305,468.98 C118.437,468.98 41.275,367.346 41.275,218.41 C87,268 110,269 122.235,221.93 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Bold-Condensed:i(14) glyph#o:i(3)
+            <svg viewBox="-100 10 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M132.865,222.435 C132.865,316.622 167.95,388.48 253.165,388.48 C343.706,388.48 382.915,314.316 382.915,215.445 C382.915,120.467 346.818,48.58 260.155,48.58 C170.306,48.58 132.865,123.541 132.865,222.435 C110,269 87,268 28.675,217.905 C28.675,64.1046 108.041,-42.02 255.625,-42.02 C405.552,-42.02 487.105,63.7662 487.105,219.975 C487.105,373.79 406.169,479.08 257.695,479.08 C109.548,479.08 28.675,373.273 28.675,217.905 C87,268 110,269 132.865,222.435 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Black-Condensed:i(15) glyph#o:i(3)
+            <svg viewBox="-100 60 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M166.035,213.18 C166.035,282.607 186.995,337.62 248.565,337.62 C316.967,337.62 343.455,279.163 343.455,203.34 C343.455,133.165 321.311,78.12 258.495,78.12 C190.685,78.12 166.035,137.341 166.035,213.18 C110,269 87,268 -6.465,205.68 C-6.465,38.6807 87.5059,-71.88 250.995,-71.88 C418.745,-71.88 515.955,39.4586 515.955,210.84 C515.955,377.892 420.505,487.62 256.065,487.62 C90.1789,487.62 -6.465,376.222 -6.465,205.68 C87,268 110,269 166.035,213.18 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Thin-Narrow:i(16) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M115.91,269 C115.91,416.177 190.03,519 329.69,519 C473.571,519 550.83,415.273 550.83,265 C550.83,116.772 475.662,14 333.87,14 C191.135,14 115.91,118.791 115.91,269 C110,269 87,268 92.91,268 C92.91,105.743 177.019,-6 332.87,-6 C488.77,-6 573.83,103.71 573.83,266 C573.83,428.321 487.678,539 330.69,539 C176.915,539 92.91,429.239 92.91,268 C87,268 110,269 115.91,269 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Extra-Light-Narrow:i(17) glyph#o:i(3)
+            <svg viewBox="-100 30 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M117.275,261.09 C117.275,402.145 189.142,500.23 323.315,500.23 C461.81,500.23 536.885,401.161 536.885,256.89 C536.885,114.807 463.978,16.78 327.725,16.78 C190.362,16.78 117.275,116.893 117.275,261.09 C110,269 87,268 87.605,259.8 C87.605,99.9991 172.221,-9.02 326.435,-9.02 C480.907,-9.02 566.555,98.1325 566.555,258.18 C566.555,418.057 479.954,526.03 324.605,526.03 C172.231,526.03 87.605,418.816 87.605,259.8 C87,268 110,269 117.275,261.09 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Light-Narrow:i(18) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M120.43,253.215 C120.43,388.058 191.012,480.76 320.02,480.76 C453.53,480.76 527.44,386.985 527.44,248.745 C527.44,112.888 455.816,20.26 324.76,20.26 C192.392,20.26 120.43,115.07 120.43,253.215 C110,269 87,268 82.48,251.565 C82.48,93.3863 169.221,-12.74 323.11,-12.74 C477.517,-12.74 565.39,91.7041 565.39,250.395 C565.39,408.675 476.714,513.76 321.67,513.76 C169.357,513.76 82.48,409.233 82.48,251.565 C87,268 110,269 120.43,253.215 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Regular-Narrow:i(19) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M123.98,245.4 C123.98,372.85 191.35,460.09 313.55,460.09 C440.464,460.09 511.31,371.624 511.31,240.54 C511.31,112.1 442.898,24.94 318.71,24.94 C192.921,24.94 123.98,114.421 123.98,245.4 C110,269 87,268 74.99,243.27 C74.99,86.3599 163.063,-17.66 316.58,-17.66 C470.943,-17.66 560.3,84.91 560.3,242.67 C560.3,399.695 470.35,502.69 315.68,502.69 C163.389,502.69 74.99,400.025 74.99,243.27 C87,268 110,269 123.98,245.4 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Medium-Narrow:i(20) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M130.01,237.65 C130.01,357.221 194.827,438.12 310.13,438.12 C430.474,438.12 498.99,355.809 498.99,232.27 C498.99,111.724 433.119,30.92 315.87,30.92 C196.656,30.92 130.01,114.238 130.01,237.65 C110,269 87,268 66.99,234.91 C66.99,78.0443 158.256,-23.88 313.13,-23.88 C469.265,-23.88 562.01,76.8657 562.01,235.01 C562.01,392.017 468.918,492.92 312.87,492.92 C158.81,492.92 66.99,392.057 66.99,234.91 C87,268 110,269 130.01,237.65 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Semi-Bold-Narrow:i(21) glyph#o:i(3)
+            <svg viewBox="-100 40 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M137.01,232.67 C137.01,343.962 196.525,419.74 303.51,419.74 C415.919,419.74 479.41,342.253 479.41,226.57 C479.41,114.33 418.826,38.64 309.97,38.64 C198.655,38.64 137.01,117.109 137.01,232.67 C110,269 87,268 56.05,229.15 C56.05,70.5649 149.399,-31.76 306.45,-31.76 C465.264,-31.76 560.37,69.7063 560.37,230.09 C560.37,388.819 465.244,490.14 307.03,490.14 C150.278,490.14 56.05,388.553 56.05,229.15 C87,268 110,269 137.01,232.67 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Bold-Narrow:i(22) glyph#o:i(3)
+            <svg viewBox="-100 10 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M147.64,225.12 C147.64,325.844 202.609,393.77 299.89,393.77 C403.156,393.77 462.49,323.794 462.49,218.1 C462.49,116.444 406.424,48.62 307.33,48.62 C205.156,48.62 147.64,119.569 147.64,225.12 C110,269 87,268 43.45,220.59 C43.45,59.5443 141.74,-41.98 302.8,-41.98 C466.287,-41.98 566.68,59.0977 566.68,222.63 C566.68,383.846 466.664,484.37 304.42,484.37 C143.011,484.37 43.45,383.147 43.45,220.59 C87,268 110,269 147.64,225.12 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Black-Narrow:i(23) glyph#o:i(3)
+            <svg viewBox="-100 20 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M178.84,213.18 C178.84,287.115 218.099,337.62 289.06,337.62 C367.627,337.62 412.42,283.957 412.42,203.34 C412.42,128.527 371.967,78.12 299.38,78.12 C221.839,78.12 178.84,132.714 178.84,213.18 C110,269 87,268 6.34,205.68 C6.34,33.1132 116.883,-71.88 291.88,-71.88 C471.202,-71.88 584.92,33.8161 584.92,210.84 C584.92,383.605 472.756,487.62 296.56,487.62 C119.352,487.62 6.34,381.747 6.34,205.68 C87,268 110,269 178.84,213.18 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Thin-Normal:i(24) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M139.55,269 C139.55,426.113 244.235,519 404.45,519 C569.749,519 678.15,425.669 678.15,265 C678.15,106.585 572.219,14 409.35,14 C245.735,14 139.55,108.718 139.55,269 C110,269 87,268 116.55,268 C116.55,95.5375 231.392,-6 408.35,-6 C585.502,-6 701.15,93.345 701.15,266 C701.15,438.84 584.054,539 405.45,539 C230.918,539 116.55,439.359 116.55,268 C87,268 110,269 139.55,269 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Extra-Light-Normal:i(25) glyph#o:i(3)
+            <svg viewBox="-100 30 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M139.93,261.09 C139.93,411.732 241.009,500.23 394.96,500.23 C554.063,500.23 658.9,411.196 658.9,256.89 C658.9,104.976 556.593,16.78 400.06,16.78 C242.606,16.78 139.93,107.173 139.93,261.09 C110,269 87,268 110.26,259.8 C110.26,90.1142 224.206,-9.02 398.77,-9.02 C573.727,-9.02 688.57,88.0936 688.57,258.18 C688.57,428.245 572.432,526.03 396.25,526.03 C223.863,526.03 110.26,428.618 110.26,259.8 C87,268 110,269 139.93,261.09 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Light-Normal:i(26) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M141.115,253.215 C141.115,396.913 238.243,480.76 385.435,480.76 C537.888,480.76 638.845,396.258 638.845,248.745 C638.845,103.805 540.504,20.26 390.805,20.26 C239.965,20.26 141.115,106.093 141.115,253.215 C110,269 87,268 103.165,251.565 C103.165,84.2196 216.525,-12.74 389.155,-12.74 C562.42,-12.74 676.795,82.3958 676.795,250.395 C676.795,418.122 561.304,513.76 387.085,513.76 C216.343,513.76 103.165,418.323 103.165,251.565 C87,268 110,269 141.115,253.215 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Regular-Normal:i(27) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M143.68,245.4 C143.68,381.342 236.268,460.09 375.85,460.09 C520.874,460.09 617.41,380.522 617.41,240.54 C617.41,103.386 523.62,24.94 381.61,24.94 C238.162,24.94 143.68,105.812 143.68,245.4 C110,269 87,268 94.69,243.27 C94.69,77.5194 207.999,-17.66 379.48,-17.66 C551.912,-17.66 666.4,75.9351 666.4,242.67 C666.4,408.803 551.022,502.69 377.98,502.69 C208.026,502.69 94.69,408.791 94.69,243.27 C87,268 110,269 143.68,245.4 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Medium-Normal:i(28) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M147.74,237.65 C147.74,364.957 235.148,438.12 366.2,438.12 C502.95,438.12 594.48,363.92 594.48,232.27 C594.48,103.782 505.876,30.92 372.48,30.92 C237.268,30.92 147.74,106.396 147.74,237.65 C110,269 87,268 84.72,234.91 C84.72,69.9463 198.558,-23.88 369.74,-23.88 C542.271,-23.88 657.5,68.648 657.5,235.01 C657.5,400.358 541.656,492.92 368.94,492.92 C198.847,492.92 84.72,400.085 84.72,234.91 C87,268 110,269 147.74,237.65 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Semi-Bold-Normal:i(29) glyph#o:i(3)
+            <svg viewBox="-100 35 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M154.74,232.67 C154.74,351.685 236.866,419.74 359.58,419.74 C488.385,419.74 574.9,350.36 574.9,226.57 C574.9,106.394 491.569,38.64 366.58,38.64 C239.284,38.64 154.74,109.279 154.74,232.67 C110,269 87,268 73.78,229.15 C73.78,62.4018 189.642,-31.76 363.06,-31.76 C538.324,-31.76 655.86,61.4267 655.86,230.09 C655.86,397.223 538.036,490.14 363.1,490.14 C190.258,490.14 73.78,396.643 73.78,229.15 C87,268 110,269 154.74,232.67 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Bold-Normal:i(30) glyph#o:i(3)
+            <svg viewBox="-100 10 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M163.4,225.12 C163.4,332.788 238.385,393.77 349.73,393.77 C467.66,393.77 547.37,331.093 547.37,218.1 C547.37,109.302 471.173,48.62 357.65,48.62 C241.188,48.62 163.4,112.531 163.4,225.12 C110,269 87,268 59.21,220.59 C59.21,52.1479 177.387,-41.98 353.12,-41.98 C531.345,-41.98 651.56,51.6018 651.56,222.63 C651.56,391.457 531.485,484.37 354.26,484.37 C178.429,484.37 59.21,390.474 59.21,220.59 C87,268 110,269 163.4,225.12 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Black-Normal:i(31) glyph#o:i(3)
+            <svg viewBox="-100 15 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M192.63,213.18 C192.63,293.204 249.408,337.62 332.67,337.62 C424.101,337.62 486.69,290.393 486.69,203.34 C486.69,122.237 428.643,78.12 343.41,78.12 C253.367,78.12 192.63,126.542 192.63,213.18 C110,269 87,268 20.13,205.68 C20.13,26.4505 147.924,-71.88 335.91,-71.88 C528.264,-71.88 659.19,27.0797 659.19,210.84 C659.19,390.45 529.612,487.62 340.17,487.62 C150.202,487.62 20.13,388.339 20.13,205.68 C87,268 110,269 192.63,213.18 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Thin-Wide:i(32) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M169.1,269 C169.1,441.622 309.567,519 497.9,519 C692.34,519 837.3,441.892 837.3,265 C837.3,90.6783 695.308,14 503.7,14 C311.522,14 169.1,93.0115 169.1,269 C110,269 87,268 146.1,268 C146.1,79.872 297.127,-6 502.7,-6 C708.574,-6 860.3,77.4377 860.3,266 C860.3,454.999 706.678,539 498.9,539 C296.244,539 146.1,454.883 146.1,268 C87,268 110,269 169.1,269 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Extra-Light-Wide:i(33) glyph#o:i(3)
+            <svg viewBox="-100 30 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M167.51,261.09 C167.51,426.255 301.959,500.23 482.18,500.23 C668.507,500.23 807.44,426.386 807.44,256.89 C807.44,90.0787 671.502,16.78 488.12,16.78 C303.982,16.78 167.51,92.4693 167.51,261.09 C110,269 87,268 137.84,259.8 C137.84,75.4601 285.537,-9.02 486.83,-9.02 C688.613,-9.02 837.11,73.2182 837.11,258.18 C837.11,443.358 686.901,526.03 483.47,526.03 C284.814,526.03 137.84,443.136 137.84,259.8 C87,268 110,269 167.51,261.09 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Light-Wide:i(34) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M166.725,253.215 C166.725,410.449 294.812,480.76 466.425,480.76 C644.183,480.76 776.775,410.416 776.775,248.745 C776.775,89.9171 647.233,20.26 472.575,20.26 C296.932,20.26 166.725,92.3934 166.725,253.215 C110,269 87,268 128.775,251.565 C128.775,70.5813 273.455,-12.74 470.925,-12.74 C669.117,-12.74 814.725,68.5574 814.725,250.395 C814.725,432.184 667.615,513.76 468.075,513.76 C272.922,513.76 128.775,431.831 128.775,251.565 C87,268 110,269 166.725,253.215 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Regular-Wide:i(35) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M168.305,245.4 C168.305,394.471 290.61,460.09 453.725,460.09 C623.13,460.09 750.035,394.251 750.035,240.54 C750.035,89.9127 626.297,24.94 460.235,24.94 C292.888,24.94 168.305,92.5318 168.305,245.4 C110,269 87,268 119.315,243.27 C119.315,64.3291 262.7,-17.66 458.105,-17.66 C654.54,-17.66 799.025,62.5593 799.025,242.67 C799.025,422.399 653.279,502.69 455.855,502.69 C262.393,502.69 119.315,421.85 119.315,243.27 C87,268 110,269 168.305,245.4 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Medium-Wide:i(36) glyph#o:i(3)
+            <svg viewBox="-100 0 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M170.395,237.65 C170.395,377.103 285.111,438.12 437.845,438.12 C597.057,438.12 716.495,376.619 716.495,232.27 C716.495,91.3125 600.372,30.92 444.815,30.92 C287.586,30.92 170.395,94.1196 170.395,237.65 C110,269 87,268 107.375,234.91 C107.375,57.7851 248.865,-23.88 442.075,-23.88 C636.701,-23.88 779.515,56.3245 779.515,235.01 C779.515,412.888 635.747,492.92 440.585,492.92 C248.85,492.92 107.375,412.119 107.375,234.91 C87,268 110,269 170.395,237.65 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Semi-Bold-Wide:i(37) glyph#o:i(3)
+            <svg viewBox="-100 15 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M175.425,232.67 C175.425,362.8 282.472,419.74 424.995,419.74 C574.32,419.74 686.305,361.979 686.305,226.57 C686.305,94.9776 577.863,38.64 432.625,38.64 C285.219,38.64 175.425,98.0556 175.425,232.67 C110,269 87,268 94.465,229.15 C94.465,51.3139 235.578,-31.76 429.105,-31.76 C624.536,-31.76 767.265,50.2001 767.265,230.09 C767.265,408.641 623.94,490.14 428.515,490.14 C235.918,490.14 94.465,407.61 94.465,229.15 C87,268 110,269 175.425,232.67 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Bold-Wide:i(38) glyph#o:i(3)
+            <svg viewBox="-100 30 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M183.1,225.12 C183.1,343.523 281.758,393.77 412.03,393.77 C549.559,393.77 653.47,342.306 653.47,218.1 C653.47,98.2683 553.419,48.62 420.55,48.62 C284.881,48.62 183.1,101.712 183.1,225.12 C110,269 87,268 78.91,220.59 C78.91,41.5328 221.107,-41.98 416.02,-41.98 C613.473,-41.98 757.66,40.8664 757.66,222.63 C757.66,402.381 613.322,484.37 416.56,484.37 C221.892,484.37 78.91,400.965 78.91,220.59 C87,268 110,269 183.1,225.12 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><li class="ng-scope" style="width:4%" ng-repeat="glyph in selectGlyphs(selector) track by glyph.nodeID">
+        <mtk-red-pill-glyph class="ng-binding ng-isolate-scope" mtk-glyph-element="glyph">
+             master#Black-Wide:i(39) glyph#o:i(3)
+            <svg viewBox="-100 40 1000 1000" width="100%"><g transform="matrix(1, 0, 0, -1, 0, 800)"><path d="M209.375,213.18 C209.375,302.629 286.168,337.62 385.625,337.62 C493.811,337.62 576.875,300.202 576.875,203.34 C576.875,112.524 498.666,78.12 396.875,78.12 C290.42,78.12 209.375,117.119 209.375,213.18 C110,269 87,268 36.875,205.68 C36.875,17.4096 185.073,-71.88 389.375,-71.88 C598.075,-71.88 749.375,17.9623 749.375,210.84 C749.375,399.739 599.181,487.62 393.125,487.62 C187.139,487.62 36.875,397.257 36.875,205.68 C87,268 110,269 209.375,213.18 z"></path></g></svg></mtk-red-pill-glyph>
+
+    </li><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID --><!-- end ngRepeat: glyph in selectGlyphs(selector) track by glyph.nodeID -->
+</ol>
+</mtk-red-pill-glyphs>
+</div>
+</red-pill>
+  
+
+</body></html>
