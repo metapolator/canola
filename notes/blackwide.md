@@ -141,6 +141,7 @@ The inner curves I can fix with *inTension* and *outTension*
 
 So far so good for the s, now lets have a look what happened to the other glyphs:
 
+![image](base5.png)
 
 
 
@@ -155,9 +156,6 @@ So far so good for the s, now lets have a look what happened to the other glyphs
 
 
 
-
-
-There's still a lot of finetuning, but for me working with parameters is..blabla
 
 
 
