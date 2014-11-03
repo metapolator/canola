@@ -144,6 +144,8 @@ So far so good for the s, now lets have a look what happened to the other glyphs
 ![image](base5.png)
 
 
+What happened to those open corners? Read on [Strokes vs Knots]()
+
 
 
 
