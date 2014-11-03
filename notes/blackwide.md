@@ -96,7 +96,7 @@ and try `weightFactor 6`!
 
 ![image](base4.png)  
 
-Now we need to compensate a few things. As we can see on this s, I set the original strokes exactly inbetween baseline and glyph height. So I need to scale the verticals back to the glyph heights as the stroke "grows" from its center:
+Now we need to compensate a few things. As we can see on this s, I set the original strokes exactly in between baseline and glyph height. So I need to scale the verticals back to the glyph heights as the stroke "grows" from its center:
   
 
 ![image](sbase.png)
