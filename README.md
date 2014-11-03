@@ -32,8 +32,7 @@ And we should get a copy of the original.
 
 
 ######[Setting up Black Wide](https://github.com/metapolator/sean/blob/master/notes/blackwide.md)
-
-coming next: Strokes vs Knots
+######[Joints and Knots](https://github.com/metapolator/sean/blob/master/notes/knots.md)
 
 
 ![alt tag](https://raw.githubusercontent.com/metapolator/sean/325e84da9f1dc7b098bcbaa05c8edc651013f73e/sean.png)
