@@ -41,3 +41,5 @@ And we should get a copy of the original.
 ## License
 © 2014 Simon Egli. *Sean Sans* is designed and developed by Simon Egli. 
 *Sean Sans* is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
+
+
