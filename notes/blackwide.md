@@ -144,7 +144,7 @@ So far so good for the s. Once I added the compensation to the other glyphs we g
 ![image](base5.png)
 
 
-What happened to those open corners? Read on [Strokes vs Knots]()
+What happened to those open corners? Read on [Strokes vs Knots](https://github.com/metapolator/sean/blob/master/notes/knots.md)
 
 [back home](https://github.com/metapolator/sean)
 
