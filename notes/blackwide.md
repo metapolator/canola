@@ -139,7 +139,7 @@ The inner curves I can fix with *inTension* and *outTension*
 
 ![image](sblack.png)
 
-So far so good for the s, now lets have a look what happened to the other glyphs:
+So far so good for the s. Once I added the compensation to the other glyphs we get:
 
 ![image](base5.png)
 

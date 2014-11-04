@@ -1,6 +1,6 @@
 ## Joints vs knots
 
-One characteristic of a pen-stroke is its expansion  parallel to its skeleton line. This means a stroke always grows from the center to left and right. In some cases we can recalculate and compensate the joints or we can pin them to another location. The problem with pinning the center to somewhere else is the deformation of the skeleton itself. So far with RedPill, pining a left point to another left point is not so trivial as we can not use recursion and we cannot store coordinates. 
+One characteristic of a pen-stroke is its expansion  parallel to its skeleton line. This means a stroke always grows from the center to left and right. In some cases we can recalculate and compensate the joints or we can pin them to another location. The problem with pinning the center to somewhere else is the deformation of the skeleton itself. So far with RedPill, pining a left point to another left point is not so trivial as we can not use recursion (referring to the origin) and we cannot store coordinates. 
 
 ![image](joint-e.png) 
 
@@ -10,7 +10,7 @@ I'm using a third point, or *corner point* as I need the `pointBefore` and `poin
 
 ![image](knot.png) 
 
-And the original base with knot and bold with knot:
+And the knot in base and bold:
 
 ![image](knot-e.png) 
   
