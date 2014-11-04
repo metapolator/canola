@@ -31,9 +31,10 @@ And we should get a copy of the original.
 
 
 
-######[Setting up Black Wide](https://github.com/metapolator/sean/blob/master/notes/blackwide.md)
-######[Setting up Thin Wide](https://github.com/metapolator/sean/blob/master/notes/thinwide.md)
+######[Setting up *Black Wide*](https://github.com/metapolator/sean/blob/master/notes/blackwide.md)
+######[Setting up *Thin Wide*](https://github.com/metapolator/sean/blob/master/notes/thinwide.md)
 ######[Interpolating *Thin Wide* and *Black Wide*](https://github.com/metapolator/sean/blob/master/notes/interpolating.md)
+######[Setting up *Thin Compressed* and *Black Compressed*](https://github.com/metapolator/sean/blob/master/notes/thincompressed.md.md)
 ######[Joints and Knots](https://github.com/metapolator/sean/blob/master/notes/knots.md)
 
 
