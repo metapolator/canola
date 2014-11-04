@@ -37,3 +37,5 @@ And I'm curious how 50% interpolation of *Thin Wide* and *Black Compressed* look
 ![image](inter_th_wi_bl_cp.png)
 
 So I guess its time for a family overview...
+
+[back home](https://github.com/metapolator/sean)
