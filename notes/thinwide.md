@@ -7,4 +7,4 @@ Lets start with duplicating *blackwide.cps* into *thinwide.cps* and add it to *p
 ![image](thinwide.png)
 
 
-[Back to home](https://github.com/metapolator/sean)
+[back home](https://github.com/metapolator/sean)
