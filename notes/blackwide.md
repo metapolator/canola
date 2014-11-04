@@ -146,6 +146,7 @@ So far so good for the s. Once I added the compensation to the other glyphs we g
 
 What happened to those open corners? Read on [Strokes vs Knots]()
 
+[back home](https://github.com/metapolator/sean)
 
 
 
