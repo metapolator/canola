@@ -33,6 +33,7 @@ And we should get a copy of the original.
 
 ######[Setting up Black Wide](https://github.com/metapolator/sean/blob/master/notes/blackwide.md)
 ######[Setting up Thin Wide](https://github.com/metapolator/sean/blob/master/notes/thinwide.md)
+######[Interpolating *Thin Wide* and *Black Wide*](https://github.com/metapolator/sean/blob/master/notes/interpolating.md)
 ######[Joints and Knots](https://github.com/metapolator/sean/blob/master/notes/knots.md)
 
 
