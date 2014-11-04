@@ -41,3 +41,6 @@ The code to achieve this is rather short (and I'm certain there's a even shorter
 	}
 	
 By repositioning the `in` and `out` points I simply clean up the redundant control points.
+
+
+[back home](https://github.com/metapolator/sean)
