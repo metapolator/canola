@@ -77,4 +77,4 @@ A quite extensive `project.yaml` file and and a shell script to export all 45 in
 
 ![image](designspace.png)
 
-This gives me a good starting point and I get a feeling where my masters are set. If I change any glyph or add new glyphs in the base.ufo, the entire design space gets updated. Now I want to increase the weight on the *Black*. To do this I need to [increase contrast](settingcontrast.md) on some letters.  
+This gives me a good starting point and I get a feeling where my masters are set. If I change any glyph or add new glyphs in the base.ufo, the entire design space gets updated. Now I want to increase the weight on the *Black*. To do this I need to [increase contrast](https://github.com/metapolator/sean/blob/master/notes/contrast.md) on some letters.  
