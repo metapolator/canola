@@ -2,7 +2,7 @@
 
 *four cps master but only one base.ufo!
 
-For each instance I want to export I set the proportions. For example, this is `normalbols.cps`:
+For each instance I want to export I set the proportions. For example, this is `normalbold.cps`:
 	
 	@dictionary {
 	    * {
