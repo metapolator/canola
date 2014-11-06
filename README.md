@@ -37,6 +37,7 @@ And we should get a copy of the original.
 ######[Setting up *Thin Compressed* and *Black Compressed*](https://github.com/metapolator/sean/blob/master/notes/thincompressed.md)
 ######[Joints and Knots](https://github.com/metapolator/sean/blob/master/notes/knots.md)
 ######[Creating a four-master design space](https://github.com/metapolator/sean/blob/master/notes/stepping.md)
+######[Adding contrast](https://github.com/metapolator/sean/blob/master/notes/contrast.md)
 
 ![alt tag](https://raw.githubusercontent.com/metapolator/sean/325e84da9f1dc7b098bcbaa05c8edc651013f73e/sean.png)
 
