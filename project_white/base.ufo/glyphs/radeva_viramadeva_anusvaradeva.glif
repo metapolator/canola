@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva_viramadeva_anusvaradeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="320" y="1155" type="line"/>
+      <point x="229" y="1253"/>
+      <point x="194" y="1342"/>
+      <point x="194" y="1418" type="curve" smooth="yes"/>
+      <point x="194" y="1515"/>
+      <point x="253" y="1564"/>
+      <point x="330" y="1564" type="curve" smooth="yes"/>
+      <point x="388" y="1564"/>
+      <point x="455" y="1539"/>
+      <point x="515" y="1489" type="curve"/>
+      <point x="484" y="1623" type="line"/>
+      <point x="411" y="1687"/>
+      <point x="342" y="1696"/>
+      <point x="291" y="1697" type="curve" smooth="yes"/>
+      <point x="126" y="1701"/>
+      <point x="43" y="1593"/>
+      <point x="43" y="1472" type="curve" smooth="yes"/>
+      <point x="43" y="1329"/>
+      <point x="158" y="1204"/>
+      <point x="286" y="1124" type="curve"/>
+    </contour>
+    <contour>
+      <point x="403" y="1277"/>
+      <point x="489" y="1353"/>
+      <point x="489" y="1390" type="curve" smooth="yes"/>
+      <point x="489" y="1426"/>
+      <point x="410" y="1503"/>
+      <point x="376" y="1503" type="curve" smooth="yes"/>
+      <point x="348" y="1503"/>
+      <point x="264" y="1426"/>
+      <point x="264" y="1390" type="curve" smooth="yes"/>
+      <point x="264" y="1353"/>
+      <point x="350" y="1277"/>
+      <point x="376" y="1277" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>radeva_viramadeva_anusvaradeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

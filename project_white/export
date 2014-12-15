@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+SUBSET="$(cat ./current_subset.txt)"
+
+cd project.mp;
+
+rm -r ../ufos/export.ufo;
+
+metapolator export -g "$SUBSET" blackcompressed ../ufos/export.ufo;

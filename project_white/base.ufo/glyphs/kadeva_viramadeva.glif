@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kadeva_viramadeva" format="1">
+  <advance width="749"/>
+  <outline>
+    <contour>
+      <point x="420" y="339" type="line"/>
+      <point x="390" y="254"/>
+      <point x="319" y="207"/>
+      <point x="228" y="207" type="curve" smooth="yes"/>
+      <point x="135" y="207"/>
+      <point x="68" y="274"/>
+      <point x="68" y="367" type="curve" smooth="yes"/>
+      <point x="68" y="460"/>
+      <point x="137" y="525"/>
+      <point x="232" y="525" type="curve" smooth="yes"/>
+      <point x="318" y="525"/>
+      <point x="382" y="476"/>
+      <point x="419" y="397" type="curve"/>
+      <point x="432" y="413" type="line"/>
+      <point x="397" y="498"/>
+      <point x="324" y="545"/>
+      <point x="232" y="545" type="curve" smooth="yes"/>
+      <point x="125" y="545"/>
+      <point x="47" y="472"/>
+      <point x="47" y="367" type="curve" smooth="yes"/>
+      <point x="47" y="261"/>
+      <point x="123" y="186"/>
+      <point x="229" y="186" type="curve" smooth="yes"/>
+      <point x="330" y="186"/>
+      <point x="407" y="243"/>
+      <point x="437" y="339" type="curve"/>
+    </contour>
+    <contour>
+      <point x="419" y="710" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="441" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="631" y="700" type="line"/>
+      <point x="631" y="722" type="line"/>
+      <point x="-11" y="722" type="line"/>
+      <point x="-11" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="438.0" y="386.0" type="line"/>
+      <point x="462.0" y="474.0"/>
+      <point x="530.0" y="524.0"/>
+      <point x="621.0" y="524.0" type="curve" smooth="yes"/>
+      <point x="659.0" y="524.0"/>
+      <point x="694.0" y="515.0"/>
+      <point x="722.0" y="498.0" type="curve"/>
+      <point x="735.0" y="515.0" type="line"/>
+      <point x="704.0" y="534.0"/>
+      <point x="664.0" y="545.0"/>
+      <point x="621.0" y="545.0" type="curve" smooth="yes"/>
+      <point x="520.0" y="545.0"/>
+      <point x="445.0" y="485.0"/>
+      <point x="421.0" y="386.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>kadeva_viramadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>749</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2005</real>
+        <real>1.0</real>
+        <real>0.9416</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

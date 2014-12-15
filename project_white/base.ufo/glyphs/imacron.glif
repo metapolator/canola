@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="1">
+  <advance width="590"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="63" y="1284" type="line"/>
+      <point x="34" y="1143" type="line"/>
+      <point x="193" y="1143"/>
+      <point x="352" y="1146"/>
+      <point x="509" y="1155" type="curve"/>
+      <point x="534" y="1284" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="126" type="line"/>
+      <point x="69" y="84" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="559" y="82" type="line"/>
+      <point x="394" y="126" type="line"/>
+      <point x="394" y="965" type="line"/>
+      <point x="70" y="900" type="line"/>
+      <point x="61" y="853" type="line"/>
+      <point x="215" y="776" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>imacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>590</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

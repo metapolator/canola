@@ -1,0 +1,13 @@
+#! /usr/bin/env bash
+SUBSET="$(cat ./current_subset.txt)"
+BASEUFO="base.ufo";
+
+cd project.mp;
+metapolator import -g "$SUBSET" ../$BASEUFO base;
+cd ..
+
+# find and replace Robofont labels as identifiers
+python contours.py
+
+# pretty print
+find ./project.mp \( -name "*.glif" -o -name "*.plist" \) -exec sh -c "cat {} | xmllint --format - > {}~; mv {}~ {}" \;

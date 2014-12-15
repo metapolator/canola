@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ttadeva" format="1">
+  <advance width="576"/>
+  <unicode hex="091F"/>
+  <outline>
+    <contour>
+      <point x="445" y="467" type="curve"/>
+      <point x="445" y="489" type="line"/>
+      <point x="238" y="478"/>
+      <point x="60" y="412"/>
+      <point x="60" y="227" type="curve" smooth="yes"/>
+      <point x="60" y="83"/>
+      <point x="175" y="-1"/>
+      <point x="327" y="-1" type="curve" smooth="yes"/>
+      <point x="388" y="-1"/>
+      <point x="435" y="14"/>
+      <point x="490" y="40" type="curve"/>
+      <point x="481" y="60" type="line"/>
+      <point x="429" y="33"/>
+      <point x="385" y="21"/>
+      <point x="327" y="21" type="curve" smooth="yes"/>
+      <point x="188" y="21"/>
+      <point x="82" y="96"/>
+      <point x="82" y="227" type="curve" smooth="yes"/>
+      <point x="82" y="400"/>
+      <point x="251" y="457"/>
+    </contour>
+    <contour>
+      <point x="588" y="700" type="line"/>
+      <point x="588" y="722" type="line"/>
+      <point x="-11" y="722" type="line"/>
+      <point x="-11" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="711" type="line"/>
+      <point x="423" y="467" type="line"/>
+      <point x="445" y="467" type="line"/>
+      <point x="445" y="711" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ttadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>576</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
