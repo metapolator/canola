@@ -162,7 +162,7 @@ penstroke#crb point:i(0) > center {
 
 /* switch serifs off */
 
-
+/*
 
 @namespace(penstroke#bll, penstroke#blt, penstroke#blr, penstroke#bcl, penstroke#bcr, penstroke#brl, penstroke#brr, penstroke#brt,penstroke#tlb,penstroke#tll,penstroke#tlr, penstroke#tcl, penstroke#tcr, penstroke#trl, penstroke#trr, penstroke#trb, penstroke#crt, penstroke#crb ) { point:i(1) > center {
 
@@ -170,7 +170,7 @@ penstroke#crb point:i(0) > center {
 
 }
 }
-
+*/
 
 
 
