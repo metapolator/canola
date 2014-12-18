@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="o">
+  <advance width="644"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour identifier="bow">
+      <point type="move" x="99" y="268.5"/>
+      <point x="99" y="419"/>
+      <point x="169.5" y="523"/>
+      <point name="bow" type="curve" x="311.5" y="523"/>
+      <point x="456" y="523"/>
+      <point x="530" y="418"/>
+      <point type="curve" x="530" y="265"/>
+      <point x="530" y="113.5"/>
+      <point x="457.5" y="10"/>
+      <point type="curve" x="314.5" y="10"/>
+      <point x="170.5" y="10"/>
+      <point x="99" y="115.5"/>
+      <point type="curve" x="99" y="268.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>o</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>644</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

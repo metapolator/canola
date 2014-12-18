@@ -4,40 +4,40 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="43" y="712" type="line"/>
-      <point x="43" y="629" type="line"/>
-      <point x="63" y="629" type="line"/>
-      <point x="63" y="712" type="line"/>
+      <point x="26" y="712" type="line"/>
+      <point x="26" y="629" type="line" name="tlb"/>
+      <point x="46" y="629" type="line" name="tlb"/>
+      <point x="46" y="712" type="line"/>
     </contour>
     <contour>
       <point x="626" y="712" type="line"/>
-      <point x="626" y="629" type="line"/>
-      <point x="646" y="629" type="line"/>
+      <point x="626" y="629" type="line" name="trb"/>
+      <point x="646" y="629" type="line" name="trb"/>
       <point x="646" y="712" type="line"/>
     </contour>
     <contour>
       <point x="335" y="0" type="line"/>
-      <point x="438" y="0" type="line"/>
-      <point x="438" y="20" type="line"/>
+      <point x="438" y="0" type="line" name="brr"/>
+      <point x="438" y="20" type="line" name="brr"/>
       <point x="335" y="20" type="line"/>
     </contour>
     <contour>
       <point x="335" y="20" type="line"/>
-      <point x="232" y="20" type="line"/>
-      <point x="232" y="0" type="line"/>
+      <point x="232" y="20" type="line" name="bll"/>
+      <point x="232" y="0" type="line" name="bll"/>
       <point x="335" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="347" y="0" type="line"/>
-      <point x="347" y="710" type="line"/>
-      <point x="325" y="710" type="line"/>
-      <point x="325" y="0" type="line"/>
+      <point x="347" y="0" type="line" name="stem"/>
+      <point x="347" y="710" type="line" name="stem"/>
+      <point x="325" y="710" type="line" name="stem"/>
+      <point x="325" y="0" type="line" name="stem"/>
     </contour>
     <contour>
-      <point x="43" y="700" type="line"/>
-      <point x="646" y="700" type="line"/>
-      <point x="646" y="722" type="line"/>
-      <point x="43" y="722" type="line"/>
+      <point x="26" y="700" type="line" name="arm"/>
+      <point x="646" y="700" type="line" name="arm"/>
+      <point x="646" y="722" type="line" name="arm"/>
+      <point x="26" y="722" type="line" name="arm"/>
     </contour>
   </outline>
   <lib>

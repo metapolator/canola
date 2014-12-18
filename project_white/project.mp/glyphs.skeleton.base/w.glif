@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="w">
+  <advance width="969"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour identifier="tcl">
+      <point type="move" x="488" y="523"/>
+      <point x="453.66701" y="523"/>
+      <point x="419.33299" y="523"/>
+      <point name="tcl" type="curve" x="385" y="523"/>
+    </contour>
+    <contour identifier="tcr">
+      <point type="move" x="488" y="523"/>
+      <point x="522.33299" y="523"/>
+      <point x="556.66701" y="523"/>
+      <point name="tcr" type="curve" x="591" y="523"/>
+    </contour>
+    <contour identifier="trr">
+      <point type="move" x="849" y="523"/>
+      <point x="883.33299" y="523"/>
+      <point x="917.66701" y="523"/>
+      <point name="trr" type="curve" x="952" y="523"/>
+    </contour>
+    <contour identifier="trl">
+      <point type="move" x="849" y="523"/>
+      <point x="814.66701" y="523"/>
+      <point x="780.33299" y="523"/>
+      <point name="trl" type="curve" x="746" y="523"/>
+    </contour>
+    <contour identifier="tll">
+      <point type="move" x="114" y="523"/>
+      <point x="79.66701" y="523"/>
+      <point x="45.33299" y="523"/>
+      <point name="tll" type="curve" x="11" y="523"/>
+    </contour>
+    <contour identifier="tlr">
+      <point type="move" x="114" y="523"/>
+      <point x="148.33299" y="523"/>
+      <point x="182.66701" y="523"/>
+      <point name="tlr" type="curve" x="217" y="523"/>
+    </contour>
+    <contour identifier="stem2">
+      <point name="stem2" type="move" x="283.5" y="0"/>
+      <point x="350.665995" y="177.66489"/>
+      <point x="417.834005" y="355.33511"/>
+      <point name="stem2" type="curve" x="485" y="533"/>
+    </contour>
+    <contour identifier="stem4">
+      <point name="stem4" type="move" x="862" y="533"/>
+      <point x="799.167295" y="355.33511"/>
+      <point x="736.332705" y="177.66489"/>
+      <point name="stem4" type="curve" x="673.5" y="0"/>
+    </contour>
+    <contour identifier="stem3">
+      <point name="stem3" type="move" x="490.5" y="533"/>
+      <point x="551.16606" y="355.33511"/>
+      <point x="611.83394" y="177.66489"/>
+      <point name="stem3" type="curve" x="672.5" y="0"/>
+    </contour>
+    <contour identifier="stem">
+      <point name="stem" type="move" x="101.5" y="533"/>
+      <point x="161.83273000000003" y="355.33511"/>
+      <point x="222.16726999999997" y="177.66489"/>
+      <point name="stem" type="curve" x="282.5" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>969</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

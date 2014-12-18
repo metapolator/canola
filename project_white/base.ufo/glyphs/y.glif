@@ -5,45 +5,45 @@
   <outline>
     <contour>
       <point x="144" y="-280" type="line"/>
-      <point x="41" y="-280" type="line"/>
-      <point x="41" y="-300" type="line"/>
+      <point x="41" y="-280" type="line" name="bll"/>
+      <point x="41" y="-300" type="line" name="bll"/>
       <point x="144" y="-300" type="line"/>
     </contour>
     <contour>
       <point x="121" y="533" type="line"/>
-      <point x="18" y="533" type="line"/>
-      <point x="18" y="513" type="line"/>
+      <point x="18" y="533" type="line" name="tll"/>
+      <point x="18" y="513" type="line" name="tll"/>
       <point x="121" y="513" type="line"/>
     </contour>
     <contour>
       <point x="121" y="513" type="line"/>
-      <point x="224" y="513" type="line"/>
-      <point x="224" y="533" type="line"/>
+      <point x="224" y="513" type="line" name="tlr"/>
+      <point x="224" y="533" type="line" name="tlr"/>
       <point x="121" y="533" type="line"/>
     </contour>
     <contour>
       <point x="526" y="533" type="line"/>
-      <point x="423" y="533" type="line"/>
-      <point x="423" y="513" type="line"/>
+      <point x="423" y="533" type="line" name="trl"/>
+      <point x="423" y="513" type="line" name="trl"/>
       <point x="526" y="513" type="line"/>
     </contour>
     <contour>
       <point x="526" y="513" type="line"/>
-      <point x="629" y="513" type="line"/>
-      <point x="629" y="533" type="line"/>
+      <point x="629" y="513" type="line" name="trr"/>
+      <point x="629" y="533" type="line" name="trr"/>
       <point x="526" y="533" type="line"/>
     </contour>
     <contour>
-      <point x="326" y="77" type="line"/>
-      <point x="121" y="533" type="line"/>
-      <point x="96" y="533" type="line"/>
-      <point x="305" y="77" type="line"/>
+      <point x="326" y="77" type="line" name="stem2"/>
+      <point x="121" y="533" type="line" name="stem2"/>
+      <point x="96" y="533" type="line" name="stem2"/>
+      <point x="305" y="77" type="line" name="stem2"/>
     </contour>
     <contour>
-      <point x="144" y="-300" type="line"/>
-      <point x="550" y="533" type="line"/>
-      <point x="526" y="533" type="line"/>
-      <point x="119" y="-300" type="line"/>
+      <point x="144" y="-300" type="line" name="stem"/>
+      <point x="550" y="533" type="line" name="stem"/>
+      <point x="526" y="533" type="line" name="stem"/>
+      <point x="119" y="-300" type="line" name="stem"/>
     </contour>
   </outline>
   <lib>

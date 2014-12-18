@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="X">
+  <advance width="743"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour identifier="blr">
+      <point type="move" x="121" y="10"/>
+      <point x="155.33299" y="10"/>
+      <point x="189.66701" y="10"/>
+      <point name="blr" type="curve" x="224" y="10"/>
+    </contour>
+    <contour identifier="bll">
+      <point type="move" x="121" y="10"/>
+      <point x="86.66701" y="10"/>
+      <point x="52.33299" y="10"/>
+      <point name="bll" type="curve" x="18" y="10"/>
+    </contour>
+    <contour identifier="brr">
+      <point type="move" x="620" y="10"/>
+      <point x="654.33299" y="10"/>
+      <point x="688.66701" y="10"/>
+      <point name="brr" type="curve" x="723" y="10"/>
+    </contour>
+    <contour identifier="brl">
+      <point type="move" x="620" y="10"/>
+      <point x="585.66701" y="10"/>
+      <point x="551.33299" y="10"/>
+      <point name="brl" type="curve" x="517" y="10"/>
+    </contour>
+    <contour identifier="trr">
+      <point type="move" x="594" y="712"/>
+      <point x="628.33299" y="712"/>
+      <point x="662.66701" y="712"/>
+      <point name="trr" type="curve" x="697" y="712"/>
+    </contour>
+    <contour identifier="trl">
+      <point type="move" x="594" y="712"/>
+      <point x="559.66701" y="712"/>
+      <point x="525.33299" y="712"/>
+      <point name="trl" type="curve" x="491" y="712"/>
+    </contour>
+    <contour identifier="tll">
+      <point type="move" x="151" y="712"/>
+      <point x="116.66701" y="712"/>
+      <point x="82.33299" y="712"/>
+      <point name="tll" type="curve" x="48" y="712"/>
+    </contour>
+    <contour identifier="tlr">
+      <point type="move" x="151" y="712"/>
+      <point x="185.33299" y="712"/>
+      <point x="219.66701" y="712"/>
+      <point name="tlr" type="curve" x="254" y="712"/>
+    </contour>
+    <contour identifier="stem2">
+      <point name="stem2" type="move" x="607" y="722"/>
+      <point x="441.168325" y="481.33574"/>
+      <point x="275.331675" y="240.66426"/>
+      <point name="stem2" type="curve" x="109.5" y="0"/>
+    </contour>
+    <contour identifier="stem">
+      <point name="stem" type="move" x="141" y="722"/>
+      <point x="305.33169000000004" y="481.33574"/>
+      <point x="469.66830999999996" y="240.66426"/>
+      <point name="stem" type="curve" x="634" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>X</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>743</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

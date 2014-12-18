@@ -5,39 +5,39 @@
   <outline>
     <contour>
       <point x="562" y="0" type="line"/>
-      <point x="665" y="0" type="line"/>
-      <point x="665" y="20" type="line"/>
+      <point x="665" y="0" type="line" name="brr"/>
+      <point x="665" y="20" type="line" name="brr"/>
       <point x="562" y="20" type="line"/>
     </contour>
     <contour>
       <point x="112" y="722" type="line"/>
-      <point x="9" y="722" type="line"/>
-      <point x="9" y="702" type="line"/>
+      <point x="9" y="722" type="line" name="tll"/>
+      <point x="9" y="702" type="line" name="tll"/>
       <point x="112" y="702" type="line"/>
     </contour>
     <contour>
       <point x="112" y="20" type="line"/>
-      <point x="9" y="20" type="line"/>
-      <point x="9" y="0" type="line"/>
+      <point x="9" y="20" type="line" name="bll"/>
+      <point x="9" y="0" type="line" name="bll"/>
       <point x="112" y="0" type="line"/>
     </contour>
     <contour>
       <point x="112" y="0" type="line"/>
-      <point x="215" y="0" type="line"/>
-      <point x="215" y="20" type="line"/>
+      <point x="215" y="0" type="line" name="blr"/>
+      <point x="215" y="20" type="line" name="blr"/>
       <point x="112" y="20" type="line"/>
     </contour>
     <contour>
-      <point x="306" y="354" type="line"/>
-      <point x="562" y="0" type="line"/>
-      <point x="589" y="0" type="line"/>
-      <point x="333" y="354" type="line"/>
+      <point x="306" y="354" type="line" name="stem2"/>
+      <point x="562" y="0" type="line" name="stem2"/>
+      <point x="589" y="0" type="line" name="stem2"/>
+      <point x="333" y="354" type="line" name="stem2"/>
     </contour>
     <contour>
-      <point x="124" y="0" type="line"/>
-      <point x="124" y="722" type="line"/>
-      <point x="102" y="722" type="line"/>
-      <point x="102" y="0" type="line"/>
+      <point x="124" y="0" type="line" name="stem"/>
+      <point x="124" y="722" type="line" name="stem"/>
+      <point x="102" y="722" type="line" name="stem"/>
+      <point x="102" y="0" type="line" name="stem"/>
     </contour>
     <contour>
       <point x="115" y="341" type="line"/>

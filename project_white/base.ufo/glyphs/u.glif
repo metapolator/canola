@@ -5,27 +5,27 @@
   <outline>
     <contour>
       <point x="494" y="533" type="line"/>
-      <point x="391" y="533" type="line"/>
-      <point x="391" y="513" type="line"/>
+      <point x="391" y="533" type="line" name="trl"/>
+      <point x="391" y="513" type="line" name="trl"/>
       <point x="494" y="513" type="line"/>
     </contour>
     <contour>
       <point x="129" y="533" type="line"/>
-      <point x="26" y="533" type="line"/>
-      <point x="26" y="513" type="line"/>
+      <point x="26" y="533" type="line" name="tll"/>
+      <point x="26" y="513" type="line" name="tll"/>
       <point x="129" y="513" type="line"/>
     </contour>
     <contour>
       <point x="494" y="0" type="line"/>
-      <point x="587" y="0" type="line"/>
-      <point x="587" y="20" type="line"/>
+      <point x="587" y="0" type="line" name="brr"/>
+      <point x="587" y="20" type="line" name="brr"/>
       <point x="494" y="20" type="line"/>
     </contour>
     <contour>
-      <point x="505" y="0" type="line"/>
-      <point x="505" y="533" type="line"/>
-      <point x="483" y="533" type="line"/>
-      <point x="483" y="0" type="line"/>
+      <point x="505" y="0" type="line" name="stem"/>
+      <point x="505" y="533" type="line" name="stem"/>
+      <point x="483" y="533" type="line" name="stem"/>
+      <point x="483" y="0" type="line" name="stem"/>
     </contour>
     <contour>
       <point x="487" y="160" type="line"/>
@@ -34,10 +34,10 @@
       <point x="299" y="20" type="curve" smooth="yes"/>
       <point x="195" y="20"/>
       <point x="140" y="81"/>
-      <point x="140" y="186" type="curve" smooth="yes"/>
+      <point x="140" y="186" type="curve" smooth="yes" name="bow"/>
       <point x="140" y="533" type="line"/>
       <point x="118" y="533" type="line"/>
-      <point x="118" y="185" type="line" smooth="yes"/>
+      <point x="118" y="185" type="line" smooth="yes" name="bow"/>
       <point x="118" y="66"/>
       <point x="181" y="0"/>
       <point x="298" y="0" type="curve" smooth="yes"/>

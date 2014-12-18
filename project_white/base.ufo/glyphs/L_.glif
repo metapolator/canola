@@ -5,39 +5,39 @@
   <outline>
     <contour>
       <point x="551" y="10" type="line"/>
-      <point x="551" y="93" type="line"/>
-      <point x="531" y="93" type="line"/>
+      <point x="551" y="93" type="line" name="brt"/>
+      <point x="531" y="93" type="line" name="brt"/>
       <point x="531" y="10" type="line"/>
     </contour>
     <contour>
       <point x="129" y="20" type="line"/>
-      <point x="26" y="20" type="line"/>
-      <point x="26" y="0" type="line"/>
+      <point x="26" y="20" type="line" name="bll"/>
+      <point x="26" y="0" type="line" name="bll"/>
       <point x="129" y="0" type="line"/>
     </contour>
     <contour>
       <point x="129" y="722" type="line"/>
-      <point x="26" y="722" type="line"/>
-      <point x="26" y="702" type="line"/>
+      <point x="26" y="722" type="line" name="tll"/>
+      <point x="26" y="702" type="line" name="tll"/>
       <point x="129" y="702" type="line"/>
     </contour>
     <contour>
       <point x="129" y="702" type="line"/>
-      <point x="232" y="702" type="line"/>
-      <point x="232" y="722" type="line"/>
+      <point x="232" y="702" type="line" name="tlr"/>
+      <point x="232" y="722" type="line" name="tlr"/>
       <point x="129" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="141" y="0" type="line"/>
-      <point x="141" y="722" type="line"/>
-      <point x="119" y="722" type="line"/>
-      <point x="119" y="0" type="line"/>
+      <point x="141" y="0" type="line" name="stem"/>
+      <point x="141" y="722" type="line" name="stem"/>
+      <point x="119" y="722" type="line" name="stem"/>
+      <point x="119" y="0" type="line" name="stem"/>
     </contour>
     <contour>
-      <point x="129" y="0" type="line"/>
-      <point x="551" y="0" type="line"/>
-      <point x="551" y="20" type="line"/>
-      <point x="129" y="20" type="line"/>
+      <point x="129" y="0" type="line" name="arm"/>
+      <point x="551" y="0" type="line" name="arm"/>
+      <point x="551" y="20" type="line" name="arm"/>
+      <point x="129" y="20" type="line" name="arm"/>
     </contour>
   </outline>
   <lib>

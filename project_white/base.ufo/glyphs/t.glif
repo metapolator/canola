@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="1">
-  <advance width="497"/>
+  <advance width="464"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
       <point x="43" y="477" type="line"/>
       <point x="43" y="477"/>
       <point x="434" y="477"/>
-      <point x="434" y="477" type="curve"/>
-      <point x="434" y="497" type="line"/>
+      <point x="434" y="477" type="curve" name="bar"/>
+      <point x="434" y="497" type="line" name="bar"/>
       <point x="434" y="497"/>
       <point x="43" y="497"/>
       <point x="43" y="497" type="curve"/>
@@ -19,12 +19,12 @@
       <point x="350" y="20"/>
       <point x="312" y="20" type="curve" smooth="yes"/>
       <point x="239" y="20"/>
-      <point x="207" y="65"/>
-      <point x="207" y="144" type="curve"/>
-      <point x="207" y="144"/>
-      <point x="207" y="651"/>
-      <point x="207" y="651" type="curve"/>
-      <point x="186" y="638" type="line"/>
+      <point x="208" y="65"/>
+      <point x="208" y="144" type="curve"/>
+      <point x="208" y="144"/>
+      <point x="208" y="651"/>
+      <point x="208" y="651" type="curve" name="bow"/>
+      <point x="186" y="638" type="line" name="bow"/>
       <point x="186" y="638"/>
       <point x="186" y="143"/>
       <point x="186" y="143" type="curve"/>
@@ -60,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>497</integer>
+          <integer>464</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

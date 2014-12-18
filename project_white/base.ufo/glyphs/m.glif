@@ -5,51 +5,51 @@
   <outline>
     <contour>
       <point x="461" y="0" type="line"/>
-      <point x="554" y="0" type="line"/>
-      <point x="554" y="20" type="line"/>
+      <point x="544" y="0" type="line" name="bcr"/>
+      <point x="544" y="20" type="line" name="bcr"/>
       <point x="461" y="20" type="line"/>
     </contour>
     <contour>
       <point x="461" y="20" type="line"/>
-      <point x="368" y="20" type="line"/>
-      <point x="368" y="0" type="line"/>
+      <point x="378" y="20" type="line" name="bcl"/>
+      <point x="378" y="0" type="line" name="bcl"/>
       <point x="461" y="0" type="line"/>
     </contour>
     <contour>
       <point x="794" y="0" type="line"/>
-      <point x="897" y="0" type="line"/>
-      <point x="897" y="20" type="line"/>
+      <point x="897" y="0" type="line" name="brr"/>
+      <point x="897" y="20" type="line" name="brr"/>
       <point x="794" y="20" type="line"/>
     </contour>
     <contour>
       <point x="129" y="20" type="line"/>
-      <point x="26" y="20" type="line"/>
-      <point x="26" y="0" type="line"/>
+      <point x="26" y="20" type="line" name="bll"/>
+      <point x="26" y="0" type="line" name="bll"/>
       <point x="129" y="0" type="line"/>
     </contour>
     <contour>
       <point x="129" y="0" type="line"/>
-      <point x="222" y="0" type="line"/>
-      <point x="222" y="20" type="line"/>
+      <point x="212" y="0" type="line" name="blr"/>
+      <point x="212" y="20" type="line" name="blr"/>
       <point x="129" y="20" type="line"/>
     </contour>
     <contour>
       <point x="129" y="533" type="line"/>
-      <point x="26" y="533" type="line"/>
-      <point x="26" y="513" type="line"/>
+      <point x="26" y="533" type="line" name="tll"/>
+      <point x="26" y="513" type="line" name="tll"/>
       <point x="129" y="513" type="line"/>
     </contour>
     <contour>
       <point x="794" y="20" type="line"/>
-      <point x="701" y="20" type="line"/>
-      <point x="701" y="0" type="line"/>
+      <point x="711" y="20" type="line" name="brl"/>
+      <point x="711" y="0" type="line" name="brl"/>
       <point x="794" y="0" type="line"/>
     </contour>
     <contour>
       <point x="467" y="355" type="line"/>
       <point x="500" y="444"/>
       <point x="557" y="513"/>
-      <point x="649" y="513" type="curve" smooth="yes"/>
+      <point x="649" y="513" type="curve" smooth="yes" name="bow2"/>
       <point x="750" y="513"/>
       <point x="782" y="451"/>
       <point x="782" y="342" type="curve" smooth="yes"/>
@@ -58,7 +58,7 @@
       <point x="804" y="344" type="line" smooth="yes"/>
       <point x="804" y="465"/>
       <point x="766" y="533"/>
-      <point x="653" y="533" type="curve" smooth="yes"/>
+      <point x="653" y="533" type="curve" smooth="yes" name="bow2"/>
       <point x="552" y="533"/>
       <point x="483" y="464"/>
       <point x="455" y="365" type="curve"/>
@@ -67,7 +67,7 @@
       <point x="135" y="355" type="line"/>
       <point x="169" y="445"/>
       <point x="224" y="513"/>
-      <point x="317" y="513" type="curve" smooth="yes"/>
+      <point x="317" y="513" type="curve" smooth="yes" name="bow"/>
       <point x="417" y="513"/>
       <point x="450" y="451"/>
       <point x="450" y="342" type="curve" smooth="yes"/>
@@ -76,16 +76,16 @@
       <point x="472" y="344" type="line" smooth="yes"/>
       <point x="472" y="465"/>
       <point x="434" y="533"/>
-      <point x="321" y="533" type="curve" smooth="yes"/>
+      <point x="321" y="533" type="curve" smooth="yes" name="bow"/>
       <point x="219" y="533"/>
       <point x="152" y="465"/>
       <point x="123" y="365" type="curve"/>
     </contour>
     <contour>
-      <point x="140" y="0" type="line"/>
-      <point x="140" y="533" type="line"/>
-      <point x="118" y="533" type="line"/>
-      <point x="118" y="0" type="line"/>
+      <point x="140" y="0" type="line" name="stem"/>
+      <point x="140" y="533" type="line" name="stem"/>
+      <point x="118" y="533" type="line" name="stem"/>
+      <point x="118" y="0" type="line" name="stem"/>
     </contour>
   </outline>
   <lib>

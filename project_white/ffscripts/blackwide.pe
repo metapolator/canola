@@ -1,0 +1,21 @@
+#!/usr/local/bin/fontforge
+# fontforge -script space.pe {arguments}
+# Open($1);
+SelectAll();
+AddExtrema();
+Simplify();
+RemoveOverlap();
+AutoWidth(70);
+AutoHint();
+SetFontNames("Sean","Sans","Sean Sans","blackwide","copyright 2014 Simon Egli", "Version 1.0")
+Select("uni0921094D092F", "uni0922094D0922094D092F", "ssadeva", "tadeva", "ddhadeva_viramadeva_ddhadeva", "ddhadeva", "khadeva", "edeva", "ideva")
+SetLBearing(-2)
+SetRBearing(-2)
+SelectAll()
+Generate("blackwide.otf");
+Generate("blackwide.ttf")
+# Quit(0);
+
+
+
+

@@ -5,63 +5,63 @@
   <outline>
     <contour>
       <point x="121" y="0" type="line"/>
-      <point x="224" y="0" type="line"/>
-      <point x="224" y="20" type="line"/>
+      <point x="224" y="0" type="line" name="blr"/>
+      <point x="224" y="20" type="line" name="blr"/>
       <point x="121" y="20" type="line"/>
     </contour>
     <contour>
       <point x="121" y="20" type="line"/>
-      <point x="18" y="20" type="line"/>
-      <point x="18" y="0" type="line"/>
+      <point x="18" y="20" type="line" name="bll"/>
+      <point x="18" y="0" type="line" name="bll"/>
       <point x="121" y="0" type="line"/>
     </contour>
     <contour>
       <point x="620" y="0" type="line"/>
-      <point x="723" y="0" type="line"/>
-      <point x="723" y="20" type="line"/>
+      <point x="723" y="0" type="line" name="brr"/>
+      <point x="723" y="20" type="line" name="brr"/>
       <point x="620" y="20" type="line"/>
     </contour>
     <contour>
       <point x="620" y="20" type="line"/>
-      <point x="517" y="20" type="line"/>
-      <point x="517" y="0" type="line"/>
+      <point x="517" y="20" type="line" name="brl"/>
+      <point x="517" y="0" type="line" name="brl"/>
       <point x="620" y="0" type="line"/>
     </contour>
     <contour>
       <point x="594" y="702" type="line"/>
-      <point x="697" y="702" type="line"/>
-      <point x="697" y="722" type="line"/>
+      <point x="697" y="702" type="line" name="trr"/>
+      <point x="697" y="722" type="line" name="trr"/>
       <point x="594" y="722" type="line"/>
     </contour>
     <contour>
       <point x="594" y="722" type="line"/>
-      <point x="491" y="722" type="line"/>
-      <point x="491" y="702" type="line"/>
+      <point x="491" y="722" type="line" name="trl"/>
+      <point x="491" y="702" type="line" name="trl"/>
       <point x="594" y="702" type="line"/>
     </contour>
     <contour>
       <point x="151" y="722" type="line"/>
-      <point x="48" y="722" type="line"/>
-      <point x="48" y="702" type="line"/>
+      <point x="48" y="722" type="line" name="tll"/>
+      <point x="48" y="702" type="line" name="tll"/>
       <point x="151" y="702" type="line"/>
     </contour>
     <contour>
       <point x="151" y="702" type="line"/>
-      <point x="254" y="702" type="line"/>
-      <point x="254" y="722" type="line"/>
+      <point x="254" y="702" type="line" name="tlr"/>
+      <point x="254" y="722" type="line" name="tlr"/>
       <point x="151" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="594" y="722" type="line"/>
-      <point x="95" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="620" y="722" type="line"/>
+      <point x="594" y="722" type="line" name="stem2"/>
+      <point x="95" y="0" type="line" name="stem2"/>
+      <point x="124" y="0" type="line" name="stem2"/>
+      <point x="620" y="722" type="line" name="stem2"/>
     </contour>
     <contour>
-      <point x="128" y="722" type="line"/>
-      <point x="620" y="0" type="line"/>
-      <point x="648" y="0" type="line"/>
-      <point x="154" y="722" type="line"/>
+      <point x="128" y="722" type="line" name="stem"/>
+      <point x="620" y="0" type="line" name="stem"/>
+      <point x="648" y="0" type="line" name="stem"/>
+      <point x="154" y="722" type="line" name="stem"/>
     </contour>
   </outline>
   <lib>

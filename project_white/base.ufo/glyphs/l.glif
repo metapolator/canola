@@ -5,27 +5,27 @@
   <outline>
     <contour>
       <point x="107" y="20" type="line"/>
-      <point x="4" y="20" type="line"/>
-      <point x="4" y="0" type="line"/>
+      <point x="4" y="20" type="line" name="bll"/>
+      <point x="4" y="0" type="line" name="bll"/>
       <point x="107" y="0" type="line"/>
     </contour>
     <contour>
       <point x="109" y="800" type="line"/>
-      <point x="6" y="800" type="line"/>
-      <point x="6" y="780" type="line"/>
+      <point x="6" y="800" type="line" name="tll"/>
+      <point x="6" y="780" type="line" name="tll"/>
       <point x="109" y="780" type="line"/>
     </contour>
     <contour>
       <point x="107" y="0" type="line"/>
-      <point x="210" y="0" type="line"/>
-      <point x="210" y="20" type="line"/>
+      <point x="210" y="0" type="line" name="brr"/>
+      <point x="210" y="20" type="line" name="brr"/>
       <point x="107" y="20" type="line"/>
     </contour>
     <contour>
-      <point x="117" y="0" type="line"/>
-      <point x="117" y="800" type="line"/>
-      <point x="95" y="800" type="line"/>
-      <point x="95" y="0" type="line"/>
+      <point x="117" y="0" type="line" name="stem"/>
+      <point x="117" y="800" type="line" name="stem"/>
+      <point x="95" y="800" type="line" name="stem"/>
+      <point x="95" y="0" type="line" name="stem"/>
     </contour>
   </outline>
   <lib>

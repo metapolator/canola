@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tadeva" format="1">
-  <advance width="634"/>
+  <advance width="645"/>
   <unicode hex="0924"/>
   <outline>
     <contour>
@@ -23,21 +23,15 @@
     </contour>
     <contour>
       <point x="509" y="0" type="line"/>
-      <point x="602" y="0" type="line"/>
-      <point x="602" y="20" type="line"/>
+      <point x="602" y="0" type="line" name="brr"/>
+      <point x="602" y="20" type="line" name="brr"/>
       <point x="509" y="20" type="line"/>
     </contour>
     <contour>
-      <point x="509" y="20" type="line"/>
-      <point x="406" y="20" type="line"/>
-      <point x="406" y="0" type="line"/>
-      <point x="509" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="518" y="0" type="line"/>
-      <point x="518" y="710" type="line"/>
-      <point x="496" y="710" type="line"/>
-      <point x="496" y="0" type="line"/>
+      <point x="518" y="0" type="line" name="stem"/>
+      <point x="518" y="710" type="line" name="stem"/>
+      <point x="496" y="710" type="line" name="stem"/>
+      <point x="496" y="0" type="line" name="stem"/>
     </contour>
     <contour>
       <point x="-12" y="702" type="line"/>
@@ -70,13 +64,13 @@
           <array>
           </array>
           <key>width</key>
-          <integer>634</integer>
+          <integer>645</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>1.0</real>
+        <real>0.0</real>
         <real>0.0</real>
         <real>1.0</real>
       </array>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="V">
+  <advance width="762"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour identifier="trl">
+      <point type="move" x="652" y="712"/>
+      <point x="617.66701" y="712"/>
+      <point x="583.33299" y="712"/>
+      <point name="trl" type="curve" x="549" y="712"/>
+    </contour>
+    <contour identifier="tll">
+      <point type="move" x="110" y="712"/>
+      <point x="75.66701" y="712"/>
+      <point x="41.33299" y="712"/>
+      <point name="tll" type="curve" x="7" y="712"/>
+    </contour>
+    <contour identifier="trr">
+      <point type="move" x="652" y="712"/>
+      <point x="686.33299" y="712"/>
+      <point x="720.66701" y="712"/>
+      <point name="trr" type="curve" x="755" y="712"/>
+    </contour>
+    <contour identifier="tlr">
+      <point type="move" x="110" y="712"/>
+      <point x="144.33299" y="712"/>
+      <point x="178.66701" y="712"/>
+      <point name="tlr" type="curve" x="213" y="712"/>
+    </contour>
+    <contour identifier="stem2">
+      <point name="stem2" type="move" x="664" y="722"/>
+      <point x="571.500925" y="481.33574"/>
+      <point x="478.999075" y="240.66426"/>
+      <point name="stem2" type="curve" x="386.5" y="0"/>
+    </contour>
+    <contour identifier="stem">
+      <point name="stem" type="move" x="98" y="722"/>
+      <point x="191.99906" y="481.33574"/>
+      <point x="286.00094" y="240.66426"/>
+      <point name="stem" type="curve" x="380" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>V</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>762</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

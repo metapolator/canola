@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="O">
+  <advance width="800"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour identifier="bow">
+      <point type="move" x="115" y="360"/>
+      <point x="115" y="563"/>
+      <point x="212.5" y="712"/>
+      <point name="bow" type="curve" x="403" y="712"/>
+      <point x="593" y="712"/>
+      <point x="693" y="565"/>
+      <point type="curve" x="693" y="363"/>
+      <point x="693" y="159.5"/>
+      <point x="595" y="10"/>
+      <point type="curve" x="404.5" y="10"/>
+      <point x="214" y="10"/>
+      <point x="115" y="157"/>
+      <point type="curve" x="115" y="360"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>O</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>800</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

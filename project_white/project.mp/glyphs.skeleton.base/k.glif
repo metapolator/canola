@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="k">
+  <advance width="586"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour identifier="bll">
+      <point type="move" x="128" y="10"/>
+      <point x="93.66701" y="10"/>
+      <point x="59.33299" y="10"/>
+      <point name="bll" type="curve" x="25" y="10"/>
+    </contour>
+    <contour identifier="brr">
+      <point type="move" x="511" y="10"/>
+      <point x="545.33299" y="10"/>
+      <point x="579.66701" y="10"/>
+      <point name="brr" type="curve" x="614" y="10"/>
+    </contour>
+    <contour identifier="trr">
+      <point type="move" x="485" y="523"/>
+      <point x="514.9997" y="523"/>
+      <point x="545.0003" y="523"/>
+      <point name="trr" type="curve" x="575" y="523"/>
+    </contour>
+    <contour identifier="blr">
+      <point type="move" x="128" y="10"/>
+      <point x="158.33303" y="10"/>
+      <point x="188.66697" y="10"/>
+      <point name="blr" type="curve" x="219" y="10"/>
+    </contour>
+    <contour identifier="trl">
+      <point type="move" x="485" y="523"/>
+      <point x="454.00031" y="523"/>
+      <point x="422.99969" y="523"/>
+      <point name="trl" type="curve" x="392" y="523"/>
+    </contour>
+    <contour identifier="tll">
+      <point type="move" x="130" y="790"/>
+      <point x="95.66701" y="790"/>
+      <point x="61.33299" y="790"/>
+      <point name="tll" type="curve" x="27" y="790"/>
+    </contour>
+    <contour identifier="stem">
+      <point name="stem" type="move" x="129" y="0"/>
+      <point x="129" y="133.332"/>
+      <point x="129" y="666.668"/>
+      <point name="stem" type="curve" x="129" y="800"/>
+    </contour>
+    <contour identifier="arm">
+      <point name="arm" type="move" x="502" y="533"/>
+      <point x="385.00117" y="447.00086"/>
+      <point x="267.99883" y="360.99914"/>
+      <point name="arm" type="curve" x="151" y="275"/>
+    </contour>
+    <contour identifier="arm2">
+      <point name="arm2" type="move" x="528" y="0"/>
+      <point x="402.33459" y="91.66575"/>
+      <point x="276.66541" y="183.33425"/>
+      <point name="arm2" type="curve" x="151" y="275"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>586</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

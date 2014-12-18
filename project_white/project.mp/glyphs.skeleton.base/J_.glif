@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="J">
+  <advance width="436"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour identifier="tll">
+      <point type="move" x="331" y="712"/>
+      <point x="296.66701" y="712"/>
+      <point x="262.33299" y="712"/>
+      <point name="tll" type="curve" x="228" y="712"/>
+    </contour>
+    <contour identifier="trr">
+      <point type="move" x="331" y="712"/>
+      <point x="365.33299" y="712"/>
+      <point x="399.66701" y="712"/>
+      <point name="trr" type="curve" x="434" y="712"/>
+    </contour>
+    <contour identifier="stem">
+      <point type="move" x="45" y="51"/>
+      <point x="76" y="31"/>
+      <point x="110" y="10"/>
+      <point type="curve" x="157" y="10"/>
+      <point x="274" y="10"/>
+      <point x="330" y="94"/>
+      <point name="stem" type="curve" x="330" y="218"/>
+      <point x="330" y="385.99832000000004"/>
+      <point x="330" y="554.00168"/>
+      <point type="curve" x="330" y="722"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>J</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>436</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

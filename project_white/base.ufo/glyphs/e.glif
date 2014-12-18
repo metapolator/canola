@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="1">
   <advance width="581"/>
+  <unicode hex="0065"/>
   <outline>
     <contour>
       <point x="103" y="274" type="line"/>
@@ -10,7 +11,7 @@
       <point x="496" y="303" type="line" smooth="yes"/>
       <point x="496" y="444"/>
       <point x="431" y="533"/>
-      <point x="299" y="533" type="curve" smooth="yes"/>
+      <point x="299" y="533" type="curve" smooth="yes" name="bow"/>
       <point x="157" y="533"/>
       <point x="91" y="434"/>
       <point x="91" y="281" type="curve" smooth="yes"/>
@@ -29,7 +30,7 @@
       <point x="113" y="281" type="curve"/>
       <point x="113" y="420"/>
       <point x="170" y="513"/>
-      <point x="298" y="513" type="curve" smooth="yes"/>
+      <point x="298" y="513" type="curve" smooth="yes" name="bow"/>
       <point x="417" y="513"/>
       <point x="475" y="432"/>
       <point x="475" y="305" type="curve" smooth="yes"/>

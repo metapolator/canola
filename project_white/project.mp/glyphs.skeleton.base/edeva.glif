@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="edeva">
+  <advance width="590"/>
+  <unicode hex="090F"/>
+  <outline>
+    <contour>
+      <point type="move" x="347.5" y="262"/>
+      <point x="440" y="320.5"/>
+      <point x="486" y="398"/>
+      <point type="curve" x="486" y="507.5"/>
+      <point x="486" y="575.332655"/>
+      <point x="486" y="643.167345"/>
+      <point type="curve" x="486" y="711"/>
+    </contour>
+    <contour>
+      <point type="move" x="-13" y="712"/>
+      <point x="191.99795" y="712"/>
+      <point x="397.00205" y="712"/>
+      <point type="curve" x="602" y="712"/>
+    </contour>
+    <contour>
+      <point type="move" x="436.5" y="-2"/>
+      <point x="233.5" y="80"/>
+      <point x="108" y="216.5"/>
+      <point type="curve" x="108" y="432"/>
+      <point x="108" y="524.9990700000001"/>
+      <point x="108" y="618.0009299999999"/>
+      <point type="curve" x="108" y="711"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>edeva</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>590</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -5,43 +5,43 @@
   <outline>
     <contour>
       <point x="121" y="20" type="line"/>
-      <point x="18" y="20" type="line"/>
-      <point x="18" y="0" type="line"/>
+      <point x="18" y="20" type="line" name="bll"/>
+      <point x="18" y="0" type="line" name="bll"/>
       <point x="121" y="0" type="line"/>
     </contour>
     <contour>
       <point x="121" y="0" type="line"/>
-      <point x="214" y="0" type="line"/>
-      <point x="214" y="20" type="line"/>
+      <point x="214" y="0" type="line" name="brr"/>
+      <point x="214" y="20" type="line" name="brr"/>
       <point x="121" y="20" type="line"/>
     </contour>
     <contour>
       <point x="121" y="533" type="line"/>
-      <point x="18" y="533" type="line"/>
-      <point x="18" y="513" type="line"/>
+      <point x="18" y="533" type="line" name="tll"/>
+      <point x="18" y="513" type="line" name="tll"/>
       <point x="121" y="513" type="line"/>
     </contour>
     <contour>
-      <point x="139" y="670" type="line"/>
+      <point x="139" y="670" type="line" name="dot"/>
       <point x="139" y="682"/>
       <point x="131" y="689"/>
-      <point x="119" y="689" type="curve"/>
+      <point x="119" y="689" type="curve" name="dot"/>
       <point x="108" y="689"/>
       <point x="102" y="681"/>
-      <point x="102" y="670" type="curve"/>
-      <point x="139" y="670" type="line"/>
+      <point x="102" y="670" type="curve" name="dot"/>
+      <point x="139" y="670" type="line" name="dot"/>
       <point x="139" y="658"/>
       <point x="131" y="652"/>
-      <point x="119" y="652" type="curve"/>
+      <point x="119" y="652" type="curve" name="dot"/>
       <point x="108" y="652"/>
       <point x="102" y="659"/>
-      <point x="102" y="670" type="curve"/>
+      <point x="102" y="670" type="curve" name="dot"/>
     </contour>
     <contour>
-      <point x="133" y="0" type="line"/>
-      <point x="133" y="533" type="line"/>
-      <point x="110" y="533" type="line"/>
-      <point x="110" y="0" type="line"/>
+      <point x="133" y="0" type="line" name="stem"/>
+      <point x="133" y="533" type="line" name="stem"/>
+      <point x="110" y="533" type="line" name="stem"/>
+      <point x="110" y="0" type="line" name="stem"/>
     </contour>
   </outline>
   <lib>

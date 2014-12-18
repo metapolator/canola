@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="numbersign">
+  <advance width="595"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point type="move" x="28.5" y="269"/>
+      <point x="189.998385" y="269"/>
+      <point x="351.501615" y="269"/>
+      <point type="curve" x="513" y="269"/>
+    </contour>
+    <contour>
+      <point type="move" x="105.5" y="483"/>
+      <point x="266.998385" y="483"/>
+      <point x="428.501615" y="483"/>
+      <point type="curve" x="590" y="483"/>
+    </contour>
+    <contour>
+      <point type="move" x="324" y="39"/>
+      <point x="324" y="39"/>
+      <point x="541" y="722"/>
+      <point type="curve" x="541" y="722"/>
+    </contour>
+    <contour>
+      <point type="move" x="84.5" y="46"/>
+      <point x="84.5" y="46"/>
+      <point x="297" y="722"/>
+      <point type="curve" x="297" y="722"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>numbersign</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>595</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0</real>
+        <real>0</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

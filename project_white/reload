@@ -18,5 +18,9 @@ find ./project.mp \( -name "*.glif" -o -name "*.plist" \) -exec sh -c "cat {} | 
 
 cd project.mp;
 rm -r ../ufos/export.ufo;
-metapolator export -g "$SUBSET" blackcompressed ../ufos/export.ufo;
+
+metapolator export -g "$SUBSET" blackcompressed ../ufos/blackcompressed.ufo;
+metapolator export -g "$SUBSET" blackwide ../ufos/blackwide.ufo;
+metapolator export -g "$SUBSET" thinwide ../ufos/thinwide.ufo;
+metapolator export -g "$SUBSET" thincompressed ../ufos/thincompressed.ufo;
 

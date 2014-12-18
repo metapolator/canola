@@ -55,6 +55,7 @@
         shiftserif: shiftfactor * 10;
         poststroke: factor * stroke /2;
         nailstroke: f * stroke /2;
+        nailstrokecomp: factor * halfstroke * 0.85;
 
     }
     point > left, point > right {  
@@ -64,7 +65,7 @@
         weightProportion: 0.85;
         halfstroke: 10 * factor;
         stroke: halfstroke + halfstroke;
-        slab: 0.3 * stroke * weightProportion;
+        slab: 0.0 * stroke * weightProportion;
         wedge: (Scaling factor factor * weightProportion) * Polar onLength onDir + parent:center:on;
         overshoot: 5;
         penrotation: deg 0;
@@ -74,6 +75,9 @@
         branch: (Scaling factor factor * weightProportion) * Polar onLength onDir + parent:center:on;
         branchcompensation: 0.7 * weight;
         devacomp: (Rotation penrotation) * (Scaling factor * penwidth factor * penwidth * weightProportion) * Polar (onLength + weight) onDir + parent:center:on;
+        verticalserifweight: 0.85;
+        serifvertical: (Scaling factor * penwidth * weightProportion * verticalserifweight factor * penwidth * weightProportion) * Polar onLength onDir + parent:center:on;
+
     }    
 }
 
@@ -142,8 +146,9 @@
         scale_stem_in: (Scaling widthFactor 1 ) * parent:skeleton:in - Vector 0 0;
         scale_stem_out: (Scaling widthFactor 1 ) * parent:skeleton:out - Vector 0 0;
 
-        seriflength: 50;
-        seriflengthvertical: 0.8 * seriflength;
+        seriflength: 60;
+        diagonalserif: seriflength + (nailstroke/2);
+        seriflengthvertical: 2 * seriflength;
 
     }
 }
@@ -170,6 +175,20 @@ point > right {
 
 @import 'serif.cps';
 
+@namespace(penstroke#blr) { point:i(1) > center {
+    on: scale_serif_on + Vector diagonalserif 0;
+    in: scale_serif_in + Vector diagonalserif 0;
+    out: scale_serif_out + Vector diagonalserif 0;
+
+}
+}
+@namespace(penstroke#brl) { point:i(1) > center {
+    on: scale_serif_on - Vector diagonalserif 0;
+    in: scale_serif_in - Vector diagonalserif 0;
+    out: scale_serif_out - Vector diagonalserif 0;
+
+}
+}
 }
 
 
@@ -534,10 +553,19 @@ penstroke#stem point > center {
 @namespace(glyph#M) {
 
 @namespace(penstroke#stem, penstroke#stem1, penstroke#stem2, penstroke#stem3) { 
+    @dictionary {
+        point > left, point > right {  
+            penwidth: 0.85;
+        }
+    }
+}
+
+@namespace(penstroke#stem, penstroke#stem1, penstroke#stem2, penstroke#stem3) { 
     point > left, point > right {
         on: diagonal_on;
         }   
 }
+
 
 
 point > center {
@@ -851,6 +879,24 @@ point > center {
 }
 @import 'serif.cps';
 
+
+/* diagonal serif compensation */
+
+@namespace(penstroke#tlr) { point:i(1) > center {
+    on: scale_seriftop_on + Vector diagonalserif 0;
+    in: scale_seriftop_in + Vector diagonalserif 0;
+    out: scale_seriftop_out + Vector diagonalserif 0;
+
+}
+}
+@namespace(penstroke#trl) { point:i(1) > center {
+    on: scale_seriftop_on - Vector diagonalserif 0;
+    in: scale_seriftop_in - Vector diagonalserif 0;
+    out: scale_seriftop_out - Vector diagonalserif 0;
+
+}
+}
+
 }
 
 
@@ -858,6 +904,13 @@ point > center {
 
 @namespace(glyph#W) {
 
+@namespace(penstroke#stem, penstroke#stem2, penstroke#stem3, penstroke#stem4) { 
+    @dictionary {
+            point > left, point > right {  
+                penwidth: 0.85;
+            }
+    }
+}
 
 
 @namespace(penstroke#stem, penstroke#stem2, penstroke#stem3, penstroke#stem4) { 
@@ -865,7 +918,6 @@ point > center {
         on: diagonal_on;
         }   
 }
-
 
 
 point > center {
@@ -1263,9 +1315,6 @@ penstroke#bow point:i(3) > right {
 
 
 
-
-
-
 @namespace(glyph#e) {
 
 @dictionary {
@@ -1291,6 +1340,12 @@ point > center {
     on: scale_o_on;
     in: scale_o_in;
     out: scale_o_out;
+}
+
+@dictionary {  
+penstroke#bow point:i(-1) > right, penstroke#bow point:i(-1) > left{
+    penwidth: 0.9;
+    }           
 }
 }
 
@@ -1437,9 +1492,9 @@ penstroke#dot point > center {
 
 
 penstroke point > center {
-    on: scale_u_on;
-    in: scale_u_in;
-    out: scale_u_out;
+    on: scale_n_on;
+    in: scale_n_in;
+    out: scale_n_out;
 }
 
 
@@ -1869,9 +1924,9 @@ penstroke#bow point:i(1) > left {
 @namespace(glyph#u) {
 
 penstroke point > center {
-    on: scale_u_on;
-    in: scale_u_in;
-    out: scale_u_out;
+    on: scale_n_on;
+    in: scale_n_in;
+    out: scale_n_out;
 }
 
 penstroke#stem point > center {
@@ -1879,6 +1934,14 @@ penstroke#stem point > center {
     in: scale_stem_in;
     out: scale_stem_out;
 }
+
+
+penstroke#bow point > center {
+    on: scale_u_on;
+    in: scale_u_in;
+    out: scale_u_out;
+}
+
 
 /* overshoot */
 penstroke#bow point:i(1) > left {
@@ -1895,6 +1958,14 @@ penstroke#bow point:i(1) > left {
 }
 
 @import 'serif.cps';
+
+
+penstroke#brr point > center {
+    on: scale_o_on;
+    in: scale_o_in;
+    out: scale_o_out;
+}
+
 
 }
 
@@ -1943,6 +2014,13 @@ penstroke#bow point:i(1) > left {
 
 @namespace(glyph#w) {
 
+@namespace(penstroke#stem, penstroke#stem2, penstroke#stem3, penstroke#stem4) { 
+    @dictionary {
+        point > left, point > right {  
+            penwidth: 0.85;
+        }
+    }
+}
 
 @namespace(penstroke#stem, penstroke#stem2, penstroke#stem3, penstroke#stem4) { 
     point > left, point > right {
@@ -1990,8 +2068,13 @@ penstroke#stem4 point > center {
 
 @namespace(glyph#x) {
 
-
-
+@namespace(penstroke#stem, penstroke#stem2) { 
+    @dictionary {
+        point > left, point > right {  
+            penwidth: 0.85;
+    }
+}
+}
 
 @namespace(penstroke#stem, penstroke#stem2) { 
     point > left, point > right {
@@ -2402,6 +2485,8 @@ penstroke#bow2 point:i(5) > left{
 }
 
 
+
+
 point > center {
     on: scale_B_on;
     in: scale_B_in;
@@ -2415,6 +2500,23 @@ penstroke#stem point > center {
     out: scale_stem_out;
 
 }
+
+
+@dictionary {  
+penstroke#bow point:i(-2) > right, penstroke#bow point:i(-2) > left{
+    penwidth: 0.7;
+    }   
+penstroke#bow point:i(-4) > right, penstroke#bow point:i(-4) > left{
+    penwidth: 0.7;
+    }  
+penstroke#bow2 point:i(-2) > right, penstroke#bow2 point:i(-2) > left{
+    penwidth: 0.7;
+    }   
+penstroke#bow2 point:i(-4) > right, penstroke#bow2 point:i(-4) > left{
+    penwidth: 0.7;
+    }           
+}
+
 
 @import 'serif.cps';
 }
@@ -2835,6 +2937,22 @@ point > center {
 }
 }
 
+
+
+@namespace(glyph#percent) {
+
+point > center {
+    on: scale_B_on;
+    in: scale_B_in;
+    out: scale_B_out;
+}
+
+@dictionary {  
+    point > right, point > left {
+    penwidth: 0.9;
+    }           
+}
+}
 
 
 

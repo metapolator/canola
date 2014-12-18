@@ -5,14 +5,14 @@
   <outline>
     <contour>
       <point x="544" y="0" type="line"/>
-      <point x="637" y="0" type="line"/>
-      <point x="637" y="20" type="line"/>
+      <point x="637" y="0" type="line" name="brr"/>
+      <point x="637" y="20" type="line" name="brr"/>
       <point x="544" y="20" type="line"/>
     </contour>
     <contour>
       <point x="544" y="20" type="line"/>
-      <point x="441" y="20" type="line"/>
-      <point x="441" y="0" type="line"/>
+      <point x="441" y="20" type="line" name="brl"/>
+      <point x="441" y="0" type="line" name="brl"/>
       <point x="544" y="0" type="line"/>
     </contour>
     <contour>
@@ -44,10 +44,10 @@
       <point x="552" y="284" type="curve"/>
     </contour>
     <contour>
-      <point x="555" y="0" type="line"/>
-      <point x="555" y="710" type="line"/>
-      <point x="533" y="710" type="line"/>
-      <point x="533" y="0" type="line"/>
+      <point x="555" y="0" type="line" name="stem"/>
+      <point x="555" y="710" type="line" name="stem"/>
+      <point x="533" y="710" type="line" name="stem"/>
+      <point x="533" y="0" type="line" name="stem"/>
     </contour>
     <contour>
       <point x="330" y="539" type="line"/>
@@ -108,7 +108,7 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>1.0</real>
+        <real>0.0</real>
         <real>0.0</real>
         <real>1.0</real>
       </array>
