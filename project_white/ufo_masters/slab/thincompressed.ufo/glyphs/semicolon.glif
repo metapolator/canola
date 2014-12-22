@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="165"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="111" y="307"/>
+      <point x="82" y="307"/>
+      <point x="111" y="307" type="curve"/>
+      <point x="111" y="316"/>
+      <point x="105" y="321"/>
+      <point x="95" y="321" type="curve"/>
+      <point x="87" y="321"/>
+      <point x="82" y="315"/>
+      <point x="82" y="307" type="curve"/>
+      <point x="111" y="307"/>
+      <point x="82" y="307"/>
+      <point x="111" y="307" type="curve"/>
+      <point x="111" y="298"/>
+      <point x="105" y="294"/>
+      <point x="95" y="294" type="curve"/>
+      <point x="87" y="294"/>
+      <point x="82" y="299"/>
+      <point x="82" y="307" type="curve"/>
+    </contour>
+    <contour>
+      <point x="59" y="-99"/>
+      <point x="30" y="-99"/>
+      <point x="59" y="-99" type="curve"/>
+      <point x="84" y="-39"/>
+      <point x="110" y="22"/>
+      <point x="135" y="82" type="curve"/>
+      <point x="102" y="82"/>
+      <point x="135" y="82"/>
+      <point x="102" y="82" type="curve"/>
+      <point x="78" y="22"/>
+      <point x="54" y="-39"/>
+      <point x="30" y="-99" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
