@@ -14,13 +14,13 @@ All `.cps` files has been updated and includes now the `@import` method.
 #####First batch
 
 A first batch of the complete family can be reviewed. The glyph range has been limited to 90 characters due processing time. 
+Please open the `.html` testpages from `/project_sean/ttf_instances` on your local machine and use Chrome as only `.ttf` has been generated so far.
 
+![image](sans.png)
 
-[Slab Serif](http://metapolator.github.io/sean/slab.html)
+![image](slab.png)
 
-[Sans Serif](http://metapolator.github.io/sean/sans.html)
-
-Stencil
+Stencil (comming...)
 <!--[Stencil](http://metapolator.github.io/sean/sten.html)-->
 
 
