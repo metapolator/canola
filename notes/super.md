@@ -16,9 +16,12 @@ All `.cps` files has been updated and includes now the `@import` method.
 A first batch of the complete family can be reviewed. The glyph range has been limited to 90 characters due processing time. 
 
 
-[Slab Serif](http://metapolator.github.io/slab/)
-[Sans Serif](http://metapolator.github.io/sans/)
-[Stencil](http://metapolator.github.io/sten/)
+[Slab Serif](http://metapolator.github.io/sean/slab.html)
+
+[Sans Serif](http://metapolator.github.io/sean/sans.html)
+
+Stencil
+<!--[Stencil](http://metapolator.github.io/sean/sten.html)-->
 
 
 ##### Issues
