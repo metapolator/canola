@@ -16,141 +16,141 @@ masters:
     cpsFile: thincompressed.cps
     skeleton: skeleton.base     
 ## interpolated masters:
-  compressedthin:
-      cpsFile: compressedthin.cps
-      skeleton: skeleton.base    
-  compressedlight:
-      cpsFile: compressedlight.cps
-      skeleton: skeleton.base
-  compressedextraligth:
-      cpsFile: compressedextraligth.cps
-      skeleton: skeleton.base
-  compressedregular:
-      cpsFile: compressedregular.cps
-      skeleton: skeleton.base
-  compressedmedium:
-      cpsFile: compressedmedium.cps
-      skeleton: skeleton.base
-  compressedsemibold:
-      cpsFile: compressedsemibold.cps
-      skeleton: skeleton.base
-  compressedbold:
-      cpsFile: compressedbold.cps
-      skeleton: skeleton.base
-  compressedextrabold:
-      cpsFile: compressedextrabold.cps
-      skeleton: skeleton.base
-  compressedblack:
-      cpsFile: compressedblack.cps
-      skeleton: skeleton.base
-  condensedthin:
-      cpsFile: condensedthin.cps
-      skeleton: skeleton.base
-  condensedextralight:
-      cpsFile: condensedextralight.cps
-      skeleton: skeleton.base
-  condensedlight:
-      cpsFile: condensedlight.cps
-      skeleton: skeleton.base
-  condensedregular:
-      cpsFile: condensedregular.cps
-      skeleton: skeleton.base
-  condensedmedium:
-      cpsFile: condensedmedium.cps
-      skeleton: skeleton.base
-  condensedsemibold:
-      cpsFile: condensedsemibold.cps
-      skeleton: skeleton.base
-  condensedbold:
-      cpsFile: condensedbold.cps
-      skeleton: skeleton.base
-  condensedextrabold:
-      cpsFile: condensedextrabold.cps
-      skeleton: skeleton.base
-  condensedblack:
-      cpsFile: condensedblack.cps
-      skeleton: skeleton.base
-  narrowthin:
-      cpsFile: narrowthin.cps
-      skeleton: skeleton.base
-  narrowextralight:
-      cpsFile: narrowextralight.cps
-      skeleton: skeleton.base
-  narrowlight:
-      cpsFile: narrowlight.cps
-      skeleton: skeleton.base
-  narrowregular:
-      cpsFile: narrowregular.cps
-      skeleton: skeleton.base
-  narrowmedium:
-      cpsFile: narrowmedium.cps
-      skeleton: skeleton.base
-  narrowsemibold:
-      cpsFile: narrowsemibold.cps
-      skeleton: skeleton.base
-  narrowbold:
-      cpsFile: narrowbold.cps
-      skeleton: skeleton.base
-  narrowextrabold:
-      cpsFile: narrowextrabold.cps
-      skeleton: skeleton.base
-  narrowblack:
-      cpsFile: narrowblack.cps
-      skeleton: skeleton.base
-  normalthin:
-      cpsFile: normalthin.cps
-      skeleton: skeleton.base
-  normalextralight:
-      cpsFile: normalextralight.cps
-      skeleton: skeleton.base
-  normallight:
-      cpsFile: normallight.cps
-      skeleton: skeleton.base
-  normalregular:
-      cpsFile: normalregular.cps
-      skeleton: skeleton.base
-  normalmedium:
-      cpsFile: normalmedium.cps
-      skeleton: skeleton.base
-  normalsemibold:
-      cpsFile: normalsemibold.cps
-      skeleton: skeleton.base
-  normalbold:
-      cpsFile: normalbold.cps
-      skeleton: skeleton.base
-  normalextrabold:
-      cpsFile: normalextrabold.cps
-      skeleton: skeleton.base
-  normalblack:
-      cpsFile: normalblack.cps
-      skeleton: skeleton.base
-  widethin:
-      cpsFile: widethin.cps
-      skeleton: skeleton.base
-  wideextralight:
-      cpsFile: wideextralight.cps
-      skeleton: skeleton.base
-  widelight:
-      cpsFile: widelight.cps
-      skeleton: skeleton.base
-  wideregular:
-      cpsFile: wideregular.cps
-      skeleton: skeleton.base
-  widemedium:
-      cpsFile: widemedium.cps
-      skeleton: skeleton.base
-  widesemibold:
-      cpsFile: widesemibold.cps
-      skeleton: skeleton.base
-  widebold:
-      cpsFile: widebold.cps
-      skeleton: skeleton.base
-  wideextrabold:
-      cpsFile: wideextrabold.cps
-      skeleton: skeleton.base
-  wideblack:
-      cpsFile: wideblack.cps
-      skeleton: skeleton.base
+  # compressedthin:
+  #     cpsFile: compressedthin.cps
+  #     skeleton: skeleton.base    
+  # compressedlight:
+  #     cpsFile: compressedlight.cps
+  #     skeleton: skeleton.base
+  # compressedextraligth:
+  #     cpsFile: compressedextraligth.cps
+  #     skeleton: skeleton.base
+  # compressedregular:
+  #     cpsFile: compressedregular.cps
+  #     skeleton: skeleton.base
+  # compressedmedium:
+  #     cpsFile: compressedmedium.cps
+  #     skeleton: skeleton.base
+  # compressedsemibold:
+  #     cpsFile: compressedsemibold.cps
+  #     skeleton: skeleton.base
+  # compressedbold:
+  #     cpsFile: compressedbold.cps
+  #     skeleton: skeleton.base
+  # compressedextrabold:
+  #     cpsFile: compressedextrabold.cps
+  #     skeleton: skeleton.base
+  # compressedblack:
+  #     cpsFile: compressedblack.cps
+  #     skeleton: skeleton.base
+  # condensedthin:
+  #     cpsFile: condensedthin.cps
+  #     skeleton: skeleton.base
+  # condensedextralight:
+  #     cpsFile: condensedextralight.cps
+  #     skeleton: skeleton.base
+  # condensedlight:
+  #     cpsFile: condensedlight.cps
+  #     skeleton: skeleton.base
+  # condensedregular:
+  #     cpsFile: condensedregular.cps
+  #     skeleton: skeleton.base
+  # condensedmedium:
+  #     cpsFile: condensedmedium.cps
+  #     skeleton: skeleton.base
+  # condensedsemibold:
+  #     cpsFile: condensedsemibold.cps
+  #     skeleton: skeleton.base
+  # condensedbold:
+  #     cpsFile: condensedbold.cps
+  #     skeleton: skeleton.base
+  # condensedextrabold:
+  #     cpsFile: condensedextrabold.cps
+  #     skeleton: skeleton.base
+  # condensedblack:
+  #     cpsFile: condensedblack.cps
+  #     skeleton: skeleton.base
+  # narrowthin:
+  #     cpsFile: narrowthin.cps
+  #     skeleton: skeleton.base
+  # narrowextralight:
+  #     cpsFile: narrowextralight.cps
+  #     skeleton: skeleton.base
+  # narrowlight:
+  #     cpsFile: narrowlight.cps
+  #     skeleton: skeleton.base
+  # narrowregular:
+  #     cpsFile: narrowregular.cps
+  #     skeleton: skeleton.base
+  # narrowmedium:
+  #     cpsFile: narrowmedium.cps
+  #     skeleton: skeleton.base
+  # narrowsemibold:
+  #     cpsFile: narrowsemibold.cps
+  #     skeleton: skeleton.base
+  # narrowbold:
+  #     cpsFile: narrowbold.cps
+  #     skeleton: skeleton.base
+  # narrowextrabold:
+  #     cpsFile: narrowextrabold.cps
+  #     skeleton: skeleton.base
+  # narrowblack:
+  #     cpsFile: narrowblack.cps
+  #     skeleton: skeleton.base
+  # normalthin:
+  #     cpsFile: normalthin.cps
+  #     skeleton: skeleton.base
+  # normalextralight:
+  #     cpsFile: normalextralight.cps
+  #     skeleton: skeleton.base
+  # normallight:
+  #     cpsFile: normallight.cps
+  #     skeleton: skeleton.base
+  # normalregular:
+  #     cpsFile: normalregular.cps
+  #     skeleton: skeleton.base
+  # normalmedium:
+  #     cpsFile: normalmedium.cps
+  #     skeleton: skeleton.base
+  # normalsemibold:
+  #     cpsFile: normalsemibold.cps
+  #     skeleton: skeleton.base
+  # normalbold:
+  #     cpsFile: normalbold.cps
+  #     skeleton: skeleton.base
+  # normalextrabold:
+  #     cpsFile: normalextrabold.cps
+  #     skeleton: skeleton.base
+  # normalblack:
+  #     cpsFile: normalblack.cps
+  #     skeleton: skeleton.base
+  # widethin:
+  #     cpsFile: widethin.cps
+  #     skeleton: skeleton.base
+  # wideextralight:
+  #     cpsFile: wideextralight.cps
+  #     skeleton: skeleton.base
+  # widelight:
+  #     cpsFile: widelight.cps
+  #     skeleton: skeleton.base
+  # wideregular:
+  #     cpsFile: wideregular.cps
+  #     skeleton: skeleton.base
+  # widemedium:
+  #     cpsFile: widemedium.cps
+  #     skeleton: skeleton.base
+  # widesemibold:
+  #     cpsFile: widesemibold.cps
+  #     skeleton: skeleton.base
+  # widebold:
+  #     cpsFile: widebold.cps
+  #     skeleton: skeleton.base
+  # wideextrabold:
+  #     cpsFile: wideextrabold.cps
+  #     skeleton: skeleton.base
+  # wideblack:
+  #     cpsFile: wideblack.cps
+  #     skeleton: skeleton.base
 
 
 

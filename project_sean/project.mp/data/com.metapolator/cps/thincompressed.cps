@@ -56,6 +56,7 @@
         poststroke: factor * stroke /2;
         nailstroke: f * stroke /2;
         nailstrokecomp: factor * halfstroke * 0.8;
+        overshoot: 5;
 
     }
     point > left, point > right {  
@@ -161,8 +162,20 @@ point > right {
 
 
 
-
 @namespace(glyph#A) {
+
+    @dictionary{
+        penstroke#bar point:i(1) > center {
+            xSten: 0;
+            ySten: 0;
+        }
+        penstroke#stem point:i(1) > center {
+            xSten: 0;
+            ySten: 0;
+        }
+    }
+         
+             
 
 
     @namespace(penstroke#bll, penstroke#blr, penstroke#brl, penstroke#brr) { point:i(0) > center {
@@ -742,13 +755,6 @@ penstroke#bow point:i(4) > right{
 @import 'serif.cps';
 
 
-/* overshoot */
-penstroke#bow point:i(1) > left {
-    on: wedge + Vector 0 overshoot;
-}
-penstroke#bow point:i(5) > left {
-    on: wedge - Vector 0 overshoot;
-}
 }
 
 
@@ -2608,6 +2614,18 @@ penstroke#stem point > center {
 }
 
 
+@namespace(glyph#two) {
+
+@dictionary {
+    center {
+        nailtobrt: S"master#thincompressed .left-brt > left":on;   
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+}
+
+
 @namespace(glyph#aadeva) {
 
 
@@ -2904,6 +2922,41 @@ point > center {
 
 
 
+@import 'deva.cps';
+
+
+@namespace(glyph#dollar) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#thincompressed .right-blt > right":on;   
+        nailtotrb: S"master#thincompressed .left-trb > left":on;   
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+
+@import 'generic.cps';
+}
+
+
+
+@namespace(glyph#jadeva) {
+
+@import 'generic.cps';
+@import 'serif.cps';
+
+}
+
+
+@namespace(glyph#uni0926094D09300942) {
+
+@import 'generic.cps';
+@import 'serif.cps';
+
+}
+
+
 
 
 /* adjusting dots*/
@@ -2939,6 +2992,7 @@ point:i(-1) > right {
 point:i(-1) > left {
     out: parent:right:on 
 }
+
 
 
 

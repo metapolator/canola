@@ -56,6 +56,7 @@
         poststroke: factor * stroke /2;
         nailstroke: f * stroke /2;
         nailstrokecomp: factor * halfstroke * 0.8;
+        overshoot: 5;
 
     }
     point > left, point > right {  
@@ -2903,6 +2904,50 @@ point > center {
 
 
 
+
+@import 'deva.cps';
+
+
+@namespace(glyph#dollar) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#thinwide .right-blt > right":on;   
+        nailtotrb: S"master#thinwide .left-trb > left":on;   
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+
+@import 'generic.cps';
+}
+
+
+@namespace(glyph#two) {
+
+@dictionary {
+    center {
+        nailtobrt: S"master#thinwide .left-brt > left":on;   
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+}
+
+
+@namespace(glyph#jadeva) {
+
+@import 'generic.cps';
+@import 'serif.cps';
+
+}
+
+@namespace(glyph#uni0926094D09300942) {
+
+@import 'generic.cps';
+@import 'serif.cps';
+
+}
 
 
 

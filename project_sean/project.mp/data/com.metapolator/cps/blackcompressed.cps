@@ -56,6 +56,7 @@
         poststroke: factor * stroke /2;
         nailstroke: f * stroke /2;
         nailstrokecomp: factor * halfstroke * 0.85;
+        overshoot: 5;
 
     }
     point > left, point > right {  
@@ -208,9 +209,6 @@ penstroke#stem point > center {
     out: scale_stem_out;
 
 }
-
-
-
 
 @import 'serif.cps';
 }
@@ -2955,8 +2953,53 @@ point > center {
 }
 
 
+@import 'deva.cps';
 
 
+@namespace(glyph#dollar) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#blackcompressed .right-blt > right":on;   
+        nailtotrb: S"master#blackcompressed .left-trb > left":on;   
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+
+@import 'generic.cps';
+}
+
+
+
+@namespace(glyph#two) {
+
+@dictionary {
+    center {
+        nailtobrt: S"master#blackcompressed .left-brt > left":on;   
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+}
+
+
+
+
+@namespace(glyph#jadeva) {
+
+@import 'generic.cps';
+@import 'serif.cps';
+
+}
+
+
+@namespace(glyph#uni0926094D09300942) {
+
+@import 'generic.cps';
+@import 'serif.cps';
+
+}
 
 /* adjusting dots*/
 
