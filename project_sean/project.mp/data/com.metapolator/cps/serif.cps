@@ -34,6 +34,42 @@
 
 
 
+@namespace(penstroke#bll, penstroke#brl, penstroke#bcl) { point:i(0) > center {
+    on: scale_serif_on - Vector 0 0;
+    in: scale_serif_in - Vector 0 0;
+    out: scale_serif_out - Vector 0 0;
+
+}
+}
+
+@namespace(penstroke#blr, penstroke#brr, penstroke#bcr) { point:i(0) > center {
+    on: scale_serif_on + Vector 0 0;
+    in: scale_serif_in + Vector 0 0;
+    out: scale_serif_out + Vector 0 0;
+
+}
+}
+    @namespace(penstroke#tll, penstroke#trl, penstroke#tcl) { point:i(0) > center {
+    on: scale_seriftop_on - Vector 0 0;
+    in: scale_seriftop_in - Vector 0 0;
+    out: scale_seriftop_out - Vector 0 0;
+
+}
+}
+
+    @namespace(penstroke#tlr, penstroke#trr, penstroke#tcr) { point:i(0) > center {
+    on: scale_seriftop_on + Vector 0 0;
+    in: scale_seriftop_in + Vector 0 0;
+    out: scale_seriftop_out + Vector 0 0;
+
+}
+}
+
+
+
+
+
+
 /* Vertical Serifs */
  
 penstroke#trb point:i(0) > center {
@@ -136,23 +172,25 @@ penstroke#crb point:i(0) > center {
 
 
 
+
+
 @namespace(penstroke#tlr, penstroke#trr, penstroke#tcr) { point:i(1) > right {
-    on: wedge + Vector 0 slab;
+    on: wedge + Vector 0 0;
 }
 }
 
 @namespace(penstroke#tll, penstroke#trl, penstroke#tcl) { point:i(1) > left {
-    on: wedge + Vector 0 slab;
+    on: wedge + Vector 0 0;
 }
 }
 
 @namespace(penstroke#bll, penstroke#brl, penstroke#bcl) { point:i(1) > right {
-    on: wedge - Vector 0 slab;
+    on: wedge - Vector 0 0;
 }
 }
 
 @namespace(penstroke#blr, penstroke#brr, penstroke#bcr) { point:i(1) > left{
-    on: wedge - Vector 0 slab;
+    on: wedge - Vector 0 0;
 }
 }
 

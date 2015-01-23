@@ -1149,14 +1149,14 @@ penstroke#brr point:i(1) > left{
 @import 'serif.cps';
 
 
-/* overshoot */
+/* overshoot 
 penstroke#bow point:i(2) > right {
     on: wedge + Vector 0 overshoot;
 }
 penstroke#bowlow point:i(1) > left {
     on: wedge - Vector 0 overshoot;
 }
-
+*/
 
 /* branch compensation */
 penstroke#bowlow point:i(0) > left {
@@ -1703,63 +1703,19 @@ penstroke point > center {
 }
 
 
-/* overshoot */
+/* overshoot 
 penstroke#bow point:i(1) > left {
     on: wedge + Vector 0 overshoot;
 }
 penstroke#bow point:i(3) > left {
     on: wedge - Vector 0 overshoot;
 }
-
+*/
 @import 'serif.cps';
 
 }
 
 
-
-
-@namespace(glyph#p) {
-
-penstroke point > center {
-    on: scale_n_on;
-    in: scale_n_in;
-    out: scale_n_out;
-}
-
-penstroke#stem point > center {
-    on: scale_stem_on;
-    in: scale_stem_in;
-    out: scale_stem_out;
-}
-
-/* overshoot */
-penstroke#bow point:i(1) > left {
-    on: wedge + Vector 0 overshoot;
-}
-penstroke#bow point:i(3) > left {
-    on: wedge + Vector 0 overshoot;
-}
-
-
-
-/* branch compensation */
-penstroke#bow point:i(0) > left {
-    on: branch + Vector branchcompensation 0;
-}
-penstroke#bow point:i(1) > left {
-    on: branch + Vector branchcompensation 0;
-}
-penstroke#bow point:i(4) > left {
-    on: branch + Vector branchcompensation 0;
-}
-penstroke#bow point:i(3) > left {
-    on: branch + Vector branchcompensation 0;
-}
-
-
-@import 'serif.cps';
-
-}
 
 
 
@@ -2954,6 +2910,45 @@ point > center {
 @import 'generic.cps';
 @import 'serif.cps';
 
+}
+
+
+
+
+
+@namespace(glyph#dvA) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#thincompressed glyph#dvA penstroke#bow point:i(0) center":on;       
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+}
+
+
+@namespace(glyph#dvOcandra) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#thincompressed glyph#dvOcandra penstroke#bow point:i(0) center":on;       
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+}
+
+
+@namespace(glyph#dvO) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#thincompressed glyph#dvO penstroke#bow point:i(0) center":on;       
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
 }
 
 

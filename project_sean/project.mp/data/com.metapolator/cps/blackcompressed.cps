@@ -639,7 +639,6 @@ penstroke#bow point:i(3) > left {
 
 
 
-
 @namespace(glyph#P) {
 
 point > center {
@@ -1151,14 +1150,14 @@ penstroke#brr point:i(1) > left{
 @import 'serif.cps';
 
 
-/* overshoot */
+/* overshoot 
 penstroke#bow point:i(2) > right {
     on: wedge + Vector 0 overshoot;
 }
 penstroke#bowlow point:i(1) > left {
     on: wedge - Vector 0 overshoot;
 }
-
+*/
 
 /* branch compensation */
 penstroke#bowlow point:i(0) > left {
@@ -1209,7 +1208,7 @@ penstroke#bow point:i(3) > left {
     on: wedge - Vector 0 overshoot;
 }
 
-/* branch compensation */
+/* branch compensation 
 penstroke#bow point:i(0) > left {
     on: branch + Vector branchcompensation 0;
 }
@@ -1222,7 +1221,7 @@ penstroke#bow point:i(4) > left {
 penstroke#bow point:i(3) > left {
     on: branch + Vector branchcompensation 0;
 }
-
+*/
 @import 'serif.cps';
 
 }
@@ -1706,13 +1705,14 @@ penstroke point > center {
 }
 
 
-/* overshoot */
+/* overshoot 
 penstroke#bow point:i(1) > left {
     on: wedge + Vector 0 overshoot;
 }
 penstroke#bow point:i(3) > left {
     on: wedge - Vector 0 overshoot;
 }
+*/
 
 @import 'serif.cps';
 
@@ -1720,49 +1720,6 @@ penstroke#bow point:i(3) > left {
 
 
 
-
-@namespace(glyph#p) {
-
-penstroke point > center {
-    on: scale_g_on;
-    in: scale_g_in;
-    out: scale_g_out;
-}
-
-penstroke#stem point > center {
-    on: scale_stem_on;
-    in: scale_stem_in;
-    out: scale_stem_out;
-}
-
-/* overshoot */
-penstroke#bow point:i(1) > left {
-    on: wedge + Vector 0 overshoot;
-}
-penstroke#bow point:i(3) > left {
-    on: wedge + Vector 0 overshoot;
-}
-
-
-
-/* branch compensation */
-penstroke#bow point:i(0) > left {
-    on: branch + Vector branchcompensation 0;
-}
-penstroke#bow point:i(1) > left {
-    on: branch + Vector branchcompensation 0;
-}
-penstroke#bow point:i(4) > left {
-    on: branch + Vector branchcompensation 0;
-}
-penstroke#bow point:i(3) > left {
-    on: branch + Vector branchcompensation 0;
-}
-
-
-@import 'serif.cps';
-
-}
 
 
 
@@ -3011,6 +2968,44 @@ penstroke#dot2 point > left, penstroke#dot2 point > right {
     penwidth: 0.7;
     }
 }
+
+
+
+
+@namespace(glyph#dvA) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#blackcompressed glyph#dvA penstroke#bow point:i(0) center":on;       
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+}
+
+@namespace(glyph#dvOcandra) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#blackcompressed glyph#dvOcandra penstroke#bow point:i(0) center":on;       
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+}
+
+
+@namespace(glyph#dvO) {
+
+@dictionary {
+    center {
+        nailtoblt: S"master#blackcompressed glyph#dvO penstroke#bow point:i(0) center":on;       
+        serifx: pointBefore:on:x;
+        serify: pointBefore:on:y;
+    }
+}
+}
+
 
 
 

@@ -1,4 +1,10 @@
 
+penstroke#bow point > center {
+    on: scale_o_on;
+    in: scale_o_in;
+    out: scale_o_out;
+}
+
 point > center {
     on: scale_B_on;
     in: scale_B_in;
@@ -34,15 +40,15 @@ point.right-over_bottom > center {
 }
 
 point.left-over_top > center {
-    on: scale_B_on - Vector 0 overshoot;
-    in: scale_B_in - Vector 0 overshoot;
-    out: scale_B_out - Vector 0 overshoot;
+    on: scale_B_on + Vector 0 overshoot;
+    in: scale_B_in + Vector 0 overshoot;
+    out: scale_B_out + Vector 0 overshoot;
 }
 
-point.left-over_top > center {
-    on: scale_B_on - Vector 0 overshoot;
-    in: scale_B_in - Vector 0 overshoot;
-    out: scale_B_out - Vector 0 overshoot;
+point.right-over_top > center {
+    on: scale_B_on + Vector 0 overshoot;
+    in: scale_B_in + Vector 0 overshoot;
+    out: scale_B_out + Vector 0 overshoot;
 }
 
 
@@ -67,7 +73,6 @@ point.left-over_top > right {
 */
 
 
-@import 'serif.cps';
 
 
 
