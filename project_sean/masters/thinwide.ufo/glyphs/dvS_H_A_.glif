@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvSHA" format="1">
-  <advance width="765"/>
+  <advance width="1063"/>
   <unicode hex="0936"/>
   <outline>
     <contour>
@@ -32,18 +32,18 @@
       <point x="868.25" y="722" type="curve"/>
     </contour>
     <contour>
-      <point x="1048.95" y="722"/>
-      <point x="1048.95" y="701.22"/>
-      <point x="1048.95" y="722" type="curve"/>
-      <point x="980.1006885" y="722"/>
+      <point x="1079" y="722"/>
+      <point x="1079" y="701"/>
+      <point x="1079" y="722" type="curve"/>
+      <point x="1010" y="722"/>
       <point x="911.2493115" y="722"/>
       <point x="842.4" y="722" type="curve"/>
       <point x="842.4" y="701.22"/>
       <point x="842.4" y="722"/>
       <point x="842.4" y="701.22" type="curve"/>
       <point x="911.2493115" y="701.22"/>
-      <point x="980.1006885" y="701.22"/>
-      <point x="1048.95" y="701.22" type="curve"/>
+      <point x="1010" y="701"/>
+      <point x="1079" y="701" type="curve"/>
     </contour>
     <contour>
       <point x="193.625" y="495.344"/>
@@ -62,7 +62,7 @@
       <point x="387.136450605" y="235.084444444"/>
       <point x="178.2" y="235.084444444" type="curve"/>
       <point x="117.649536329" y="234.93399796"/>
-      <point x="63.7280329771" y="252.897830324"/>
+      <point x="94" y="252"/>
       <point x="60.95" y="305.565666667" type="curve"/>
       <point x="39.95" y="294.136666667"/>
       <point x="60.95" y="305.565666667"/>
@@ -119,9 +119,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>1.0</real>
         <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
         <real>1.0</real>
       </array>
     </dict>

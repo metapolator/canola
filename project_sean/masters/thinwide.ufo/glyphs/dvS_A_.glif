@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvSA" format="1">
-  <advance width="763"/>
+  <advance width="1049"/>
   <unicode hex="0938"/>
   <outline>
     <contour>
@@ -64,18 +64,18 @@
       <point x="832.75" y="1.3470669892e-15" type="curve"/>
     </contour>
     <contour>
-      <point x="1042.2" y="722"/>
-      <point x="1042.2" y="701.22"/>
-      <point x="1042.2" y="722" type="curve"/>
-      <point x="689.403528" y="722"/>
+      <point x="1062" y="722"/>
+      <point x="1062" y="701"/>
+      <point x="1062" y="722" type="curve"/>
+      <point x="709" y="722"/>
       <point x="336.596472" y="722"/>
       <point x="-16.2" y="722" type="curve"/>
       <point x="-16.2" y="701.22"/>
       <point x="-16.2" y="722"/>
       <point x="-16.2" y="701.22" type="curve"/>
       <point x="336.596472" y="701.22"/>
-      <point x="689.403528" y="701.22"/>
-      <point x="1042.2" y="701.22" type="curve"/>
+      <point x="709" y="701"/>
+      <point x="1062" y="701" type="curve"/>
     </contour>
     <contour>
       <point x="456.375" y="1.28355555556"/>
@@ -127,9 +127,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>1.0</real>
         <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
         <real>1.0</real>
       </array>
     </dict>
