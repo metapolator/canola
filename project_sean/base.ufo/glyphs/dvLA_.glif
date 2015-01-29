@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvLA" format="1">
+  <advance width="781"/>
+  <unicode hex="0932"/>
+  <outline>
+    <contour>
+      <point x="641" y="710" type="line"/>
+      <point x="641" y="0" type="line"/>
+      <point x="663" y="0" type="line"/>
+      <point x="663" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="793" y="722" type="line"/>
+      <point x="-12" y="722" type="line"/>
+      <point x="-12" y="702" type="line"/>
+      <point x="793" y="702" type="line"/>
+    </contour>
+    <contour>
+      <point x="653" y="467" type="line"/>
+      <point x="612.714780531" y="493.185392655"/>
+      <point x="576.0" y="510.0"/>
+      <point x="526" y="510" type="curve" smooth="yes"/>
+      <point x="407.075144509" y="510.0"/>
+      <point x="364" y="411"/>
+      <point x="364" y="277" type="curve"/>
+      <point x="382" y="277" type="line"/>
+      <point x="382" y="393"/>
+      <point x="415.854304636" y="490.0"/>
+      <point x="524" y="490" type="curve" smooth="yes"/>
+      <point x="572" y="490"/>
+      <point x="606" y="477"/>
+      <point x="646" y="450" type="curve"/>
+    </contour>
+    <contour>
+      <point x="295" y="8" type="line"/>
+      <point x="173.070223861" y="93.1573039702"/>
+      <point x="79" y="176"/>
+      <point x="79" y="328" type="curve" smooth="yes"/>
+      <point x="79" y="426"/>
+      <point x="130.920529801" y="493.0"/>
+      <point x="219" y="493" type="curve" smooth="yes"/>
+      <point x="293" y="493"/>
+      <point x="341" y="460"/>
+      <point x="391" y="405" type="curve"/>
+      <point x="401" y="421" type="line"/>
+      <point x="349" y="478"/>
+      <point x="298" y="513"/>
+      <point x="221" y="513" type="curve" smooth="yes"/>
+      <point x="118.851428571" y="513.0"/>
+      <point x="57" y="438"/>
+      <point x="57" y="327" type="curve" smooth="yes"/>
+      <point x="57" y="168"/>
+      <point x="153.224225515" y="79.1313095382"/>
+      <point x="283" y="-9" type="curve"/>
+    </contour>
+    <contour>
+      <point x="650" y="0" type="line"/>
+      <point x="743" y="0" type="line" name="brr"/>
+      <point x="743" y="20" type="line" name="brr"/>
+      <point x="650" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="20" type="line"/>
+      <point x="547" y="20" type="line" name="bll"/>
+      <point x="547" y="0" type="line" name="bll"/>
+      <point x="650" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvLA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>781</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

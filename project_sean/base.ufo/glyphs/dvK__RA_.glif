@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvK_RA" format="1">
+  <advance width="860"/>
+  <unicode hex="E063"/>
+  <outline>
+    <contour>
+      <point x="431" y="0" type="line"/>
+      <point x="534" y="0" type="line" name="brr"/>
+      <point x="534" y="20" type="line" name="brr"/>
+      <point x="431" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11" y="702" type="line"/>
+      <point x="879" y="702" type="line"/>
+      <point x="879" y="722" type="line"/>
+      <point x="-11" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="710" type="line"/>
+      <point x="419" y="0" type="line" name="stem"/>
+      <point x="441" y="0" type="line" name="stem"/>
+      <point x="441" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="339" type="line"/>
+      <point x="392.2241586" y="251.657531894"/>
+      <point x="326.130434783" y="207.0"/>
+      <point x="242" y="207" type="curve" smooth="yes"/>
+      <point x="152.68" y="207.0"/>
+      <point x="88.0" y="274.0"/>
+      <point x="88" y="367" type="curve" smooth="yes"/>
+      <point x="88.0" y="460.0"/>
+      <point x="154.688311688" y="525.0"/>
+      <point x="246" y="525" type="curve" smooth="yes"/>
+      <point x="325.189944134" y="525.0"/>
+      <point x="382.574819551" y="480.850360897"/>
+      <point x="421" y="404" type="curve"/>
+      <point x="434" y="412" type="line"/>
+      <point x="399.349859642" y="496.150340869"/>
+      <point x="331.1875" y="545.0"/>
+      <point x="246" y="545" type="curve" smooth="yes"/>
+      <point x="142.704545455" y="545.0"/>
+      <point x="66.0" y="473.0"/>
+      <point x="66" y="368" type="curve" smooth="yes"/>
+      <point x="66.0" y="262.0"/>
+      <point x="139.674418605" y="187.0"/>
+      <point x="242" y="187" type="curve" smooth="yes"/>
+      <point x="336.070351759" y="187.0"/>
+      <point x="407.177845724" y="237.569106317"/>
+      <point x="437" y="333" type="curve"/>
+    </contour>
+    <contour>
+      <point x="438" y="390" type="line"/>
+      <point x="461.613105982" y="477.565268017"/>
+      <point x="519.0" y="526.0"/>
+      <point x="607" y="526" type="curve" smooth="yes"/>
+      <point x="699.817610063" y="526.0"/>
+      <point x="764.0" y="473.0"/>
+      <point x="764" y="381" type="curve" smooth="yes"/>
+      <point x="764" y="308"/>
+      <point x="726" y="264"/>
+      <point x="667" y="221" type="curve"/>
+      <point x="679" y="205" type="line"/>
+      <point x="745" y="251"/>
+      <point x="786" y="300"/>
+      <point x="786" y="380" type="curve" smooth="yes"/>
+      <point x="786.0" y="485.0"/>
+      <point x="712.817679558" y="546.0"/>
+      <point x="607" y="546" type="curve" smooth="yes"/>
+      <point x="510" y="546"/>
+      <point x="447.657979674" y="491.589166154"/>
+      <point x="424" y="394" type="curve"/>
+    </contour>
+    <contour>
+      <point x="218" y="-51" type="line"/>
+      <point x="438" y="308" type="line"/>
+      <point x="422" y="320" type="line"/>
+      <point x="199" y="-38" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>525</integer>
+          <key>y</key>
+          <integer>186</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvK_RA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>860</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

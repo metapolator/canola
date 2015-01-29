@@ -4,6 +4,7 @@ SUBSET="$(cat ./current_subset.txt)"
 #rm ./current_subsetcut.txt
 #echo $SUBSET | tr -d "_" >> ./current_subsetcut.txt
 SUBSETCUT="$(cat ./current_subsetcut.txt)"
+SUBGLIF="$(cat ./current_glifname.txt)"
 
 TEMPUFO="temp.ufo";
 BASEUFO="base.ufo";
@@ -60,12 +61,12 @@ metapolator export blackwide ../temp/blackwide.ufo;
 metapolator export thinwide ../temp/thinwide.ufo;
 metapolator export thincompressed ../temp/thincompressed.ufo;
 
-rm ../final/blackcompressed.ufo/glyphs/contents.plist
-rm ../final/blackwide.ufo/glyphs/contents.plist
-rm ../final/thinwide.ufo/glyphs/contents.plist
-rm ../final/thincompressed.ufo/glyphs/contents.plist
+rm ../post/blackcompressed.ufo/glyphs/contents.plist
+rm ../post/blackwide.ufo/glyphs/contents.plist
+rm ../post/thinwide.ufo/glyphs/contents.plist
+rm ../post/thincompressed.ufo/glyphs/contents.plist
 
-cp ../temp/blackcompressed.ufo/glyphs/$SUBSET.glif ../final/blackcompressed.ufo/glyphs/
-cp ../temp/blackwide.ufo/glyphs/$SUBSET.glif ../final/blackwide.ufo/glyphs/
-cp ../temp/thinwide.ufo/glyphs/$SUBSET.glif ../final/thinwide.ufo/glyphs/
-cp ../temp/thincompressed.ufo/glyphs/$SUBSET.glif ../final/thincompressed.ufo/glyphs/
+cp ../temp/blackcompressed.ufo/glyphs/$SUBGLIF.glif ../post/blackcompressed.ufo/glyphs/
+cp ../temp/blackwide.ufo/glyphs/$SUBGLIF.glif ../post/blackwide.ufo/glyphs/
+cp ../temp/thinwide.ufo/glyphs/$SUBGLIF.glif ../post/thinwide.ufo/glyphs/
+cp ../temp/thincompressed.ufo/glyphs/$SUBGLIF.glif ../post/thincompressed.ufo/glyphs/

@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="1">
-  <advance width="428"/>
+  <advance width="369"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="109" y="541" type="line"/>
-      <point x="316" y="704" type="line"/>
-      <point x="303" y="722" type="line"/>
-      <point x="95" y="558" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="345" y="0" type="line" name="brr"/>
+      <point x="345" y="20" type="line" name="brr"/>
+      <point x="242" y="20" type="line"/>
     </contour>
     <contour>
-      <point x="325" y="0" type="line"/>
-      <point x="325" y="722" type="line"/>
-      <point x="303" y="722" type="line"/>
-      <point x="303" y="0" type="line"/>
+      <point x="242" y="20" type="line"/>
+      <point x="139" y="20" type="line" name="bll"/>
+      <point x="139" y="0" type="line" name="bll"/>
+      <point x="242" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="539" type="line"/>
+      <point x="251" y="722" type="line"/>
+      <point x="220" y="722" type="line"/>
+      <point x="26" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="0" type="line" name="stem"/>
+      <point x="251" y="722" type="line"/>
+      <point x="229" y="722" type="line"/>
+      <point x="229" y="0" type="line" name="stem"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>428</integer>
+          <integer>369</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

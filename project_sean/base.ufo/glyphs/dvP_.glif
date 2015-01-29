@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvP" format="1">
+  <advance width="453"/>
+  <unicode hex="E053"/>
+  <outline>
+    <contour>
+      <point x="429" y="369" type="line"/>
+      <point x="395.093356678" y="292.211425417"/>
+      <point x="337.576271186" y="259.0"/>
+      <point x="255" y="259" type="curve" smooth="yes"/>
+      <point x="162.090909091" y="259.0"/>
+      <point x="109" y="326.0"/>
+      <point x="109" y="424" type="curve" smooth="yes"/>
+      <point x="109" y="710" type="line"/>
+      <point x="87" y="710" type="line"/>
+      <point x="87" y="427" type="line" smooth="yes"/>
+      <point x="87" y="315.0"/>
+      <point x="149.115853659" y="238.0"/>
+      <point x="254" y="238" type="curve" smooth="yes"/>
+      <point x="344.569948187" y="238.0"/>
+      <point x="411" y="276"/>
+      <point x="446" y="361" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-12" y="702" type="line"/>
+      <point x="444" y="702" type="line"/>
+      <point x="444" y="722" type="line"/>
+      <point x="-12" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvP</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>453</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

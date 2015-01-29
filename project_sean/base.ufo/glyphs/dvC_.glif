@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvC" format="1">
+  <advance width="717"/>
+  <unicode hex="E048"/>
+  <outline>
+    <contour>
+      <point x="76" y="495" type="line"/>
+      <point x="415" y="495" type="line"/>
+      <point x="415" y="515" type="line"/>
+      <point x="76" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="299" type="line"/>
+      <point x="521" y="227"/>
+      <point x="469.631578947" y="176.0"/>
+      <point x="390" y="176" type="curve" smooth="yes"/>
+      <point x="299.78313253" y="176.0"/>
+      <point x="234.0" y="230.0"/>
+      <point x="234" y="322" type="curve" smooth="yes"/>
+      <point x="234.0" y="430.0"/>
+      <point x="315.497382199" y="495.0"/>
+      <point x="415" y="495" type="curve"/>
+      <point x="415" y="513" type="line"/>
+      <point x="296.821596244" y="513.0"/>
+      <point x="212.0" y="441.0"/>
+      <point x="212" y="321" type="curve" smooth="yes"/>
+      <point x="212.0" y="218.0"/>
+      <point x="285.806451613" y="156.0"/>
+      <point x="388" y="156" type="curve" smooth="yes"/>
+      <point x="476.576923077" y="156.0"/>
+      <point x="536" y="209"/>
+      <point x="576" y="290" type="curve"/>
+    </contour>
+    <contour>
+      <point x="728" y="722" type="line" name=""/>
+      <point x="-12" y="722" type="line"/>
+      <point x="-12" y="702" type="line"/>
+      <point x="728" y="702" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvC</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>717</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

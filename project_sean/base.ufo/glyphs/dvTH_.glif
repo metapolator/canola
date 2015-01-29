@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTH" format="1">
+  <advance width="548"/>
+  <unicode hex="E04F"/>
+  <outline>
+    <contour>
+      <point x="71" y="370" type="line"/>
+      <point x="219.0" y="370.0"/>
+      <point x="342.0" y="420.53968254"/>
+      <point x="342" y="569" type="curve" smooth="yes"/>
+      <point x="342" y="660"/>
+      <point x="298" y="722"/>
+      <point x="211" y="722" type="curve" smooth="yes" name="over_top"/>
+      <point x="140" y="722"/>
+      <point x="94.0094356569" y="683.641624668"/>
+      <point x="93" y="615" type="curve"/>
+      <point x="93.0" y="565.46728972"/>
+      <point x="118" y="535"/>
+      <point x="161" y="509" type="curve"/>
+      <point x="171" y="526" type="line"/>
+      <point x="135" y="549"/>
+      <point x="115.0" y="574.467391304"/>
+      <point x="115" y="617" type="curve" smooth="yes"/>
+      <point x="116.011908069" y="671.643035714"/>
+      <point x="153" y="702"/>
+      <point x="210" y="702" type="curve" smooth="yes" name=""/>
+      <point x="283" y="702"/>
+      <point x="319" y="647"/>
+      <point x="320" y="569" type="curve" smooth="yes"/>
+      <point x="321.059168194" y="431.308134734"/>
+      <point x="201.0" y="390.0"/>
+      <point x="49" y="390" type="curve"/>
+    </contour>
+    <contour>
+      <point x="49" y="390" type="line"/>
+      <point x="49.0" y="242.184738956"/>
+      <point x="138.0" y="151.0"/>
+      <point x="287" y="151" type="curve" smooth="yes"/>
+      <point x="403.537549407" y="151.0"/>
+      <point x="482.743354017" y="189.52795471"/>
+      <point x="539" y="293" type="curve"/>
+      <point x="522" y="301" type="line"/>
+      <point x="472" y="210"/>
+      <point x="396.085470085" y="171.0"/>
+      <point x="290" y="171" type="curve" smooth="yes"/>
+      <point x="151.631818182" y="171.0"/>
+      <point x="71.0" y="262.406698565"/>
+      <point x="71" y="370" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvTH</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>548</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances"/>
+    <data name="previewtext" value="/dvM /dvY /dvL /dvLL /dvV /dvSH /dvSS /dvS /dvK_R"/>
+    <data name="verticalPreviewAxis" value="width"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="width" shortname="wd">
+        <color a="1.000" b="0.612" g="0.993" r="0.053"/>
+    </axis>
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="weight" shortname="wt">
+        <color a="1.000" b="0.764" g="0.000" r="0.989"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Sean Sans" filename="post/blackwide.ufo" sortorder="0" stylename="Black Wide">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Sean Sans" filename="post/thinwide.ufo" sortorder="1" stylename="Thin Wide">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Sean Sans" filename="post/thincompressed.ufo" sortorder="2" stylename="Thin Compressed">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Sean Sans" filename="post/blackcompressed.ufo" sortorder="3" stylename="Black Compressed">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Thin.ufo" sortorder="4" stylename="Condensed Thin">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Thin.ufo" sortorder="5" stylename="Narrow Thin">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Thin.ufo" sortorder="6" stylename="Normal Thin">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Thin.ufo" sortorder="7" stylename="Wide Thin">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Extralight.ufo" sortorder="8" stylename="Compressed Extralight">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="30.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Light.ufo" sortorder="9" stylename="Compressed Light">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="90.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Regular.ufo" sortorder="10" stylename="Compressed Regular">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="180.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Medium.ufo" sortorder="11" stylename="Compressed Medium">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Semibold.ufo" sortorder="12" stylename="Compressed Semibold">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="460.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Bold.ufo" sortorder="13" stylename="Compressed Bold">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="640.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Extrabold.ufo" sortorder="14" stylename="Compressed Extrabold">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="840.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Thin.ufo" sortorder="15" stylename="Compressed Thin">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Extralight.ufo" sortorder="16" stylename="Condensed Extralight">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="30.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Light.ufo" sortorder="17" stylename="Condensed Light">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="90.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Regular.ufo" sortorder="18" stylename="Condensed Regular">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="180.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Medium.ufo" sortorder="19" stylename="Condensed Medium">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Semibold.ufo" sortorder="20" stylename="Condensed Semibold">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="460.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Bold.ufo" sortorder="21" stylename="Condensed Bold">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="640.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Extrabold.ufo" sortorder="22" stylename="Condensed Extrabold">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="840.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Extralight.ufo" sortorder="23" stylename="Narrow Extralight">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="30.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Light.ufo" sortorder="24" stylename="Narrow Light">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="90.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Regular.ufo" sortorder="25" stylename="Narrow Regular">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="180.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Medium.ufo" sortorder="26" stylename="Narrow Medium">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Semibold.ufo" sortorder="27" stylename="Narrow Semibold">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="460.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Bold.ufo" sortorder="28" stylename="Narrow Bold">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="640.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Extrabold.ufo" sortorder="29" stylename="Narrow Extrabold">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="840.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Narrow Black.ufo" sortorder="30" stylename="Narrow Black">
+        <location>
+            <dimension name="width" xvalue="500.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Condensed Black.ufo" sortorder="31" stylename="Condensed Black">
+        <location>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Extralight.ufo" sortorder="32" stylename="Normal Extralight">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="30.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Light.ufo" sortorder="33" stylename="Normal Light">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="90.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Regular.ufo" sortorder="34" stylename="Normal Regular">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="180.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Medium.ufo" sortorder="35" stylename="Normal Medium">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Semibold.ufo" sortorder="36" stylename="Normal Semibold">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="460.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Bold.ufo" sortorder="37" stylename="Normal Bold">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="640.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Extrabold.ufo" sortorder="38" stylename="Normal Extrabold">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="840.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Normal Black.ufo" sortorder="39" stylename="Normal Black">
+        <location>
+            <dimension name="width" xvalue="750.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Extralight.ufo" sortorder="40" stylename="Wide Extralight">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="30.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Light.ufo" sortorder="41" stylename="Wide Light">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="90.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Regular.ufo" sortorder="42" stylename="Wide Regular">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="180.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Medium.ufo" sortorder="43" stylename="Wide Medium">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Semibold.ufo" sortorder="44" stylename="Wide Semibold">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="460.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Bold.ufo" sortorder="45" stylename="Wide Bold">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="640.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Extrabold.ufo" sortorder="46" stylename="Wide Extrabold">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="840.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Wide Black.ufo" sortorder="47" stylename="Wide Black">
+        <location>
+            <dimension name="width" xvalue="1000.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Sean Slab" filename="/Users/simonegli/Desktop/lastdesk2014/fresh_metapolator/Diamond/instances/Sean Slab-Compressed Black.ufo" sortorder="48" stylename="Compressed Black">
+        <location>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>

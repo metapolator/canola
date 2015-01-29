@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+cp ./temp/blackcompressed_.ufo/glyphs/*.glif ./final/blackcompressed.ufo/glyphs/
+cp ./temp/blackwide_.ufo/glyphs/*.glif ./final/blackwide.ufo/glyphs/
+cp ./temp/thinwide_.ufo/glyphs/*.glif ./final/thinwide.ufo/glyphs/
+cp ./temp/thincompressed_.ufo/glyphs/*.glif ./final/thincompressed.ufo/glyphs/

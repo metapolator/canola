@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shortbow" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-56" y="715" type="line"/>
+      <point x="-56" y="805"/>
+      <point x="7" y="865"/>
+      <point x="97" y="865" type="curve" smooth="yes"/>
+      <point x="187" y="865"/>
+      <point x="250" y="805"/>
+      <point x="250" y="715" type="curve"/>
+      <point x="272" y="715" type="line"/>
+      <point x="272" y="817"/>
+      <point x="200" y="886"/>
+      <point x="97" y="886" type="curve" smooth="yes"/>
+      <point x="-6" y="886"/>
+      <point x="-78" y="817"/>
+      <point x="-78" y="715" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>shortbow</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

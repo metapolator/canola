@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvGHA" format="1">
+  <advance width="637"/>
+  <unicode hex="0918"/>
+  <outline>
+    <contour>
+      <point x="489" y="251" type="line"/>
+      <point x="423" y="187"/>
+      <point x="366" y="157"/>
+      <point x="280" y="157" type="curve" smooth="yes"/>
+      <point x="172" y="157"/>
+      <point x="81.0" y="207.648275862"/>
+      <point x="81" y="301" type="curve" smooth="yes"/>
+      <point x="81.0" y="399.705035971"/>
+      <point x="169.0" y="441.0"/>
+      <point x="271" y="441" type="curve"/>
+      <point x="271" y="458" type="line"/>
+      <point x="157.0" y="458.0"/>
+      <point x="59.0" y="409.694267516"/>
+      <point x="59" y="300" type="curve" smooth="yes"/>
+      <point x="59.0" y="194.646341463"/>
+      <point x="158" y="137"/>
+      <point x="279" y="137" type="curve" smooth="yes"/>
+      <point x="370" y="137"/>
+      <point x="433.763824513" y="167.763824513"/>
+      <point x="502" y="236" type="curve"/>
+    </contour>
+    <contour>
+      <point x="180" y="718" type="line"/>
+      <point x="118" y="705"/>
+      <point x="65.0" y="652.534351145"/>
+      <point x="65" y="584" type="curve" smooth="yes"/>
+      <point x="65.0" y="487.076923077"/>
+      <point x="160.0" y="444.0"/>
+      <point x="271" y="444" type="curve"/>
+      <point x="271" y="462" type="line"/>
+      <point x="173.0" y="462.0"/>
+      <point x="87.9761935183" y="498.118776868"/>
+      <point x="87" y="585" type="curve" smooth="yes"/>
+      <point x="85.9743662462" y="645.512391473"/>
+      <point x="137.996024702" y="690.999006175"/>
+      <point x="194" y="705" type="curve"/>
+    </contour>
+    <contour>
+      <point x="483" y="710" type="line"/>
+      <point x="483" y="0" type="line" name="stem"/>
+      <point x="505" y="0" type="line" name="stem"/>
+      <point x="505" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="636" y="722" type="line"/>
+      <point x="-12" y="722" type="line"/>
+      <point x="-12" y="702" type="line"/>
+      <point x="636" y="702" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvGHA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>637</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

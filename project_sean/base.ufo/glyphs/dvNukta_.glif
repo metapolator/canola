@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNukta" format="1">
+  <advance width="0"/>
+  <unicode hex="093C"/>
+  <outline>
+    <contour>
+      <point x="-283" y="-88" type="line" name=""/>
+      <point x="-283" y="-76"/>
+      <point x="-291" y="-68"/>
+      <point x="-303" y="-68" type="curve" name="dot"/>
+      <point x="-316" y="-68"/>
+      <point x="-324" y="-77"/>
+      <point x="-324" y="-88" type="curve" name=""/>
+      <point x="-283" y="-88" type="line" name=""/>
+      <point x="-283" y="-101"/>
+      <point x="-291" y="-108"/>
+      <point x="-303" y="-108" type="curve" name="dot"/>
+      <point x="-316" y="-108"/>
+      <point x="-324" y="-100"/>
+      <point x="-324" y="-88" type="curve" name=""/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvNukta</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
