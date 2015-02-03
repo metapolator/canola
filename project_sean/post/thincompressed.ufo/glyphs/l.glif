@@ -1,67 +1,90 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="l">
-  <advance width="335" />
-  <unicode hex="006C" />
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="335"/>
+  <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="167.0" y="22.0" />
-      <point x="167.0" y="0.0" />
-      <point type="curve" x="167.0" y="22.0" />
-      <point x="35.0" y="22.0" />
-      <point x="167.0" y="22.0" />
-      <point type="curve" x="35.0" y="22.0" />
-      <point x="35.0" y="0.0" />
-      <point x="35.0" y="22.0" />
-      <point type="curve" x="35.0" y="0.0" />
-      <point x="79.0" y="0.0" />
-      <point x="123.0" y="0.0" />
-      <point type="curve" x="167.0" y="0.0" />
+      <point x="167.0" y="22.0"/>
+      <point x="167.0" y="0.0"/>
+      <point x="167.0" y="22.0" type="curve"/>
+      <point x="35.0" y="22.0"/>
+      <point x="167.0" y="22.0"/>
+      <point x="35.0" y="22.0" type="curve"/>
+      <point x="35.0" y="0.0"/>
+      <point x="35.0" y="22.0"/>
+      <point x="35.0" y="0.0" type="curve"/>
+      <point x="79.0" y="0.0"/>
+      <point x="123.0" y="0.0"/>
+      <point x="167.0" y="0.0" type="curve"/>
     </contour>
     <contour>
-      <point x="168.0" y="800.0" />
-      <point x="168.0" y="778.0" />
-      <point type="curve" x="168.0" y="800.0" />
-      <point x="124.0" y="800.0" />
-      <point x="80.0" y="800.0" />
-      <point type="curve" x="36.0" y="800.0" />
-      <point x="36.0" y="778.0" />
-      <point x="36.0" y="800.0" />
-      <point type="curve" x="36.0" y="778.0" />
-      <point x="168.0" y="778.0" />
-      <point x="36.0" y="778.0" />
-      <point type="curve" x="168.0" y="778.0" />
+      <point x="168.0" y="800.0"/>
+      <point x="168.0" y="778.0"/>
+      <point x="168.0" y="800.0" type="curve"/>
+      <point x="124.0" y="800.0"/>
+      <point x="80.0" y="800.0"/>
+      <point x="36.0" y="800.0" type="curve"/>
+      <point x="36.0" y="778.0"/>
+      <point x="36.0" y="800.0"/>
+      <point x="36.0" y="778.0" type="curve"/>
+      <point x="168.0" y="778.0"/>
+      <point x="36.0" y="778.0"/>
+      <point x="168.0" y="778.0" type="curve"/>
     </contour>
     <contour>
-      <point x="167.0" y="0.0" />
-      <point x="167.0" y="22.0" />
-      <point type="curve" x="167.0" y="0.0" />
-      <point x="211.0" y="0.0" />
-      <point x="255.0" y="0.0" />
-      <point type="curve" x="299.0" y="0.0" />
-      <point x="299.0" y="22.0" />
-      <point x="299.0" y="0.0" />
-      <point type="curve" x="299.0" y="22.0" />
-      <point x="167.0" y="22.0" />
-      <point x="299.0" y="22.0" />
-      <point type="curve" x="167.0" y="22.0" />
+      <point x="167.0" y="0.0"/>
+      <point x="167.0" y="22.0"/>
+      <point x="167.0" y="0.0" type="curve"/>
+      <point x="211.0" y="0.0"/>
+      <point x="255.0" y="0.0"/>
+      <point x="299.0" y="0.0" type="curve"/>
+      <point x="299.0" y="22.0"/>
+      <point x="299.0" y="0.0"/>
+      <point x="299.0" y="22.0" type="curve"/>
+      <point x="167.0" y="22.0"/>
+      <point x="299.0" y="22.0"/>
+      <point x="167.0" y="22.0" type="curve"/>
     </contour>
     <contour>
-      <point x="178.0" y="0.0" />
-      <point x="154.0" y="0.0" />
-      <point type="curve" x="178.0" y="0.0" />
-      <point x="178.0" y="267.0" />
-      <point x="178.0" y="533.0" />
-      <point type="curve" x="178.0" y="800.0" />
-      <point x="154.0" y="800.0" />
-      <point x="178.0" y="800.0" />
-      <point type="curve" x="154.0" y="800.0" />
-      <point x="154.0" y="533.0" />
-      <point x="154.0" y="267.0" />
-      <point type="curve" x="154.0" y="0.0" />
+      <point x="178.0" y="0.0"/>
+      <point x="154.0" y="0.0"/>
+      <point x="178.0" y="0.0" type="curve"/>
+      <point x="178.0" y="267.0"/>
+      <point x="178.0" y="533.0"/>
+      <point x="178.0" y="800.0" type="curve"/>
+      <point x="154.0" y="800.0"/>
+      <point x="178.0" y="800.0"/>
+      <point x="154.0" y="800.0" type="curve"/>
+      <point x="154.0" y="533.0"/>
+      <point x="154.0" y="267.0"/>
+      <point x="154.0" y="0.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="144" y="888" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="174" y="15" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>AAcent</string>
+          <key>x</key>
+          <integer>427</integer>
+          <key>y</key>
+          <integer>888</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

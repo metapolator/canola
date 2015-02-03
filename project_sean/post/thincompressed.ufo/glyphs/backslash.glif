@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="backslash">
-  <advance width="369" />
-  <unicode hex="005C" />
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="1">
+  <advance width="369"/>
+  <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="335.0" y="-68.0" />
-      <point x="309.7" y="-68.0" />
-      <point type="curve" x="335.0" y="-68.0" />
-      <point x="243.534248" y="235.99696" />
-      <point x="152.065752" y="540.00304" />
-      <point type="curve" x="60.6" y="844.0" />
-      <point x="35.3" y="844.0" />
-      <point x="60.6" y="844.0" />
-      <point type="curve" x="35.3" y="844.0" />
-      <point x="126.765752" y="540.00304" />
-      <point x="218.234248" y="235.99696" />
-      <point type="curve" x="309.7" y="-68.0" />
+      <point x="335.0" y="-68.0"/>
+      <point x="309.7" y="-68.0"/>
+      <point x="335.0" y="-68.0" type="curve"/>
+      <point x="243.534248" y="235.99696"/>
+      <point x="152.065752" y="540.00304"/>
+      <point x="60.6" y="844.0" type="curve"/>
+      <point x="35.3" y="844.0"/>
+      <point x="60.6" y="844.0"/>
+      <point x="35.3" y="844.0" type="curve"/>
+      <point x="126.765752" y="540.00304"/>
+      <point x="218.234248" y="235.99696"/>
+      <point x="309.7" y="-68.0" type="curve"/>
     </contour>
   </outline>
   <lib>

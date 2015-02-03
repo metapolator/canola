@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="ntilde">
-  <advance width="500" />
-  <unicode hex="00F1" />
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="1">
+  <advance width="585"/>
+  <unicode hex="00F1"/>
   <outline>
+    <component base="n"/>
+    <component base="tilde" xOffset="154" yOffset="66"/>
   </outline>
   <lib>
     <dict>

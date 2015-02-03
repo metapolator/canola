@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="500"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <component base="acute" xScale="-1.0" yScale="-1.0" xOffset="535" yOffset="1348"/>
+    <component base="grave" xScale="-1.0" yScale="-1.0" xOffset="416" yOffset="1348"/>
+    <contour>
+      <point x="267" y="601" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="1">
+  <advance width="302"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="361.725" y="742.151111111"/>
+      <point x="383.775" y="742.151111111"/>
+      <point x="361.725" y="742.151111111" type="curve"/>
+      <point x="361.725" y="664.578100295"/>
+      <point x="290.703038529" y="640.182222222"/>
+      <point x="202.25" y="640.182222222" type="curve"/>
+      <point x="117.021920096" y="640.182222222"/>
+      <point x="50.025" y="667.85967495"/>
+      <point x="50.025" y="743.148888889" type="curve"/>
+      <point x="27.975" y="743.148888889"/>
+      <point x="50.025" y="743.148888889"/>
+      <point x="27.975" y="743.148888889" type="curve"/>
+      <point x="27.975" y="653.534318527"/>
+      <point x="101.269384961" y="619.402222222"/>
+      <point x="200.15" y="619.402222222" type="curve"/>
+      <point x="304.5254243" y="619.402222222"/>
+      <point x="383.775" y="650.124103769"/>
+      <point x="383.775" y="742.151111111" type="curve"/>
+    </contour>
+    <contour>
+      <point x="201" y="629" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

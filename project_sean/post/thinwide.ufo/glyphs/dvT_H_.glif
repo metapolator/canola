@@ -1,2 +1,73 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="dvTH"><advance width="548" /><unicode hex="E04F" /><outline><contour><point x="93.1" y="369.177777778" /><point x="70.0" y="389.957777778" /><point type="curve" x="93.1" y="369.177777778" /><point x="283.113089325" y="369.177777778" /><point x="459.186532189" y="387.509045976" /><point type="curve" x="458.95" y="568.537777778" /><point x="458.737002103" y="670.514175665" /><point x="390.674877621" y="727.0" /><point type="curve" x="284.725" y="727.0" /><point x="195.824742804" y="727.0" /><point x="129.950430933" y="694.890367339" /><point type="curve" x="128.3" y="614.355333333" /><point x="128.3" y="558.926217735" /><point x="166.155363532" y="531.314797977" /><point type="curve" x="218.6" y="507.989222222" /><point x="229.1" y="525.652222222" /><point x="218.6" y="507.989222222" /><point type="curve" x="229.1" y="525.652222222" /><point x="184.527881281" y="546.809576052" /><point x="151.4" y="568.399393537" /><point type="curve" x="151.4" y="616.433333333" /><point x="153.009574896" y="682.652383101" /><point x="209.284326686" y="706.22" /><point type="curve" x="283.675" y="706.22" /><point x="374.485711537" y="706.22" /><point x="434.532281138" y="656.918282465" /><point type="curve" x="435.85" y="568.537777778" /><point x="437.397850951" y="396.535196921" /><point x="266.003464397" y="389.957777778" /><point type="curve" x="70.0" y="389.957777778" /></contour><contour><point x="68.9" y="390.737777778" /><point x="92.0" y="369.957777778" /><point type="curve" x="68.9" y="390.737777778" /><point x="68.9" y="223.206992981" /><point x="202.783610999" y="150.664444444" /><point type="curve" x="387.825" y="150.664444444" /><point x="533.239696925" y="150.664444444" /><point x="638.661822579" y="174.818165721" /><point type="curve" x="725.525" y="292.830222222" /><point x="707.675" y="301.142222222" /><point x="725.525" y="292.830222222" /><point type="curve" x="707.675" y="301.142222222" /><point x="629.405956026" y="195.788282377" /><point x="525.535263928" y="171.444444444" /><point type="curve" x="390.975" y="171.444444444" /><point x="214.79850381" y="171.444444444" /><point x="92.0" y="244.412115462" /><point type="curve" x="92.0" y="369.957777778" /></contour></outline><lib><dict><key>com.typemytype.robofont.layerData</key><dict><key>back</key><dict><key>anchors</key><array /><key>components</key><array /><key>contours</key><array /><key>lib</key><dict /><key>name</key><string>dvTH</string><key>unicodes</key><array /><key>width</key><integer>548</integer></dict></dict><key>com.typemytype.robofont.mark</key><array><real>0</real><real>0</real><real>1</real><real>1</real></array></dict></lib></glyph>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTH" format="1">
+  <advance width="548"/>
+  <unicode hex="E04F"/>
+  <outline>
+    <contour>
+      <point x="93.1" y="369.177777778"/>
+      <point x="70.0" y="389.957777778"/>
+      <point x="93.1" y="369.177777778" type="curve"/>
+      <point x="283.113089325" y="369.177777778"/>
+      <point x="459.186532189" y="387.509045976"/>
+      <point x="458.95" y="568.537777778" type="curve"/>
+      <point x="458.737002103" y="670.514175665"/>
+      <point x="390.674877621" y="727.0"/>
+      <point x="284.725" y="727.0" type="curve"/>
+      <point x="195.824742804" y="727.0"/>
+      <point x="129.950430933" y="694.890367339"/>
+      <point x="128.3" y="614.355333333" type="curve"/>
+      <point x="128.3" y="558.926217735"/>
+      <point x="166.155363532" y="531.314797977"/>
+      <point x="218.6" y="507.989222222" type="curve"/>
+      <point x="229.1" y="525.652222222"/>
+      <point x="218.6" y="507.989222222"/>
+      <point x="229.1" y="525.652222222" type="curve"/>
+      <point x="184.527881281" y="546.809576052"/>
+      <point x="151.4" y="568.399393537"/>
+      <point x="151.4" y="616.433333333" type="curve"/>
+      <point x="153.009574896" y="682.652383101"/>
+      <point x="209.284326686" y="706.22"/>
+      <point x="283.675" y="706.22" type="curve"/>
+      <point x="374.485711537" y="706.22"/>
+      <point x="434.532281138" y="656.918282465"/>
+      <point x="435.85" y="568.537777778" type="curve"/>
+      <point x="437.397850951" y="396.535196921"/>
+      <point x="266.003464397" y="389.957777778"/>
+      <point x="70.0" y="389.957777778" type="curve"/>
+    </contour>
+    <contour>
+      <point x="68.9" y="390.737777778"/>
+      <point x="92.0" y="369.957777778"/>
+      <point x="68.9" y="390.737777778" type="curve"/>
+      <point x="68.9" y="223.206992981"/>
+      <point x="202.783610999" y="150.664444444"/>
+      <point x="387.825" y="150.664444444" type="curve"/>
+      <point x="533.239696925" y="150.664444444"/>
+      <point x="638.661822579" y="174.818165721"/>
+      <point x="725.525" y="292.830222222" type="curve"/>
+      <point x="707.675" y="301.142222222"/>
+      <point x="725.525" y="292.830222222"/>
+      <point x="707.675" y="301.142222222" type="curve"/>
+      <point x="629.405956026" y="195.788282377"/>
+      <point x="525.535263928" y="171.444444444"/>
+      <point x="390.975" y="171.444444444" type="curve"/>
+      <point x="214.79850381" y="171.444444444"/>
+      <point x="92.0" y="244.412115462"/>
+      <point x="92.0" y="369.957777778" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

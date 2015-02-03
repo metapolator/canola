@@ -1,21 +1,24 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="comma">
-  <advance width="280" />
-  <unicode hex="002C" />
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="280"/>
+  <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="110.8" y="-99.0" />
-      <point x="86.6" y="-99.0" />
-      <point type="curve" x="110.8" y="-99.0" />
-      <point x="136.668901577" y="-38.5821310329" />
-      <point x="163.131098423" y="21.5821310329" />
-      <point type="curve" x="189.0" y="82.0" />
-      <point x="158.2" y="82.0" />
-      <point x="189.0" y="82.0" />
-      <point type="curve" x="158.2" y="82.0" />
-      <point x="134.134864925" y="21.746063904" />
-      <point x="110.665135075" y="-38.746063904" />
-      <point type="curve" x="86.6" y="-99.0" />
+      <point x="101" y="-137"/>
+      <point x="77" y="-137"/>
+      <point x="101" y="-137" type="curve"/>
+      <point x="127" y="-77"/>
+      <point x="153" y="-16"/>
+      <point x="174" y="29" type="curve"/>
+      <point x="143" y="29"/>
+      <point x="174" y="29"/>
+      <point x="143" y="29" type="curve"/>
+      <point x="124" y="-16"/>
+      <point x="101" y="-77"/>
+      <point x="77" y="-137" type="curve"/>
+    </contour>
+    <contour>
+      <point x="132" y="119" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>

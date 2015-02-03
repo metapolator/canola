@@ -1,2 +1,75 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="dvSS"><advance width="466" /><unicode hex="E05D" /><outline><contour><point x="-9.0" y="605.0" /><point x="-9.0" y="722.0" /><point type="curve" x="-9.0" y="605.0" /><point x="188.0" y="605.0" /><point x="489.0" y="605.0" /><point type="curve" x="685.0" y="605.0" /><point x="685.0" y="722.0" /><point x="685.0" y="605.0" /><point type="curve" x="685.0" y="722.0" /><point x="489.0" y="722.0" /><point x="188.0" y="722.0" /><point type="curve" x="-9.0" y="722.0" /></contour><contour><point x="103.0" y="622.0" /><point x="212.0" y="698.0" /><point type="curve" x="103.0" y="622.0" /><point x="240.0" y="528.0" /><point x="377.0" y="434.0" /><point type="curve" x="482.0" y="357.0" /><point x="690.0" y="376.0" /><point x="482.0" y="357.0" /><point type="curve" x="690.0" y="376.0" /><point x="531.0" y="483.0" /><point x="371.0" y="590.0" /><point type="curve" x="212.0" y="698.0" /></contour><contour><point x="482.0" y="357.0" /><point x="690.0" y="376.0" /><point type="curve" x="482.0" y="357.0" /><point x="450.0" y="327.0" /><point x="421.0" y="323.0" /><point type="curve" x="369.0" y="323.0" /><point x="293.0" y="323.0" /><point x="236.0" y="343.0" /><point type="curve" x="236.0" y="408.0" /><point x="236.0" y="493.0" /><point x="236.0" y="577.0" /><point type="curve" x="236.0" y="662.0" /><point x="75.0" y="662.0" /><point x="236.0" y="662.0" /><point type="curve" x="75.0" y="662.0" /><point x="75.0" y="583.0" /><point x="75.0" y="504.0" /><point type="curve" x="75.0" y="425.0" /><point x="75.0" y="275.0" /><point x="200.0" y="206.0" /><point type="curve" x="364.0" y="206.0" /><point x="509.0" y="206.0" /><point x="609.0" y="257.0" /><point type="curve" x="690.0" y="376.0" /></contour></outline><lib><dict><key>com.typemytype.robofont.layerData</key><dict><key>back</key><dict><key>anchors</key><array /><key>components</key><array /><key>contours</key><array /><key>lib</key><dict /><key>name</key><string>dvSS</string><key>unicodes</key><array /><key>width</key><integer>466</integer></dict></dict><key>com.typemytype.robofont.mark</key><array><real>0</real><real>0</real><real>1</real><real>1</real></array></dict></lib></glyph>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS" format="1">
+  <advance width="466"/>
+  <unicode hex="E05D"/>
+  <outline>
+    <contour>
+      <point x="-15.6" y="605.2"/>
+      <point x="-15.6" y="722.0"/>
+      <point x="-15.6" y="605.2" type="curve"/>
+      <point x="180.698037" y="605.2"/>
+      <point x="377.001963" y="605.2"/>
+      <point x="573.3" y="605.2" type="curve"/>
+      <point x="573.3" y="722.0"/>
+      <point x="573.3" y="605.2"/>
+      <point x="573.3" y="722.0" type="curve"/>
+      <point x="377.001963" y="722.0"/>
+      <point x="180.698037" y="722.0"/>
+      <point x="-15.6" y="722.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="61.6" y="621.760512821"/>
+      <point x="171.1" y="697.680512821"/>
+      <point x="61.6" y="621.760512821" type="curve"/>
+      <point x="199.195460496" y="528.330440676"/>
+      <point x="336.404539504" y="434.323747358"/>
+      <point x="474.0" y="340.893675214" type="curve"/>
+      <point x="649.2" y="375.933675214"/>
+      <point x="474.0" y="340.893675214"/>
+      <point x="649.2" y="375.933675214" type="curve"/>
+      <point x="489.94527229" y="483.345425291"/>
+      <point x="330.35472771" y="590.268762744"/>
+      <point x="171.1" y="697.680512821" type="curve"/>
+    </contour>
+    <contour>
+      <point x="474.0" y="340.893675214"/>
+      <point x="649.2" y="375.933675214"/>
+      <point x="474.0" y="340.893675214" type="curve"/>
+      <point x="436.883045708" y="297.252857939"/>
+      <point x="392.956184609" y="322.843874644"/>
+      <point x="330.6" y="322.843874644" type="curve"/>
+      <point x="255.36737085" y="322.843874644"/>
+      <point x="194.7" y="342.838057116"/>
+      <point x="194.7" y="407.845982906" type="curve"/>
+      <point x="194.7" y="492.52173633"/>
+      <point x="194.7" y="577.200030052"/>
+      <point x="194.7" y="661.875783476" type="curve"/>
+      <point x="34.1" y="661.875783476"/>
+      <point x="194.7" y="661.875783476"/>
+      <point x="34.1" y="661.875783476" type="curve"/>
+      <point x="34.1" y="583.039971652"/>
+      <point x="34.1" y="504.20179473"/>
+      <point x="34.1" y="425.365982906" type="curve"/>
+      <point x="34.1" y="275.165981436"/>
+      <point x="159.427087395" y="206.043874644"/>
+      <point x="323.3" y="206.043874644" type="curve"/>
+      <point x="467.534298416" y="206.043874644"/>
+      <point x="568.032596702" y="256.599561762"/>
+      <point x="649.2" y="375.933675214" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

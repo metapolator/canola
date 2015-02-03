@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="381"/>
+  <unicode hex="030C"/>
+  <outline>
+    <component base="acute" xScale="-1.0" yScale="-1.0" xOffset="280" yOffset="1348"/>
+    <component base="grave" xScale="-1.0" yScale="-1.0" xOffset="214" yOffset="1348"/>
+    <contour>
+      <point x="138" y="607" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>umlaut-top</string>
+          <key>x</key>
+          <integer>643</integer>
+          <key>y</key>
+          <integer>918</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>umlaut-b</string>
+          <key>x</key>
+          <integer>635</integer>
+          <key>y</key>
+          <integer>815</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

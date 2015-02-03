@@ -49,6 +49,34 @@
 			<key>y</key>
 			<integer>606</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>accent</string>
+			<key>x</key>
+			<integer>-43</integer>
+			<key>y</key>
+			<integer>669</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>Accent</string>
+			<key>x</key>
+			<integer>476</integer>
+			<key>y</key>
+			<integer>839</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -380,6 +408,48 @@
 				<string>dvN</string>
 				<string>dvSH</string>
 				<string>dvS</string>
+				<string>dvKH_RA</string>
+				<string>dvK_RA</string>
+				<string>dvKH_R</string>
+				<string>dvGH_RA</string>
+				<string>dvG_RA</string>
+				<string>dvNG_RA</string>
+				<string>dvNN_RA</string>
+				<string>dvB_RA</string>
+				<string>dvJ_RA</string>
+				<string>dvC_RA</string>
+				<string>dvP_RA</string>
+				<string>dvY_RA</string>
+				<string>dvM_RA</string>
+				<string>dvNY_RA</string>
+				<string>dvTH_RA</string>
+				<string>dvDH_RA</string>
+				<string>dvV_RA</string>
+				<string>dvTT_TTA</string>
+				<string>dvCH_RA</string>
+				<string>dvBH_RA</string>
+				<string>dvPH_RA</string>
+				<string>dvTT_TTHA</string>
+				<string>dvTTH_RA</string>
+				<string>dvK_TA</string>
+				<string>dvDDH_RA</string>
+				<string>dvTTH_TTHA</string>
+				<string>dvTT_RA</string>
+				<string>dvD_RA</string>
+				<string>dvJH_RA</string>
+				<string>dvTT_VA</string>
+				<string>dvDD_RA</string>
+				<string>dvDD_DDA</string>
+				<string>Macron</string>
+				<string>Ring</string>
+				<string>Breve</string>
+				<string>Grave</string>
+				<string>Tilde</string>
+				<string>Acute</string>
+				<string>Caron</string>
+				<string>Dotaccent</string>
+				<string>Circumflex</string>
+				<string>Dieresis</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -709,6 +779,124 @@
 		<string>dvGH_RA</string>
 		<string>dvG_RA</string>
 		<string>dvNG_RA</string>
+		<string>dvNN_RA</string>
+		<string>dvB_RA</string>
+		<string>dvJ_RA</string>
+		<string>dvC_RA</string>
+		<string>dvP_RA</string>
+		<string>dvY_RA</string>
+		<string>dvM_RA</string>
+		<string>dvNY_RA</string>
+		<string>dvTH_RA</string>
+		<string>dvDH_RA</string>
+		<string>dvV_RA</string>
+		<string>dvTT_TTA</string>
+		<string>dvCH_RA</string>
+		<string>dvBH_RA</string>
+		<string>dvPH_RA</string>
+		<string>dvTT_TTHA</string>
+		<string>dvTTH_RA</string>
+		<string>dvK_TA</string>
+		<string>dvDDH_RA</string>
+		<string>dvTTH_TTHA</string>
+		<string>dvTT_RA</string>
+		<string>dvD_RA</string>
+		<string>dvJH_RA</string>
+		<string>dvTT_VA</string>
+		<string>dvDD_RA</string>
+		<string>dvDD_DDA</string>
+		<string>Macron</string>
+		<string>Ring</string>
+		<string>Breve</string>
+		<string>Grave</string>
+		<string>Tilde</string>
+		<string>Acute</string>
+		<string>Caron</string>
+		<string>Dotaccent</string>
+		<string>Circumflex</string>
+		<string>Dieresis</string>
+		<string>kcommaaccent</string>
+		<string>ccaron</string>
+		<string>amacron</string>
+		<string>Kcommaaccent</string>
+		<string>Scaron</string>
+		<string>Cacute</string>
+		<string>gcommaaccent</string>
+		<string>Uhungarumlaut</string>
+		<string>zdotaccent</string>
+		<string>Rcaron</string>
+		<string>Edotaccent</string>
+		<string>Abreve</string>
+		<string>Lacute</string>
+		<string>Gbreve</string>
+		<string>dcaron</string>
+		<string>scaron</string>
+		<string>Eogonek</string>
+		<string>lacute</string>
+		<string>edotaccent</string>
+		<string>uring</string>
+		<string>Scedilla</string>
+		<string>Idotaccent</string>
+		<string>omacron</string>
+		<string>ncommaaccent</string>
+		<string>Ohungarumlaut</string>
+		<string>umacron</string>
+		<string>Gcommaaccent</string>
+		<string>Ecaron</string>
+		<string>Lcaron</string>
+		<string>Tcommaaccent</string>
+		<string>Ncommaaccent</string>
+		<string>imacron</string>
+		<string>Rcommaaccent</string>
+		<string>Ydieresis</string>
+		<string>Aogonek</string>
+		<string>tcommaaccent</string>
+		<string>tcaron</string>
+		<string>lcommaaccent</string>
+		<string>abreve</string>
+		<string>racute</string>
+		<string>Emacron</string>
+		<string>ohungarumlaut</string>
+		<string>emacron</string>
+		<string>Uogonek</string>
+		<string>Sacute</string>
+		<string>Scommaaccent</string>
+		<string>Zacute</string>
+		<string>cacute</string>
+		<string>Ncaron</string>
+		<string>rcaron</string>
+		<string>Ccaron</string>
+		<string>sacute</string>
+		<string>gbreve</string>
+		<string>zacute</string>
+		<string>Tcaron</string>
+		<string>Lcommaaccent</string>
+		<string>Racute</string>
+		<string>uhungarumlaut</string>
+		<string>nacute</string>
+		<string>ecaron</string>
+		<string>Amacron</string>
+		<string>Dcaron</string>
+		<string>tcedilla</string>
+		<string>ncaron</string>
+		<string>Zcaron</string>
+		<string>Tcedilla</string>
+		<string>lcaron</string>
+		<string>aogonek</string>
+		<string>eogonek</string>
+		<string>Umacron</string>
+		<string>Imacron</string>
+		<string>zcaron</string>
+		<string>scommaaccent</string>
+		<string>rcommaaccent</string>
+		<string>Uring</string>
+		<string>uogonek</string>
+		<string>Omacron</string>
+		<string>Iogonek</string>
+		<string>Nacute</string>
+		<string>iogonek</string>
+		<string>Zdotaccent</string>
+		<string>scedilla</string>
 	</array>
 </dict>
 </plist>

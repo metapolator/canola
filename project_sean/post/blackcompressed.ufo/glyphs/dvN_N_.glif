@@ -1,2 +1,66 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="dvNN"><advance width="519" /><outline><contour><point x="497.0" y="722.0" /><point x="497.0" y="612.0" /><point type="curve" x="497.0" y="722.0" /><point x="365.0" y="722.0" /><point x="126.0" y="722.0" /><point type="curve" x="-7.0" y="722.0" /><point x="-7.0" y="612.0" /><point x="-7.0" y="722.0" /><point type="curve" x="-7.0" y="612.0" /><point x="126.0" y="612.0" /><point x="365.0" y="612.0" /><point type="curve" x="497.0" y="612.0" /></contour><contour><point x="50.0" y="665.0" /><point x="193.0" y="665.0" /><point type="curve" x="50.0" y="665.0" /><point x="50.0" y="577.0" /><point x="50.0" y="490.0" /><point type="curve" x="50.0" y="402.0" /><point x="50.0" y="276.0" /><point x="125.0" y="185.0" /><point type="curve" x="248.0" y="185.0" /><point x="370.0" y="185.0" /><point x="445.0" y="277.0" /><point type="curve" x="445.0" y="402.0" /><point x="445.0" y="490.0" /><point x="445.0" y="577.0" /><point type="curve" x="445.0" y="665.0" /><point x="302.0" y="665.0" /><point x="445.0" y="665.0" /><point type="curve" x="302.0" y="665.0" /><point x="302.0" y="572.0" /><point x="302.0" y="479.0" /><point type="curve" x="302.0" y="385.0" /><point x="302.0" y="337.0" /><point x="290.0" y="295.0" /><point type="curve" x="248.0" y="295.0" /><point x="206.0" y="295.0" /><point x="193.0" y="338.0" /><point type="curve" x="193.0" y="385.0" /><point x="193.0" y="479.0" /><point x="193.0" y="572.0" /><point type="curve" x="193.0" y="665.0" /></contour></outline><lib><dict><key>com.typemytype.robofont.layerData</key><dict><key>back</key><dict><key>anchors</key><array /><key>components</key><array /><key>contours</key><array /><key>lib</key><dict /><key>name</key><string>dvNN</string><key>unicodes</key><array /><key>width</key><integer>519</integer></dict></dict><key>com.typemytype.robofont.mark</key><array><real>0</real><real>0</real><real>1</real><real>1</real></array></dict></lib></glyph>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNN" format="1">
+  <advance width="519"/>
+  <outline>
+    <contour>
+      <point x="497.0" y="722.0"/>
+      <point x="497.0" y="612.0"/>
+      <point x="497.0" y="722.0" type="curve"/>
+      <point x="365.0" y="722.0"/>
+      <point x="126.0" y="722.0"/>
+      <point x="-7.0" y="722.0" type="curve"/>
+      <point x="-7.0" y="612.0"/>
+      <point x="-7.0" y="722.0"/>
+      <point x="-7.0" y="612.0" type="curve"/>
+      <point x="126.0" y="612.0"/>
+      <point x="365.0" y="612.0"/>
+      <point x="497.0" y="612.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="665.0"/>
+      <point x="193.0" y="665.0"/>
+      <point x="50.0" y="665.0" type="curve"/>
+      <point x="50.0" y="577.0"/>
+      <point x="50.0" y="490.0"/>
+      <point x="50.0" y="402.0" type="curve"/>
+      <point x="50.0" y="276.0"/>
+      <point x="125.0" y="185.0"/>
+      <point x="248.0" y="185.0" type="curve"/>
+      <point x="370.0" y="185.0"/>
+      <point x="445.0" y="277.0"/>
+      <point x="445.0" y="402.0" type="curve"/>
+      <point x="445.0" y="490.0"/>
+      <point x="445.0" y="577.0"/>
+      <point x="445.0" y="665.0" type="curve"/>
+      <point x="302.0" y="665.0"/>
+      <point x="445.0" y="665.0"/>
+      <point x="302.0" y="665.0" type="curve"/>
+      <point x="302.0" y="572.0"/>
+      <point x="302.0" y="479.0"/>
+      <point x="302.0" y="385.0" type="curve"/>
+      <point x="302.0" y="337.0"/>
+      <point x="290.0" y="295.0"/>
+      <point x="248.0" y="295.0" type="curve"/>
+      <point x="206.0" y="295.0"/>
+      <point x="193.0" y="338.0"/>
+      <point x="193.0" y="385.0" type="curve"/>
+      <point x="193.0" y="479.0"/>
+      <point x="193.0" y="572.0"/>
+      <point x="193.0" y="665.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

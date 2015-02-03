@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="quotesingle">
-  <advance width="187" />
-  <unicode hex="0027" />
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="187"/>
+  <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="105.0" y="658.0" />
-      <point x="81.0" y="658.0" />
-      <point type="curve" x="105.0" y="658.0" />
-      <point x="105.0" y="721.0" />
-      <point x="105.0" y="783.0" />
-      <point type="curve" x="105.0" y="846.0" />
-      <point x="81.0" y="846.0" />
-      <point x="105.0" y="846.0" />
-      <point type="curve" x="81.0" y="846.0" />
-      <point x="81.0" y="783.0" />
-      <point x="81.0" y="721.0" />
-      <point type="curve" x="81.0" y="658.0" />
+      <point x="105.0" y="658.0"/>
+      <point x="81.0" y="658.0"/>
+      <point x="105.0" y="658.0" type="curve"/>
+      <point x="105.0" y="721.0"/>
+      <point x="105.0" y="783.0"/>
+      <point x="105.0" y="846.0" type="curve"/>
+      <point x="81.0" y="846.0"/>
+      <point x="105.0" y="846.0"/>
+      <point x="81.0" y="846.0" type="curve"/>
+      <point x="81.0" y="783.0"/>
+      <point x="81.0" y="721.0"/>
+      <point x="81.0" y="658.0" type="curve"/>
     </contour>
   </outline>
   <lib>

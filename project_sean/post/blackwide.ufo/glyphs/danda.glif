@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph format="1" name="danda">
-  <advance width="434" />
-  <unicode hex="0964" />
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="danda" format="1">
+  <advance width="434"/>
+  <unicode hex="0964"/>
   <outline>
     <contour>
-      <point x="201.8" y="722.0" />
-      <point x="362.4" y="722.0" />
-      <point type="curve" x="201.8" y="722.0" />
-      <point x="201.8" y="481.33574" />
-      <point x="201.8" y="240.66426" />
-      <point type="curve" x="201.8" y="7.86687121695e-15" />
-      <point x="362.4" y="-1.57337424339e-14" />
-      <point x="201.8" y="7.86687121695e-15" />
-      <point type="curve" x="362.4" y="-1.57337424339e-14" />
-      <point x="362.4" y="240.66426" />
-      <point x="362.4" y="481.33574" />
-      <point type="curve" x="362.4" y="722.0" />
+      <point x="201.8" y="722.0"/>
+      <point x="362.4" y="722.0"/>
+      <point x="201.8" y="722.0" type="curve"/>
+      <point x="201.8" y="481.33574"/>
+      <point x="201.8" y="240.66426"/>
+      <point x="201.8" y="7.86687121695e-15" type="curve"/>
+      <point x="362.4" y="-1.57337424339e-14"/>
+      <point x="201.8" y="7.86687121695e-15"/>
+      <point x="362.4" y="-1.57337424339e-14" type="curve"/>
+      <point x="362.4" y="240.66426"/>
+      <point x="362.4" y="481.33574"/>
+      <point x="362.4" y="722.0" type="curve"/>
     </contour>
   </outline>
   <lib>
