@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="472"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="42.0" y="255.0"/>
+      <point x="42.0" y="376.0"/>
+      <point x="42.0" y="255.0" type="curve"/>
+      <point x="42.0" y="255.0"/>
+      <point x="423.0" y="255.0"/>
+      <point x="423.0" y="255.0" type="curve"/>
+      <point x="423.0" y="376.0"/>
+      <point x="423.0" y="255.0"/>
+      <point x="423.0" y="376.0" type="curve"/>
+      <point x="423.0" y="376.0"/>
+      <point x="42.0" y="376.0"/>
+      <point x="42.0" y="376.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="424.0" y="138.0"/>
+      <point x="280.0" y="138.0"/>
+      <point x="423.0" y="138.0" type="curve"/>
+      <point x="423.0" y="138.0"/>
+      <point x="423.0" y="376.0"/>
+      <point x="423.0" y="376.0" type="curve"/>
+      <point x="280.0" y="376.0"/>
+      <point x="424.0" y="376.0"/>
+      <point x="281.0" y="376.0" type="curve"/>
+      <point x="281.0" y="376.0"/>
+      <point x="281.0" y="138.0"/>
+      <point x="281.0" y="138.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

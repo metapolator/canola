@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="383"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="21.0" y="614.0" type="curve"/>
+      <point x="21.0" y="487.0"/>
+      <point x="72.0" y="390.0"/>
+      <point x="187.0" y="390.0" type="curve"/>
+      <point x="304.0" y="390.0"/>
+      <point x="359.0" y="485.0"/>
+      <point x="359.0" y="612.0" type="curve"/>
+      <point x="359.0" y="735.0"/>
+      <point x="307.0" y="828.0"/>
+      <point x="194.0" y="828.0" type="curve"/>
+      <point x="79.0" y="828.0"/>
+      <point x="21.0" y="738.0"/>
+    </contour>
+    <contour>
+      <point x="130.0" y="614.0" type="curve"/>
+      <point x="130.0" y="679.0"/>
+      <point x="138.0" y="739.0"/>
+      <point x="187.0" y="739.0" type="curve"/>
+      <point x="245.0" y="739.0"/>
+      <point x="250.0" y="680.0"/>
+      <point x="250.0" y="612.0" type="curve"/>
+      <point x="250.0" y="542.0"/>
+      <point x="246.0" y="478.0"/>
+      <point x="192.0" y="478.0" type="curve"/>
+      <point x="132.0" y="478.0"/>
+      <point x="130.0" y="543.0"/>
+    </contour>
+    <contour>
+      <point x="207.0" y="830.0" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="197.0" y="391.0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

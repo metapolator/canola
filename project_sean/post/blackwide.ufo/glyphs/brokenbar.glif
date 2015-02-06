@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="355"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="262.3" y="-300.0"/>
+      <point x="101.7" y="-300.0"/>
+      <point x="262.3" y="-300.0" type="curve"/>
+      <point x="262.3" y="-176.00124"/>
+      <point x="262.3" y="-51.99876"/>
+      <point x="262.3" y="72.0" type="curve"/>
+      <point x="101.7" y="72.0"/>
+      <point x="262.3" y="72.0"/>
+      <point x="101.7" y="72.0" type="curve"/>
+      <point x="101.7" y="-51.99876"/>
+      <point x="101.7" y="-176.00124"/>
+      <point x="101.7" y="-300.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="262.3" y="428.0"/>
+      <point x="101.7" y="428.0"/>
+      <point x="262.3" y="428.0" type="curve"/>
+      <point x="262.3" y="551.99876"/>
+      <point x="262.3" y="676.00124"/>
+      <point x="262.3" y="800.0" type="curve"/>
+      <point x="101.7" y="800.0"/>
+      <point x="262.3" y="800.0"/>
+      <point x="101.7" y="800.0" type="curve"/>
+      <point x="101.7" y="676.00124"/>
+      <point x="101.7" y="551.99876"/>
+      <point x="101.7" y="428.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>brokenbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>355</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

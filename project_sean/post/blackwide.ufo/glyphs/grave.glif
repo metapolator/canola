@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="468.3" y="591.0"/>
-      <point x="239" y="591"/>
-      <point x="458" y="591" type="curve"/>
-      <point x="387" y="646"/>
-      <point x="315" y="702"/>
-      <point x="244" y="757" type="curve"/>
-      <point x="25" y="757"/>
+      <point x="239.0" y="591.0"/>
+      <point x="458.0" y="591.0" type="curve"/>
+      <point x="387.0" y="646.0"/>
+      <point x="315.0" y="702.0"/>
+      <point x="244.0" y="757.0" type="curve"/>
+      <point x="25.0" y="757.0"/>
       <point x="253.8" y="757.0"/>
       <point x="34.8" y="757.0" type="curve"/>
       <point x="106.299285" y="701.66722"/>
@@ -18,13 +18,35 @@
       <point x="249.3" y="591.0" type="curve"/>
     </contour>
     <contour>
-      <point x="247" y="646" type="move" name="_top"/>
+      <point x="247.0" y="646.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>400</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

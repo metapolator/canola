@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="329"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="92.0" y="606.0" type="curve"/>
+      <point x="92.0" y="682.554744526"/>
+      <point x="106.99270073" y="744.0"/>
+      <point x="171.0" y="744.0" type="curve"/>
+      <point x="231.879432624" y="744.0"/>
+      <point x="245.0" y="680.54676259"/>
+      <point x="245.0" y="604.0" type="curve"/>
+      <point x="245.0" y="517.550632911"/>
+      <point x="231.623188406" y="447.0"/>
+      <point x="174.0" y="447.0" type="curve"/>
+      <point x="103.714285714" y="447.0"/>
+      <point x="92.0" y="519.54375"/>
+      <point x="92.0" y="606.0" type="curve"/>
+      <point x="68.0" y="606.0"/>
+      <point x="92.0" y="606.0"/>
+      <point x="68.0" y="606.0" type="curve"/>
+      <point x="68.0" y="505.554945055"/>
+      <point x="87.9693251534" y="425.0"/>
+      <point x="173.0" y="425.0" type="curve"/>
+      <point x="250.153374233" y="425.0"/>
+      <point x="269.0" y="504.555555556"/>
+      <point x="269.0" y="604.0" type="curve"/>
+      <point x="269.0" y="693.55625"/>
+      <point x="250.073170732" y="765.0"/>
+      <point x="172.0" y="765.0" type="curve"/>
+      <point x="88.5432098765" y="765.0"/>
+      <point x="68.0" y="693.550632911"/>
+      <point x="68.0" y="606.0" type="curve"/>
+      <point x="92.0" y="606.0"/>
+      <point x="68.0" y="606.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>a</string>
+              <key>transformation</key>
+              <array>
+                <real>0.6182525979728293</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>0.6182525979728288</real>
+                <integer>61</integer>
+                <integer>433</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>329</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

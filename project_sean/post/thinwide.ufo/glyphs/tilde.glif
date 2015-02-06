@@ -19,9 +19,9 @@
       <point x="78.317519893" y="730.98"/>
       <point x="36.4380737875" y="684.628047856"/>
       <point x="17.1" y="611.642777778" type="curve"/>
-      <point x="36" y="606.447777778"/>
+      <point x="36.0" y="606.447777778"/>
       <point x="17.1" y="611.642777778"/>
-      <point x="36" y="606.447777778" type="curve"/>
+      <point x="36.0" y="606.447777778" type="curve"/>
       <point x="53.6542497532" y="669.053316133"/>
       <point x="87.9914488973" y="710.2"/>
       <point x="151.2" y="710.2" type="curve"/>
@@ -36,13 +36,35 @@
       <point x="519.125" y="726.182222222" type="curve"/>
     </contour>
     <contour>
-      <point x="271" y="618" type="move" name="_top"/>
+      <point x="271.0" y="618.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>399</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

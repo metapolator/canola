@@ -60,16 +60,38 @@
       <point x="72.1" y="294.726783626" type="curve"/>
     </contour>
     <contour>
-      <point x="208" y="671" type="move" name="top"/>
+      <point x="208.0" y="671.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="246" y="9" type="move" name="bottom"/>
+      <point x="246.0" y="9.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>e</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>391</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deltamath" format="1">
+  <advance width="607"/>
+  <outline>
+    <contour>
+      <point x="30" y="0"/>
+      <point x="30" y="24"/>
+      <point x="30" y="0" type="curve"/>
+      <point x="98" y="0"/>
+      <point x="503" y="0"/>
+      <point x="570" y="0" type="curve"/>
+      <point x="570" y="24"/>
+      <point x="570" y="0"/>
+      <point x="570" y="24" type="curve"/>
+      <point x="503" y="24"/>
+      <point x="98" y="24"/>
+      <point x="30" y="24" type="curve"/>
+    </contour>
+    <contour>
+      <point x="56" y="24" type="line"/>
+      <point x="321" y="810" type="line"/>
+      <point x="295" y="810" type="line"/>
+      <point x="30" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="24" type="line"/>
+      <point x="323" y="810" type="line"/>
+      <point x="297" y="810" type="line"/>
+      <point x="544" y="24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

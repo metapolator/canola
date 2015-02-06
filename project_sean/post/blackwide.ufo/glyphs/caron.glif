@@ -6,13 +6,35 @@
     <component base="acute" xScale="-1.0" xyScale="-2.77555756156e-17" yxScale="2.77555756156e-17" yScale="-1.0" xOffset="613" yOffset="1348"/>
     <component base="grave" xScale="-1.0" xyScale="-2.77555756156e-17" yxScale="2.77555756156e-17" yScale="-1.0" xOffset="479" yOffset="1348"/>
     <contour>
-      <point x="348" y="651" type="move" name="_top"/>
+      <point x="348.0" y="651.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>718</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

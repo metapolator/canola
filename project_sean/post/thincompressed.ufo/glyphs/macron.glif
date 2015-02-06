@@ -18,13 +18,35 @@
       <point x="179.2" y="658.533333333" type="curve"/>
     </contour>
     <contour>
-      <point x="104" y="669" type="move" name="_top"/>
+      <point x="104.0" y="669.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>286</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

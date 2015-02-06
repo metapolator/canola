@@ -4,12 +4,34 @@
   <unicode hex="0165"/>
   <outline>
     <component base="t"/>
-    <component base="commaaccent"/>
+    <component base="commaaccent" xOffset="267" yOffset="-181"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>619</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

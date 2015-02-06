@@ -4,13 +4,35 @@
   <outline>
     <component base="comma"/>
     <contour>
-      <point x="135" y="183" type="move" name="_bottom"/>
+      <point x="135.0" y="183.0" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>commaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>212</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

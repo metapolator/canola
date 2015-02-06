@@ -4,11 +4,11 @@
   <unicode hex="007E"/>
   <outline>
     <contour>
-      <point x="363.0" y="344.318555556"/>
-      <point x="383.9" y="336.772555556"/>
+      <point x="363" y="344"/>
+      <point x="384" y="340"/>
       <point x="363.0" y="344.318555556" type="curve"/>
       <point x="352.127215123" y="299.048738718"/>
-      <point x="347.478593602" y="241.071111111"/>
+      <point x="345" y="241"/>
       <point x="294.4" y="241.071111111" type="curve"/>
       <point x="258.30456463" y="241.215950129"/>
       <point x="237.556935743" y="261.379951064"/>
@@ -17,10 +17,10 @@
       <point x="166.140020018" y="344.84"/>
       <point x="125.5" y="344.84" type="curve"/>
       <point x="57.8597007965" y="344.84"/>
-      <point x="41.4415666895" y="291.591848108"/>
-      <point x="29.3" y="226.580777778" type="curve"/>
-      <point x="49.1" y="219.034777778"/>
-      <point x="29.3" y="226.580777778"/>
+      <point x="41" y="292"/>
+      <point x="29" y="224" type="curve"/>
+      <point x="49" y="219"/>
+      <point x="29" y="224"/>
       <point x="49.1" y="219.034777778" type="curve"/>
       <point x="59.1769556947" y="270.783129925"/>
       <point x="68.6530775475" y="323.28"/>
@@ -32,14 +32,36 @@
       <point x="247.259415087" y="220.479942301"/>
       <point x="292.2" y="219.511111111" type="curve"/>
       <point x="357.660748149" y="219.511111111"/>
-      <point x="370.272827937" y="277.241039418"/>
-      <point x="383.9" y="336.772555556" type="curve"/>
+      <point x="370" y="277"/>
+      <point x="384" y="340" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciitilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>586</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

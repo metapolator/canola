@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="1">
+  <advance width="386"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="271.0" y="416.0"/>
+      <point x="254.0" y="433.0"/>
+      <point x="271.0" y="416.0" type="curve"/>
+      <point x="293.0" y="448.0"/>
+      <point x="316.0" y="479.0"/>
+      <point x="338.0" y="511.0" type="curve"/>
+      <point x="321.0" y="528.0"/>
+      <point x="338.0" y="511.0"/>
+      <point x="321.0" y="528.0" type="curve"/>
+      <point x="299.0" y="497.0"/>
+      <point x="277.0" y="465.0"/>
+      <point x="254.0" y="433.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="51.0" y="94.0"/>
+      <point x="34.0" y="111.0"/>
+      <point x="51.0" y="94.0" type="curve"/>
+      <point x="73.0" y="125.0"/>
+      <point x="95.0" y="156.0"/>
+      <point x="117.0" y="188.0" type="curve"/>
+      <point x="102.0" y="206.0"/>
+      <point x="117.0" y="188.0"/>
+      <point x="102.0" y="206.0" type="curve"/>
+      <point x="79.0" y="174.0"/>
+      <point x="57.0" y="143.0"/>
+      <point x="34.0" y="111.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="258.0" y="189.0"/>
+      <point x="275.0" y="206.0"/>
+      <point x="258.0" y="189.0" type="curve"/>
+      <point x="281.0" y="157.0"/>
+      <point x="303.0" y="126.0"/>
+      <point x="325.0" y="94.0" type="curve"/>
+      <point x="342.0" y="110.0"/>
+      <point x="325.0" y="94.0"/>
+      <point x="342.0" y="110.0" type="curve"/>
+      <point x="320.0" y="142.0"/>
+      <point x="297.0" y="174.0"/>
+      <point x="275.0" y="206.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="39.0" y="510.0"/>
+      <point x="56.0" y="527.0"/>
+      <point x="39.0" y="510.0" type="curve"/>
+      <point x="61.0" y="478.0"/>
+      <point x="83.0" y="447.0"/>
+      <point x="106.0" y="415.0" type="curve"/>
+      <point x="123.0" y="431.0"/>
+      <point x="106.0" y="415.0"/>
+      <point x="123.0" y="431.0" type="curve"/>
+      <point x="101.0" y="463.0"/>
+      <point x="78.0" y="495.0"/>
+      <point x="56.0" y="527.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="98.0" y="310.0"/>
+      <point x="74.0" y="310.0"/>
+      <point x="98.0" y="310.0" type="curve"/>
+      <point x="98.0" y="390.0"/>
+      <point x="119.0" y="458.0"/>
+      <point x="190.0" y="458.0" type="curve"/>
+      <point x="261.0" y="458.0"/>
+      <point x="279.0" y="391.0"/>
+      <point x="279.0" y="310.0" type="curve"/>
+      <point x="279.0" y="227.0"/>
+      <point x="264.0" y="156.0"/>
+      <point x="192.0" y="156.0" type="curve"/>
+      <point x="118.0" y="156.0"/>
+      <point x="98.0" y="226.0"/>
+      <point x="98.0" y="310.0" type="curve"/>
+      <point x="74.0" y="310.0"/>
+      <point x="98.0" y="310.0"/>
+      <point x="74.0" y="310.0" type="curve"/>
+      <point x="74.0" y="212.0"/>
+      <point x="104.0" y="135.0"/>
+      <point x="191.0" y="135.0" type="curve"/>
+      <point x="277.0" y="135.0"/>
+      <point x="304.0" y="215.0"/>
+      <point x="304.0" y="311.0" type="curve"/>
+      <point x="304.0" y="404.0"/>
+      <point x="274.0" y="480.0"/>
+      <point x="192.0" y="480.0" type="curve"/>
+      <point x="106.0" y="480.0"/>
+      <point x="74.0" y="405.0"/>
+      <point x="74.0" y="310.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>currency</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>386</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

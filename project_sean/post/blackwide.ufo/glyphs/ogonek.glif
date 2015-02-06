@@ -4,7 +4,7 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="167" y="98"/>
+      <point x="167.0" y="98.0"/>
       <point x="225.5" y="15.7957834758"/>
       <point x="167.1" y="97.5557834758" type="curve"/>
       <point x="75.5544139036" y="68.8875486271"/>
@@ -17,26 +17,48 @@
       <point x="247.135219392" y="-152.685842883"/>
       <point x="295.2" y="-133.154188034" type="curve"/>
       <point x="222.2" y="-39.7141880342"/>
-      <point x="295" y="-133"/>
-      <point x="222" y="-40" type="curve"/>
-      <point x="204" y="-47"/>
-      <point x="193" y="-54"/>
-      <point x="174" y="-54" type="curve"/>
-      <point x="156" y="-54"/>
-      <point x="142" y="-48"/>
-      <point x="142" y="-32" type="curve"/>
-      <point x="142" y="0"/>
-      <point x="187" y="1"/>
-      <point x="226" y="16" type="curve"/>
+      <point x="295.0" y="-133.0"/>
+      <point x="222.0" y="-40.0" type="curve"/>
+      <point x="204.0" y="-47.0"/>
+      <point x="193.0" y="-54.0"/>
+      <point x="174.0" y="-54.0" type="curve"/>
+      <point x="156.0" y="-54.0"/>
+      <point x="142.0" y="-48.0"/>
+      <point x="142.0" y="-32.0" type="curve"/>
+      <point x="142.0" y="0.0"/>
+      <point x="187.0" y="1.0"/>
+      <point x="226.0" y="16.0" type="curve"/>
     </contour>
     <contour>
-      <point x="188" y="18" type="move" name="_bottom"/>
+      <point x="188.0" y="18.0" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>250</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

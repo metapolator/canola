@@ -4,12 +4,34 @@
   <unicode hex="0151"/>
   <outline>
     <component base="o"/>
-    <component base="hungarumlaut"/>
+    <component base="hungarumlaut" xOffset="59.0" yOffset="-54.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ohungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>417</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

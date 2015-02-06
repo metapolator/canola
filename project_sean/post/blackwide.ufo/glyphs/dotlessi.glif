@@ -4,69 +4,91 @@
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="209" y="117"/>
-      <point x="209" y="0"/>
-      <point x="209" y="117" type="curve"/>
-      <point x="15" y="117"/>
-      <point x="209" y="117"/>
-      <point x="15" y="117" type="curve"/>
-      <point x="15" y="0"/>
-      <point x="15" y="117"/>
-      <point x="15" y="0" type="curve"/>
-      <point x="80" y="0"/>
-      <point x="145" y="0"/>
-      <point x="209" y="0" type="curve"/>
+      <point x="209.0" y="117.0"/>
+      <point x="209.0" y="0.0"/>
+      <point x="209.0" y="117.0" type="curve"/>
+      <point x="15.0" y="117.0"/>
+      <point x="209.0" y="117.0"/>
+      <point x="15.0" y="117.0" type="curve"/>
+      <point x="15.0" y="0.0"/>
+      <point x="15.0" y="117.0"/>
+      <point x="15.0" y="0.0" type="curve"/>
+      <point x="80.0" y="0.0"/>
+      <point x="145.0" y="0.0"/>
+      <point x="209.0" y="0.0" type="curve"/>
     </contour>
     <contour>
-      <point x="209" y="0"/>
-      <point x="209" y="117"/>
-      <point x="209" y="0" type="curve"/>
-      <point x="270" y="0"/>
-      <point x="330" y="0"/>
-      <point x="390" y="0" type="curve"/>
-      <point x="390" y="117"/>
-      <point x="390" y="0"/>
-      <point x="390" y="117" type="curve"/>
-      <point x="209" y="117"/>
-      <point x="390" y="117"/>
-      <point x="209" y="117" type="curve"/>
+      <point x="209.0" y="0.0"/>
+      <point x="209.0" y="117.0"/>
+      <point x="209.0" y="0.0" type="curve"/>
+      <point x="270.0" y="0.0"/>
+      <point x="330.0" y="0.0"/>
+      <point x="390.0" y="0.0" type="curve"/>
+      <point x="390.0" y="117.0"/>
+      <point x="390.0" y="0.0"/>
+      <point x="390.0" y="117.0" type="curve"/>
+      <point x="209.0" y="117.0"/>
+      <point x="390.0" y="117.0"/>
+      <point x="209.0" y="117.0" type="curve"/>
     </contour>
     <contour>
-      <point x="209" y="533"/>
-      <point x="209" y="416"/>
-      <point x="209" y="533" type="curve"/>
-      <point x="145" y="533"/>
-      <point x="80" y="533"/>
-      <point x="15" y="533" type="curve"/>
-      <point x="15" y="416"/>
-      <point x="15" y="533"/>
-      <point x="15" y="416" type="curve"/>
-      <point x="209" y="416"/>
-      <point x="15" y="416"/>
-      <point x="209" y="416" type="curve"/>
+      <point x="209.0" y="533.0"/>
+      <point x="209.0" y="416.0"/>
+      <point x="209.0" y="533.0" type="curve"/>
+      <point x="145.0" y="533.0"/>
+      <point x="80.0" y="533.0"/>
+      <point x="15.0" y="533.0" type="curve"/>
+      <point x="15.0" y="416.0"/>
+      <point x="15.0" y="533.0"/>
+      <point x="15.0" y="416.0" type="curve"/>
+      <point x="209.0" y="416.0"/>
+      <point x="15.0" y="416.0"/>
+      <point x="209.0" y="416.0" type="curve"/>
     </contour>
     <contour>
-      <point x="294" y="0"/>
-      <point x="126" y="0"/>
-      <point x="294" y="0" type="curve"/>
-      <point x="294" y="178"/>
-      <point x="294" y="355"/>
-      <point x="294" y="533" type="curve"/>
-      <point x="126" y="533"/>
-      <point x="294" y="533"/>
-      <point x="126" y="533" type="curve"/>
-      <point x="126" y="355"/>
-      <point x="126" y="178"/>
-      <point x="126" y="0" type="curve"/>
+      <point x="294.0" y="0.0"/>
+      <point x="126.0" y="0.0"/>
+      <point x="294.0" y="0.0" type="curve"/>
+      <point x="294.0" y="178.0"/>
+      <point x="294.0" y="355.0"/>
+      <point x="294.0" y="533.0" type="curve"/>
+      <point x="126.0" y="533.0"/>
+      <point x="294.0" y="533.0"/>
+      <point x="126.0" y="533.0" type="curve"/>
+      <point x="126.0" y="355.0"/>
+      <point x="126.0" y="178.0"/>
+      <point x="126.0" y="0.0" type="curve"/>
     </contour>
     <contour>
-      <point x="208" y="669" type="move" name="top"/>
+      <point x="208.0" y="669.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotlessi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>409</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

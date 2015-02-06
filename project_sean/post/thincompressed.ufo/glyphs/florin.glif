@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="346"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="275.1" y="546.391111111"/>
+      <point x="275.1" y="524.831111111"/>
+      <point x="275.1" y="546.391111111" type="curve"/>
+      <point x="214.667271" y="546.391111111"/>
+      <point x="154.232729" y="546.391111111"/>
+      <point x="93.8" y="546.391111111" type="curve"/>
+      <point x="93.8" y="524.831111111"/>
+      <point x="93.8" y="546.391111111"/>
+      <point x="93.8" y="524.831111111" type="curve"/>
+      <point x="154.232729" y="524.831111111"/>
+      <point x="214.667271" y="524.831111111"/>
+      <point x="275.1" y="524.831111111" type="curve"/>
+    </contour>
+    <contour>
+      <point x="302.5" y="827.764444444"/>
+      <point x="298.1" y="806.204444444"/>
+      <point x="302.5" y="827.764444444" type="curve"/>
+      <point x="237.765330353" y="846.150878328"/>
+      <point x="202.83055733" y="788.395064236"/>
+      <point x="191.4" y="709.264555556" type="curve"/>
+      <point x="162.266480287" y="493.112825757"/>
+      <point x="133.233519713" y="276.940952021"/>
+      <point x="104.1" y="60.7892222222" type="curve"/>
+      <point x="95.2046429309" y="-5.59708633874"/>
+      <point x="73.0185543883" y="-59.4996585943"/>
+      <point x="19.0" y="-44.2933333333" type="curve"/>
+      <point x="14.6" y="-65.8533333333"/>
+      <point x="19.0" y="-44.2933333333"/>
+      <point x="14.6" y="-65.8533333333" type="curve"/>
+      <point x="81.1389869437" y="-83.4068608302"/>
+      <point x="117.043983278" y="-24.2776436072"/>
+      <point x="128.3" y="57.5552222222" type="curve"/>
+      <point x="157.732589853" y="274.434753136"/>
+      <point x="187.267410147" y="491.307024641"/>
+      <point x="216.7" y="708.186555556" type="curve"/>
+      <point x="224.765361213" y="772.441394383"/>
+      <point x="247.137897017" y="820.363091642"/>
+      <point x="298.1" y="806.204444444" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>florin</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>346</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

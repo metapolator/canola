@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="794.0"/>
+  <outline>
+    <component base="divisionslash" xOffset="-199"/>
+    <contour>
+      <point x="51.0" y="704.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="768.0" y="-37.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fraction</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>794.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -6,7 +6,7 @@
     <component base="acute" xScale="-1.0" yScale="-1.0" xOffset="280" yOffset="1348"/>
     <component base="grave" xScale="-1.0" yScale="-1.0" xOffset="214" yOffset="1348"/>
     <contour>
-      <point x="138" y="607" type="move" name="_top"/>
+      <point x="138.0" y="607.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -41,9 +41,45 @@
           <key>y</key>
           <integer>815</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>54</integer>
+          <key>y</key>
+          <integer>757</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>381</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

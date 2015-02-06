@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divisionslash" format="1">
+  <advance width="928"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="350.575" y="-92.9888888889"/>
+      <point x="324.325" y="-92.9888888889"/>
+      <point x="350.575" y="-92.9888888889" type="curve"/>
+      <point x="542.273083" y="190.377166311"/>
+      <point x="733.976917" y="473.751722578"/>
+      <point x="925.675" y="757.117777778" type="curve"/>
+      <point x="899.425" y="757.117777778"/>
+      <point x="925.675" y="757.117777778"/>
+      <point x="899.425" y="757.117777778" type="curve"/>
+      <point x="707.726917" y="473.751722578"/>
+      <point x="516.023083" y="190.377166311"/>
+      <point x="324.325" y="-92.9888888889" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divisionslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>928</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

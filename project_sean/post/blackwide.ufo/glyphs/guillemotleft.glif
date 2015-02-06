@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="593"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="545.0" y="245.0"/>
+      <point x="545.0" y="117.0"/>
+      <point x="545.0" y="245.0" type="curve"/>
+      <point x="466.0" y="281.0"/>
+      <point x="388.0" y="316.0"/>
+      <point x="310.0" y="352.0" type="curve"/>
+      <point x="310.0" y="223.0"/>
+      <point x="310.0" y="352.0"/>
+      <point x="310.0" y="223.0" type="curve"/>
+      <point x="388.0" y="188.0"/>
+      <point x="466.0" y="152.0"/>
+      <point x="545.0" y="117.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="545.0" y="455.0"/>
+      <point x="545.0" y="327.0"/>
+      <point x="545.0" y="455.0" type="curve"/>
+      <point x="466.0" y="421.0"/>
+      <point x="388.0" y="386.0"/>
+      <point x="310.0" y="352.0" type="curve"/>
+      <point x="310.0" y="223.0"/>
+      <point x="310.0" y="352.0"/>
+      <point x="310.0" y="223.0" type="curve"/>
+      <point x="388.0" y="258.0"/>
+      <point x="466.0" y="292.0"/>
+      <point x="545.0" y="327.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="286.0" y="245.059373219"/>
+      <point x="286.0" y="116.579373219"/>
+      <point x="286.0" y="245.059373219" type="curve"/>
+      <point x="207.567451" y="280.692825048"/>
+      <point x="129.132549" y="316.327345892"/>
+      <point x="50.7" y="351.960797721" type="curve"/>
+      <point x="50.7" y="223.480797721"/>
+      <point x="50.7" y="351.960797721"/>
+      <point x="50.7" y="223.480797721" type="curve"/>
+      <point x="129.132549" y="187.847345892"/>
+      <point x="207.567451" y="152.212825048"/>
+      <point x="286.0" y="116.579373219" type="curve"/>
+    </contour>
+    <contour>
+      <point x="287.3" y="455.413789174"/>
+      <point x="287.3" y="326.933789174"/>
+      <point x="287.3" y="455.413789174" type="curve"/>
+      <point x="208.434122" y="420.929803533"/>
+      <point x="129.565878" y="386.444783362"/>
+      <point x="50.7" y="351.960797721" type="curve"/>
+      <point x="50.7" y="223.480797721"/>
+      <point x="50.7" y="351.960797721"/>
+      <point x="50.7" y="223.480797721" type="curve"/>
+      <point x="129.565878" y="257.964783362"/>
+      <point x="208.434122" y="292.449803533"/>
+      <point x="287.3" y="326.933789174" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guillemotleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>593</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

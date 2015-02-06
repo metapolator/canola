@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deltamath" format="1">
+  <advance width="1050"/>
+  <outline>
+    <contour>
+      <point x="75" y="24"/>
+      <point x="57" y="24"/>
+      <point x="80" y="24" type="curve"/>
+      <point x="552" y="810" type="line"/>
+      <point x="529" y="810"/>
+      <point x="547" y="810"/>
+      <point x="524" y="810" type="curve"/>
+      <point x="52" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="1017" y="24"/>
+      <point x="999" y="24"/>
+      <point x="1022" y="24" type="curve"/>
+      <point x="557" y="810" type="line"/>
+      <point x="534" y="810"/>
+      <point x="552" y="810"/>
+      <point x="529" y="810" type="curve"/>
+      <point x="994" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="0"/>
+      <point x="52" y="24"/>
+      <point x="52" y="0" type="curve"/>
+      <point x="183" y="0"/>
+      <point x="891" y="0"/>
+      <point x="1022" y="0" type="curve"/>
+      <point x="1022" y="24"/>
+      <point x="1022" y="0"/>
+      <point x="1022" y="24" type="curve"/>
+      <point x="891" y="24"/>
+      <point x="183" y="24"/>
+      <point x="52" y="24" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

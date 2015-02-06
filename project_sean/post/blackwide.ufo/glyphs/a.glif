@@ -4,40 +4,40 @@
   <unicode hex="0061"/>
   <outline>
     <contour>
-      <point x="63" y="462"/>
-      <point x="186" y="462"/>
-      <point x="63" y="462" type="curve"/>
-      <point x="63" y="342"/>
-      <point x="63" y="455"/>
-      <point x="63" y="335" type="curve"/>
-      <point x="186" y="335"/>
-      <point x="63" y="335"/>
-      <point x="186" y="335" type="curve"/>
-      <point x="186" y="455"/>
-      <point x="186" y="342"/>
-      <point x="186" y="462" type="curve"/>
+      <point x="63.0" y="462.0"/>
+      <point x="186.0" y="462.0"/>
+      <point x="63.0" y="462.0" type="curve"/>
+      <point x="63.0" y="342.0"/>
+      <point x="63.0" y="455.0"/>
+      <point x="63.0" y="335.0" type="curve"/>
+      <point x="186.0" y="335.0"/>
+      <point x="63.0" y="335.0"/>
+      <point x="186.0" y="335.0" type="curve"/>
+      <point x="186.0" y="455.0"/>
+      <point x="186.0" y="342.0"/>
+      <point x="186.0" y="462.0" type="curve"/>
     </contour>
     <contour>
       <point x="639.0" y="0.0"/>
       <point x="479.0" y="0.0"/>
       <point x="639.0" y="0.0" type="curve"/>
       <point x="639.0" y="123.0"/>
-      <point x="639" y="238"/>
-      <point x="639" y="361" type="curve"/>
-      <point x="639" y="509"/>
+      <point x="639.0" y="238.0"/>
+      <point x="639.0" y="361.0" type="curve"/>
+      <point x="639.0" y="509.0"/>
       <point x="508.0" y="538.0"/>
       <point x="348.0" y="538.0" type="curve"/>
       <point x="227.536082474" y="538.0"/>
       <point x="137.593893525" y="508.130434154"/>
-      <point x="63" y="462" type="curve"/>
-      <point x="123" y="363"/>
-      <point x="73" y="456"/>
-      <point x="133" y="357" type="curve"/>
+      <point x="63.0" y="462.0" type="curve"/>
+      <point x="123.0" y="363.0"/>
+      <point x="73.0" y="456.0"/>
+      <point x="133.0" y="357.0" type="curve"/>
       <point x="186.548263368" y="388.155353233"/>
       <point x="239.683417085" y="421.0"/>
       <point x="326.0" y="421.0" type="curve"/>
       <point x="405.0" y="421.0"/>
-      <point x="479" y="416"/>
+      <point x="479.0" y="416.0"/>
       <point x="479.0" y="334.0" type="curve"/>
       <point x="479.0" y="222.0"/>
       <point x="479.0" y="111.0"/>
@@ -63,28 +63,28 @@
       <point x="555.0" y="349.0" type="curve"/>
       <point x="453.556519176" y="340.049104633"/>
       <point x="393.049184206" y="337.280027121"/>
-      <point x="292" y="328" type="curve"/>
-      <point x="143" y="315"/>
-      <point x="24" y="298"/>
-      <point x="24" y="165" type="curve"/>
-      <point x="24" y="38"/>
-      <point x="127" y="-5"/>
-      <point x="271" y="-5" type="curve"/>
+      <point x="292.0" y="328.0" type="curve"/>
+      <point x="143.0" y="315.0"/>
+      <point x="24.0" y="298.0"/>
+      <point x="24.0" y="165.0" type="curve"/>
+      <point x="24.0" y="38.0"/>
+      <point x="127.0" y="-5.0"/>
+      <point x="271.0" y="-5.0" type="curve"/>
       <point x="412.515923567" y="-5.0"/>
       <point x="481.484365633" y="49.5945935873"/>
-      <point x="593" y="153" type="curve"/>
-      <point x="519" y="212"/>
+      <point x="593.0" y="153.0" type="curve"/>
+      <point x="519.0" y="212.0"/>
       <point x="592.391484664" y="152.221542981"/>
       <point x="518.0" y="211.0" type="curve"/>
       <point x="443.5356284" y="149.617207195"/>
       <point x="384.222222222" y="109.0"/>
-      <point x="294" y="109" type="curve"/>
-      <point x="231" y="109"/>
-      <point x="182" y="119"/>
-      <point x="182" y="165" type="curve"/>
-      <point x="182" y="213"/>
-      <point x="232" y="219"/>
-      <point x="285" y="223" type="curve"/>
+      <point x="294.0" y="109.0" type="curve"/>
+      <point x="231.0" y="109.0"/>
+      <point x="182.0" y="119.0"/>
+      <point x="182.0" y="165.0" type="curve"/>
+      <point x="182.0" y="213.0"/>
+      <point x="232.0" y="219.0"/>
+      <point x="285.0" y="223.0" type="curve"/>
       <point x="392.070275862" y="232.26569695"/>
       <point x="454.593464165" y="240.054950386"/>
       <point x="562.0" y="250.0" type="curve"/>
@@ -100,6 +100,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>a</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>760</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

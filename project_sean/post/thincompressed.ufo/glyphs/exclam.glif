@@ -4,24 +4,24 @@
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="117" y="19"/>
-      <point x="88" y="19"/>
-      <point x="117" y="19" type="curve"/>
-      <point x="117" y="28"/>
-      <point x="111" y="33"/>
-      <point x="102" y="33" type="curve"/>
-      <point x="93" y="33"/>
-      <point x="88" y="27"/>
-      <point x="88" y="19" type="curve"/>
-      <point x="117" y="19"/>
-      <point x="88" y="19"/>
-      <point x="117" y="19" type="curve"/>
-      <point x="117" y="10"/>
-      <point x="111" y="5"/>
-      <point x="102" y="5" type="curve"/>
-      <point x="93" y="5"/>
-      <point x="88" y="10"/>
-      <point x="88" y="19" type="curve"/>
+      <point x="117.0" y="19.0"/>
+      <point x="88.0" y="19.0"/>
+      <point x="117.0" y="19.0" type="curve"/>
+      <point x="117.0" y="28.0"/>
+      <point x="111.0" y="33.0"/>
+      <point x="102.0" y="33.0" type="curve"/>
+      <point x="93.0" y="33.0"/>
+      <point x="88.0" y="27.0"/>
+      <point x="88.0" y="19.0" type="curve"/>
+      <point x="117.0" y="19.0"/>
+      <point x="88.0" y="19.0"/>
+      <point x="117.0" y="19.0" type="curve"/>
+      <point x="117.0" y="10.0"/>
+      <point x="111.0" y="5.0"/>
+      <point x="102.0" y="5.0" type="curve"/>
+      <point x="93.0" y="5.0"/>
+      <point x="88.0" y="10.0"/>
+      <point x="88.0" y="19.0" type="curve"/>
     </contour>
     <contour>
       <point x="113.6" y="229.0"/>
@@ -42,6 +42,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>exclam</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>290</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

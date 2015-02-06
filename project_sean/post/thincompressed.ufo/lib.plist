@@ -77,11 +77,47 @@
 			<key>y</key>
 			<integer>839</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>superiortop</string>
+			<key>x</key>
+			<integer>-169</integer>
+			<key>y</key>
+			<integer>689</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>superiorbottom</string>
+			<key>x</key>
+			<integer>-11</integer>
+			<key>y</key>
+			<integer>279</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>scale</string>
+	</array>
+	<key>com.typemytype.robofont.scale.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -450,6 +486,124 @@
 				<string>Dotaccent</string>
 				<string>Circumflex</string>
 				<string>Dieresis</string>
+				<string>kcommaaccent</string>
+				<string>ccaron</string>
+				<string>amacron</string>
+				<string>Kcommaaccent</string>
+				<string>Scaron</string>
+				<string>Cacute</string>
+				<string>gcommaaccent</string>
+				<string>Uhungarumlaut</string>
+				<string>zdotaccent</string>
+				<string>Rcaron</string>
+				<string>Edotaccent</string>
+				<string>Abreve</string>
+				<string>Lacute</string>
+				<string>Gbreve</string>
+				<string>dcaron</string>
+				<string>scaron</string>
+				<string>Eogonek</string>
+				<string>lacute</string>
+				<string>edotaccent</string>
+				<string>uring</string>
+				<string>Scedilla</string>
+				<string>Idotaccent</string>
+				<string>omacron</string>
+				<string>ncommaaccent</string>
+				<string>Ohungarumlaut</string>
+				<string>umacron</string>
+				<string>Gcommaaccent</string>
+				<string>Ecaron</string>
+				<string>Lcaron</string>
+				<string>Tcommaaccent</string>
+				<string>Ncommaaccent</string>
+				<string>imacron</string>
+				<string>Rcommaaccent</string>
+				<string>Ydieresis</string>
+				<string>Aogonek</string>
+				<string>tcommaaccent</string>
+				<string>tcaron</string>
+				<string>lcommaaccent</string>
+				<string>abreve</string>
+				<string>racute</string>
+				<string>Emacron</string>
+				<string>ohungarumlaut</string>
+				<string>emacron</string>
+				<string>Uogonek</string>
+				<string>Sacute</string>
+				<string>Scommaaccent</string>
+				<string>Zacute</string>
+				<string>cacute</string>
+				<string>Ncaron</string>
+				<string>rcaron</string>
+				<string>Ccaron</string>
+				<string>sacute</string>
+				<string>gbreve</string>
+				<string>zacute</string>
+				<string>Tcaron</string>
+				<string>Lcommaaccent</string>
+				<string>Racute</string>
+				<string>uhungarumlaut</string>
+				<string>nacute</string>
+				<string>ecaron</string>
+				<string>Amacron</string>
+				<string>Dcaron</string>
+				<string>tcedilla</string>
+				<string>ncaron</string>
+				<string>Zcaron</string>
+				<string>Tcedilla</string>
+				<string>lcaron</string>
+				<string>aogonek</string>
+				<string>eogonek</string>
+				<string>Umacron</string>
+				<string>Imacron</string>
+				<string>zcaron</string>
+				<string>scommaaccent</string>
+				<string>rcommaaccent</string>
+				<string>Uring</string>
+				<string>uogonek</string>
+				<string>Omacron</string>
+				<string>Iogonek</string>
+				<string>Nacute</string>
+				<string>iogonek</string>
+				<string>Zdotaccent</string>
+				<string>scedilla</string>
+				<string>commaaccent</string>
+				<string>florin</string>
+				<string>divisionslash</string>
+				<string>softhyphen</string>
+				<string>lcaron.add_1</string>
+				<string>dcroat</string>
+				<string>ohungarumlaut.add_1</string>
+				<string>Lslash</string>
+				<string>Ohungarumlaut.add_1</string>
+				<string>lslash</string>
+				<string>Lcaron.add_1</string>
+				<string>Dcroat</string>
+				<string>pi</string>
+				<string>quotedblright</string>
+				<string>quotesinglbase</string>
+				<string>Euro</string>
+				<string>litre</string>
+				<string>endash</string>
+				<string>quoteright.add_1</string>
+				<string>perthousand</string>
+				<string>quotedblleft</string>
+				<string>trademark</string>
+				<string>ruble</string>
+				<string>emdash</string>
+				<string>OE</string>
+				<string>ellipsis</string>
+				<string>guilsinglright</string>
+				<string>oe</string>
+				<string>guilsinglleft</string>
+				<string>dagger</string>
+				<string>fraction</string>
+				<string>quotedblbase</string>
+				<string>daggerdbl</string>
+				<string>bullet</string>
+				<string>foursuperior</string>
+				<string>nullsuperior</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -897,6 +1051,51 @@
 		<string>iogonek</string>
 		<string>Zdotaccent</string>
 		<string>scedilla</string>
+		<string>commaaccent</string>
+		<string>florin</string>
+		<string>divisionslash</string>
+		<string>softhyphen</string>
+		<string>lcaron.add_1</string>
+		<string>dcroat</string>
+		<string>ohungarumlaut.add_1</string>
+		<string>Lslash</string>
+		<string>Ohungarumlaut.add_1</string>
+		<string>lslash</string>
+		<string>Lcaron.add_1</string>
+		<string>Dcroat</string>
+		<string>pi</string>
+		<string>quotedblright</string>
+		<string>quotesinglbase</string>
+		<string>Euro</string>
+		<string>litre</string>
+		<string>endash</string>
+		<string>quoteright.add_1</string>
+		<string>perthousand</string>
+		<string>quotedblleft</string>
+		<string>trademark</string>
+		<string>ruble</string>
+		<string>emdash</string>
+		<string>OE</string>
+		<string>ellipsis</string>
+		<string>guilsinglright</string>
+		<string>oe</string>
+		<string>guilsinglleft</string>
+		<string>dagger</string>
+		<string>fraction</string>
+		<string>quotedblbase</string>
+		<string>daggerdbl</string>
+		<string>bullet</string>
+		<string>foursuperior</string>
+		<string>nullsuperior</string>
+		<string>lessequal</string>
+		<string>summation</string>
+		<string>product</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>omegamath</string>
+		<string>estimated</string>
+		<string>partialdiff</string>
+		<string>infinity</string>
 	</array>
 </dict>
 </plist>

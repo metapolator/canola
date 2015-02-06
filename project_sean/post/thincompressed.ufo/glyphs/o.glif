@@ -36,7 +36,7 @@
       <point x="57.0" y="268.0"/>
     </contour>
     <contour>
-      <point x="222" y="669" type="move" name="top"/>
+      <point x="222.0" y="669.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -46,6 +46,28 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>o</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>417</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mumath" format="1">
+  <advance width="927"/>
+  <outline>
+    <contour>
+      <point x="227" y="-300"/>
+      <point x="204" y="-300"/>
+      <point x="227" y="-300" type="curve"/>
+      <point x="227" y="67"/>
+      <point x="227" y="166"/>
+      <point x="227" y="533" type="curve"/>
+      <point x="204" y="533"/>
+      <point x="227" y="533"/>
+      <point x="204" y="533" type="curve"/>
+      <point x="204" y="166"/>
+      <point x="204" y="67"/>
+      <point x="204" y="-300" type="curve"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

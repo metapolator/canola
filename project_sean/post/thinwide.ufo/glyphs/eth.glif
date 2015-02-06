@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="1">
+  <advance width="761"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="244.0" y="509.0"/>
+      <point x="261.0" y="492.0"/>
+      <point x="244.0" y="509.0" type="curve"/>
+      <point x="337.0" y="601.0"/>
+      <point x="429.0" y="694.0"/>
+      <point x="522.0" y="787.0" type="curve"/>
+      <point x="539.0" y="770.0"/>
+      <point x="522.0" y="787.0"/>
+      <point x="539.0" y="770.0" type="curve"/>
+      <point x="446.0" y="677.0"/>
+      <point x="353.0" y="585.0"/>
+      <point x="261.0" y="492.0" type="curve"/>
+    </contour>
+    <component base="nine" yScale="-1" yOffset="715"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>761</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

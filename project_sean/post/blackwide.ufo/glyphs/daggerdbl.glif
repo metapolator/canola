@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="845"/>
+  <outline>
+    <contour>
+      <point x="73.0" y="405.0"/>
+      <point x="73.0" y="533.0"/>
+      <point x="73.0" y="405.0" type="curve"/>
+      <point x="73.0" y="405.0"/>
+      <point x="719.0" y="405.0"/>
+      <point x="719.0" y="405.0" type="curve"/>
+      <point x="719.0" y="533.0"/>
+      <point x="719.0" y="405.0"/>
+      <point x="719.0" y="533.0" type="curve"/>
+      <point x="719.0" y="533.0"/>
+      <point x="73.0" y="533.0"/>
+      <point x="73.0" y="533.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="486.0" y="-298.0"/>
+      <point x="316.0" y="-298.0"/>
+      <point x="476.0" y="-298.0" type="curve"/>
+      <point x="476.0" y="-298.0"/>
+      <point x="476.0" y="798.0"/>
+      <point x="476.0" y="798.0" type="curve"/>
+      <point x="316.0" y="798.0"/>
+      <point x="486.0" y="798.0"/>
+      <point x="326.0" y="798.0" type="curve"/>
+      <point x="326.0" y="798.0"/>
+      <point x="326.0" y="-298.0"/>
+      <point x="326.0" y="-298.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="73.0" y="-63.0"/>
+      <point x="73.0" y="65.0"/>
+      <point x="73.0" y="-63.0" type="curve"/>
+      <point x="73.0" y="-63.0"/>
+      <point x="719.0" y="-63.0"/>
+      <point x="719.0" y="-63.0" type="curve"/>
+      <point x="719.0" y="65.0"/>
+      <point x="719.0" y="-63.0"/>
+      <point x="719.0" y="65.0" type="curve"/>
+      <point x="719.0" y="65.0"/>
+      <point x="73.0" y="65.0"/>
+      <point x="73.0" y="65.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>daggerdbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>845</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

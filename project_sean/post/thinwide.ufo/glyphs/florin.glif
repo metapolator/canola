@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="603"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="530.55" y="546.391111111"/>
+      <point x="530.55" y="525.611111111"/>
+      <point x="530.55" y="546.391111111" type="curve"/>
+      <point x="414.0011655" y="546.391111111"/>
+      <point x="297.4488345" y="546.391111111"/>
+      <point x="180.9" y="546.391111111" type="curve"/>
+      <point x="180.9" y="525.611111111"/>
+      <point x="180.9" y="546.391111111"/>
+      <point x="180.9" y="525.611111111" type="curve"/>
+      <point x="297.4488345" y="525.611111111"/>
+      <point x="414.0011655" y="525.611111111"/>
+      <point x="530.55" y="525.611111111" type="curve"/>
+    </contour>
+    <contour>
+      <point x="581.35" y="827.764444444"/>
+      <point x="577.15" y="806.984444444"/>
+      <point x="581.35" y="827.764444444" type="curve"/>
+      <point x="481.821974447" y="842.542591034"/>
+      <point x="406.497704395" y="803.821991986"/>
+      <point x="380.875" y="709.264555556" type="curve"/>
+      <point x="324.598502474" y="493.104469227"/>
+      <point x="268.276497526" y="276.94930855"/>
+      <point x="212.0" y="60.7892222222" type="curve"/>
+      <point x="190.439978688" y="-22.0966538399"/>
+      <point x="123.764928152" y="-57.6744225376"/>
+      <point x="34.6" y="-44.2933333333" type="curve"/>
+      <point x="30.4" y="-65.0733333333"/>
+      <point x="34.6" y="-44.2933333333"/>
+      <point x="30.4" y="-65.0733333333" type="curve"/>
+      <point x="131.536249658" y="-78.5518840322"/>
+      <point x="209.40519435" y="-39.7129579488"/>
+      <point x="235.1" y="57.6722222222" type="curve"/>
+      <point x="291.764971911" y="274.514928825"/>
+      <point x="348.360028089" y="491.382848952"/>
+      <point x="405.025" y="708.225555556" type="curve"/>
+      <point x="425.565297818" y="790.021462212"/>
+      <point x="490.750190393" y="819.306218434"/>
+      <point x="577.15" y="806.984444444" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>florin</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>603</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

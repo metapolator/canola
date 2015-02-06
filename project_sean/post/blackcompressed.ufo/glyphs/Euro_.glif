@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="587"/>
+  <outline>
+    <contour>
+      <point x="-24.0" y="201.0"/>
+      <point x="-24.0" y="318.0"/>
+      <point x="-24.0" y="201.0" type="curve"/>
+      <point x="95.0" y="201.0"/>
+      <point x="215.0" y="201.0"/>
+      <point x="335.0" y="201.0" type="curve"/>
+      <point x="335.0" y="318.0"/>
+      <point x="335.0" y="201.0"/>
+      <point x="335.0" y="318.0" type="curve"/>
+      <point x="215.0" y="318.0"/>
+      <point x="95.0" y="318.0"/>
+      <point x="-24.0" y="318.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-24.0" y="373.0"/>
+      <point x="-24.0" y="490.0"/>
+      <point x="-24.0" y="373.0" type="curve"/>
+      <point x="95.0" y="373.0"/>
+      <point x="215.0" y="373.0"/>
+      <point x="335.0" y="373.0" type="curve"/>
+      <point x="335.0" y="490.0"/>
+      <point x="335.0" y="373.0"/>
+      <point x="335.0" y="490.0" type="curve"/>
+      <point x="215.0" y="490.0"/>
+      <point x="95.0" y="490.0"/>
+      <point x="-24.0" y="490.0" type="curve"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

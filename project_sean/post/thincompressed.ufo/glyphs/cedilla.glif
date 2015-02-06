@@ -50,13 +50,35 @@
       <point x="71.2" y="-63.4115555556" type="curve"/>
     </contour>
     <contour>
-      <point x="103" y="12" type="move" name="_bottom"/>
+      <point x="103.0" y="12.0" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>286</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

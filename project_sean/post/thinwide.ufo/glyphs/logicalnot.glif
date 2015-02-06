@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="875"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="156.0" y="297.0"/>
+      <point x="156.0" y="321.0"/>
+      <point x="156.0" y="297.0" type="curve"/>
+      <point x="156.0" y="297.0"/>
+      <point x="781.0" y="297.0"/>
+      <point x="781.0" y="297.0" type="curve"/>
+      <point x="781.0" y="321.0"/>
+      <point x="781.0" y="297.0"/>
+      <point x="781.0" y="321.0" type="curve"/>
+      <point x="781.0" y="321.0"/>
+      <point x="156.0" y="321.0"/>
+      <point x="156.0" y="321.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="781.0" y="153.0"/>
+      <point x="757.0" y="153.0"/>
+      <point x="781.0" y="153.0" type="curve"/>
+      <point x="781.0" y="153.0"/>
+      <point x="781.0" y="321.0"/>
+      <point x="781.0" y="321.0" type="curve"/>
+      <point x="757.0" y="321.0"/>
+      <point x="781.0" y="321.0"/>
+      <point x="757.0" y="321.0" type="curve"/>
+      <point x="757.0" y="321.0"/>
+      <point x="757.0" y="153.0"/>
+      <point x="757.0" y="153.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>logicalnot</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>875</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

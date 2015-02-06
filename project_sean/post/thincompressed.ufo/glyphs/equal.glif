@@ -4,38 +4,60 @@
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="26.6" y="206.181"/>
-      <point x="26.6" y="228.819"/>
-      <point x="26.6" y="206.181" type="curve"/>
-      <point x="173.365199" y="206.181"/>
-      <point x="320.134801" y="206.181"/>
-      <point x="466.9" y="206.181" type="curve"/>
-      <point x="466.9" y="228.819"/>
-      <point x="466.9" y="206.181"/>
-      <point x="466.9" y="228.819" type="curve"/>
-      <point x="320.134801" y="228.819"/>
-      <point x="173.365199" y="228.819"/>
-      <point x="26.6" y="228.819" type="curve"/>
+      <point x="27" y="206"/>
+      <point x="27" y="229"/>
+      <point x="27" y="206" type="curve"/>
+      <point x="173" y="206"/>
+      <point x="320" y="206"/>
+      <point x="467" y="206" type="curve"/>
+      <point x="467" y="229"/>
+      <point x="467" y="206"/>
+      <point x="467" y="229" type="curve"/>
+      <point x="320" y="229"/>
+      <point x="173" y="229"/>
+      <point x="27" y="229" type="curve"/>
     </contour>
     <contour>
-      <point x="26.6" y="428.181"/>
-      <point x="26.6" y="450.819"/>
-      <point x="26.6" y="428.181" type="curve"/>
-      <point x="173.365199" y="428.181"/>
-      <point x="320.134801" y="428.181"/>
-      <point x="466.9" y="428.181" type="curve"/>
-      <point x="466.9" y="450.819"/>
-      <point x="466.9" y="428.181"/>
-      <point x="466.9" y="450.819" type="curve"/>
-      <point x="320.134801" y="450.819"/>
-      <point x="173.365199" y="450.819"/>
-      <point x="26.6" y="450.819" type="curve"/>
+      <point x="27" y="428"/>
+      <point x="27" y="451"/>
+      <point x="27" y="428" type="curve"/>
+      <point x="173" y="428"/>
+      <point x="320" y="428"/>
+      <point x="467" y="428" type="curve"/>
+      <point x="467" y="451"/>
+      <point x="467" y="428"/>
+      <point x="467" y="451" type="curve"/>
+      <point x="320" y="451"/>
+      <point x="173" y="451"/>
+      <point x="27" y="451" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>equal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>491</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -3,12 +3,34 @@
   <advance width="554"/>
   <outline>
     <component base="t"/>
-    <component base="cedilla" xOffset="187" yOffset="-67"/>
+    <component base="cedilla" xOffset="93" yOffset="-86"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tcedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>554</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

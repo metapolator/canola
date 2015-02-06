@@ -4,12 +4,34 @@
   <unicode hex="00C7"/>
   <outline>
     <component base="C"/>
-    <component base="cedilla" xOffset="343" yOffset="18"/>
+    <component base="cedilla" xOffset="226" yOffset="-81"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ccedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>931</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

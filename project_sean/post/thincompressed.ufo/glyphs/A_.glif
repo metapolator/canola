@@ -32,18 +32,18 @@
       <point x="153.0" y="22.0" type="curve"/>
     </contour>
     <contour>
-      <point x="536" y="0"/>
-      <point x="536" y="22"/>
-      <point x="536" y="0" type="curve"/>
-      <point x="580" y="0"/>
-      <point x="624" y="0"/>
-      <point x="668" y="0" type="curve"/>
-      <point x="668" y="22"/>
-      <point x="668" y="0"/>
-      <point x="668" y="22" type="curve"/>
-      <point x="536" y="22"/>
-      <point x="668" y="22"/>
-      <point x="536" y="22" type="curve"/>
+      <point x="536.0" y="0.0"/>
+      <point x="536.0" y="22.0"/>
+      <point x="536.0" y="0.0" type="curve"/>
+      <point x="580.0" y="0.0"/>
+      <point x="624.0" y="0.0"/>
+      <point x="668.0" y="0.0" type="curve"/>
+      <point x="668.0" y="22.0"/>
+      <point x="668.0" y="0.0"/>
+      <point x="668.0" y="22.0" type="curve"/>
+      <point x="536.0" y="22.0"/>
+      <point x="668.0" y="22.0"/>
+      <point x="536.0" y="22.0" type="curve"/>
     </contour>
     <contour>
       <point x="536.0" y="22.0"/>
@@ -105,13 +105,35 @@
       <point x="357.0" y="839.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="550" y="2" type="move" name="bottom"/>
+      <point x="550.0" y="2.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>689</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

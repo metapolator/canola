@@ -22,9 +22,9 @@
       <point x="683.025" y="179.018946666"/>
       <point x="432.0" y="49.0"/>
       <point x="115.25" y="7.51088888889" type="curve"/>
-      <point x="119.65" y="-11.8931111111"/>
-      <point x="115.25" y="7.51088888889"/>
-      <point x="119.65" y="-11.8931111111" type="curve"/>
+      <point x="119.0" y="-15.0"/>
+      <point x="115.0" y="8.0"/>
+      <point x="119.0" y="-15.0" type="curve"/>
       <point x="451.0" y="24.0"/>
       <point x="706.125" y="167.769767567"/>
       <point x="706.125" y="480.773444444" type="curve"/>
@@ -46,6 +46,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>nine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>761</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

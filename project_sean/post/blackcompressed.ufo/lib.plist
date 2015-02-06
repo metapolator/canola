@@ -91,6 +91,34 @@
 			<key>y</key>
 			<integer>884</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>superiorbase</string>
+			<key>x</key>
+			<integer>-51</integer>
+			<key>y</key>
+			<integer>400</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>superiortop</string>
+			<key>x</key>
+			<integer>-42</integer>
+			<key>y</key>
+			<integer>821</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -545,6 +573,43 @@
 				<string>iogonek</string>
 				<string>Zdotaccent</string>
 				<string>scedilla</string>
+				<string>commaaccent</string>
+				<string>florin</string>
+				<string>softhyphen</string>
+				<string>divisionslash</string>
+				<string>foursuperior</string>
+				<string>threequarters.add_1</string>
+				<string>lcaron.add_1</string>
+				<string>dcroat</string>
+				<string>ohungarumlaut.add_1</string>
+				<string>Lslash</string>
+				<string>Ohungarumlaut.add_1</string>
+				<string>lslash</string>
+				<string>Lcaron.add_1</string>
+				<string>Dcroat</string>
+				<string>pi</string>
+				<string>quotedblright</string>
+				<string>quotesinglbase</string>
+				<string>Euro</string>
+				<string>litre</string>
+				<string>endash</string>
+				<string>quoteright.add_1</string>
+				<string>perthousand</string>
+				<string>quotedblleft</string>
+				<string>trademark</string>
+				<string>ruble</string>
+				<string>emdash</string>
+				<string>OE</string>
+				<string>ellipsis</string>
+				<string>guilsinglright</string>
+				<string>oe</string>
+				<string>guilsinglleft</string>
+				<string>dagger</string>
+				<string>fraction</string>
+				<string>quotedblbase</string>
+				<string>daggerdbl</string>
+				<string>bullet</string>
+				<string>nullsuperior</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -991,6 +1056,52 @@
 		<string>iogonek</string>
 		<string>Zdotaccent</string>
 		<string>scedilla</string>
+		<string>commaaccent</string>
+		<string>florin</string>
+		<string>softhyphen</string>
+		<string>divisionslash</string>
+		<string>foursuperior</string>
+		<string>threequarters.add_1</string>
+		<string>lcaron.add_1</string>
+		<string>dcroat</string>
+		<string>ohungarumlaut.add_1</string>
+		<string>Lslash</string>
+		<string>Ohungarumlaut.add_1</string>
+		<string>lslash</string>
+		<string>Lcaron.add_1</string>
+		<string>Dcroat</string>
+		<string>pi</string>
+		<string>quotedblright</string>
+		<string>quotesinglbase</string>
+		<string>Euro</string>
+		<string>litre</string>
+		<string>endash</string>
+		<string>quoteright.add_1</string>
+		<string>perthousand</string>
+		<string>quotedblleft</string>
+		<string>trademark</string>
+		<string>ruble</string>
+		<string>emdash</string>
+		<string>OE</string>
+		<string>ellipsis</string>
+		<string>guilsinglright</string>
+		<string>oe</string>
+		<string>guilsinglleft</string>
+		<string>dagger</string>
+		<string>fraction</string>
+		<string>quotedblbase</string>
+		<string>daggerdbl</string>
+		<string>bullet</string>
+		<string>nullsuperior</string>
+		<string>lessequal</string>
+		<string>summation</string>
+		<string>product</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>omegamath</string>
+		<string>estimated</string>
+		<string>partialdiff</string>
+		<string>infinity</string>
 	</array>
 </dict>
 </plist>

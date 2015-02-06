@@ -130,13 +130,35 @@
       <point x="303.0" y="0.0" type="curve"/>
     </contour>
     <contour>
-      <point x="315" y="839" type="move" name="top"/>
+      <point x="315.0" y="839.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Y</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>645</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

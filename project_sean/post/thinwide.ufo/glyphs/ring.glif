@@ -4,45 +4,67 @@
   <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="32" y="755"/>
-      <point x="54" y="755"/>
-      <point x="32" y="755" type="curve"/>
-      <point x="32" y="677"/>
-      <point x="96" y="639"/>
-      <point x="181" y="639" type="curve"/>
-      <point x="268" y="639"/>
-      <point x="334" y="675"/>
-      <point x="334" y="755" type="curve"/>
-      <point x="334" y="836"/>
-      <point x="267" y="872"/>
-      <point x="178" y="872" type="curve"/>
-      <point x="94" y="872"/>
-      <point x="32" y="834"/>
-      <point x="32" y="755" type="curve"/>
-      <point x="54" y="755"/>
-      <point x="32" y="755"/>
-      <point x="54" y="755" type="curve"/>
-      <point x="54" y="820"/>
-      <point x="107" y="851"/>
-      <point x="178" y="851" type="curve"/>
-      <point x="254" y="851"/>
-      <point x="311" y="823"/>
-      <point x="311" y="755" type="curve"/>
-      <point x="311" y="689"/>
-      <point x="255" y="660"/>
-      <point x="181" y="660" type="curve"/>
-      <point x="109" y="660"/>
-      <point x="54" y="689"/>
-      <point x="54" y="755" type="curve"/>
+      <point x="32.0" y="755.0"/>
+      <point x="54.0" y="755.0"/>
+      <point x="32.0" y="755.0" type="curve"/>
+      <point x="32.0" y="677.0"/>
+      <point x="96.0" y="639.0"/>
+      <point x="181.0" y="639.0" type="curve"/>
+      <point x="268.0" y="639.0"/>
+      <point x="334.0" y="675.0"/>
+      <point x="334.0" y="755.0" type="curve"/>
+      <point x="334.0" y="836.0"/>
+      <point x="267.0" y="872.0"/>
+      <point x="178.0" y="872.0" type="curve"/>
+      <point x="94.0" y="872.0"/>
+      <point x="32.0" y="834.0"/>
+      <point x="32.0" y="755.0" type="curve"/>
+      <point x="54.0" y="755.0"/>
+      <point x="32.0" y="755.0"/>
+      <point x="54.0" y="755.0" type="curve"/>
+      <point x="54.0" y="820.0"/>
+      <point x="107.0" y="851.0"/>
+      <point x="178.0" y="851.0" type="curve"/>
+      <point x="254.0" y="851.0"/>
+      <point x="311.0" y="823.0"/>
+      <point x="311.0" y="755.0" type="curve"/>
+      <point x="311.0" y="689.0"/>
+      <point x="255.0" y="660.0"/>
+      <point x="181.0" y="660.0" type="curve"/>
+      <point x="109.0" y="660.0"/>
+      <point x="54.0" y="689.0"/>
+      <point x="54.0" y="755.0" type="curve"/>
     </contour>
     <contour>
-      <point x="180" y="650" type="move" name="_top"/>
+      <point x="180.0" y="650.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ring</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>259</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1397"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="259.0" y="117.0"/>
+      <point x="259.0" y="0.0"/>
+      <point x="259.0" y="117.0" type="curve"/>
+      <point x="65.0" y="117.0"/>
+      <point x="259.0" y="117.0"/>
+      <point x="65.0" y="117.0" type="curve"/>
+      <point x="65.0" y="0.0"/>
+      <point x="65.0" y="117.0"/>
+      <point x="65.0" y="0.0" type="curve"/>
+      <point x="130.0" y="0.0"/>
+      <point x="195.0" y="0.0"/>
+      <point x="259.0" y="0.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="259.0" y="0.0"/>
+      <point x="259.0" y="117.0"/>
+      <point x="259.0" y="0.0" type="curve"/>
+      <point x="336.0" y="0.0"/>
+      <point x="259.0" y="0.0"/>
+      <point x="490.0" y="0.0" type="curve"/>
+      <point x="490.0" y="117.0"/>
+      <point x="490.0" y="0.0"/>
+      <point x="490.0" y="117.0" type="curve"/>
+      <point x="259.0" y="117.0"/>
+      <point x="490.0" y="117.0"/>
+      <point x="259.0" y="117.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="751.0" y="297.0"/>
+      <point x="802.0" y="174.0"/>
+      <point x="751.0" y="297.0" type="curve"/>
+      <point x="615.0" y="297.0"/>
+      <point x="560.0" y="297.0"/>
+      <point x="424.0" y="297.0" type="curve"/>
+      <point x="358.0" y="174.0"/>
+      <point x="424.0" y="297.0"/>
+      <point x="358.0" y="174.0" type="curve"/>
+      <point x="533.0" y="174.0"/>
+      <point x="627.0" y="174.0"/>
+      <point x="802.0" y="174.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="331.0" y="0.0"/>
+      <point x="156.0" y="0.0"/>
+      <point x="331.0" y="0.0" type="curve"/>
+      <point x="872.0" y="722.0" type="line"/>
+      <point x="726.0" y="722.0"/>
+      <point x="872.0" y="722.0"/>
+      <point x="726.0" y="722.0" type="curve"/>
+      <point x="156.0" y="0.0" type="line"/>
+    </contour>
+    <component base="E" xOffset="549"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1397</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

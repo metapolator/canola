@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="1">
+  <advance width="354"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="324" y="482"/>
+      <point x="324" y="354"/>
+      <point x="324" y="482" type="curve"/>
+      <point x="250" y="448"/>
+      <point x="126.099259" y="386.444783362"/>
+      <point x="52.0" y="351.960797721" type="curve"/>
+      <point x="52.0" y="223.480797721"/>
+      <point x="52.0" y="351.960797721"/>
+      <point x="52.0" y="223.480797721" type="curve"/>
+      <point x="126.099259" y="257.964783362"/>
+      <point x="250" y="319"/>
+      <point x="324" y="354" type="curve"/>
+    </contour>
+    <contour>
+      <point x="324" y="224"/>
+      <point x="324" y="95"/>
+      <point x="324" y="224" type="curve"/>
+      <point x="250" y="258"/>
+      <point x="126.099259" y="317.47681208"/>
+      <point x="52.0" y="351.960797721" type="curve"/>
+      <point x="52.0" y="223.480797721"/>
+      <point x="52.0" y="351.960797721"/>
+      <point x="52.0" y="223.480797721" type="curve"/>
+      <point x="126.099259" y="188.99681208"/>
+      <point x="250" y="130"/>
+      <point x="324" y="95" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>211</integer>
+          <key>y</key>
+          <integer>400</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>324</integer>
+          <key>y</key>
+          <integer>324</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guilsinglleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

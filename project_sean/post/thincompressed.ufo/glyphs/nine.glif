@@ -10,7 +10,7 @@
       <point x="327.0" y="405.0"/>
       <point x="296.50283106" y="335.900111111"/>
       <point x="210.4" y="335.900111111" type="curve"/>
-      <point x="118.118473279" y="335.900111111"/>
+      <point x="118.0" y="336.0"/>
       <point x="86.3" y="416.415981833"/>
       <point x="86.3" y="519.686777778" type="curve"/>
       <point x="86.3" y="619.970579789"/>
@@ -19,13 +19,13 @@
       <point x="314.0" y="703.0"/>
       <point x="348.6" y="601.793770646"/>
       <point x="348.6" y="479.695444444" type="curve"/>
-      <point x="348.6" y="253.748305995"/>
+      <point x="349.0" y="258.0"/>
       <point x="263.857775096" y="98.671622946"/>
       <point x="58.7" y="7.51088888889" type="curve"/>
-      <point x="63.1" y="-11.8931111111"/>
-      <point x="58.7" y="7.51088888889"/>
-      <point x="63.1" y="-11.8931111111" type="curve"/>
-      <point x="281.371988731" y="78.7964650388"/>
+      <point x="69.0" y="-15.0"/>
+      <point x="59.0" y="8.0"/>
+      <point x="69.0" y="-15.0" type="curve"/>
+      <point x="281.0" y="79.0"/>
       <point x="371.7" y="242.349870995"/>
       <point x="371.7" y="480.773444444" type="curve"/>
       <point x="371.7" y="619.215111787"/>
@@ -46,6 +46,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>nine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>432</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="1101"/>
+  <outline>
+    <component base="divisionslash" xOffset="136"/>
+    <contour>
+      <point x="173.0" y="705.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="773.0" y="-30.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
