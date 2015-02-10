@@ -3,6 +3,22 @@
   <advance width="140"/>
   <unicode hex="02D9"/>
   <outline>
+    <contour>
+      <point x="99" y="670" type="line" name=""/>
+      <point x="99" y="682"/>
+      <point x="91" y="689"/>
+      <point x="79" y="689" type="curve" name="dot"/>
+      <point x="68" y="689"/>
+      <point x="61" y="681"/>
+      <point x="61" y="670" type="curve" name=""/>
+      <point x="99" y="670" type="line" name=""/>
+      <point x="99" y="658"/>
+      <point x="91" y="652"/>
+      <point x="79" y="652" type="curve" name="dot"/>
+      <point x="68" y="652"/>
+      <point x="61" y="659"/>
+      <point x="61" y="670" type="curve" name=""/>
+    </contour>
     <component base="nuktadeva" xOffset="554" yOffset="718"/>
   </outline>
   <lib>
@@ -32,13 +48,6 @@
           <integer>140</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.2005</real>
-        <real>1.0</real>
-        <real>0.9416</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

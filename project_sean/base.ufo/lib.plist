@@ -132,7 +132,7 @@
 			<key>magnetic</key>
 			<integer>5</integer>
 			<key>name</key>
-			<string></string>
+			<string>double_devea</string>
 			<key>x</key>
 			<integer>739</integer>
 			<key>y</key>
@@ -151,6 +151,20 @@
 			<integer>880</integer>
 			<key>y</key>
 			<integer>352</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>deva_bar</string>
+			<key>x</key>
+			<integer>763</integer>
+			<key>y</key>
+			<integer>515</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -995,6 +1009,54 @@
 				<string>dvB</string>
 				<string>dvY</string>
 				<string>dvP</string>
+				<string>dvKH_RA</string>
+				<string>dvSS</string>
+				<string>dvRashtrasign</string>
+				<string>dvSH</string>
+				<string>dvK_RA</string>
+				<string>dvGH_RA</string>
+				<string>dvC_RA</string>
+				<string>dvJ_NY</string>
+				<string>dvK_R</string>
+				<string>dvKH_R</string>
+				<string>dvV</string>
+				<string>dvG_RA</string>
+				<string>dvNG_RA</string>
+				<string>dvS</string>
+				<string>dvRashtrasign.add_1</string>
+				<string>dvNN_RA</string>
+				<string>dvB_RA</string>
+				<string>dvJ_RA</string>
+				<string>dvCH_RA</string>
+				<string>dvDH_RA</string>
+				<string>dvP_RA</string>
+				<string>dvY_RA</string>
+				<string>dvT_RA</string>
+				<string>dvM_RA</string>
+				<string>dvNY_RA</string>
+				<string>dvTH_RA</string>
+				<string>dvDD_DDHA</string>
+				<string>dvV_RA</string>
+				<string>dvTT_TTA</string>
+				<string>dvBH_RA</string>
+				<string>dvPH_RA</string>
+				<string>dvTT_TTHA</string>
+				<string>dvTTH_RA</string>
+				<string>dvK_TA</string>
+				<string>dvDDH_RA</string>
+				<string>dvDD_VA</string>
+				<string>dvTTH_TTHA</string>
+				<string>dvTT_RA</string>
+				<string>dvD_RA</string>
+				<string>dvDD_DDA</string>
+				<string>dvDDH_DDHA</string>
+				<string>dvTT_VA</string>
+				<string>dvD_VA</string>
+				<string>dvJH_RA</string>
+				<string>dvT_TA</string>
+				<string>dvDD_RA</string>
+				<string>Logo</string>
+				<string>omegamath</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1843,6 +1905,79 @@
 		<string>dvG_RA</string>
 		<string>dvNG_RA</string>
 		<string>dvS</string>
+		<string>dvRashtrasign.add_1</string>
+		<string>dvNN_RA</string>
+		<string>dvB_RA</string>
+		<string>dvJ_RA</string>
+		<string>dvCH_RA</string>
+		<string>dvDH_RA</string>
+		<string>dvP_RA</string>
+		<string>dvY_RA</string>
+		<string>dvT_RA</string>
+		<string>dvM_RA</string>
+		<string>dvNY_RA</string>
+		<string>dvTH_RA</string>
+		<string>dvDD_DDHA</string>
+		<string>dvV_RA</string>
+		<string>dvTT_TTA</string>
+		<string>dvBH_RA</string>
+		<string>dvPH_RA</string>
+		<string>dvTT_TTHA</string>
+		<string>dvTTH_RA</string>
+		<string>dvK_TA</string>
+		<string>dvDDH_RA</string>
+		<string>dvDD_VA</string>
+		<string>dvTTH_TTHA</string>
+		<string>dvTT_RA</string>
+		<string>dvD_RA</string>
+		<string>dvDD_DDA</string>
+		<string>dvDDH_DDHA</string>
+		<string>dvTT_VA</string>
+		<string>dvD_VA</string>
+		<string>dvJH_RA</string>
+		<string>dvT_TA</string>
+		<string>dvDD_RA</string>
+		<string>Logo</string>
+		<string>omegamath</string>
+		<string>dvH_MA</string>
+		<string>dvSHA_mvR</string>
+		<string>dvP_TTA</string>
+		<string>dvGH_R</string>
+		<string>dvP_TTHA</string>
+		<string>dvTH_R</string>
+		<string>dvS_RA</string>
+		<string>dvBH_R</string>
+		<string>dvD_YA</string>
+		<string>dvSS_TTA</string>
+		<string>dvJ_R</string>
+		<string>dvPH_R</string>
+		<string>dvHA_mvR</string>
+		<string>dvB_R</string>
+		<string>dvSS_TT_VA</string>
+		<string>dvDA_mvR</string>
+		<string>dvG_R</string>
+		<string>dvS_T_RA</string>
+		<string>dvH_NA</string>
+		<string>dvP_TA</string>
+		<string>dvC_R</string>
+		<string>dvM_R</string>
+		<string>dvSH_NA</string>
+		<string>dvV_R</string>
+		<string>dvS_NA</string>
+		<string>dvP_R</string>
+		<string>dvSH_CA</string>
+		<string>dvY_R</string>
+		<string>dvSS_TTHA</string>
+		<string>dvNY_R</string>
+		<string>dvT_R</string>
+		<string>dvNN_R</string>
+		<string>dvDH_R</string>
+		<string>dvJH_R</string>
+		<string>dvSH_VA</string>
+		<string>dvH_RA</string>
+		<string>dvH_VA</string>
+		<string>dvH_YA</string>
+		<string>dvSH_RA</string>
 	</array>
 </dict>
 </plist>

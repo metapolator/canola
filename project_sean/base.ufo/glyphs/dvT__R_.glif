@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_R" format="1">
+  <advance width="411"/>
+  <unicode hex="E103"/>
+  <outline>
+    <contour>
+      <point x="320" y="-9" type="line"/>
+      <point x="522" y="332" type="line"/>
+      <point x="499" y="333" type="line"/>
+      <point x="302" y="3" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="704" type="line"/>
+      <point x="506" y="704" type="line"/>
+      <point x="506" y="722" type="line"/>
+      <point x="-12" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="257" type="line"/>
+      <point x="96" y="373"/>
+      <point x="176" y="448"/>
+      <point x="293" y="448" type="curve"/>
+      <point x="392" y="448"/>
+      <point x="460" y="408"/>
+      <point x="499" y="333" type="curve"/>
+      <point x="522" y="332" type="line"/>
+      <point x="484.514885598" y="417.821182973"/>
+      <point x="406.0" y="468.0"/>
+      <point x="292" y="468" type="curve"/>
+      <point x="163" y="468"/>
+      <point x="74" y="385"/>
+      <point x="74" y="257" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvT_R</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>411</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

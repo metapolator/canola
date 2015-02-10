@@ -3,38 +3,16 @@
   <advance width="375"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="quoteright" xOffset="-1" yOffset="78"/>
-    <component base="quoteright" xOffset="95" yOffset="78"/>
+    <component base="quoteright" xOffset="-1" yOffset="149"/>
+    <component base="quoteright" xOffset="95" yOffset="149"/>
     <contour>
-      <point x="163.0" y="723.0" type="move" name="_top"/>
+      <point x="164.0" y="723.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>scale</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>hungarumlaut</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>375</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

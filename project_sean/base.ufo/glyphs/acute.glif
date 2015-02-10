@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
   <advance width="223"/>
+  <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="43" y="671" type="line"/>
-      <point x="204" y="837" type="line"/>
-      <point x="171" y="837" type="line"/>
-      <point x="17" y="671" type="line"/>
+      <point x="46" y="591" type="line"/>
+      <point x="211" y="757" type="line" name="stem"/>
+      <point x="181" y="757" type="line" name="stem"/>
+      <point x="16" y="591" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,13 +37,6 @@
           <integer>223</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

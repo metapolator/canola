@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae" format="1">
-  <advance width="662"/>
+  <advance width="590"/>
   <unicode hex="00E6"/>
   <outline>
     <contour>
@@ -30,9 +30,9 @@
       <point x="114.0" y="538.0"/>
       <point x="72.0" y="501.0"/>
       <point x="43.0" y="464.0" type="curve"/>
-      <point x="53.0" y="444.0"/>
+      <point x="56.0" y="445.0"/>
       <point x="43.0" y="464.0"/>
-      <point x="53.0" y="444.0" type="curve"/>
+      <point x="56.0" y="445.0" type="curve"/>
       <point x="79.0" y="479.0"/>
       <point x="116.0" y="516.0"/>
       <point x="176.0" y="516.0" type="curve"/>
@@ -51,9 +51,9 @@
       <point x="203.0" y="297.0"/>
       <point x="147.0" y="286.0" type="curve"/>
       <point x="71.0" y="270.0"/>
-      <point x="29.0" y="231.0"/>
-      <point x="29.0" y="152.0" type="curve"/>
-      <point x="29.0" y="61.0"/>
+      <point x="29.0" y="226.0"/>
+      <point x="29.0" y="141.0" type="curve"/>
+      <point x="29.0" y="56.0"/>
       <point x="55.0" y="-5.0"/>
       <point x="136.0" y="-5.0" type="curve"/>
       <point x="229.0" y="-5.0"/>
@@ -66,9 +66,9 @@
       <point x="216.0" y="17.0"/>
       <point x="141.0" y="17.0" type="curve"/>
       <point x="71.0" y="17.0"/>
-      <point x="53.0" y="75.0"/>
-      <point x="53.0" y="154.0" type="curve"/>
-      <point x="53.0" y="219.0"/>
+      <point x="53.0" y="70.0"/>
+      <point x="53.0" y="143.0" type="curve"/>
+      <point x="53.0" y="214.0"/>
       <point x="90.0" y="252.0"/>
       <point x="150.0" y="265.0" type="curve"/>
       <point x="207.0" y="276.0"/>
@@ -81,28 +81,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>scale</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ae</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>662</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

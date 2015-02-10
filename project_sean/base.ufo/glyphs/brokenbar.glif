@@ -4,24 +4,16 @@
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="129" y="-300" type="line"/>
-      <point x="151" y="-300" type="line"/>
-    </contour>
-    <contour>
-      <point x="151" y="-300" type="line"/>
+      <point x="151" y="-300" type="line" name="stem"/>
       <point x="151" y="72" type="line"/>
       <point x="129" y="72" type="line"/>
-      <point x="129" y="-300" type="line"/>
+      <point x="129" y="-300" type="line" name="stem"/>
     </contour>
     <contour>
-      <point x="129" y="428" type="line"/>
-      <point x="151" y="428" type="line"/>
-    </contour>
-    <contour>
-      <point x="151" y="428" type="line"/>
+      <point x="151" y="428" type="line" name="stem2"/>
       <point x="151" y="800" type="line"/>
       <point x="129" y="800" type="line"/>
-      <point x="129" y="428" type="line"/>
+      <point x="129" y="428" type="line" name="stem2"/>
     </contour>
   </outline>
   <lib>
@@ -51,13 +43,6 @@
           <integer>256</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.2005</real>
-        <real>1.0</real>
-        <real>0.9416</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

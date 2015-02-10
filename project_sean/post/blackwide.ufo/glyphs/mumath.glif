@@ -3,18 +3,18 @@
   <advance width="892"/>
   <outline>
     <contour>
-      <point x="295" y="-300"/>
-      <point x="135" y="-300"/>
-      <point x="295" y="-300" type="curve"/>
-      <point x="295" y="67"/>
-      <point x="295" y="166"/>
-      <point x="295" y="533" type="curve"/>
-      <point x="135" y="533"/>
-      <point x="295" y="533"/>
-      <point x="135" y="533" type="curve"/>
-      <point x="135" y="166"/>
-      <point x="135" y="67"/>
-      <point x="135" y="-300" type="curve"/>
+      <point x="295.0" y="-300.0"/>
+      <point x="135.0" y="-300.0"/>
+      <point x="295.0" y="-300.0" type="curve"/>
+      <point x="295.0" y="67.0"/>
+      <point x="295.0" y="166.0"/>
+      <point x="295.0" y="533.0" type="curve"/>
+      <point x="135.0" y="533.0"/>
+      <point x="295.0" y="533.0"/>
+      <point x="135.0" y="533.0" type="curve"/>
+      <point x="135.0" y="166.0"/>
+      <point x="135.0" y="67.0"/>
+      <point x="135.0" y="-300.0" type="curve"/>
     </contour>
     <component base="u"/>
   </outline>
@@ -22,6 +22,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>mumath</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>892</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

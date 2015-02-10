@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvP_R" format="1">
+  <advance width="344"/>
+  <unicode hex="E106"/>
+  <outline>
+    <contour>
+      <point x="431" y="365" type="line"/>
+      <point x="397.965400056" y="290.186347186"/>
+      <point x="338.954022989" y="259.0"/>
+      <point x="255" y="259" type="curve" smooth="yes"/>
+      <point x="162" y="259"/>
+      <point x="109" y="326"/>
+      <point x="109" y="424" type="curve" smooth="yes"/>
+      <point x="109" y="710" type="line"/>
+      <point x="87" y="710" type="line"/>
+      <point x="87" y="427" type="line" smooth="yes"/>
+      <point x="87" y="315"/>
+      <point x="149" y="238"/>
+      <point x="254" y="238" type="curve" smooth="yes"/>
+      <point x="346.436842105" y="238.0"/>
+      <point x="413" y="274"/>
+      <point x="447" y="357" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-12" y="702" type="line"/>
+      <point x="455" y="702" type="line"/>
+      <point x="455" y="722" type="line"/>
+      <point x="-12" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="-4" type="line"/>
+      <point x="447" y="357" type="line"/>
+      <point x="431" y="365" type="line"/>
+      <point x="279" y="5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvP_R</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>344</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

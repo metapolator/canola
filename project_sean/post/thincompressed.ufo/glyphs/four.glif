@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="477"/>
+  <advance width="438"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
@@ -46,18 +46,18 @@
       <point x="24.0" y="287.0" type="curve"/>
     </contour>
     <contour>
-      <point x="450.0" y="287.0" type="curve"/>
-      <point x="35.0" y="287.0"/>
-      <point x="413.0" y="287.0"/>
+      <point x="398.0" y="287.0" type="curve"/>
+      <point x="33.6572769953" y="287.0"/>
+      <point x="365.516431925" y="287.0"/>
       <point x="24.0" y="287.0" type="curve"/>
       <point x="38.0" y="265.0"/>
       <point x="24.0" y="287.0"/>
       <point x="38.0" y="265.0" type="curve"/>
-      <point x="409.0" y="265.0"/>
-      <point x="54.0" y="265.0"/>
-      <point x="450.0" y="265.0" type="curve"/>
-      <point x="450.0" y="274.0"/>
-      <point x="450.0" y="279.0"/>
+      <point x="362.174757282" y="265.0"/>
+      <point x="51.9805825243" y="265.0"/>
+      <point x="398.0" y="265.0" type="curve"/>
+      <point x="398.0" y="274.0"/>
+      <point x="398.0" y="279.0"/>
     </contour>
     <contour>
       <point x="251.0" y="722.0"/>
@@ -92,31 +92,23 @@
           <key>y</key>
           <integer>239</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>402</integer>
+          <key>y</key>
+          <integer>138</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>scale</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>four</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>477</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -30,10 +30,10 @@
       <point x="130.0" y="766.0"/>
       <point x="107.0" y="747.0"/>
       <point x="83.0" y="718.0" type="curve"/>
-      <point x="87.0" y="711.0"/>
-      <point x="89.0" y="705.0"/>
-      <point x="93.0" y="698.0" type="curve"/>
-      <point x="113.0" y="725.0"/>
+      <point x="88.0" y="712.0"/>
+      <point x="92.0" y="707.0"/>
+      <point x="98.0" y="700.0" type="curve"/>
+      <point x="114.0" y="721.0"/>
       <point x="132.0" y="744.0"/>
       <point x="165.0" y="744.0" type="curve"/>
       <point x="204.0" y="744.0"/>
@@ -64,10 +64,10 @@
       <point x="207.0" y="626.0"/>
       <point x="186.0" y="623.0"/>
       <point x="155.0" y="617.0" type="curve"/>
-      <point x="104.0" y="606.0"/>
-      <point x="70.0" y="577.0"/>
-      <point x="70.0" y="526.0" type="curve"/>
-      <point x="70.0" y="469.0"/>
+      <point x="103.845827184" y="605.96674704"/>
+      <point x="70.0" y="574.0"/>
+      <point x="70.0" y="520.0" type="curve"/>
+      <point x="70.0" y="467.0"/>
       <point x="99.0" y="429.0"/>
       <point x="153.0" y="429.0" type="curve"/>
       <point x="201.0" y="429.0"/>
@@ -80,10 +80,10 @@
       <point x="198.0" y="451.0"/>
       <point x="158.0" y="451.0" type="curve"/>
       <point x="116.0" y="451.0"/>
-      <point x="94.0" y="483.0"/>
-      <point x="94.0" y="528.0" type="curve"/>
-      <point x="94.0" y="566.0"/>
-      <point x="117.0" y="589.0"/>
+      <point x="94.0" y="481.0"/>
+      <point x="94.0" y="522.0" type="curve"/>
+      <point x="94.0" y="563.0"/>
+      <point x="116.85036136" y="588.967645699"/>
       <point x="154.0" y="597.0" type="curve"/>
       <point x="185.0" y="603.0"/>
       <point x="208.0" y="607.0"/>
@@ -94,41 +94,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>scale</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>a</string>
-              <key>transformation</key>
-              <array>
-                <real>0.6182525979728293</real>
-                <real>0.0</real>
-                <real>0.0</real>
-                <real>0.6182525979728288</real>
-                <integer>61</integer>
-                <integer>433</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ordfeminine</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>337</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

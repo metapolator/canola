@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve" format="1">
   <advance width="302"/>
-  <unicode hex="02D8"/>
+  <unicode hex="0306"/>
   <outline>
     <contour>
-      <point x="266" y="953" type="line"/>
-      <point x="266" y="887"/>
-      <point x="219" y="853"/>
-      <point x="150" y="853" type="curve" smooth="yes"/>
-      <point x="83" y="853"/>
-      <point x="39" y="889"/>
-      <point x="39" y="954" type="curve"/>
-      <point x="18" y="954" type="line"/>
-      <point x="18" y="875"/>
-      <point x="68" y="830"/>
-      <point x="148" y="830" type="curve" smooth="yes"/>
-      <point x="232" y="830"/>
-      <point x="287" y="873"/>
-      <point x="287" y="953" type="curve"/>
+      <point x="266" y="743" type="line"/>
+      <point x="266" y="677"/>
+      <point x="219" y="640"/>
+      <point x="150" y="640" type="curve" smooth="yes"/>
+      <point x="83" y="640"/>
+      <point x="39" y="679"/>
+      <point x="39" y="744" type="curve"/>
+      <point x="18" y="744" type="line"/>
+      <point x="18" y="665"/>
+      <point x="68" y="620"/>
+      <point x="148" y="620" type="curve" smooth="yes"/>
+      <point x="232" y="620"/>
+      <point x="287" y="663"/>
+      <point x="287" y="743" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -47,13 +47,6 @@
           <integer>302</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.2005</real>
-        <real>1.0</real>
-        <real>0.9416</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

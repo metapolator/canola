@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divisionslash" format="1">
-  <advance width="855"/>
+  <advance width="928"/>
   <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="792" y="1445" type="line"/>
-      <point x="654" y="1497" type="line"/>
-      <point x="63" y="-171" type="line"/>
-      <point x="205" y="-220" type="line"/>
+      <point x="262" y="-94" type="line"/>
+      <point x="688" y="758" type="line"/>
+      <point x="663" y="758" type="line"/>
+      <point x="237" y="-94" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,16 +34,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>855</integer>
+          <integer>928</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNY_R" format="1">
+  <advance width="512"/>
+  <unicode hex="E101"/>
+  <outline>
+    <contour>
+      <point x="422" y="322" type="line"/>
+      <point x="520.480874728" y="289.573370516"/>
+      <point x="578.245540642" y="283.682649872"/>
+      <point x="673" y="329" type="curve"/>
+      <point x="659" y="346" type="line"/>
+      <point x="573.897248376" y="305.688170283"/>
+      <point x="512.550720064" y="314.571015979"/>
+      <point x="422" y="344" type="curve"/>
+    </contour>
+    <contour>
+      <point x="117" y="478" type="line"/>
+      <point x="155" y="509"/>
+      <point x="190" y="525"/>
+      <point x="240" y="525" type="curve" smooth="yes"/>
+      <point x="348" y="525"/>
+      <point x="409" y="445"/>
+      <point x="410" y="334" type="curve" smooth="yes"/>
+      <point x="411" y="219"/>
+      <point x="335" y="144"/>
+      <point x="218" y="144" type="curve" smooth="yes"/>
+      <point x="143" y="144"/>
+      <point x="95" y="183"/>
+      <point x="55" y="247" type="curve"/>
+      <point x="40" y="237" type="line"/>
+      <point x="83" y="167"/>
+      <point x="135" y="124"/>
+      <point x="217" y="124" type="curve" smooth="yes"/>
+      <point x="346" y="124"/>
+      <point x="432" y="206"/>
+      <point x="432" y="334" type="curve" smooth="yes"/>
+      <point x="432" y="458"/>
+      <point x="360" y="545"/>
+      <point x="240" y="545" type="curve" smooth="yes"/>
+      <point x="186" y="545"/>
+      <point x="148" y="529"/>
+      <point x="107" y="494" type="curve"/>
+    </contour>
+    <contour>
+      <point x="664" y="722" type="line"/>
+      <point x="-11" y="722" type="line"/>
+      <point x="-11" y="702" type="line"/>
+      <point x="664" y="702" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="-47" type="line"/>
+      <point x="673" y="329" type="line"/>
+      <point x="659" y="346" type="line"/>
+      <point x="425" y="-34" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvNY_R</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>512</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

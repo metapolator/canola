@@ -110,14 +110,6 @@
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
-		<string>scale</string>
-	</array>
-	<key>com.typemytype.robofont.scale.layerStrokeColor</key>
-	<array>
-		<real>1.0</real>
-		<real>0.75</real>
-		<real>0.0</real>
-		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -604,6 +596,39 @@
 				<string>bullet</string>
 				<string>foursuperior</string>
 				<string>nullsuperior</string>
+				<string>lessequal</string>
+				<string>summation</string>
+				<string>product</string>
+				<string>fi</string>
+				<string>fl</string>
+				<string>omegamath</string>
+				<string>estimated</string>
+				<string>partialdiff</string>
+				<string>infinity</string>
+				<string>mu.math</string>
+				<string>greaterequal</string>
+				<string>bulletoperator</string>
+				<string>apostrophemod</string>
+				<string>notequal</string>
+				<string>radical</string>
+				<string>lozenge</string>
+				<string>mumath</string>
+				<string>macronmod</string>
+				<string>turkishlira</string>
+				<string>rupee</string>
+				<string>approxequal</string>
+				<string>integral</string>
+				<string>deltamath</string>
+				<string>logo</string>
+				<string>dvP_TTA</string>
+				<string>dvP_TTHA</string>
+				<string>dvD_YA</string>
+				<string>dvSS_TTA</string>
+				<string>dvP_TA</string>
+				<string>dvSS_TTHA</string>
+				<string>dvSH_VA</string>
+				<string>dvSS_TT_VA</string>
+				<string>dvSH_RA</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1096,6 +1121,59 @@
 		<string>estimated</string>
 		<string>partialdiff</string>
 		<string>infinity</string>
+		<string>mu.math</string>
+		<string>greaterequal</string>
+		<string>bulletoperator</string>
+		<string>apostrophemod</string>
+		<string>notequal</string>
+		<string>radical</string>
+		<string>lozenge</string>
+		<string>mumath</string>
+		<string>macronmod</string>
+		<string>turkishlira</string>
+		<string>rupee</string>
+		<string>approxequal</string>
+		<string>integral</string>
+		<string>deltamath</string>
+		<string>logo</string>
+		<string>dvP_TTA</string>
+		<string>dvP_TTHA</string>
+		<string>dvD_YA</string>
+		<string>dvSS_TTA</string>
+		<string>dvP_TA</string>
+		<string>dvSS_TTHA</string>
+		<string>dvSH_VA</string>
+		<string>dvSS_TT_VA</string>
+		<string>dvSH_RA</string>
+		<string>dvSHA_mvR</string>
+		<string>dvG_R</string>
+		<string>dvTH_R</string>
+		<string>dvS_RA</string>
+		<string>dvBH_R</string>
+		<string>dvJ_R</string>
+		<string>dvPH_R</string>
+		<string>dvHA_mvR</string>
+		<string>dvB_R</string>
+		<string>dvY_R</string>
+		<string>dvDA_mvR</string>
+		<string>dvH_YA</string>
+		<string>dvS_T_RA</string>
+		<string>dvH_NA</string>
+		<string>dvC_R</string>
+		<string>dvM_R</string>
+		<string>dvSH_NA</string>
+		<string>dvV_R</string>
+		<string>dvS_NA</string>
+		<string>dvP_R</string>
+		<string>dvT_R</string>
+		<string>dvSH_CA</string>
+		<string>dvH_VA</string>
+		<string>dvNY_R</string>
+		<string>dvH_MA</string>
+		<string>dvNN_R</string>
+		<string>dvDH_R</string>
+		<string>dvJH_R</string>
+		<string>dvH_RA</string>
 	</array>
 </dict>
 </plist>

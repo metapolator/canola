@@ -1,26 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="summation" format="1">
-  <advance width="1298"/>
+  <advance width="557"/>
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="77" y="-298" type="line"/>
-      <point x="1127" y="-298" type="line"/>
-      <point x="1211" y="29" type="line"/>
-      <point x="1130" y="43" type="line"/>
-      <point x="1008" y="-142" type="line"/>
-      <point x="251" y="-175" type="line"/>
-      <point x="786" y="643" type="line"/>
-      <point x="329" y="1295" type="line"/>
-      <point x="959" y="1246" type="line"/>
-      <point x="1055" y="1056" type="line"/>
-      <point x="1133" y="1079" type="line"/>
-      <point x="1099" y="1396" type="line"/>
-      <point x="973" y="1384" type="line"/>
-      <point x="105" y="1384" type="line"/>
-      <point x="89" y="1308" type="line"/>
-      <point x="579" y="618" type="line"/>
-      <point x="60" y="-223" type="line"/>
+      <point x="441" y="702" type="line" name=""/>
+      <point x="441" y="608" type="line" name=""/>
+      <point x="461" y="608" type="line" name=""/>
+      <point x="461" y="722" type="line" name=""/>
+    </contour>
+    <contour>
+      <point x="461" y="0" type="line" name=""/>
+      <point x="461" y="115" type="line" name=""/>
+      <point x="441" y="115" type="line" name=""/>
+      <point x="441" y="20" type="line" name=""/>
+    </contour>
+    <contour>
+      <point x="461" y="722" type="line" name=""/>
+      <point x="75" y="722" type="line" name=""/>
+      <point x="68" y="702" type="line" name=""/>
+      <point x="441" y="702" type="line" name=""/>
+    </contour>
+    <contour>
+      <point x="81" y="0" type="line" name=""/>
+      <point x="461" y="0" type="line" name=""/>
+      <point x="441" y="20" type="line" name=""/>
+      <point x="68" y="20" type="line" name=""/>
+    </contour>
+    <contour>
+      <point x="401" y="400" type="line" name=""/>
+      <point x="68" y="20" type="line" name=""/>
+      <point x="81" y="0" type="line" name=""/>
+      <point x="401" y="369" type="line" name=""/>
+    </contour>
+    <contour>
+      <point x="401" y="400" type="line" name=""/>
+      <point x="75" y="722" type="line" name=""/>
+      <point x="68" y="702" type="line" name=""/>
+      <point x="401" y="369" type="line" name=""/>
     </contour>
   </outline>
   <lib>
@@ -47,16 +64,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1298</integer>
+          <integer>557</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

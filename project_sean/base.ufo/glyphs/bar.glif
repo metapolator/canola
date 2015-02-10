@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="151" y="-300" type="line"/>
-      <point x="151" y="800" type="line"/>
-      <point x="129" y="800" type="line"/>
+      <point x="151" y="800" type="line" name="stem"/>
+      <point x="129" y="800" type="line" name="stem"/>
       <point x="129" y="-300" type="line"/>
     </contour>
   </outline>
@@ -37,13 +37,6 @@
           <integer>290</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

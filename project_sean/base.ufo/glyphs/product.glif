@@ -1,29 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="product" format="1">
-  <advance width="1558"/>
+  <advance width="775"/>
   <unicode hex="220F"/>
   <outline>
     <contour>
-      <point x="270" y="-159" type="line"/>
-      <point x="93" y="-213" type="line"/>
-      <point x="79" y="-298" type="line"/>
-      <point x="642" y="-298" type="line"/>
-      <point x="668" y="-210" type="line"/>
-      <point x="457" y="-155" type="line"/>
-      <point x="457" y="1238" type="line"/>
-      <point x="1099" y="1238" type="line"/>
-      <point x="1099" y="-154" type="line"/>
-      <point x="907" y="-207" type="line"/>
-      <point x="887" y="-298" type="line"/>
-      <point x="1459" y="-298" type="line"/>
-      <point x="1480" y="-215" type="line"/>
-      <point x="1286" y="-160" type="line"/>
-      <point x="1286" y="1245" type="line"/>
-      <point x="1461" y="1299" type="line"/>
-      <point x="1477" y="1384" type="line"/>
-      <point x="101" y="1384" type="line"/>
-      <point x="81" y="1301" type="line"/>
-      <point x="270" y="1246" type="line"/>
+      <point x="624" y="20" type="line"/>
+      <point x="521" y="20" type="line" name="brl"/>
+      <point x="521" y="0" type="line" name="brl"/>
+      <point x="624" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="726" y="800" type="line" name="trr"/>
+      <point x="623" y="800" type="line" name=""/>
+      <point x="623" y="780" type="line" name=""/>
+      <point x="726" y="780" type="line" name="trr"/>
+    </contour>
+    <contour>
+      <point x="624" y="0" type="line"/>
+      <point x="727" y="0" type="line" name="brr"/>
+      <point x="727" y="20" type="line" name="brr"/>
+      <point x="624" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="634" y="0" type="line" name="stem2"/>
+      <point x="634" y="800" type="line" name=""/>
+      <point x="612" y="800" type="line" name=""/>
+      <point x="612" y="0" type="line" name="stem2"/>
+    </contour>
+    <contour>
+      <point x="146" y="20" type="line"/>
+      <point x="43" y="20" type="line" name="bll"/>
+      <point x="43" y="0" type="line" name="bll"/>
+      <point x="146" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="800" type="line"/>
+      <point x="45" y="800" type="line" name="tll"/>
+      <point x="45" y="780" type="line" name="tll"/>
+      <point x="148" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="0" type="line"/>
+      <point x="249" y="0" type="line" name="blr"/>
+      <point x="249" y="20" type="line" name="blr"/>
+      <point x="146" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="0" type="line" name=""/>
+      <point x="156" y="800" type="line" name="stem"/>
+      <point x="134" y="800" type="line" name="stem"/>
+      <point x="134" y="0" type="line" name=""/>
+    </contour>
+    <contour>
+      <point x="621" y="800" type="line" name="tlr"/>
+      <point x="143" y="800" type="line" name=""/>
+      <point x="143" y="780" type="line" name=""/>
+      <point x="621" y="780" type="line" name="tlr"/>
     </contour>
   </outline>
   <lib>
@@ -50,16 +82,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1558</integer>
+          <integer>775</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

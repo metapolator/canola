@@ -3,52 +3,74 @@
   <advance width="878"/>
   <outline>
     <contour>
-      <point x="853" y="737"/>
-      <point x="853" y="609"/>
-      <point x="853" y="737" type="curve"/>
-      <point x="585" y="661"/>
-      <point x="316" y="586"/>
-      <point x="48" y="510" type="curve"/>
-      <point x="48" y="381"/>
-      <point x="48" y="510"/>
-      <point x="48" y="381" type="curve"/>
-      <point x="316" y="457"/>
-      <point x="585" y="533"/>
-      <point x="853" y="609" type="curve"/>
+      <point x="853.0" y="737.0"/>
+      <point x="853.0" y="609.0"/>
+      <point x="853.0" y="737.0" type="curve"/>
+      <point x="585.0" y="661.0"/>
+      <point x="316.0" y="586.0"/>
+      <point x="48.0" y="510.0" type="curve"/>
+      <point x="48.0" y="381.0"/>
+      <point x="48.0" y="510.0"/>
+      <point x="48.0" y="381.0" type="curve"/>
+      <point x="316.0" y="457.0"/>
+      <point x="585.0" y="533.0"/>
+      <point x="853.0" y="609.0" type="curve"/>
     </contour>
     <contour>
-      <point x="853" y="282"/>
-      <point x="853" y="154"/>
-      <point x="853" y="282" type="curve"/>
-      <point x="585" y="358"/>
-      <point x="316" y="434"/>
-      <point x="48" y="510" type="curve"/>
-      <point x="48" y="381"/>
-      <point x="48" y="510"/>
-      <point x="48" y="381" type="curve"/>
-      <point x="316" y="305"/>
-      <point x="585" y="230"/>
-      <point x="853" y="154" type="curve"/>
+      <point x="853.0" y="282.0"/>
+      <point x="853.0" y="154.0"/>
+      <point x="853.0" y="282.0" type="curve"/>
+      <point x="585.0" y="358.0"/>
+      <point x="316.0" y="434.0"/>
+      <point x="48.0" y="510.0" type="curve"/>
+      <point x="48.0" y="381.0"/>
+      <point x="48.0" y="510.0"/>
+      <point x="48.0" y="381.0" type="curve"/>
+      <point x="316.0" y="305.0"/>
+      <point x="585.0" y="230.0"/>
+      <point x="853.0" y="154.0" type="curve"/>
     </contour>
     <contour>
-      <point x="48" y="-2"/>
-      <point x="48" y="120"/>
-      <point x="48" y="-2" type="curve"/>
-      <point x="316" y="-2"/>
-      <point x="585" y="-2"/>
-      <point x="853" y="-2" type="curve"/>
-      <point x="853" y="120"/>
-      <point x="853" y="-2"/>
-      <point x="853" y="120" type="curve"/>
-      <point x="585" y="120"/>
-      <point x="316" y="120"/>
-      <point x="48" y="120" type="curve"/>
+      <point x="48.0" y="-2.0"/>
+      <point x="48.0" y="120.0"/>
+      <point x="48.0" y="-2.0" type="curve"/>
+      <point x="316.0" y="-2.0"/>
+      <point x="585.0" y="-2.0"/>
+      <point x="853.0" y="-2.0" type="curve"/>
+      <point x="853.0" y="120.0"/>
+      <point x="853.0" y="-2.0"/>
+      <point x="853.0" y="120.0" type="curve"/>
+      <point x="585.0" y="120.0"/>
+      <point x="316.0" y="120.0"/>
+      <point x="48.0" y="120.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lessequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>878</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
