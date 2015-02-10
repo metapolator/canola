@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deltamath" format="1">
+  <advance width="640"/>
+  <outline>
+    <contour>
+      <point x="45.0" y="0.0"/>
+      <point x="45.0" y="121.0"/>
+      <point x="45.0" y="0.0" type="curve"/>
+      <point x="231.0" y="0.0"/>
+      <point x="418.0" y="0.0"/>
+      <point x="603.0" y="0.0" type="curve"/>
+      <point x="603.0" y="121.0"/>
+      <point x="603.0" y="0.0"/>
+      <point x="603.0" y="121.0" type="curve"/>
+      <point x="418.0" y="121.0"/>
+      <point x="231.0" y="121.0"/>
+      <point x="45.0" y="121.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="188.0" y="121.0"/>
+      <point x="35.0" y="121.0"/>
+      <point x="178.0" y="121.0" type="curve"/>
+      <point x="384.0" y="755.0" type="line"/>
+      <point x="241.0" y="755.0"/>
+      <point x="394.0" y="755.0"/>
+      <point x="251.0" y="755.0" type="curve"/>
+      <point x="45.0" y="121.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="613.0" y="121.0"/>
+      <point x="460.0" y="121.0"/>
+      <point x="603.0" y="121.0" type="curve"/>
+      <point x="394.0" y="755.0" type="line"/>
+      <point x="251.0" y="755.0"/>
+      <point x="404.0" y="755.0"/>
+      <point x="261.0" y="755.0" type="curve"/>
+      <point x="470.0" y="121.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>324</integer>
+          <key>y</key>
+          <integer>79</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
