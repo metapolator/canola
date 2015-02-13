@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_THA" format="1">
+  <advance width="1461"/>
+  <unicode hex="E132"/>
+  <outline>
+    <contour>
+      <point x="354" y="17"/>
+      <point x="347" y="-2"/>
+      <point x="354" y="17" type="curve"/>
+      <point x="222" y="51"/>
+      <point x="114" y="111"/>
+      <point x="114" y="216" type="curve"/>
+      <point x="114" y="339"/>
+      <point x="226" y="380"/>
+      <point x="349" y="380" type="curve"/>
+      <point x="446" y="380"/>
+      <point x="543" y="380"/>
+      <point x="641" y="380" type="curve"/>
+      <point x="641" y="401"/>
+      <point x="641" y="380"/>
+      <point x="641" y="401" type="curve"/>
+      <point x="543" y="401"/>
+      <point x="445" y="401"/>
+      <point x="348" y="401" type="curve"/>
+      <point x="212" y="401"/>
+      <point x="91" y="352"/>
+      <point x="91" y="216" type="curve"/>
+      <point x="91" y="102"/>
+      <point x="198" y="34"/>
+      <point x="347" y="-2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-37" y="700"/>
+      <point x="-37" y="722"/>
+      <point x="-37" y="701" type="curve"/>
+      <point x="234" y="701"/>
+      <point x="506" y="701"/>
+      <point x="777" y="701" type="curve"/>
+      <point x="777" y="722"/>
+      <point x="777" y="700"/>
+      <point x="777" y="722" type="curve"/>
+      <point x="506" y="722"/>
+      <point x="234" y="722"/>
+      <point x="-37" y="722" type="curve"/>
+    </contour>
+    <component base="dvTHA" xOffset="547"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvT_THA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1461</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

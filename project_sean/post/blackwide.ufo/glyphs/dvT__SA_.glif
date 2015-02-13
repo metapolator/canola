@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_SA" format="1">
+  <advance width="1446"/>
+  <unicode hex="E127"/>
+  <outline>
+    <contour>
+      <point x="397" y="108"/>
+      <point x="347" y="-1"/>
+      <point x="397" y="108" type="curve"/>
+      <point x="281.432187954" y="134.899404528"/>
+      <point x="192.0" y="157.939849624"/>
+      <point x="192" y="231" type="curve"/>
+      <point x="192.0" y="296.028169014"/>
+      <point x="274.0" y="312.0"/>
+      <point x="360" y="312" type="curve"/>
+      <point x="435.49833887" y="312.0"/>
+      <point x="510" y="312"/>
+      <point x="585" y="312" type="curve"/>
+      <point x="585" y="429"/>
+      <point x="585" y="312"/>
+      <point x="585" y="429" type="curve"/>
+      <point x="508" y="429"/>
+      <point x="430.584415584" y="429.0"/>
+      <point x="353" y="429" type="curve"/>
+      <point x="187.0" y="429.0"/>
+      <point x="31.0" y="385.819148936"/>
+      <point x="31" y="231" type="curve"/>
+      <point x="31.0" y="108.289256198"/>
+      <point x="144.401624845" y="44.9089914144"/>
+      <point x="347" y="-1" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-43" y="605"/>
+      <point x="-43" y="722"/>
+      <point x="-43" y="605" type="curve"/>
+      <point x="191" y="605"/>
+      <point x="425" y="605"/>
+      <point x="659" y="605" type="curve"/>
+      <point x="659" y="722"/>
+      <point x="659" y="605"/>
+      <point x="659" y="722" type="curve"/>
+      <point x="425" y="722"/>
+      <point x="191" y="722"/>
+      <point x="-43" y="722" type="curve"/>
+    </contour>
+    <component base="dvSA" xOffset="432"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvT_SA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1446</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

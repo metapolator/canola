@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_KHA" format="1">
+  <advance width="986"/>
+  <unicode hex="E131"/>
+  <outline>
+    <contour>
+      <point x="200" y="17"/>
+      <point x="187" y="-2"/>
+      <point x="200" y="17" type="curve"/>
+      <point x="110" y="80"/>
+      <point x="74" y="154"/>
+      <point x="74" y="247" type="curve"/>
+      <point x="74" y="366"/>
+      <point x="110" y="442"/>
+      <point x="195" y="442" type="curve"/>
+      <point x="253" y="442"/>
+      <point x="310" y="442"/>
+      <point x="368" y="442" type="curve"/>
+      <point x="368" y="464"/>
+      <point x="368" y="442"/>
+      <point x="368" y="464" type="curve"/>
+      <point x="310" y="464"/>
+      <point x="252" y="464"/>
+      <point x="194" y="464" type="curve"/>
+      <point x="97" y="464"/>
+      <point x="49" y="381"/>
+      <point x="49" y="247" type="curve"/>
+      <point x="49" y="145"/>
+      <point x="86" y="65"/>
+      <point x="187" y="-2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-6" y="699"/>
+      <point x="-6" y="722"/>
+      <point x="-6" y="700" type="curve"/>
+      <point x="114" y="700"/>
+      <point x="235" y="700"/>
+      <point x="356" y="700" type="curve"/>
+      <point x="356" y="722"/>
+      <point x="356" y="699"/>
+      <point x="356" y="722" type="curve"/>
+      <point x="235" y="722"/>
+      <point x="114" y="722"/>
+      <point x="-6" y="722" type="curve"/>
+    </contour>
+    <component base="dvKHA" xOffset="307"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
