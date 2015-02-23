@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_YA" format="1">
+  <advance width="1363"/>
+  <outline>
+    <contour>
+      <point x="-17" y="700"/>
+      <point x="-17" y="721"/>
+      <point x="-17" y="700" type="curve"/>
+      <point x="187" y="700"/>
+      <point x="391" y="700"/>
+      <point x="594" y="700" type="curve"/>
+      <point x="594" y="721"/>
+      <point x="594" y="700"/>
+      <point x="594" y="721" type="curve"/>
+      <point x="391" y="721"/>
+      <point x="187" y="721"/>
+      <point x="-17" y="721" type="curve"/>
+    </contour>
+    <contour>
+      <point x="112" y="700"/>
+      <point x="125" y="713"/>
+      <point x="110" y="700" type="curve"/>
+      <point x="563" y="422" type="line"/>
+      <point x="588" y="428"/>
+      <point x="567" y="422"/>
+      <point x="592" y="428" type="curve"/>
+      <point x="127" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="579" y="426"/>
+      <point x="572" y="424"/>
+      <point x="563" y="422" type="curve"/>
+      <point x="521" y="329"/>
+      <point x="445" y="260"/>
+      <point x="339" y="260" type="curve"/>
+      <point x="219" y="260"/>
+      <point x="130" y="313"/>
+      <point x="130" y="424" type="curve"/>
+      <point x="130" y="530"/>
+      <point x="130" y="603"/>
+      <point x="130" y="709" type="curve"/>
+      <point x="121" y="709"/>
+      <point x="116" y="709"/>
+      <point x="107" y="709" type="curve"/>
+      <point x="107" y="605"/>
+      <point x="107" y="531"/>
+      <point x="107" y="427" type="curve"/>
+      <point x="107" y="302"/>
+      <point x="204" y="239"/>
+      <point x="338" y="239" type="curve"/>
+      <point x="459" y="239"/>
+      <point x="543" y="317"/>
+      <point x="588" y="428" type="curve"/>
+    </contour>
+    <component base="dvYA" xOffset="467"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvSS_YA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1363</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

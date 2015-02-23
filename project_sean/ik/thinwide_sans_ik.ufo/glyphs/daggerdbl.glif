@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="753.0"/>
+  <outline>
+    <contour>
+      <point x="64.0" y="509.0" type="curve"/>
+      <point x="64.0" y="509.0"/>
+      <point x="689.0" y="509.0"/>
+      <point x="689.0" y="509.0" type="curve"/>
+      <point x="689.0" y="533.0"/>
+      <point x="689.0" y="509.0"/>
+      <point x="689.0" y="533.0" type="curve"/>
+      <point x="689.0" y="533.0"/>
+      <point x="64.0" y="533.0"/>
+      <point x="64.0" y="533.0" type="curve"/>
+      <point x="64.0" y="509.0"/>
+      <point x="64.0" y="533.0"/>
+    </contour>
+    <contour>
+      <point x="383.0" y="-298.0" type="curve"/>
+      <point x="383.0" y="-298.0"/>
+      <point x="383.0" y="800.0"/>
+      <point x="383.0" y="800.0" type="curve"/>
+      <point x="359.0" y="800.0"/>
+      <point x="383.0" y="800.0"/>
+      <point x="359.0" y="800.0" type="curve"/>
+      <point x="359.0" y="800.0"/>
+      <point x="359.0" y="-298.0"/>
+      <point x="359.0" y="-298.0" type="curve"/>
+      <point x="383.0" y="-298.0"/>
+      <point x="359.0" y="-298.0"/>
+    </contour>
+    <contour>
+      <point x="64.0" y="-24.0" type="curve"/>
+      <point x="64.0" y="-24.0"/>
+      <point x="689.0" y="-24.0"/>
+      <point x="689.0" y="-24.0" type="curve"/>
+      <point x="689.0" y="0.0"/>
+      <point x="689.0" y="-23.0"/>
+      <point x="689.0" y="1.0" type="curve"/>
+      <point x="689.0" y="1.0"/>
+      <point x="64.0" y="1.0"/>
+      <point x="64.0" y="1.0" type="curve"/>
+      <point x="64.0" y="-23.0"/>
+      <point x="64.0" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>daggerdbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>875</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

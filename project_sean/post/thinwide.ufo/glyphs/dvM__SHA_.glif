@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_SHA" format="1">
+  <advance width="619"/>
+  <outline>
+    <contour>
+      <point x="-14" y="700"/>
+      <point x="-14" y="721"/>
+      <point x="-14" y="700" type="curve"/>
+      <point x="261" y="700"/>
+      <point x="731" y="700"/>
+      <point x="1005" y="700" type="curve"/>
+      <point x="1005" y="721"/>
+      <point x="1100" y="700"/>
+      <point x="1100" y="721" type="curve"/>
+      <point x="826" y="721"/>
+      <point x="261" y="721"/>
+      <point x="-14" y="721" type="curve"/>
+    </contour>
+    <contour>
+      <point x="809" y="305"/>
+      <point x="809" y="284"/>
+      <point x="809" y="305" type="curve"/>
+      <point x="636" y="305"/>
+      <point x="463" y="305"/>
+      <point x="290" y="305" type="curve"/>
+      <point x="209" y="305"/>
+      <point x="139" y="274"/>
+      <point x="139" y="201" type="curve"/>
+      <point x="139" y="134"/>
+      <point x="198" y="98"/>
+      <point x="270" y="98" type="curve"/>
+      <point x="352" y="98"/>
+      <point x="417" y="142"/>
+      <point x="417" y="218" type="curve"/>
+      <point x="417.0" y="382.663983903"/>
+      <point x="417.0" y="547.028634361"/>
+      <point x="417" y="711" type="curve"/>
+      <point x="394" y="711"/>
+      <point x="417" y="711"/>
+      <point x="394" y="711" type="curve"/>
+      <point x="394.0" y="547.028634361"/>
+      <point x="394.0" y="382.663983903"/>
+      <point x="394" y="218" type="curve"/>
+      <point x="394" y="154"/>
+      <point x="339" y="118"/>
+      <point x="271" y="118" type="curve"/>
+      <point x="212" y="118"/>
+      <point x="163" y="148"/>
+      <point x="163" y="202" type="curve"/>
+      <point x="163" y="261"/>
+      <point x="222" y="284"/>
+      <point x="289" y="284" type="curve"/>
+      <point x="462" y="284"/>
+      <point x="635" y="284"/>
+      <point x="809" y="284" type="curve"/>
+    </contour>
+    <component base="dvSHA" xOffset="748" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvM_SHA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>619</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

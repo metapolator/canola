@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvL_TTA" format="1">
+  <advance width="781"/>
+  <outline>
+    <contour>
+      <point x="891" y="722"/>
+      <point x="891" y="701"/>
+      <point x="891" y="722" type="curve"/>
+      <point x="589" y="722"/>
+      <point x="286" y="722"/>
+      <point x="-16" y="722" type="curve"/>
+      <point x="-16" y="701"/>
+      <point x="-16" y="722"/>
+      <point x="-16" y="701" type="curve"/>
+      <point x="286" y="701"/>
+      <point x="589" y="701"/>
+      <point x="891" y="701" type="curve"/>
+    </contour>
+    <contour>
+      <point x="940" y="421"/>
+      <point x="932" y="404"/>
+      <point x="940" y="421" type="curve"/>
+      <point x="866" y="481"/>
+      <point x="797.426900585" y="510.0"/>
+      <point x="710" y="510" type="curve"/>
+      <point x="571" y="510"/>
+      <point x="494" y="421"/>
+      <point x="494" y="277" type="curve"/>
+      <point x="513" y="277"/>
+      <point x="494" y="277"/>
+      <point x="513" y="277" type="curve"/>
+      <point x="513" y="402"/>
+      <point x="581" y="490"/>
+      <point x="708" y="490" type="curve"/>
+      <point x="793.527272727" y="490.0"/>
+      <point x="854" y="467"/>
+      <point x="932" y="404" type="curve"/>
+    </contour>
+    <contour>
+      <point x="397" y="9"/>
+      <point x="384" y="-8"/>
+      <point x="397" y="9" type="curve"/>
+      <point x="244" y="89"/>
+      <point x="104" y="155"/>
+      <point x="104" y="328" type="curve"/>
+      <point x="104" y="436"/>
+      <point x="187" y="492"/>
+      <point x="296" y="492" type="curve"/>
+      <point x="390" y="492"/>
+      <point x="456" y="464"/>
+      <point x="529" y="404" type="curve"/>
+      <point x="540" y="421"/>
+      <point x="529" y="404"/>
+      <point x="540" y="421" type="curve"/>
+      <point x="464" y="482"/>
+      <point x="395" y="513"/>
+      <point x="298" y="513" type="curve"/>
+      <point x="175" y="513"/>
+      <point x="81" y="449"/>
+      <point x="81" y="327" type="curve"/>
+      <point x="81" y="147"/>
+      <point x="222" y="73"/>
+      <point x="384" y="-8" type="curve"/>
+    </contour>
+    <component base="dvTTA" xOffset="702"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvL_TTA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>781</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

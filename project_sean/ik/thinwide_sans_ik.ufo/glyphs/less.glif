@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="935.0"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="863.45" y="581.858" type="curve"/>
+      <point x="41.3" y="311.858" type="line"/>
+      <point x="41.3" y="288.142"/>
+      <point x="41.3" y="311.858"/>
+      <point x="41.3" y="288.142" type="curve"/>
+      <point x="863.45" y="558.142" type="line"/>
+      <point x="863.45" y="581.858"/>
+      <point x="863.45" y="558.142"/>
+    </contour>
+    <contour>
+      <point x="876.95" y="47.858" type="curve"/>
+      <point x="41.3" y="311.858" type="line"/>
+      <point x="41.3" y="288.142"/>
+      <point x="41.3" y="311.858"/>
+      <point x="41.3" y="288.142" type="curve"/>
+      <point x="876.95" y="24.142" type="line"/>
+      <point x="876.95" y="47.858"/>
+      <point x="876.95" y="24.142"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>less</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>959</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

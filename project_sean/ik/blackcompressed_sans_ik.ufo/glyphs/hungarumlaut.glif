@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="503.0"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="228.0" y="701.0" type="move" name="_top"/>
+    </contour>
+    <component base="quoteright" xOffset="12.0" yOffset="120.0"/>
+    <component base="quoteright" xOffset="225.0" yOffset="120.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

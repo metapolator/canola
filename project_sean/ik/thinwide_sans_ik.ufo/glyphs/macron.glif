@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="286.0"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="201.0" y="669.0" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="345.6" y="680.093333333" type="curve"/>
+      <point x="244.3510125" y="680.093333333"/>
+      <point x="143.0989875" y="680.093333333"/>
+      <point x="41.85" y="680.093333333" type="curve"/>
+      <point x="41.85" y="659.313333333"/>
+      <point x="41.85" y="680.093333333"/>
+      <point x="41.85" y="659.313333333" type="curve"/>
+      <point x="143.0989875" y="659.313333333"/>
+      <point x="244.3510125" y="659.313333333"/>
+      <point x="345.6" y="659.313333333" type="curve"/>
+      <point x="345.6" y="680.093333333"/>
+      <point x="345.6" y="659.313333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>286</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1012.0"/>
+  <outline>
+    <contour>
+      <point x="64.0" y="251.0" type="curve"/>
+      <point x="247.0" y="251.0"/>
+      <point x="429.0" y="251.0"/>
+      <point x="612.0" y="251.0" type="curve"/>
+      <point x="612.0" y="274.0"/>
+      <point x="612.0" y="251.0"/>
+      <point x="612.0" y="274.0" type="curve"/>
+      <point x="429.0" y="274.0"/>
+      <point x="247.0" y="274.0"/>
+      <point x="64.0" y="274.0" type="curve"/>
+      <point x="64.0" y="251.0"/>
+      <point x="64.0" y="274.0"/>
+    </contour>
+    <contour>
+      <point x="64.0" y="423.0" type="curve"/>
+      <point x="247.0" y="423.0"/>
+      <point x="429.0" y="423.0"/>
+      <point x="612.0" y="423.0" type="curve"/>
+      <point x="612.0" y="446.0"/>
+      <point x="612.0" y="423.0"/>
+      <point x="612.0" y="446.0" type="curve"/>
+      <point x="429.0" y="446.0"/>
+      <point x="247.0" y="446.0"/>
+      <point x="64.0" y="446.0" type="curve"/>
+      <point x="64.0" y="423.0"/>
+      <point x="64.0" y="446.0"/>
+    </contour>
+    <component base="C" xOffset="126.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1141.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

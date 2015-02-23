@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="1">
+  <advance width="657.0"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="556.0" y="701.0" type="line"/>
+      <point x="556.0" y="608.0" type="line"/>
+      <point x="577.0" y="608.0" type="line"/>
+      <point x="577.0" y="722.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="577.0" y="0.0" type="line"/>
+      <point x="577.0" y="116.0" type="line"/>
+      <point x="556.0" y="116.0" type="line"/>
+      <point x="556.0" y="21.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="577.0" y="722.0" type="curve"/>
+      <point x="51.0" y="722.0" type="line"/>
+      <point x="51.0" y="701.0" type="line"/>
+      <point x="556.0" y="701.0" type="line"/>
+      <point x="577.0" y="722.0"/>
+      <point x="556.0" y="701.0"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="0.0" type="line"/>
+      <point x="577.0" y="0.0" type="line"/>
+      <point x="556.0" y="21.0"/>
+      <point x="577.0" y="0.0"/>
+      <point x="556.0" y="21.0" type="curve"/>
+      <point x="50.0" y="21.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="476.0" y="385.0" type="line"/>
+      <point x="50.0" y="21.0" type="line"/>
+      <point x="55.0" y="0.0" type="line"/>
+      <point x="511.0" y="386.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="511.0" y="386.0" type="line"/>
+      <point x="56.0" y="722.0" type="line"/>
+      <point x="51.0" y="701.0" type="line"/>
+      <point x="476.0" y="385.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>summation</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>711</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

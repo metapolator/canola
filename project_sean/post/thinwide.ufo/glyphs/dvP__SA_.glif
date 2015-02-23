@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvP_SA" format="1">
+  <advance width="1515"/>
+  <outline>
+    <contour>
+      <point x="542" y="405"/>
+      <point x="560" y="397"/>
+      <point x="542" y="405" type="curve"/>
+      <point x="485" y="292"/>
+      <point x="419.787878788" y="260.0"/>
+      <point x="324" y="260" type="curve"/>
+      <point x="220.5" y="260.0"/>
+      <point x="144.0" y="315.0"/>
+      <point x="144" y="424" type="curve"/>
+      <point x="144" y="519"/>
+      <point x="144" y="614"/>
+      <point x="144" y="709" type="curve"/>
+      <point x="121" y="709"/>
+      <point x="144" y="709"/>
+      <point x="121" y="709" type="curve"/>
+      <point x="121" y="615"/>
+      <point x="121" y="521"/>
+      <point x="121" y="427" type="curve"/>
+      <point x="121.0" y="304.0"/>
+      <point x="207.441441441" y="238.0"/>
+      <point x="323" y="238" type="curve"/>
+      <point x="426.755760369" y="238.0"/>
+      <point x="502" y="275"/>
+      <point x="560" y="397" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-16" y="700"/>
+      <point x="-16" y="721"/>
+      <point x="-16" y="700" type="curve"/>
+      <point x="189" y="700"/>
+      <point x="394" y="700"/>
+      <point x="599" y="700" type="curve"/>
+      <point x="599" y="721"/>
+      <point x="599" y="700"/>
+      <point x="599" y="721" type="curve"/>
+      <point x="394" y="721"/>
+      <point x="189" y="721"/>
+      <point x="-16" y="721" type="curve"/>
+    </contour>
+    <component base="dvSA" xOffset="461"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvP_SA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1515</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

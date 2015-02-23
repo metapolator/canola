@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="1">
+  <advance width="551.0"/>
+  <outline>
+    <contour>
+      <point x="339.0" y="716.0" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="344.0" y="305.0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="507.0" y="436.0" type="curve"/>
+      <point x="33.0" y="436.0" type="line"/>
+      <point x="45.0" y="416.0" type="line"/>
+      <point x="507.0" y="416.0" type="line"/>
+      <point x="507.0" y="436.0"/>
+      <point x="507.0" y="416.0"/>
+    </contour>
+    <contour>
+      <point x="45.0" y="416.0" type="line"/>
+      <point x="373.0" y="722.0" type="line"/>
+      <point x="350.0" y="731.0" type="line"/>
+      <point x="33.0" y="436.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="373.0" y="297.0" type="curve"/>
+      <point x="373.0" y="731.0" type="line"/>
+      <point x="350.0" y="731.0" type="line"/>
+      <point x="350.0" y="731.0"/>
+      <point x="350.0" y="297.0"/>
+      <point x="350.0" y="297.0" type="curve"/>
+      <point x="373.0" y="297.0"/>
+      <point x="350.0" y="297.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>foursuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>591</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

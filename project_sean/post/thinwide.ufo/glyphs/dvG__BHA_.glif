@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvG_BHA" format="1">
+  <advance width="1454"/>
+  <outline>
+    <contour>
+      <point x="89" y="320"/>
+      <point x="104" y="337"/>
+      <point x="89" y="320" type="curve"/>
+      <point x="119" y="294"/>
+      <point x="150" y="282"/>
+      <point x="180" y="263" type="curve"/>
+      <point x="201" y="272"/>
+      <point x="180" y="263"/>
+      <point x="201" y="272" type="curve"/>
+      <point x="169" y="294"/>
+      <point x="136" y="316"/>
+      <point x="104" y="337" type="curve"/>
+    </contour>
+    <contour>
+      <point x="199" y="704"/>
+      <point x="217" y="715"/>
+      <point x="199" y="704" type="curve"/>
+      <point x="311" y="651"/>
+      <point x="398" y="586"/>
+      <point x="398" y="464" type="curve"/>
+      <point x="398" y="352"/>
+      <point x="302" y="279"/>
+      <point x="201" y="279" type="curve"/>
+      <point x="149" y="279"/>
+      <point x="104" y="292"/>
+      <point x="104" y="337" type="curve"/>
+      <point x="89" y="320"/>
+      <point x="104" y="337"/>
+      <point x="89" y="320" type="curve"/>
+      <point x="89" y="270"/>
+      <point x="140" y="257"/>
+      <point x="196" y="257" type="curve"/>
+      <point x="327" y="257"/>
+      <point x="421" y="339"/>
+      <point x="421" y="467" type="curve"/>
+      <point x="420" y="591"/>
+      <point x="334" y="665"/>
+      <point x="217" y="715" type="curve"/>
+    </contour>
+    <contour>
+      <point x="626" y="722"/>
+      <point x="653" y="701"/>
+      <point x="653" y="722" type="curve"/>
+      <point x="466" y="722"/>
+      <point x="172" y="722"/>
+      <point x="-15" y="722" type="curve"/>
+      <point x="-15" y="701"/>
+      <point x="-15" y="722"/>
+      <point x="-15" y="701" type="curve"/>
+      <point x="172" y="701"/>
+      <point x="439" y="701"/>
+      <point x="626" y="701" type="curve"/>
+    </contour>
+    <component base="dvBHA" xOffset="434"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvG_BHA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1454</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

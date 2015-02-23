@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+  <advance width="652.0"/>
+  <outline>
+    <contour>
+      <point x="13.0" y="565.0" type="curve"/>
+      <point x="13.0" y="565.0"/>
+      <point x="638.0" y="565.0"/>
+      <point x="638.0" y="565.0" type="curve"/>
+      <point x="638.0" y="589.0"/>
+      <point x="638.0" y="565.0"/>
+      <point x="638.0" y="589.0" type="curve"/>
+      <point x="638.0" y="589.0"/>
+      <point x="13.0" y="589.0"/>
+      <point x="13.0" y="589.0" type="curve"/>
+      <point x="13.0" y="565.0"/>
+      <point x="13.0" y="589.0"/>
+    </contour>
+    <contour>
+      <point x="185.0" y="18.0" type="curve"/>
+      <point x="185.0" y="18.0"/>
+      <point x="185.0" y="588.0"/>
+      <point x="185.0" y="588.0" type="curve"/>
+      <point x="161.0" y="588.0"/>
+      <point x="185.0" y="588.0"/>
+      <point x="161.0" y="588.0" type="curve"/>
+      <point x="161.0" y="588.0"/>
+      <point x="161.0" y="18.0"/>
+      <point x="161.0" y="18.0" type="curve"/>
+      <point x="185.0" y="18.0"/>
+      <point x="161.0" y="18.0"/>
+    </contour>
+    <contour>
+      <point x="498.0" y="18.0" type="curve"/>
+      <point x="498.0" y="18.0"/>
+      <point x="498.0" y="588.0"/>
+      <point x="498.0" y="588.0" type="curve"/>
+      <point x="474.0" y="588.0"/>
+      <point x="498.0" y="588.0"/>
+      <point x="474.0" y="588.0" type="curve"/>
+      <point x="474.0" y="588.0"/>
+      <point x="474.0" y="18.0"/>
+      <point x="474.0" y="18.0" type="curve"/>
+      <point x="498.0" y="18.0"/>
+      <point x="474.0" y="18.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>pi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>721</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

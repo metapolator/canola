@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="819.0"/>
+  <outline>
+    <contour>
+      <point x="241.0" y="319.0" type="curve"/>
+      <point x="174.0" y="319.0"/>
+      <point x="108.0" y="319.0"/>
+      <point x="42.0" y="319.0" type="curve"/>
+      <point x="42.0" y="297.0"/>
+      <point x="42.0" y="319.0"/>
+      <point x="42.0" y="297.0" type="curve"/>
+      <point x="241.0" y="297.0"/>
+      <point x="42.0" y="297.0"/>
+      <point x="241.0" y="297.0" type="curve"/>
+      <point x="241.0" y="319.0"/>
+      <point x="241.0" y="297.0"/>
+    </contour>
+    <contour>
+      <point x="423.0" y="0.0" type="curve"/>
+      <point x="298.0" y="241.0"/>
+      <point x="383.0" y="78.0"/>
+      <point x="254.0" y="319.0" type="curve"/>
+      <point x="232.0" y="319.0"/>
+      <point x="252.0" y="319.0"/>
+      <point x="230.0" y="319.0" type="curve"/>
+      <point x="356.0" y="78.0"/>
+      <point x="271.0" y="241.0"/>
+      <point x="397.0" y="0.0" type="curve"/>
+      <point x="421.0" y="0.0"/>
+      <point x="399.0" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="433.0" y="0.0" type="curve"/>
+      <point x="557.0" y="241.0"/>
+      <point x="681.0" y="481.0"/>
+      <point x="805.0" y="722.0" type="curve"/>
+      <point x="783.0" y="722.0"/>
+      <point x="803.0" y="722.0"/>
+      <point x="781.0" y="722.0" type="curve"/>
+      <point x="654.0" y="481.0"/>
+      <point x="531.0" y="241.0"/>
+      <point x="406.0" y="0.0" type="curve"/>
+      <point x="431.0" y="0.0"/>
+      <point x="408.0" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>radical</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>961</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

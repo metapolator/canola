@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deltamath" format="1">
+  <advance width="1042.0"/>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="curve"/>
+      <point x="167" y="0"/>
+      <point x="875" y="0"/>
+      <point x="1006" y="0" type="curve"/>
+      <point x="1006" y="24"/>
+      <point x="1006" y="0"/>
+      <point x="1006" y="24" type="curve"/>
+      <point x="875" y="24"/>
+      <point x="167" y="24"/>
+      <point x="36" y="24" type="curve"/>
+      <point x="36" y="0"/>
+      <point x="36" y="24"/>
+    </contour>
+    <contour>
+      <point x="64" y="24" type="curve"/>
+      <point x="536" y="810" type="line"/>
+      <point x="513" y="810"/>
+      <point x="531" y="810"/>
+      <point x="508" y="810" type="curve"/>
+      <point x="36" y="24" type="line"/>
+      <point x="59" y="24"/>
+      <point x="41" y="24"/>
+    </contour>
+    <contour>
+      <point x="1006" y="24" type="curve"/>
+      <point x="541" y="810" type="line"/>
+      <point x="518" y="810"/>
+      <point x="536" y="810"/>
+      <point x="513" y="810" type="curve"/>
+      <point x="978" y="24" type="line"/>
+      <point x="1001" y="24"/>
+      <point x="983" y="24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>deltamath</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1050</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

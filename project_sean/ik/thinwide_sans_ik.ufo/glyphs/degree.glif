@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="584.0"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="98.125" y="432.84" type="curve"/>
+      <point x="98.125" y="546.664671884"/>
+      <point x="173.315727184" y="616.626666667"/>
+      <point x="288.65" y="616.626666667" type="curve"/>
+      <point x="406.90490079" y="616.626666667"/>
+      <point x="486.775" y="547.2405626"/>
+      <point x="486.775" y="430.844444444" type="curve"/>
+      <point x="486.775" y="312.049406478"/>
+      <point x="410.522989559" y="238.077777778"/>
+      <point x="292.325" y="238.077777778" type="curve"/>
+      <point x="173.303274182" y="238.077777778"/>
+      <point x="98.125" y="314.251612426"/>
+      <point x="98.125" y="432.84" type="curve"/>
+      <point x="76.075" y="432.84"/>
+      <point x="98.125" y="432.84"/>
+      <point x="76.075" y="432.84" type="curve"/>
+      <point x="76.075" y="300.553089453"/>
+      <point x="159.416842266" y="217.297777778"/>
+      <point x="291.275" y="217.297777778" type="curve"/>
+      <point x="423.553377811" y="217.297777778"/>
+      <point x="508.825" y="299.347183678"/>
+      <point x="508.825" y="430.844444444" type="curve"/>
+      <point x="508.825" y="559.77408802"/>
+      <point x="421.688812655" y="637.406666667"/>
+      <point x="290.75" y="637.406666667" type="curve"/>
+      <point x="161.373320449" y="637.406666667"/>
+      <point x="76.075" y="560.484500856"/>
+      <point x="76.075" y="432.84" type="curve"/>
+      <point x="98.125" y="432.84"/>
+      <point x="76.075" y="432.84"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>366</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

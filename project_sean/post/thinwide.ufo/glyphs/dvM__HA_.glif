@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_HA" format="1">
+  <advance width="619"/>
+  <outline>
+    <contour>
+      <point x="-14" y="700"/>
+      <point x="-14" y="721"/>
+      <point x="-14" y="700" type="curve"/>
+      <point x="261" y="700"/>
+      <point x="536" y="700"/>
+      <point x="810" y="700" type="curve"/>
+      <point x="810" y="721"/>
+      <point x="810" y="700"/>
+      <point x="810" y="721" type="curve"/>
+      <point x="536" y="721"/>
+      <point x="261" y="721"/>
+      <point x="-14" y="721" type="curve"/>
+    </contour>
+    <contour>
+      <point x="809" y="414"/>
+      <point x="809" y="393"/>
+      <point x="809" y="414" type="curve"/>
+      <point x="636" y="414"/>
+      <point x="463" y="414"/>
+      <point x="290" y="414" type="curve"/>
+      <point x="209" y="414"/>
+      <point x="139" y="383"/>
+      <point x="139" y="310" type="curve"/>
+      <point x="139" y="243"/>
+      <point x="198" y="207"/>
+      <point x="270" y="207" type="curve"/>
+      <point x="352" y="207"/>
+      <point x="417" y="251"/>
+      <point x="417" y="327" type="curve"/>
+      <point x="417" y="479"/>
+      <point x="417" y="560"/>
+      <point x="417" y="711" type="curve"/>
+      <point x="394" y="711"/>
+      <point x="417" y="711"/>
+      <point x="394" y="711" type="curve"/>
+      <point x="394" y="560"/>
+      <point x="394" y="479"/>
+      <point x="394" y="327" type="curve"/>
+      <point x="394" y="263"/>
+      <point x="339" y="227"/>
+      <point x="271" y="227" type="curve"/>
+      <point x="212" y="227"/>
+      <point x="163" y="257"/>
+      <point x="163" y="311" type="curve"/>
+      <point x="163" y="370"/>
+      <point x="222" y="393"/>
+      <point x="289" y="393" type="curve"/>
+      <point x="462" y="393"/>
+      <point x="635" y="393"/>
+      <point x="809" y="393" type="curve"/>
+    </contour>
+    <component base="dvHA" xOffset="689"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dvM_HA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>619</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="turkishlira" format="1">
+  <advance width="952.0"/>
+  <outline>
+    <contour>
+      <point x="198.0" y="722.0" type="curve"/>
+      <point x="198.0" y="481.0"/>
+      <point x="198.0" y="241.0"/>
+      <point x="198.0" y="0.0" type="curve"/>
+      <point x="223.0" y="0.0"/>
+      <point x="198.0" y="0.0"/>
+      <point x="223.0" y="0.0" type="curve"/>
+      <point x="223.0" y="241.0"/>
+      <point x="223.0" y="481.0"/>
+      <point x="223.0" y="722.0" type="curve"/>
+      <point x="198.0" y="722.0"/>
+      <point x="223.0" y="722.0"/>
+    </contour>
+    <contour>
+      <point x="881.0" y="350.0" type="line"/>
+      <point x="881.0" y="121.0"/>
+      <point x="730.0" y="22.0"/>
+      <point x="486.0" y="22.0" type="curve"/>
+      <point x="395.0" y="22.0"/>
+      <point x="304.0" y="22.0"/>
+      <point x="213.0" y="22.0" type="curve"/>
+      <point x="213.0" y="0.0"/>
+      <point x="213.0" y="22.0"/>
+      <point x="213.0" y="0.0" type="curve"/>
+      <point x="303.0" y="0.0"/>
+      <point x="393.0" y="0.0"/>
+      <point x="483.0" y="0.0" type="curve"/>
+      <point x="743.0" y="0.0"/>
+      <point x="904.0" y="106.0"/>
+      <point x="904.0" y="350.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="64.0" y="350.0" type="curve"/>
+      <point x="247.0" y="350.0"/>
+      <point x="429.0" y="350.0"/>
+      <point x="612.0" y="350.0" type="curve"/>
+      <point x="612.0" y="373.0"/>
+      <point x="612.0" y="350.0"/>
+      <point x="612.0" y="373.0" type="curve"/>
+      <point x="429.0" y="373.0"/>
+      <point x="247.0" y="373.0"/>
+      <point x="64.0" y="373.0" type="curve"/>
+      <point x="64.0" y="350.0"/>
+      <point x="64.0" y="373.0"/>
+    </contour>
+    <contour>
+      <point x="64.0" y="522.0" type="curve"/>
+      <point x="247.0" y="522.0"/>
+      <point x="429.0" y="522.0"/>
+      <point x="612.0" y="522.0" type="curve"/>
+      <point x="612.0" y="545.0"/>
+      <point x="612.0" y="522.0"/>
+      <point x="612.0" y="545.0" type="curve"/>
+      <point x="429.0" y="545.0"/>
+      <point x="247.0" y="545.0"/>
+      <point x="64.0" y="545.0" type="curve"/>
+      <point x="64.0" y="522.0"/>
+      <point x="64.0" y="545.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>turkishlira</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>946</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

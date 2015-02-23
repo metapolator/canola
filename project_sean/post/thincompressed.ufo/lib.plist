@@ -120,6 +120,7 @@
 		<dict>
 			<key>ascending</key>
 			<array>
+				<string>space</string>
 				<string>A</string>
 				<string>Agrave</string>
 				<string>Aacute</string>
@@ -127,51 +128,92 @@
 				<string>Atilde</string>
 				<string>Adieresis</string>
 				<string>Aring</string>
+				<string>Amacron</string>
+				<string>Abreve</string>
+				<string>Aogonek</string>
 				<string>B</string>
 				<string>C</string>
 				<string>Ccedilla</string>
+				<string>Cacute</string>
+				<string>Ccaron</string>
 				<string>D</string>
+				<string>Dcaron</string>
 				<string>E</string>
 				<string>Egrave</string>
 				<string>Eacute</string>
 				<string>Ecircumflex</string>
 				<string>Edieresis</string>
+				<string>Emacron</string>
+				<string>Edotaccent</string>
+				<string>Eogonek</string>
+				<string>Ecaron</string>
 				<string>F</string>
 				<string>G</string>
+				<string>Gbreve</string>
+				<string>Gcommaaccent</string>
 				<string>H</string>
 				<string>I</string>
 				<string>Igrave</string>
 				<string>Iacute</string>
 				<string>Icircumflex</string>
 				<string>Idieresis</string>
+				<string>Imacron</string>
+				<string>Iogonek</string>
+				<string>Idotaccent</string>
 				<string>J</string>
 				<string>K</string>
+				<string>Kcommaaccent</string>
 				<string>L</string>
+				<string>Lacute</string>
+				<string>Lcommaaccent</string>
+				<string>Lcaron</string>
 				<string>M</string>
 				<string>N</string>
 				<string>Ntilde</string>
+				<string>Nacute</string>
+				<string>Ncommaaccent</string>
+				<string>Ncaron</string>
 				<string>O</string>
 				<string>Ograve</string>
 				<string>Oacute</string>
 				<string>Ocircumflex</string>
 				<string>Otilde</string>
 				<string>Odieresis</string>
+				<string>Omacron</string>
+				<string>Ohungarumlaut</string>
 				<string>P</string>
 				<string>Q</string>
 				<string>R</string>
+				<string>Racute</string>
+				<string>Rcommaaccent</string>
+				<string>Rcaron</string>
 				<string>S</string>
+				<string>Sacute</string>
+				<string>Scedilla</string>
+				<string>Scaron</string>
+				<string>Scommaaccent</string>
 				<string>T</string>
+				<string>Tcommaaccent</string>
+				<string>Tcaron</string>
 				<string>U</string>
 				<string>Ugrave</string>
 				<string>Uacute</string>
 				<string>Ucircumflex</string>
 				<string>Udieresis</string>
+				<string>Umacron</string>
+				<string>Uring</string>
+				<string>Uhungarumlaut</string>
+				<string>Uogonek</string>
 				<string>V</string>
 				<string>W</string>
 				<string>X</string>
 				<string>Y</string>
 				<string>Yacute</string>
+				<string>Ydieresis</string>
 				<string>Z</string>
+				<string>Zacute</string>
+				<string>Zdotaccent</string>
+				<string>Zcaron</string>
 				<string>AE</string>
 				<string>Eth</string>
 				<string>Oslash</string>
@@ -183,45 +225,81 @@
 				<string>atilde</string>
 				<string>adieresis</string>
 				<string>aring</string>
+				<string>amacron</string>
+				<string>abreve</string>
+				<string>aogonek</string>
 				<string>b</string>
 				<string>c</string>
 				<string>ccedilla</string>
+				<string>cacute</string>
+				<string>ccaron</string>
 				<string>d</string>
+				<string>dcaron</string>
 				<string>e</string>
 				<string>egrave</string>
 				<string>eacute</string>
 				<string>ecircumflex</string>
 				<string>edieresis</string>
+				<string>emacron</string>
+				<string>edotaccent</string>
+				<string>eogonek</string>
+				<string>ecaron</string>
 				<string>f</string>
 				<string>g</string>
+				<string>gbreve</string>
+				<string>gcommaaccent</string>
 				<string>h</string>
 				<string>i</string>
 				<string>igrave</string>
 				<string>iacute</string>
 				<string>icircumflex</string>
 				<string>idieresis</string>
+				<string>imacron</string>
+				<string>iogonek</string>
 				<string>j</string>
 				<string>k</string>
+				<string>kcommaaccent</string>
 				<string>l</string>
+				<string>lacute</string>
+				<string>lcommaaccent</string>
+				<string>lcaron</string>
 				<string>m</string>
 				<string>n</string>
 				<string>ntilde</string>
+				<string>nacute</string>
+				<string>ncommaaccent</string>
+				<string>ncaron</string>
 				<string>o</string>
 				<string>ograve</string>
 				<string>oacute</string>
 				<string>ocircumflex</string>
 				<string>otilde</string>
 				<string>odieresis</string>
+				<string>omacron</string>
+				<string>ohungarumlaut</string>
 				<string>p</string>
 				<string>q</string>
 				<string>r</string>
+				<string>racute</string>
+				<string>rcommaaccent</string>
+				<string>rcaron</string>
 				<string>s</string>
+				<string>sacute</string>
+				<string>scedilla</string>
+				<string>scaron</string>
+				<string>scommaaccent</string>
 				<string>t</string>
+				<string>tcommaaccent</string>
+				<string>tcaron</string>
 				<string>u</string>
 				<string>ugrave</string>
 				<string>uacute</string>
 				<string>ucircumflex</string>
 				<string>udieresis</string>
+				<string>umacron</string>
+				<string>uring</string>
+				<string>uhungarumlaut</string>
+				<string>uogonek</string>
 				<string>v</string>
 				<string>w</string>
 				<string>x</string>
@@ -229,6 +307,9 @@
 				<string>yacute</string>
 				<string>ydieresis</string>
 				<string>z</string>
+				<string>zacute</string>
+				<string>zdotaccent</string>
+				<string>zcaron</string>
 				<string>ordfeminine</string>
 				<string>ordmasculine</string>
 				<string>germandbls</string>
@@ -237,9 +318,78 @@
 				<string>oslash</string>
 				<string>thorn</string>
 				<string>dotlessi</string>
+				<string>florin</string>
 				<string>mu</string>
+				<string>dvA</string>
+				<string>dvAA</string>
+				<string>dvI</string>
+				<string>dvII</string>
+				<string>dvU</string>
+				<string>dvUU</string>
+				<string>dvvR</string>
+				<string>dvvL</string>
+				<string>dvEcandra</string>
+				<string>dvE</string>
+				<string>dvAI</string>
+				<string>dvOcandra</string>
+				<string>dvO</string>
+				<string>dvKA</string>
+				<string>dvKH</string>
+				<string>dvKHA</string>
+				<string>dvGA</string>
+				<string>dvGHA</string>
+				<string>dvNGA</string>
+				<string>dvCA</string>
+				<string>dvCHA</string>
+				<string>dvJA</string>
+				<string>dvJHA</string>
+				<string>dvNYA</string>
+				<string>dvTTA</string>
+				<string>dvTTHA</string>
+				<string>dvDDA</string>
+				<string>dvDDHA</string>
+				<string>dvNNA</string>
+				<string>dvTA</string>
+				<string>dvTHA</string>
+				<string>dvDA</string>
+				<string>dvDHA</string>
+				<string>dvNA</string>
+				<string>dvPA</string>
+				<string>dvPHA</string>
+				<string>dvBA</string>
+				<string>dvBHA</string>
+				<string>dvMA</string>
+				<string>dvYA</string>
+				<string>dvRA</string>
+				<string>dvLA</string>
+				<string>dvLLA</string>
+				<string>dvVA</string>
+				<string>dvSHA</string>
+				<string>dvSSA</string>
+				<string>dvSA</string>
+				<string>dvHA</string>
+				<string>dvvRR</string>
+				<string>dvvLL</string>
+				<string>dvCandrabindu</string>
+				<string>dvAnusvara</string>
+				<string>dvNukta</string>
+				<string>dvmU</string>
+				<string>dvmUU</string>
+				<string>dvmvR</string>
+				<string>dvmEcandra</string>
+				<string>dvmE</string>
+				<string>dvmAI</string>
 				<string>circumflex</string>
+				<string>breve</string>
+				<string>ring</string>
 				<string>caron</string>
+				<string>ogonek</string>
+				<string>dvmAA</string>
+				<string>dvmI</string>
+				<string>dvmII</string>
+				<string>dvmOcandra</string>
+				<string>dvmO</string>
+				<string>dvmAU</string>
 				<string>zero</string>
 				<string>one</string>
 				<string>two</string>
@@ -250,421 +400,422 @@
 				<string>seven</string>
 				<string>eight</string>
 				<string>nine</string>
-				<string>onequarter</string>
-				<string>onehalf</string>
-				<string>threequarters</string>
+				<string>dvZero</string>
+				<string>dvOne</string>
+				<string>dvTwo</string>
+				<string>dvThree</string>
+				<string>fourdeva</string>
+				<string>dvFive</string>
+				<string>dvSix</string>
+				<string>dvSeven</string>
+				<string>dvEight</string>
+				<string>dvNine</string>
 				<string>underscore</string>
 				<string>hyphen</string>
 				<string>parenleft</string>
-				<string>bracketleft</string>
-				<string>braceleft</string>
 				<string>parenright</string>
+				<string>bracketleft</string>
 				<string>bracketright</string>
+				<string>braceleft</string>
 				<string>braceright</string>
-				<string>guillemotleft</string>
-				<string>quoteleft</string>
-				<string>guillemotright</string>
-				<string>quoteright</string>
-				<string>exclam</string>
-				<string>quotedbl</string>
 				<string>numbersign</string>
-				<string>percent</string>
-				<string>ampersand</string>
 				<string>quotesingle</string>
+				<string>quotedbl</string>
+				<string>guilsinglleft</string>
+				<string>guillemotleft</string>
+				<string>guillemotright</string>
 				<string>asterisk</string>
-				<string>comma</string>
 				<string>period</string>
-				<string>slash</string>
+				<string>comma</string>
 				<string>colon</string>
 				<string>semicolon</string>
-				<string>question</string>
-				<string>at</string>
-				<string>backslash</string>
+				<string>exclam</string>
 				<string>exclamdown</string>
-				<string>periodcentered</string>
+				<string>question</string>
 				<string>questiondown</string>
-				<string>plus</string>
-				<string>less</string>
-				<string>equal</string>
-				<string>greater</string>
+				<string>slash</string>
+				<string>backslash</string>
 				<string>bar</string>
+				<string>brokenbar</string>
+				<string>at</string>
+				<string>ampersand</string>
+				<string>section</string>
+				<string>paragraph</string>
+				<string>periodcentered</string>
+				<string>danda</string>
+				<string>doubledanda</string>
+				<string>plus</string>
+				<string>minus</string>
+				<string>plusminus</string>
+				<string>divide</string>
+				<string>multiply</string>
+				<string>equal</string>
+				<string>less</string>
+				<string>greater</string>
 				<string>asciitilde</string>
 				<string>logicalnot</string>
-				<string>plusminus</string>
-				<string>multiply</string>
-				<string>divide</string>
-				<string>minus</string>
+				<string>partialdiff</string>
+				<string>product</string>
+				<string>summation</string>
+				<string>divisionslash</string>
+				<string>infinity</string>
 				<string>dollar</string>
 				<string>cent</string>
 				<string>sterling</string>
 				<string>currency</string>
 				<string>yen</string>
-				<string>asciicircum</string>
-				<string>grave</string>
-				<string>dieresis</string>
-				<string>macron</string>
 				<string>acute</string>
-				<string>cedilla</string>
-				<string>breve</string>
-				<string>dotaccent</string>
-				<string>ring</string>
-				<string>ogonek</string>
-				<string>tilde</string>
+				<string>grave</string>
 				<string>hungarumlaut</string>
-				<string>brokenbar</string>
-				<string>section</string>
+				<string>tilde</string>
+				<string>macron</string>
+				<string>dieresis</string>
+				<string>dotaccent</string>
+				<string>cedilla</string>
 				<string>copyright</string>
 				<string>registered</string>
-				<string>degree</string>
-				<string>paragraph</string>
-				<string>space</string>
-				<string>onesuperior</string>
-				<string>threesuperior</string>
-				<string>twosuperior</string>
-				<string>ddadeva_viramadeva_ddhadeva</string>
-				<string>nyadeva_viramadeva_jadeva</string>
-				<string>ttadeva</string>
-				<string>jadeva</string>
-				<string>uni0926094D09300942</string>
-				<string>dvA</string>
-				<string>dvAA</string>
-				<string>dvmAA</string>
-				<string>dvI</string>
-				<string>dvKHA</string>
-				<string>dvKA</string>
-				<string>dvvR</string>
-				<string>dvU</string>
-				<string>dvE</string>
-				<string>dvII</string>
-				<string>dvAI</string>
-				<string>dvvL</string>
-				<string>dvO</string>
-				<string>dvvRR</string>
-				<string>dvDHA</string>
-				<string>dvJA</string>
-				<string>dvTHA</string>
-				<string>dvLLA</string>
-				<string>dvBA</string>
-				<string>simon</string>
-				<string>dvPHA</string>
-				<string>dvDDA</string>
-				<string>dvTA</string>
-				<string>dvMA</string>
-				<string>dvNukta</string>
-				<string>dvGHA</string>
-				<string>dvNGA</string>
-				<string>dvTTHA</string>
-				<string>dvRA</string>
-				<string>dvDDHA</string>
-				<string>dvCA</string>
-				<string>dvNNA</string>
-				<string>dvYA</string>
-				<string>dvBHA</string>
-				<string>dvNA</string>
-				<string>dvCHA</string>
-				<string>dvPA</string>
-				<string>dvLA</string>
-				<string>dvDA</string>
-				<string>dvVA</string>
-				<string>dvNYA</string>
-				<string>dvTTA</string>
-				<string>dvGA</string>
-				<string>dvJHA</string>
-				<string>dvSA</string>
-				<string>dvHA</string>
-				<string>dvSSA</string>
-				<string>dvSHA</string>
-				<string>fourdeva</string>
-				<string>dvFive</string>
-				<string>danda</string>
-				<string>dvOne</string>
-				<string>dvThree</string>
-				<string>dvNine</string>
-				<string>doubledanda</string>
-				<string>dvZero</string>
-				<string>dvEight</string>
-				<string>dvTwo</string>
-				<string>dvSix</string>
-				<string>dvSeven</string>
-				<string>dvvLL</string>
-				<string>dvVisarga</string>
-				<string>dvUU</string>
-				<string>dvEcandra</string>
-				<string>dvOcandra</string>
-				<string>dvmE</string>
-				<string>dvmAI</string>
-				<string>dvmEcandra</string>
-				<string>dvmI</string>
-				<string>dvAU</string>
-				<string>dvmII</string>
-				<string>dvmO</string>
-				<string>dvmAU</string>
-				<string>dvmU</string>
-				<string>dvmOcandra</string>
-				<string>dvmvR</string>
-				<string>dvmUU</string>
-				<string>dvJH</string>
-				<string>dvJ_NYA</string>
-				<string>dvAnusvara</string>
-				<string>dvReph</string>
-				<string>dvK_SSA</string>
-				<string>dvJ</string>
-				<string>dvKH</string>
-				<string>dvCH</string>
-				<string>dvGH</string>
-				<string>dvCandrabindu</string>
-				<string>dvG</string>
-				<string>dvK</string>
-				<string>dvC</string>
-				<string>dvTH</string>
-				<string>dvBH</string>
-				<string>dvK_R</string>
-				<string>dvY</string>
-				<string>dvNY</string>
-				<string>dvM</string>
-				<string>dvB</string>
-				<string>dvV</string>
-				<string>dvT</string>
-				<string>dvPH</string>
-				<string>dvDH</string>
-				<string>dvLL</string>
-				<string>dvNN</string>
-				<string>dvSS</string>
-				<string>dvP</string>
-				<string>dvJ_NY</string>
-				<string>dvL</string>
-				<string>dvN</string>
-				<string>dvSH</string>
-				<string>dvS</string>
-				<string>dvKH_RA</string>
-				<string>dvK_RA</string>
-				<string>dvKH_R</string>
-				<string>dvGH_RA</string>
-				<string>dvG_RA</string>
-				<string>dvNG_RA</string>
-				<string>dvNN_RA</string>
-				<string>dvB_RA</string>
-				<string>dvJ_RA</string>
-				<string>dvC_RA</string>
-				<string>dvP_RA</string>
-				<string>dvY_RA</string>
-				<string>dvM_RA</string>
-				<string>dvNY_RA</string>
-				<string>dvTH_RA</string>
-				<string>dvDH_RA</string>
-				<string>dvV_RA</string>
-				<string>dvTT_TTA</string>
-				<string>dvCH_RA</string>
-				<string>dvBH_RA</string>
-				<string>dvPH_RA</string>
-				<string>dvTT_TTHA</string>
-				<string>dvTTH_RA</string>
-				<string>dvK_TA</string>
-				<string>dvDDH_RA</string>
-				<string>dvTTH_TTHA</string>
-				<string>dvTT_RA</string>
-				<string>dvD_RA</string>
-				<string>dvJH_RA</string>
-				<string>dvTT_VA</string>
-				<string>dvDD_RA</string>
-				<string>dvDD_DDA</string>
-				<string>Macron</string>
-				<string>Ring</string>
-				<string>Breve</string>
-				<string>Grave</string>
-				<string>Tilde</string>
-				<string>Acute</string>
-				<string>Caron</string>
-				<string>Dotaccent</string>
-				<string>Circumflex</string>
-				<string>Dieresis</string>
-				<string>kcommaaccent</string>
-				<string>ccaron</string>
-				<string>amacron</string>
-				<string>Kcommaaccent</string>
-				<string>Scaron</string>
-				<string>Cacute</string>
-				<string>gcommaaccent</string>
-				<string>Uhungarumlaut</string>
-				<string>zdotaccent</string>
-				<string>Rcaron</string>
-				<string>Edotaccent</string>
-				<string>Abreve</string>
-				<string>Lacute</string>
-				<string>Gbreve</string>
-				<string>dcaron</string>
-				<string>scaron</string>
-				<string>Eogonek</string>
-				<string>lacute</string>
-				<string>edotaccent</string>
-				<string>uring</string>
-				<string>Scedilla</string>
-				<string>Idotaccent</string>
-				<string>omacron</string>
-				<string>ncommaaccent</string>
-				<string>Ohungarumlaut</string>
-				<string>umacron</string>
-				<string>Gcommaaccent</string>
-				<string>Ecaron</string>
-				<string>Lcaron</string>
-				<string>Tcommaaccent</string>
-				<string>Ncommaaccent</string>
-				<string>imacron</string>
-				<string>Rcommaaccent</string>
-				<string>Ydieresis</string>
-				<string>Aogonek</string>
-				<string>tcommaaccent</string>
-				<string>tcaron</string>
-				<string>lcommaaccent</string>
-				<string>abreve</string>
-				<string>racute</string>
-				<string>Emacron</string>
-				<string>ohungarumlaut</string>
-				<string>emacron</string>
-				<string>Uogonek</string>
-				<string>Sacute</string>
-				<string>Scommaaccent</string>
-				<string>Zacute</string>
-				<string>cacute</string>
-				<string>Ncaron</string>
-				<string>rcaron</string>
-				<string>Ccaron</string>
-				<string>sacute</string>
-				<string>gbreve</string>
-				<string>zacute</string>
-				<string>Tcaron</string>
-				<string>Lcommaaccent</string>
-				<string>Racute</string>
-				<string>uhungarumlaut</string>
-				<string>nacute</string>
-				<string>ecaron</string>
-				<string>Amacron</string>
-				<string>Dcaron</string>
-				<string>tcedilla</string>
-				<string>ncaron</string>
-				<string>Zcaron</string>
-				<string>Tcedilla</string>
-				<string>lcaron</string>
-				<string>aogonek</string>
-				<string>eogonek</string>
-				<string>Umacron</string>
-				<string>Imacron</string>
-				<string>zcaron</string>
-				<string>scommaaccent</string>
-				<string>rcommaaccent</string>
-				<string>Uring</string>
-				<string>uogonek</string>
-				<string>Omacron</string>
-				<string>Iogonek</string>
-				<string>Nacute</string>
-				<string>iogonek</string>
-				<string>Zdotaccent</string>
-				<string>scedilla</string>
-				<string>commaaccent</string>
-				<string>florin</string>
-				<string>divisionslash</string>
-				<string>softhyphen</string>
-				<string>lcaron.add_1</string>
-				<string>dcroat</string>
-				<string>ohungarumlaut.add_1</string>
-				<string>Lslash</string>
-				<string>Ohungarumlaut.add_1</string>
-				<string>lslash</string>
-				<string>Lcaron.add_1</string>
-				<string>Dcroat</string>
-				<string>pi</string>
-				<string>quotedblright</string>
-				<string>quotesinglbase</string>
-				<string>Euro</string>
-				<string>litre</string>
-				<string>endash</string>
-				<string>quoteright.add_1</string>
-				<string>perthousand</string>
-				<string>quotedblleft</string>
 				<string>trademark</string>
-				<string>ruble</string>
-				<string>emdash</string>
+				<string>degree</string>
+				<string>estimated</string>
+				<string>dvReph</string>
+				<string>dvK</string>
+				<string>dvG</string>
+				<string>dvGH</string>
+				<string>dvC</string>
+				<string>dvCH</string>
+				<string>dvJ</string>
+				<string>dvJH</string>
+				<string>dvNY</string>
+				<string>dvT</string>
+				<string>dvTH</string>
+				<string>dvDH</string>
+				<string>dvP</string>
+				<string>dvPH</string>
+				<string>dvBH</string>
+				<string>dvM</string>
+				<string>dvY</string>
+				<string>dvL</string>
+				<string>dvLL</string>
+				<string>dvV</string>
+				<string>dvSH</string>
+				<string>dvSS</string>
+				<string>dvKx</string>
+				<string>dvKHx</string>
+				<string>dvGx</string>
+				<string>dvPHx</string>
+				<string>Acute</string>
+				<string>Breve</string>
+				<string>Caron</string>
+				<string>Circumflex</string>
+				<string>Dcroat</string>
+				<string>Dieresis</string>
+				<string>Dotaccent</string>
+				<string>Euro</string>
+				<string>Grave</string>
+				<string>Lslash</string>
+				<string>Macron</string>
 				<string>OE</string>
-				<string>ellipsis</string>
-				<string>guilsinglright</string>
-				<string>oe</string>
-				<string>guilsinglleft</string>
-				<string>dagger</string>
-				<string>fraction</string>
-				<string>quotedblbase</string>
-				<string>daggerdbl</string>
+				<string>Ring</string>
+				<string>Tcedilla</string>
+				<string>Tilde</string>
+				<string>apostrophemod</string>
+				<string>approxequal</string>
+				<string>asciicircum</string>
 				<string>bullet</string>
+				<string>bulletoperator</string>
+				<string>commaaccent</string>
+				<string>dagger</string>
+				<string>daggerdbl</string>
+				<string>dcroat</string>
+				<string>deltamath</string>
+				<string>dvAU</string>
+				<string>dvB</string>
+				<string>dvJx</string>
+				<string>dvN</string>
+				<string>dvNN</string>
+				<string>dvS</string>
+				<string>dvVisarga</string>
+				<string>ellipsis</string>
+				<string>emdash</string>
+				<string>endash</string>
 				<string>foursuperior</string>
-				<string>nullsuperior</string>
+				<string>fraction</string>
+				<string>greaterequal</string>
+				<string>guilsinglright</string>
+				<string>integral</string>
+				<string>jadeva</string>
 				<string>lessequal</string>
-				<string>summation</string>
-				<string>product</string>
+				<string>litre</string>
+				<string>logo</string>
+				<string>lozenge</string>
+				<string>lslash</string>
+				<string>macronmod</string>
+				<string>mumath</string>
+				<string>notequal</string>
+				<string>nullsuperior</string>
+				<string>oe</string>
+				<string>omegamath</string>
+				<string>onehalf</string>
+				<string>onequarter</string>
+				<string>onesuperior</string>
+				<string>percent</string>
+				<string>perthousand</string>
+				<string>pi</string>
+				<string>quotedblbase</string>
+				<string>quotedblleft</string>
+				<string>quotedblright</string>
+				<string>quoteleft</string>
+				<string>quoteright</string>
+				<string>quotesinglbase</string>
+				<string>radical</string>
+				<string>ruble</string>
+				<string>rupee</string>
+				<string>simon</string>
+				<string>softhyphen</string>
+				<string>tcedilla</string>
+				<string>threequarters</string>
+				<string>threesuperior</string>
+				<string>ttadeva</string>
+				<string>turkishlira</string>
+				<string>twosuperior</string>
+				<string>uni0926094D09300942</string>
 				<string>fi</string>
 				<string>fl</string>
-				<string>omegamath</string>
-				<string>estimated</string>
-				<string>partialdiff</string>
-				<string>infinity</string>
-				<string>mu.math</string>
-				<string>greaterequal</string>
-				<string>bulletoperator</string>
-				<string>apostrophemod</string>
-				<string>notequal</string>
-				<string>radical</string>
-				<string>lozenge</string>
-				<string>mumath</string>
-				<string>macronmod</string>
-				<string>turkishlira</string>
-				<string>rupee</string>
-				<string>approxequal</string>
-				<string>integral</string>
-				<string>deltamath</string>
-				<string>logo</string>
+				<string>dvK_SSA</string>
+				<string>dvJ_NYA</string>
+				<string>dvJ_NY</string>
+				<string>dvKH_R</string>
+				<string>dvK_RA</string>
+				<string>dvKH_RA</string>
+				<string>dvG_RA</string>
+				<string>dvGH_RA</string>
+				<string>dvNG_RA</string>
+				<string>dvC_RA</string>
+				<string>dvCH_RA</string>
+				<string>dvJ_RA</string>
+				<string>dvJH_RA</string>
+				<string>dvNY_RA</string>
+				<string>dvTT_RA</string>
+				<string>dvTTH_RA</string>
+				<string>dvDD_RA</string>
+				<string>dvNN_RA</string>
+				<string>dvTH_RA</string>
+				<string>dvD_RA</string>
+				<string>dvDH_RA</string>
+				<string>dvP_RA</string>
+				<string>dvPH_RA</string>
+				<string>dvB_RA</string>
+				<string>dvBH_RA</string>
+				<string>dvM_RA</string>
+				<string>dvY_RA</string>
+				<string>dvV_RA</string>
+				<string>dvK_TA</string>
+				<string>dvTT_TTA</string>
+				<string>dvTT_TTHA</string>
+				<string>dvTT_VA</string>
+				<string>dvTTH_TTHA</string>
+				<string>dvDD_DDA</string>
+				<string>dvD_YA</string>
+				<string>dvP_TA</string>
 				<string>dvP_TTA</string>
 				<string>dvP_TTHA</string>
-				<string>dvD_YA</string>
-				<string>dvSS_TTA</string>
-				<string>dvP_TA</string>
-				<string>dvSS_TTHA</string>
 				<string>dvSH_VA</string>
-				<string>dvSS_TT_VA</string>
 				<string>dvSH_RA</string>
-				<string>dvSHA_mvR</string>
-				<string>dvG_R</string>
-				<string>dvTH_R</string>
+				<string>dvSS_TTA</string>
+				<string>dvSS_TTHA</string>
+				<string>dvSS_TT_VA</string>
 				<string>dvS_RA</string>
-				<string>dvBH_R</string>
-				<string>dvJ_R</string>
-				<string>dvPH_R</string>
-				<string>dvHA_mvR</string>
-				<string>dvB_R</string>
-				<string>dvY_R</string>
-				<string>dvDA_mvR</string>
-				<string>dvH_YA</string>
 				<string>dvS_T_RA</string>
-				<string>dvH_NA</string>
-				<string>dvC_R</string>
-				<string>dvM_R</string>
-				<string>dvSH_NA</string>
-				<string>dvV_R</string>
-				<string>dvS_NA</string>
-				<string>dvP_R</string>
-				<string>dvT_R</string>
-				<string>dvSH_CA</string>
-				<string>dvH_VA</string>
-				<string>dvNY_R</string>
 				<string>dvH_MA</string>
-				<string>dvNN_R</string>
-				<string>dvDH_R</string>
+				<string>dvH_YA</string>
+				<string>dvH_VA</string>
+				<string>dvHA_mvR</string>
+				<string>dvG_R</string>
+				<string>dvC_R</string>
+				<string>dvJ_R</string>
 				<string>dvJH_R</string>
-				<string>dvH_RA</string>
-				<string>dvTTH_YA</string>
+				<string>dvNY_R</string>
+				<string>dvNN_R</string>
+				<string>dvT_R</string>
+				<string>dvTH_R</string>
+				<string>dvDH_R</string>
+				<string>dvP_R</string>
+				<string>dvPH_R</string>
+				<string>dvB_R</string>
+				<string>dvBH_R</string>
+				<string>dvM_R</string>
+				<string>dvY_R</string>
+				<string>dvV_R</string>
+				<string>dvSH_NA</string>
+				<string>dvS_NA</string>
+				<string>dvH_NA</string>
+				<string>dvDA_mvR</string>
+				<string>dvSH_CA</string>
+				<string>dvSHA_mvR</string>
 				<string>dvTT_YA</string>
-				<string>dvK_CA</string>
-				<string>dvKx</string>
+				<string>dvTTH_YA</string>
 				<string>dvDDH_YA</string>
-				<string>dvK_JA</string>
 				<string>dvD_MA</string>
+				<string>dvK_KA</string>
+				<string>dvK_KHA</string>
+				<string>dvK_SA</string>
+				<string>dvK_VA</string>
+				<string>dvC_CA</string>
+				<string>dvT_KA</string>
+				<string>dvT_PA</string>
+				<string>dvT_SA</string>
+				<string>dvS_YA</string>
+				<string>dvS_TTA</string>
+				<string>dvT_K_YA</string>
+				<string>dvT_K_RA</string>
+				<string>dvT_K_VA</string>
+				<string>dvT_K_SSA</string>
+				<string>dvT_P_RA</string>
+				<string>dvT_S_YA</string>
+				<string>dvT_VA</string>
+				<string>dvT_KHA</string>
+				<string>dvT_THA</string>
+				<string>dvT_PHA</string>
+				<string>dvT_MA</string>
+				<string>dvT_YA</string>
+				<string>dvT_LA</string>
+				<string>dvTH_YA</string>
+				<string>dvTH_VA</string>
+				<string>dvK_CA</string>
+				<string>dvK_JA</string>
+				<string>dvK_TTA</string>
+				<string>dvK_THA</string>
+				<string>dvK_DA</string>
+				<string>dvK_PA</string>
+				<string>dvK_PHA</string>
+				<string>dvK_MA</string>
+				<string>dvK_LA</string>
+				<string>dvKH_TA</string>
+				<string>dvKH_MA</string>
+				<string>dvKH_YA</string>
+				<string>dvKH_SHA</string>
+				<string>dvG_GA</string>
+				<string>dvG_GHA</string>
+				<string>dvG_NNA</string>
+				<string>dvG_BA</string>
+				<string>dvG_DA</string>
+				<string>dvG_JA</string>
+				<string>dvII_Anusvara</string>
+				<string>dvKH_KHA</string>
+				<string>dvKH_VA</string>
+				<string>dvK_NNA</string>
+				<string>dvK_R</string>
+				<string>dvK_SHA</string>
+				<string>dvK_SS</string>
+				<string>dvK_S_TTA</string>
+				<string>dvK_YA</string>
+				<string>dvG_BHA</string>
+				<string>dvG_DHA</string>
+				<string>dvG_LA</string>
+				<string>dvG_MA</string>
+				<string>dvG_SA</string>
+				<string>dvG_VA</string>
+				<string>dvG_YA</string>
+				<string>dvGH_MA</string>
+				<string>dvGH_YA</string>
+				<string>dvC_CHA</string>
+				<string>dvC_MA</string>
+				<string>dvC_YA</string>
+				<string>dvCH_YA</string>
+				<string>dvJ_BA</string>
+				<string>dvJ_DA</string>
+				<string>dvJ_DDA</string>
+				<string>dvJ_JA</string>
+				<string>dvJ_JHA</string>
+				<string>dvJ_J_VA</string>
+				<string>dvJ_KA</string>
+				<string>dvJ_MA</string>
+				<string>dvJ_TA</string>
+				<string>dvJ_TTA</string>
+				<string>dvJ_VA</string>
+				<string>dvJ_YA</string>
+				<string>dvJH_MA</string>
+				<string>dvJH_YA</string>
+				<string>dvNY_CA</string>
+				<string>dvNY_CHA</string>
+				<string>dvNY_JA</string>
+				<string>dvNY_SHA</string>
+				<string>dvDH_MA</string>
+				<string>dvDH_VA</string>
+				<string>dvDH_YA</string>
+				<string>dvP_LA</string>
+				<string>dvP_MA</string>
+				<string>dvP_PA</string>
+				<string>dvP_PHA</string>
+				<string>dvP_SA</string>
+				<string>dvP_VA</string>
+				<string>dvP_YA</string>
+				<string>dvPH_JA</string>
+				<string>dvPH_LA</string>
+				<string>dvPH_PA</string>
+				<string>dvPH_PHA</string>
+				<string>dvPH_SHA</string>
+				<string>dvPH_TA</string>
+				<string>dvPH_TTA</string>
+				<string>dvPH_YA</string>
+				<string>dvSS_YA</string>
+				<string>ddadeva_viramadeva_ddhadeva</string>
+				<string>dvB_BA</string>
+				<string>dvB_BHA</string>
+				<string>dvB_DA</string>
+				<string>dvB_DHA</string>
+				<string>dvB_JA</string>
+				<string>dvB_JHA</string>
+				<string>dvB_TA</string>
+				<string>dvB_YA</string>
+				<string>dvDDH_RA</string>
+				<string>dvDD_YA</string>
+				<string>dvH_RA</string>
+				<string>dvNN_DDA</string>
+				<string>dvNN_DDHA</string>
+				<string>dvNN_MA</string>
+				<string>dvNN_NNA</string>
+				<string>dvNN_TTA</string>
+				<string>dvNN_TTHA</string>
+				<string>dvNN_VA</string>
+				<string>dvNN_YA</string>
+				<string>dvN_BHA</string>
+				<string>dvN_CA</string>
+				<string>dvN_CHA</string>
+				<string>dvN_DA</string>
+				<string>dvN_DDA</string>
+				<string>dvN_DHA</string>
+				<string>dvN_HA</string>
+				<string>dvN_KA</string>
+				<string>dvN_MA</string>
+				<string>dvN_PA</string>
+				<string>dvN_PHA</string>
+				<string>dvN_PH_RA</string>
+				<string>dvN_P_RA</string>
+				<string>dvN_SA</string>
+				<string>dvN_S_TTA</string>
+				<string>dvN_TA</string>
+				<string>dvN_THA</string>
+				<string>dvN_TTA</string>
+				<string>dvN_VA</string>
+				<string>dvN_YA</string>
+				<string>dvS_BA</string>
+				<string>dvS_DA</string>
+				<string>dvS_JA</string>
+				<string>dvS_KA</string>
+				<string>dvS_MA</string>
+				<string>dvS_PA</string>
+				<string>dvS_PHA</string>
+				<string>dvS_TA</string>
+				<string>dvS_T_VA</string>
+				<string>dvS_VA</string>
+				<string>nyadeva_viramadeva_jadeva</string>
+				<string>Lcaron.add_1</string>
+				<string>Ohungarumlaut.add_1</string>
+				<string>lcaron.add_1</string>
+				<string>ohungarumlaut.add_1</string>
+				<string>quoteright.add_1</string>
+				<string>mu.math</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -672,6 +823,7 @@
 	</array>
 	<key>public.glyphOrder</key>
 	<array>
+		<string>space</string>
 		<string>A</string>
 		<string>Agrave</string>
 		<string>Aacute</string>
@@ -679,51 +831,92 @@
 		<string>Atilde</string>
 		<string>Adieresis</string>
 		<string>Aring</string>
+		<string>Amacron</string>
+		<string>Abreve</string>
+		<string>Aogonek</string>
 		<string>B</string>
 		<string>C</string>
 		<string>Ccedilla</string>
+		<string>Cacute</string>
+		<string>Ccaron</string>
 		<string>D</string>
+		<string>Dcaron</string>
 		<string>E</string>
 		<string>Egrave</string>
 		<string>Eacute</string>
 		<string>Ecircumflex</string>
 		<string>Edieresis</string>
+		<string>Emacron</string>
+		<string>Edotaccent</string>
+		<string>Eogonek</string>
+		<string>Ecaron</string>
 		<string>F</string>
 		<string>G</string>
+		<string>Gbreve</string>
+		<string>Gcommaaccent</string>
 		<string>H</string>
 		<string>I</string>
 		<string>Igrave</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
+		<string>Imacron</string>
+		<string>Iogonek</string>
+		<string>Idotaccent</string>
 		<string>J</string>
 		<string>K</string>
+		<string>Kcommaaccent</string>
 		<string>L</string>
+		<string>Lacute</string>
+		<string>Lcommaaccent</string>
+		<string>Lcaron</string>
 		<string>M</string>
 		<string>N</string>
 		<string>Ntilde</string>
+		<string>Nacute</string>
+		<string>Ncommaaccent</string>
+		<string>Ncaron</string>
 		<string>O</string>
 		<string>Ograve</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
 		<string>Otilde</string>
 		<string>Odieresis</string>
+		<string>Omacron</string>
+		<string>Ohungarumlaut</string>
 		<string>P</string>
 		<string>Q</string>
 		<string>R</string>
+		<string>Racute</string>
+		<string>Rcommaaccent</string>
+		<string>Rcaron</string>
 		<string>S</string>
+		<string>Sacute</string>
+		<string>Scedilla</string>
+		<string>Scaron</string>
+		<string>Scommaaccent</string>
 		<string>T</string>
+		<string>Tcommaaccent</string>
+		<string>Tcaron</string>
 		<string>U</string>
 		<string>Ugrave</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
+		<string>Umacron</string>
+		<string>Uring</string>
+		<string>Uhungarumlaut</string>
+		<string>Uogonek</string>
 		<string>V</string>
 		<string>W</string>
 		<string>X</string>
 		<string>Y</string>
 		<string>Yacute</string>
+		<string>Ydieresis</string>
 		<string>Z</string>
+		<string>Zacute</string>
+		<string>Zdotaccent</string>
+		<string>Zcaron</string>
 		<string>AE</string>
 		<string>Eth</string>
 		<string>Oslash</string>
@@ -735,45 +928,81 @@
 		<string>atilde</string>
 		<string>adieresis</string>
 		<string>aring</string>
+		<string>amacron</string>
+		<string>abreve</string>
+		<string>aogonek</string>
 		<string>b</string>
 		<string>c</string>
 		<string>ccedilla</string>
+		<string>cacute</string>
+		<string>ccaron</string>
 		<string>d</string>
+		<string>dcaron</string>
 		<string>e</string>
 		<string>egrave</string>
 		<string>eacute</string>
 		<string>ecircumflex</string>
 		<string>edieresis</string>
+		<string>emacron</string>
+		<string>edotaccent</string>
+		<string>eogonek</string>
+		<string>ecaron</string>
 		<string>f</string>
 		<string>g</string>
+		<string>gbreve</string>
+		<string>gcommaaccent</string>
 		<string>h</string>
 		<string>i</string>
 		<string>igrave</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>imacron</string>
+		<string>iogonek</string>
 		<string>j</string>
 		<string>k</string>
+		<string>kcommaaccent</string>
 		<string>l</string>
+		<string>lacute</string>
+		<string>lcommaaccent</string>
+		<string>lcaron</string>
 		<string>m</string>
 		<string>n</string>
 		<string>ntilde</string>
+		<string>nacute</string>
+		<string>ncommaaccent</string>
+		<string>ncaron</string>
 		<string>o</string>
 		<string>ograve</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>
 		<string>otilde</string>
 		<string>odieresis</string>
+		<string>omacron</string>
+		<string>ohungarumlaut</string>
 		<string>p</string>
 		<string>q</string>
 		<string>r</string>
+		<string>racute</string>
+		<string>rcommaaccent</string>
+		<string>rcaron</string>
 		<string>s</string>
+		<string>sacute</string>
+		<string>scedilla</string>
+		<string>scaron</string>
+		<string>scommaaccent</string>
 		<string>t</string>
+		<string>tcommaaccent</string>
+		<string>tcaron</string>
 		<string>u</string>
 		<string>ugrave</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
+		<string>umacron</string>
+		<string>uring</string>
+		<string>uhungarumlaut</string>
+		<string>uogonek</string>
 		<string>v</string>
 		<string>w</string>
 		<string>x</string>
@@ -781,6 +1010,9 @@
 		<string>yacute</string>
 		<string>ydieresis</string>
 		<string>z</string>
+		<string>zacute</string>
+		<string>zdotaccent</string>
+		<string>zcaron</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>germandbls</string>
@@ -789,9 +1021,78 @@
 		<string>oslash</string>
 		<string>thorn</string>
 		<string>dotlessi</string>
+		<string>florin</string>
 		<string>mu</string>
+		<string>dvA</string>
+		<string>dvAA</string>
+		<string>dvI</string>
+		<string>dvII</string>
+		<string>dvU</string>
+		<string>dvUU</string>
+		<string>dvvR</string>
+		<string>dvvL</string>
+		<string>dvEcandra</string>
+		<string>dvE</string>
+		<string>dvAI</string>
+		<string>dvOcandra</string>
+		<string>dvO</string>
+		<string>dvKA</string>
+		<string>dvKH</string>
+		<string>dvKHA</string>
+		<string>dvGA</string>
+		<string>dvGHA</string>
+		<string>dvNGA</string>
+		<string>dvCA</string>
+		<string>dvCHA</string>
+		<string>dvJA</string>
+		<string>dvJHA</string>
+		<string>dvNYA</string>
+		<string>dvTTA</string>
+		<string>dvTTHA</string>
+		<string>dvDDA</string>
+		<string>dvDDHA</string>
+		<string>dvNNA</string>
+		<string>dvTA</string>
+		<string>dvTHA</string>
+		<string>dvDA</string>
+		<string>dvDHA</string>
+		<string>dvNA</string>
+		<string>dvPA</string>
+		<string>dvPHA</string>
+		<string>dvBA</string>
+		<string>dvBHA</string>
+		<string>dvMA</string>
+		<string>dvYA</string>
+		<string>dvRA</string>
+		<string>dvLA</string>
+		<string>dvLLA</string>
+		<string>dvVA</string>
+		<string>dvSHA</string>
+		<string>dvSSA</string>
+		<string>dvSA</string>
+		<string>dvHA</string>
+		<string>dvvRR</string>
+		<string>dvvLL</string>
+		<string>dvCandrabindu</string>
+		<string>dvAnusvara</string>
+		<string>dvNukta</string>
+		<string>dvmU</string>
+		<string>dvmUU</string>
+		<string>dvmvR</string>
+		<string>dvmEcandra</string>
+		<string>dvmE</string>
+		<string>dvmAI</string>
 		<string>circumflex</string>
+		<string>breve</string>
+		<string>ring</string>
 		<string>caron</string>
+		<string>ogonek</string>
+		<string>dvmAA</string>
+		<string>dvmI</string>
+		<string>dvmII</string>
+		<string>dvmOcandra</string>
+		<string>dvmO</string>
+		<string>dvmAU</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -802,474 +1103,422 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>onequarter</string>
-		<string>onehalf</string>
-		<string>threequarters</string>
+		<string>dvZero</string>
+		<string>dvOne</string>
+		<string>dvTwo</string>
+		<string>dvThree</string>
+		<string>fourdeva</string>
+		<string>dvFive</string>
+		<string>dvSix</string>
+		<string>dvSeven</string>
+		<string>dvEight</string>
+		<string>dvNine</string>
 		<string>underscore</string>
 		<string>hyphen</string>
 		<string>parenleft</string>
-		<string>bracketleft</string>
-		<string>braceleft</string>
 		<string>parenright</string>
+		<string>bracketleft</string>
 		<string>bracketright</string>
+		<string>braceleft</string>
 		<string>braceright</string>
-		<string>guillemotleft</string>
-		<string>quoteleft</string>
-		<string>guillemotright</string>
-		<string>quoteright</string>
-		<string>exclam</string>
-		<string>quotedbl</string>
 		<string>numbersign</string>
-		<string>percent</string>
-		<string>ampersand</string>
 		<string>quotesingle</string>
+		<string>quotedbl</string>
+		<string>guilsinglleft</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
 		<string>asterisk</string>
-		<string>comma</string>
 		<string>period</string>
-		<string>slash</string>
+		<string>comma</string>
 		<string>colon</string>
 		<string>semicolon</string>
-		<string>question</string>
-		<string>at</string>
-		<string>backslash</string>
+		<string>exclam</string>
 		<string>exclamdown</string>
-		<string>periodcentered</string>
+		<string>question</string>
 		<string>questiondown</string>
-		<string>plus</string>
-		<string>less</string>
-		<string>equal</string>
-		<string>greater</string>
+		<string>slash</string>
+		<string>backslash</string>
 		<string>bar</string>
+		<string>brokenbar</string>
+		<string>at</string>
+		<string>ampersand</string>
+		<string>section</string>
+		<string>paragraph</string>
+		<string>periodcentered</string>
+		<string>danda</string>
+		<string>doubledanda</string>
+		<string>plus</string>
+		<string>minus</string>
+		<string>plusminus</string>
+		<string>divide</string>
+		<string>multiply</string>
+		<string>equal</string>
+		<string>less</string>
+		<string>greater</string>
 		<string>asciitilde</string>
 		<string>logicalnot</string>
-		<string>plusminus</string>
-		<string>multiply</string>
-		<string>divide</string>
-		<string>minus</string>
+		<string>partialdiff</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>divisionslash</string>
+		<string>infinity</string>
 		<string>dollar</string>
 		<string>cent</string>
 		<string>sterling</string>
 		<string>currency</string>
 		<string>yen</string>
-		<string>asciicircum</string>
-		<string>grave</string>
-		<string>dieresis</string>
-		<string>macron</string>
 		<string>acute</string>
-		<string>cedilla</string>
-		<string>breve</string>
-		<string>dotaccent</string>
-		<string>ring</string>
-		<string>ogonek</string>
-		<string>tilde</string>
+		<string>grave</string>
 		<string>hungarumlaut</string>
-		<string>brokenbar</string>
-		<string>section</string>
+		<string>tilde</string>
+		<string>macron</string>
+		<string>dieresis</string>
+		<string>dotaccent</string>
+		<string>cedilla</string>
 		<string>copyright</string>
 		<string>registered</string>
-		<string>degree</string>
-		<string>paragraph</string>
-		<string>space</string>
-		<string>onesuperior</string>
-		<string>threesuperior</string>
-		<string>twosuperior</string>
-		<string>ddadeva_viramadeva_ddhadeva</string>
-		<string>nyadeva_viramadeva_jadeva</string>
-		<string>ttadeva</string>
-		<string>jadeva</string>
-		<string>uni0926094D09300942</string>
-		<string>dvA</string>
-		<string>dvAA</string>
-		<string>dvmAA</string>
-		<string>dvI</string>
-		<string>dvKHA</string>
-		<string>dvKA</string>
-		<string>dvvR</string>
-		<string>dvU</string>
-		<string>dvE</string>
-		<string>dvII</string>
-		<string>dvAI</string>
-		<string>dvvL</string>
-		<string>dvO</string>
-		<string>dvvRR</string>
-		<string>dvDHA</string>
-		<string>dvJA</string>
-		<string>dvTHA</string>
-		<string>dvLLA</string>
-		<string>dvBA</string>
-		<string>simon</string>
-		<string>dvPHA</string>
-		<string>dvDDA</string>
-		<string>dvTA</string>
-		<string>dvMA</string>
-		<string>dvNukta</string>
-		<string>dvGHA</string>
-		<string>dvNGA</string>
-		<string>dvTTHA</string>
-		<string>dvRA</string>
-		<string>dvDDHA</string>
-		<string>dvCA</string>
-		<string>dvNNA</string>
-		<string>dvYA</string>
-		<string>dvBHA</string>
-		<string>dvNA</string>
-		<string>dvCHA</string>
-		<string>dvPA</string>
-		<string>dvLA</string>
-		<string>dvDA</string>
-		<string>dvVA</string>
-		<string>dvNYA</string>
-		<string>dvTTA</string>
-		<string>dvGA</string>
-		<string>dvJHA</string>
-		<string>dvSA</string>
-		<string>dvHA</string>
-		<string>dvSSA</string>
-		<string>dvSHA</string>
-		<string>fourdeva</string>
-		<string>dvFive</string>
-		<string>danda</string>
-		<string>dvOne</string>
-		<string>dvThree</string>
-		<string>dvNine</string>
-		<string>doubledanda</string>
-		<string>dvZero</string>
-		<string>dvEight</string>
-		<string>dvTwo</string>
-		<string>dvSix</string>
-		<string>dvSeven</string>
-		<string>dvvLL</string>
-		<string>dvVisarga</string>
-		<string>dvUU</string>
-		<string>dvEcandra</string>
-		<string>dvOcandra</string>
-		<string>dvmE</string>
-		<string>dvmAI</string>
-		<string>dvmEcandra</string>
-		<string>dvmI</string>
-		<string>dvAU</string>
-		<string>dvmII</string>
-		<string>dvmO</string>
-		<string>dvmAU</string>
-		<string>dvmU</string>
-		<string>dvmOcandra</string>
-		<string>dvmvR</string>
-		<string>dvmUU</string>
-		<string>dvJH</string>
-		<string>dvJ_NYA</string>
-		<string>dvAnusvara</string>
-		<string>dvReph</string>
-		<string>dvK_SSA</string>
-		<string>dvJ</string>
-		<string>dvKH</string>
-		<string>dvCH</string>
-		<string>dvGH</string>
-		<string>dvCandrabindu</string>
-		<string>dvG</string>
-		<string>dvK</string>
-		<string>dvC</string>
-		<string>dvTH</string>
-		<string>dvBH</string>
-		<string>dvK_R</string>
-		<string>dvY</string>
-		<string>dvNY</string>
-		<string>dvM</string>
-		<string>dvB</string>
-		<string>dvV</string>
-		<string>dvT</string>
-		<string>dvPH</string>
-		<string>dvDH</string>
-		<string>dvLL</string>
-		<string>dvNN</string>
-		<string>dvSS</string>
-		<string>dvP</string>
-		<string>dvJ_NY</string>
-		<string>dvL</string>
-		<string>dvN</string>
-		<string>dvSH</string>
-		<string>dvS</string>
-		<string>dvKH_RA</string>
-		<string>dvK_RA</string>
-		<string>dvKH_R</string>
-		<string>dvGH_RA</string>
-		<string>dvG_RA</string>
-		<string>dvNG_RA</string>
-		<string>dvNN_RA</string>
-		<string>dvB_RA</string>
-		<string>dvJ_RA</string>
-		<string>dvC_RA</string>
-		<string>dvP_RA</string>
-		<string>dvY_RA</string>
-		<string>dvM_RA</string>
-		<string>dvNY_RA</string>
-		<string>dvTH_RA</string>
-		<string>dvDH_RA</string>
-		<string>dvV_RA</string>
-		<string>dvTT_TTA</string>
-		<string>dvCH_RA</string>
-		<string>dvBH_RA</string>
-		<string>dvPH_RA</string>
-		<string>dvTT_TTHA</string>
-		<string>dvTTH_RA</string>
-		<string>dvK_TA</string>
-		<string>dvDDH_RA</string>
-		<string>dvTTH_TTHA</string>
-		<string>dvTT_RA</string>
-		<string>dvD_RA</string>
-		<string>dvJH_RA</string>
-		<string>dvTT_VA</string>
-		<string>dvDD_RA</string>
-		<string>dvDD_DDA</string>
-		<string>Macron</string>
-		<string>Ring</string>
-		<string>Breve</string>
-		<string>Grave</string>
-		<string>Tilde</string>
-		<string>Acute</string>
-		<string>Caron</string>
-		<string>Dotaccent</string>
-		<string>Circumflex</string>
-		<string>Dieresis</string>
-		<string>kcommaaccent</string>
-		<string>ccaron</string>
-		<string>amacron</string>
-		<string>Kcommaaccent</string>
-		<string>Scaron</string>
-		<string>Cacute</string>
-		<string>gcommaaccent</string>
-		<string>Uhungarumlaut</string>
-		<string>zdotaccent</string>
-		<string>Rcaron</string>
-		<string>Edotaccent</string>
-		<string>Abreve</string>
-		<string>Lacute</string>
-		<string>Gbreve</string>
-		<string>dcaron</string>
-		<string>scaron</string>
-		<string>Eogonek</string>
-		<string>lacute</string>
-		<string>edotaccent</string>
-		<string>uring</string>
-		<string>Scedilla</string>
-		<string>Idotaccent</string>
-		<string>omacron</string>
-		<string>ncommaaccent</string>
-		<string>Ohungarumlaut</string>
-		<string>umacron</string>
-		<string>Gcommaaccent</string>
-		<string>Ecaron</string>
-		<string>Lcaron</string>
-		<string>Tcommaaccent</string>
-		<string>Ncommaaccent</string>
-		<string>imacron</string>
-		<string>Rcommaaccent</string>
-		<string>Ydieresis</string>
-		<string>Aogonek</string>
-		<string>tcommaaccent</string>
-		<string>tcaron</string>
-		<string>lcommaaccent</string>
-		<string>abreve</string>
-		<string>racute</string>
-		<string>Emacron</string>
-		<string>ohungarumlaut</string>
-		<string>emacron</string>
-		<string>Uogonek</string>
-		<string>Sacute</string>
-		<string>Scommaaccent</string>
-		<string>Zacute</string>
-		<string>cacute</string>
-		<string>Ncaron</string>
-		<string>rcaron</string>
-		<string>Ccaron</string>
-		<string>sacute</string>
-		<string>gbreve</string>
-		<string>zacute</string>
-		<string>Tcaron</string>
-		<string>Lcommaaccent</string>
-		<string>Racute</string>
-		<string>uhungarumlaut</string>
-		<string>nacute</string>
-		<string>ecaron</string>
-		<string>Amacron</string>
-		<string>Dcaron</string>
-		<string>tcedilla</string>
-		<string>ncaron</string>
-		<string>Zcaron</string>
-		<string>Tcedilla</string>
-		<string>lcaron</string>
-		<string>aogonek</string>
-		<string>eogonek</string>
-		<string>Umacron</string>
-		<string>Imacron</string>
-		<string>zcaron</string>
-		<string>scommaaccent</string>
-		<string>rcommaaccent</string>
-		<string>Uring</string>
-		<string>uogonek</string>
-		<string>Omacron</string>
-		<string>Iogonek</string>
-		<string>Nacute</string>
-		<string>iogonek</string>
-		<string>Zdotaccent</string>
-		<string>scedilla</string>
-		<string>commaaccent</string>
-		<string>florin</string>
-		<string>divisionslash</string>
-		<string>softhyphen</string>
-		<string>lcaron.add_1</string>
-		<string>dcroat</string>
-		<string>ohungarumlaut.add_1</string>
-		<string>Lslash</string>
-		<string>Ohungarumlaut.add_1</string>
-		<string>lslash</string>
-		<string>Lcaron.add_1</string>
-		<string>Dcroat</string>
-		<string>pi</string>
-		<string>quotedblright</string>
-		<string>quotesinglbase</string>
-		<string>Euro</string>
-		<string>litre</string>
-		<string>endash</string>
-		<string>quoteright.add_1</string>
-		<string>perthousand</string>
-		<string>quotedblleft</string>
 		<string>trademark</string>
-		<string>ruble</string>
-		<string>emdash</string>
+		<string>degree</string>
+		<string>estimated</string>
+		<string>dvReph</string>
+		<string>dvK</string>
+		<string>dvG</string>
+		<string>dvGH</string>
+		<string>dvC</string>
+		<string>dvCH</string>
+		<string>dvJ</string>
+		<string>dvJH</string>
+		<string>dvNY</string>
+		<string>dvT</string>
+		<string>dvTH</string>
+		<string>dvDH</string>
+		<string>dvP</string>
+		<string>dvPH</string>
+		<string>dvBH</string>
+		<string>dvM</string>
+		<string>dvY</string>
+		<string>dvL</string>
+		<string>dvLL</string>
+		<string>dvV</string>
+		<string>dvSH</string>
+		<string>dvSS</string>
+		<string>dvKx</string>
+		<string>dvKHx</string>
+		<string>dvGx</string>
+		<string>dvPHx</string>
+		<string>Acute</string>
+		<string>Breve</string>
+		<string>Caron</string>
+		<string>Circumflex</string>
+		<string>Dcroat</string>
+		<string>Dieresis</string>
+		<string>Dotaccent</string>
+		<string>Euro</string>
+		<string>Grave</string>
+		<string>Lslash</string>
+		<string>Macron</string>
 		<string>OE</string>
-		<string>ellipsis</string>
-		<string>guilsinglright</string>
-		<string>oe</string>
-		<string>guilsinglleft</string>
-		<string>dagger</string>
-		<string>fraction</string>
-		<string>quotedblbase</string>
-		<string>daggerdbl</string>
+		<string>Ring</string>
+		<string>Tcedilla</string>
+		<string>Tilde</string>
+		<string>apostrophemod</string>
+		<string>approxequal</string>
+		<string>asciicircum</string>
 		<string>bullet</string>
+		<string>bulletoperator</string>
+		<string>commaaccent</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>dcroat</string>
+		<string>deltamath</string>
+		<string>dvAU</string>
+		<string>dvB</string>
+		<string>dvJx</string>
+		<string>dvN</string>
+		<string>dvNN</string>
+		<string>dvS</string>
+		<string>dvVisarga</string>
+		<string>ellipsis</string>
+		<string>emdash</string>
+		<string>endash</string>
 		<string>foursuperior</string>
-		<string>nullsuperior</string>
+		<string>fraction</string>
+		<string>greaterequal</string>
+		<string>guilsinglright</string>
+		<string>integral</string>
+		<string>jadeva</string>
 		<string>lessequal</string>
-		<string>summation</string>
-		<string>product</string>
+		<string>litre</string>
+		<string>logo</string>
+		<string>lozenge</string>
+		<string>lslash</string>
+		<string>macronmod</string>
+		<string>mumath</string>
+		<string>notequal</string>
+		<string>nullsuperior</string>
+		<string>oe</string>
+		<string>omegamath</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>onesuperior</string>
+		<string>percent</string>
+		<string>perthousand</string>
+		<string>pi</string>
+		<string>quotedblbase</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotesinglbase</string>
+		<string>radical</string>
+		<string>ruble</string>
+		<string>rupee</string>
+		<string>simon</string>
+		<string>softhyphen</string>
+		<string>tcedilla</string>
+		<string>threequarters</string>
+		<string>threesuperior</string>
+		<string>ttadeva</string>
+		<string>turkishlira</string>
+		<string>twosuperior</string>
+		<string>uni0926094D09300942</string>
 		<string>fi</string>
 		<string>fl</string>
-		<string>omegamath</string>
-		<string>estimated</string>
-		<string>partialdiff</string>
-		<string>infinity</string>
-		<string>mu.math</string>
-		<string>greaterequal</string>
-		<string>bulletoperator</string>
-		<string>apostrophemod</string>
-		<string>notequal</string>
-		<string>radical</string>
-		<string>lozenge</string>
-		<string>mumath</string>
-		<string>macronmod</string>
-		<string>turkishlira</string>
-		<string>rupee</string>
-		<string>approxequal</string>
-		<string>integral</string>
-		<string>deltamath</string>
-		<string>logo</string>
+		<string>dvK_SSA</string>
+		<string>dvJ_NYA</string>
+		<string>dvJ_NY</string>
+		<string>dvKH_R</string>
+		<string>dvK_RA</string>
+		<string>dvKH_RA</string>
+		<string>dvG_RA</string>
+		<string>dvGH_RA</string>
+		<string>dvNG_RA</string>
+		<string>dvC_RA</string>
+		<string>dvCH_RA</string>
+		<string>dvJ_RA</string>
+		<string>dvJH_RA</string>
+		<string>dvNY_RA</string>
+		<string>dvTT_RA</string>
+		<string>dvTTH_RA</string>
+		<string>dvDD_RA</string>
+		<string>dvNN_RA</string>
+		<string>dvTH_RA</string>
+		<string>dvD_RA</string>
+		<string>dvDH_RA</string>
+		<string>dvP_RA</string>
+		<string>dvPH_RA</string>
+		<string>dvB_RA</string>
+		<string>dvBH_RA</string>
+		<string>dvM_RA</string>
+		<string>dvY_RA</string>
+		<string>dvV_RA</string>
+		<string>dvK_TA</string>
+		<string>dvTT_TTA</string>
+		<string>dvTT_TTHA</string>
+		<string>dvTT_VA</string>
+		<string>dvTTH_TTHA</string>
+		<string>dvDD_DDA</string>
+		<string>dvD_YA</string>
+		<string>dvP_TA</string>
 		<string>dvP_TTA</string>
 		<string>dvP_TTHA</string>
-		<string>dvD_YA</string>
-		<string>dvSS_TTA</string>
-		<string>dvP_TA</string>
-		<string>dvSS_TTHA</string>
 		<string>dvSH_VA</string>
-		<string>dvSS_TT_VA</string>
 		<string>dvSH_RA</string>
-		<string>dvSHA_mvR</string>
-		<string>dvG_R</string>
-		<string>dvTH_R</string>
+		<string>dvSS_TTA</string>
+		<string>dvSS_TTHA</string>
+		<string>dvSS_TT_VA</string>
 		<string>dvS_RA</string>
-		<string>dvBH_R</string>
-		<string>dvJ_R</string>
-		<string>dvPH_R</string>
-		<string>dvHA_mvR</string>
-		<string>dvB_R</string>
-		<string>dvY_R</string>
-		<string>dvDA_mvR</string>
-		<string>dvH_YA</string>
 		<string>dvS_T_RA</string>
-		<string>dvH_NA</string>
-		<string>dvC_R</string>
-		<string>dvM_R</string>
-		<string>dvSH_NA</string>
-		<string>dvV_R</string>
-		<string>dvS_NA</string>
-		<string>dvP_R</string>
-		<string>dvT_R</string>
-		<string>dvSH_CA</string>
-		<string>dvH_VA</string>
-		<string>dvNY_R</string>
 		<string>dvH_MA</string>
-		<string>dvNN_R</string>
-		<string>dvDH_R</string>
+		<string>dvH_YA</string>
+		<string>dvH_VA</string>
+		<string>dvHA_mvR</string>
+		<string>dvG_R</string>
+		<string>dvC_R</string>
+		<string>dvJ_R</string>
 		<string>dvJH_R</string>
-		<string>dvH_RA</string>
-		<string>dvTTH_YA</string>
+		<string>dvNY_R</string>
+		<string>dvNN_R</string>
+		<string>dvT_R</string>
+		<string>dvTH_R</string>
+		<string>dvDH_R</string>
+		<string>dvP_R</string>
+		<string>dvPH_R</string>
+		<string>dvB_R</string>
+		<string>dvBH_R</string>
+		<string>dvM_R</string>
+		<string>dvY_R</string>
+		<string>dvV_R</string>
+		<string>dvSH_NA</string>
+		<string>dvS_NA</string>
+		<string>dvH_NA</string>
+		<string>dvDA_mvR</string>
+		<string>dvSH_CA</string>
+		<string>dvSHA_mvR</string>
 		<string>dvTT_YA</string>
-		<string>dvK_CA</string>
-		<string>dvKx</string>
+		<string>dvTTH_YA</string>
 		<string>dvDDH_YA</string>
-		<string>dvK_JA</string>
 		<string>dvD_MA</string>
-		<string>dvKH_SHA</string>
-		<string>dvK_THA</string>
-		<string>dvKH_KHA</string>
-		<string>dvJx</string>
-		<string>dvT_THA</string>
-		<string>dvT_SA</string>
-		<string>dvKHx</string>
-		<string>dvT_PHA</string>
-		<string>dvK_YA</string>
 		<string>dvK_KA</string>
-		<string>dvTH_VA</string>
-		<string>dvK_VA</string>
-		<string>dvG_JA</string>
-		<string>dvK_DA</string>
-		<string>dvT_K_YA</string>
-		<string>dvPHx</string>
-		<string>dvT_KHA</string>
-		<string>dvK_PA</string>
-		<string>dvG_GHA</string>
-		<string>dvT_VA</string>
-		<string>dvK_SA</string>
-		<string>dvK_SS</string>
 		<string>dvK_KHA</string>
-		<string>dvDD_YA</string>
-		<string>dvT_MA</string>
-		<string>dvII_Anusvara</string>
-		<string>dvKH_TA</string>
-		<string>dvT_K_SSA</string>
-		<string>dvGx</string>
-		<string>dvG_BA</string>
-		<string>dvK_LA</string>
-		<string>dvG_NNA</string>
-		<string>dvKH_YA</string>
-		<string>dvG_GA</string>
-		<string>dvT_K_VA</string>
-		<string>dvT_P_RA</string>
-		<string>dvT_PA</string>
-		<string>dvK_MA</string>
-		<string>dvS_YA</string>
-		<string>dvK_TTA</string>
-		<string>dvK_NNA</string>
-		<string>dvT_K_RA</string>
-		<string>dvT_KA</string>
-		<string>dvK_PHA</string>
-		<string>dvG_DA</string>
-		<string>dvT_LA</string>
+		<string>dvK_SA</string>
+		<string>dvK_VA</string>
 		<string>dvC_CA</string>
+		<string>dvT_KA</string>
+		<string>dvT_PA</string>
+		<string>dvT_SA</string>
+		<string>dvS_YA</string>
 		<string>dvS_TTA</string>
-		<string>dvT_YA</string>
-		<string>dvKH_VA</string>
+		<string>dvT_K_YA</string>
+		<string>dvT_K_RA</string>
+		<string>dvT_K_VA</string>
+		<string>dvT_K_SSA</string>
+		<string>dvT_P_RA</string>
 		<string>dvT_S_YA</string>
+		<string>dvT_VA</string>
+		<string>dvT_KHA</string>
+		<string>dvT_THA</string>
+		<string>dvT_PHA</string>
+		<string>dvT_MA</string>
+		<string>dvT_YA</string>
+		<string>dvT_LA</string>
 		<string>dvTH_YA</string>
+		<string>dvTH_VA</string>
+		<string>dvK_CA</string>
+		<string>dvK_JA</string>
+		<string>dvK_TTA</string>
+		<string>dvK_THA</string>
+		<string>dvK_DA</string>
+		<string>dvK_PA</string>
+		<string>dvK_PHA</string>
+		<string>dvK_MA</string>
+		<string>dvK_LA</string>
+		<string>dvKH_TA</string>
 		<string>dvKH_MA</string>
+		<string>dvKH_YA</string>
+		<string>dvKH_SHA</string>
+		<string>dvG_GA</string>
+		<string>dvG_GHA</string>
+		<string>dvG_NNA</string>
+		<string>dvG_BA</string>
+		<string>dvG_DA</string>
+		<string>dvG_JA</string>
+		<string>dvII_Anusvara</string>
+		<string>dvKH_KHA</string>
+		<string>dvKH_VA</string>
+		<string>dvK_NNA</string>
+		<string>dvK_R</string>
+		<string>dvK_SHA</string>
+		<string>dvK_SS</string>
+		<string>dvK_S_TTA</string>
+		<string>dvK_YA</string>
+		<string>dvG_BHA</string>
+		<string>dvG_DHA</string>
+		<string>dvG_LA</string>
+		<string>dvG_MA</string>
+		<string>dvG_SA</string>
+		<string>dvG_VA</string>
+		<string>dvG_YA</string>
+		<string>dvGH_MA</string>
+		<string>dvGH_YA</string>
+		<string>dvC_CHA</string>
+		<string>dvC_MA</string>
+		<string>dvC_YA</string>
+		<string>dvCH_YA</string>
+		<string>dvJ_BA</string>
+		<string>dvJ_DA</string>
+		<string>dvJ_DDA</string>
+		<string>dvJ_JA</string>
+		<string>dvJ_JHA</string>
+		<string>dvJ_J_VA</string>
+		<string>dvJ_KA</string>
+		<string>dvJ_MA</string>
+		<string>dvJ_TA</string>
+		<string>dvJ_TTA</string>
+		<string>dvJ_VA</string>
+		<string>dvJ_YA</string>
+		<string>dvJH_MA</string>
+		<string>dvJH_YA</string>
+		<string>dvNY_CA</string>
+		<string>dvNY_CHA</string>
+		<string>dvNY_JA</string>
+		<string>dvNY_SHA</string>
+		<string>dvDH_MA</string>
+		<string>dvDH_VA</string>
+		<string>dvDH_YA</string>
+		<string>dvP_LA</string>
+		<string>dvP_MA</string>
+		<string>dvP_PA</string>
+		<string>dvP_PHA</string>
+		<string>dvP_SA</string>
+		<string>dvP_VA</string>
+		<string>dvP_YA</string>
+		<string>dvPH_JA</string>
+		<string>dvPH_LA</string>
+		<string>dvPH_PA</string>
+		<string>dvPH_PHA</string>
+		<string>dvPH_SHA</string>
+		<string>dvPH_TA</string>
+		<string>dvPH_TTA</string>
+		<string>dvPH_YA</string>
+		<string>dvSS_YA</string>
+		<string>ddadeva_viramadeva_ddhadeva</string>
+		<string>dvB_BA</string>
+		<string>dvB_BHA</string>
+		<string>dvB_DA</string>
+		<string>dvB_DHA</string>
+		<string>dvB_JA</string>
+		<string>dvB_JHA</string>
+		<string>dvB_TA</string>
+		<string>dvB_YA</string>
+		<string>dvDDH_RA</string>
+		<string>dvDD_YA</string>
+		<string>dvH_RA</string>
+		<string>dvNN_DDA</string>
+		<string>dvNN_DDHA</string>
+		<string>dvNN_MA</string>
+		<string>dvNN_NNA</string>
+		<string>dvNN_TTA</string>
+		<string>dvNN_TTHA</string>
+		<string>dvNN_VA</string>
+		<string>dvNN_YA</string>
+		<string>dvN_BHA</string>
+		<string>dvN_CA</string>
+		<string>dvN_CHA</string>
+		<string>dvN_DA</string>
+		<string>dvN_DDA</string>
+		<string>dvN_DHA</string>
+		<string>dvN_HA</string>
+		<string>dvN_KA</string>
+		<string>dvN_MA</string>
+		<string>dvN_PA</string>
+		<string>dvN_PHA</string>
+		<string>dvN_PH_RA</string>
+		<string>dvN_P_RA</string>
+		<string>dvN_SA</string>
+		<string>dvN_S_TTA</string>
+		<string>dvN_TA</string>
+		<string>dvN_THA</string>
+		<string>dvN_TTA</string>
+		<string>dvN_VA</string>
+		<string>dvN_YA</string>
+		<string>dvS_BA</string>
+		<string>dvS_DA</string>
+		<string>dvS_JA</string>
+		<string>dvS_KA</string>
+		<string>dvS_MA</string>
+		<string>dvS_PA</string>
+		<string>dvS_PHA</string>
+		<string>dvS_TA</string>
+		<string>dvS_T_VA</string>
+		<string>dvS_VA</string>
+		<string>nyadeva_viramadeva_jadeva</string>
+		<string>Lcaron.add_1</string>
+		<string>Ohungarumlaut.add_1</string>
+		<string>lcaron.add_1</string>
+		<string>ohungarumlaut.add_1</string>
+		<string>quoteright.add_1</string>
+		<string>mu.math</string>
 	</array>
 </dict>
 </plist>

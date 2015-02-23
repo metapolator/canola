@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mumath" format="1">
+  <advance width="707.0"/>
+  <outline>
+    <contour>
+      <point x="118.0" y="-300.0" type="curve"/>
+      <point x="118.0" y="67.0"/>
+      <point x="118.0" y="166.0"/>
+      <point x="118.0" y="533.0" type="curve"/>
+      <point x="95.0" y="533.0"/>
+      <point x="118.0" y="533.0"/>
+      <point x="95.0" y="533.0" type="curve"/>
+      <point x="95.0" y="166.0"/>
+      <point x="95.0" y="67.0"/>
+      <point x="95.0" y="-300.0" type="curve"/>
+      <point x="118.0" y="-300.0"/>
+      <point x="95.0" y="-300.0"/>
+    </contour>
+    <component base="u" xOffset="-6.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>mumath</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>927</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

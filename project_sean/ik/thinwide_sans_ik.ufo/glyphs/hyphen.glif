@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="573.0"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="89.85" y="260.339777778" type="curve"/>
+      <point x="220.7986905" y="260.339777778"/>
+      <point x="351.7513095" y="260.339777778"/>
+      <point x="482.7" y="260.339777778" type="curve"/>
+      <point x="482.7" y="284.055777778"/>
+      <point x="482.7" y="260.339777778"/>
+      <point x="482.7" y="284.055777778" type="curve"/>
+      <point x="351.7513095" y="284.055777778"/>
+      <point x="220.7986905" y="284.055777778"/>
+      <point x="89.85" y="284.055777778" type="curve"/>
+      <point x="89.85" y="260.339777778"/>
+      <point x="89.85" y="284.055777778"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hyphen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>472</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="397.0"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="201.0" y="670.0" type="move" name="_top"/>
+    </contour>
+    <component base="period" xOffset="-26.0" yOffset="608.0"/>
+    <component base="period" xOffset="174.0" yOffset="608.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

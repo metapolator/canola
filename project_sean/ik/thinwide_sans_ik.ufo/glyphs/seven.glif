@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="690.0"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="37.0" y="700.0" type="curve"/>
+      <point x="250.0" y="700.0"/>
+      <point x="463.0" y="700.0"/>
+      <point x="675.0" y="700.0" type="curve"/>
+      <point x="675.0" y="722.0"/>
+      <point x="675.0" y="700.0"/>
+      <point x="675.0" y="722.0" type="curve"/>
+      <point x="454.0" y="722.0"/>
+      <point x="245.0" y="722.0"/>
+      <point x="37.0" y="722.0" type="curve"/>
+      <point x="37.0" y="700.0"/>
+      <point x="37.0" y="722.0"/>
+    </contour>
+    <contour>
+      <point x="662.0" y="722.0" type="curve"/>
+      <point x="92.0" y="0.0"/>
+      <point x="660.0" y="721.0"/>
+      <point x="91.0" y="0.0" type="curve"/>
+      <point x="118.0" y="0.0"/>
+      <point x="107.0" y="0.0"/>
+      <point x="122.0" y="0.0" type="curve"/>
+      <point x="674.0" y="699.0"/>
+      <point x="122.0" y="0.0"/>
+      <point x="675.0" y="700.0" type="curve"/>
+      <point x="662.0" y="722.0"/>
+      <point x="675.0" y="700.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>729</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

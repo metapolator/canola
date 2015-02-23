@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="286.0"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="205.0" y="16.0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="205" y="17" type="curve"/>
+      <point x="185" y="-10"/>
+      <point x="165" y="-36"/>
+      <point x="145" y="-63" type="curve"/>
+      <point x="161" y="-80"/>
+      <point x="145" y="-63"/>
+      <point x="161" y="-80" type="curve"/>
+      <point x="181" y="-52"/>
+      <point x="202" y="-25"/>
+      <point x="222" y="3" type="curve"/>
+      <point x="205" y="17"/>
+      <point x="222" y="3"/>
+    </contour>
+    <contour>
+      <point x="161" y="-81" type="curve"/>
+      <point x="183" y="-70"/>
+      <point x="201" y="-68"/>
+      <point x="226" y="-68" type="curve"/>
+      <point x="269" y="-68"/>
+      <point x="301" y="-85"/>
+      <point x="301" y="-125" type="curve"/>
+      <point x="301" y="-169"/>
+      <point x="259" y="-180"/>
+      <point x="208" y="-180" type="curve"/>
+      <point x="172" y="-180"/>
+      <point x="145" y="-178"/>
+      <point x="112" y="-163" type="curve"/>
+      <point x="103" y="-180"/>
+      <point x="112" y="-163"/>
+      <point x="103" y="-180" type="curve"/>
+      <point x="139" y="-195"/>
+      <point x="168" y="-201"/>
+      <point x="207" y="-201" type="curve"/>
+      <point x="272" y="-201"/>
+      <point x="324" y="-183"/>
+      <point x="324" y="-125" type="curve"/>
+      <point x="324" y="-73"/>
+      <point x="283" y="-47"/>
+      <point x="228" y="-47" type="curve"/>
+      <point x="197" y="-47"/>
+      <point x="175" y="-53"/>
+      <point x="146" y="-64" type="curve"/>
+      <point x="161" y="-81"/>
+      <point x="146" y="-64"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>286</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

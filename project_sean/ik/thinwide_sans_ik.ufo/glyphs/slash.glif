@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="659.0"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="54.35" y="-67.0466666667" type="curve"/>
+      <point x="246.048083" y="236.274744533"/>
+      <point x="437.751917" y="539.605255467"/>
+      <point x="629.45" y="842.926666667" type="curve"/>
+      <point x="605.25" y="842.926666667"/>
+      <point x="629.45" y="842.926666667"/>
+      <point x="605.25" y="842.926666667" type="curve"/>
+      <point x="413.551917" y="539.605255467"/>
+      <point x="221.848083" y="236.274744533"/>
+      <point x="30.15" y="-67.0466666667" type="curve"/>
+      <point x="54.35" y="-67.0466666667"/>
+      <point x="30.15" y="-67.0466666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>slash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>683</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

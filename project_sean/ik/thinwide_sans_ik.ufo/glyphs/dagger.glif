@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="701.0"/>
+  <outline>
+    <contour>
+      <point x="38.0" y="509.0" type="curve"/>
+      <point x="38.0" y="509.0"/>
+      <point x="663.0" y="509.0"/>
+      <point x="663.0" y="509.0" type="curve"/>
+      <point x="663.0" y="533.0"/>
+      <point x="663.0" y="509.0"/>
+      <point x="663.0" y="533.0" type="curve"/>
+      <point x="663.0" y="533.0"/>
+      <point x="38.0" y="533.0"/>
+      <point x="38.0" y="533.0" type="curve"/>
+      <point x="38.0" y="509.0"/>
+      <point x="38.0" y="533.0"/>
+    </contour>
+    <contour>
+      <point x="357.0" y="-298.0" type="curve"/>
+      <point x="357.0" y="-298.0"/>
+      <point x="357.0" y="800.0"/>
+      <point x="357.0" y="800.0" type="curve"/>
+      <point x="333.0" y="800.0"/>
+      <point x="357.0" y="800.0"/>
+      <point x="333.0" y="800.0" type="curve"/>
+      <point x="333.0" y="800.0"/>
+      <point x="333.0" y="-298.0"/>
+      <point x="333.0" y="-298.0" type="curve"/>
+      <point x="357.0" y="-298.0"/>
+      <point x="333.0" y="-298.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>scale</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dagger</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>875</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

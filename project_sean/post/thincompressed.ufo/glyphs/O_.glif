@@ -4,36 +4,36 @@
   <unicode hex="004F"/>
   <outline>
     <contour>
-      <point x="94.0" y="360.0"/>
-      <point x="69.0" y="360.0"/>
-      <point x="94.0" y="360.0" type="curve"/>
-      <point x="94.0" y="543.0"/>
-      <point x="124.0" y="704.0"/>
-      <point x="282.0" y="704.0" type="curve"/>
-      <point x="440.0" y="704.0"/>
-      <point x="474.0" y="545.0"/>
-      <point x="474.0" y="363.0" type="curve"/>
-      <point x="474.0" y="183.0"/>
-      <point x="443.0" y="18.0"/>
-      <point x="285.0" y="18.0" type="curve"/>
-      <point x="126.0" y="18.0"/>
-      <point x="94.0" y="177.0"/>
-      <point x="94.0" y="360.0" type="curve"/>
-      <point x="69.0" y="360.0"/>
-      <point x="94.0" y="360.0"/>
-      <point x="69.0" y="360.0" type="curve"/>
-      <point x="69.0" y="162.0"/>
-      <point x="112.0" y="-5.0"/>
-      <point x="284.0" y="-5.0" type="curve"/>
-      <point x="456.0" y="-5.0"/>
-      <point x="498.0" y="164.0"/>
-      <point x="498.0" y="363.0" type="curve"/>
-      <point x="498.0" y="560.0"/>
-      <point x="456.0" y="727.0"/>
-      <point x="284.0" y="727.0" type="curve"/>
-      <point x="111.0" y="727.0"/>
-      <point x="69.0" y="558.0"/>
-      <point x="69.0" y="360.0" type="curve"/>
+      <point x="94" y="360"/>
+      <point x="69" y="360"/>
+      <point x="94" y="360" type="curve" name="FullCurve"/>
+      <point x="94" y="543"/>
+      <point x="124" y="704"/>
+      <point x="282" y="704" type="curve" name="FullCurve"/>
+      <point x="440" y="704"/>
+      <point x="474" y="545"/>
+      <point x="474" y="363" type="curve" name="FullCurve"/>
+      <point x="474" y="183"/>
+      <point x="443" y="18"/>
+      <point x="285" y="18" type="curve" name="FullCurve"/>
+      <point x="126" y="18"/>
+      <point x="94" y="177"/>
+      <point x="94" y="360" type="curve" name="FullCurve"/>
+      <point x="69" y="360"/>
+      <point x="94" y="360"/>
+      <point x="69" y="360" type="curve" name="FullCurve"/>
+      <point x="69" y="162"/>
+      <point x="112" y="-5"/>
+      <point x="284" y="-5" type="curve" name="FullCurve"/>
+      <point x="456" y="-5"/>
+      <point x="498" y="164"/>
+      <point x="498" y="363" type="curve" name="FullCurve"/>
+      <point x="498" y="560"/>
+      <point x="456" y="727"/>
+      <point x="284" y="727" type="curve" name="FullCurve"/>
+      <point x="111" y="727"/>
+      <point x="69" y="558"/>
+      <point x="69" y="360" type="curve" name="FullCurve"/>
     </contour>
     <contour>
       <point x="282.0" y="839.0" type="move" name="top"/>
