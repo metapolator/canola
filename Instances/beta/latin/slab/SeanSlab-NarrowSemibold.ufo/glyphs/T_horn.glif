@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="622"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="335" y="236" type="curve"/>
+      <point x="290" y="236"/>
+      <point x="257" y="245"/>
+      <point x="220" y="261" type="curve"/>
+      <point x="220" y="529" type="line"/>
+      <point x="299" y="529" type="line"/>
+      <point x="408" y="529"/>
+      <point x="481" y="474"/>
+      <point x="481" y="376" type="curve"/>
+      <point x="481" y="290"/>
+      <point x="424" y="236"/>
+    </contour>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="308" y="70" type="line"/>
+      <point x="220" y="70" type="line"/>
+      <point x="220" y="187" type="line"/>
+      <point x="257" y="175"/>
+      <point x="295" y="167"/>
+      <point x="338" y="167" type="curve"/>
+      <point x="478" y="170"/>
+      <point x="573" y="240"/>
+      <point x="573" y="379" type="curve"/>
+      <point x="573" y="520"/>
+      <point x="465" y="598"/>
+      <point x="311" y="598" type="curve"/>
+      <point x="220" y="598" type="line"/>
+      <point x="220" y="653" type="line"/>
+      <point x="308" y="653" type="line"/>
+      <point x="308" y="722" type="line"/>
+      <point x="42" y="722" type="line"/>
+      <point x="42" y="653" type="line"/>
+      <point x="128" y="653" type="line"/>
+      <point x="128" y="70" type="line"/>
+      <point x="42" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>273</integer>
+          <key>y</key>
+          <integer>617</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohungarumlaut" format="1">
+  <advance width="647"/>
+  <unicode hex="0151"/>
+  <outline>
+    <contour>
+      <point x="436" y="642" type="line"/>
+      <point x="569" y="808" type="line"/>
+      <point x="449" y="808" type="line"/>
+      <point x="344" y="642" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="642" type="line"/>
+      <point x="386" y="808" type="line"/>
+      <point x="266" y="808" type="line"/>
+      <point x="161" y="642" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="268" type="curve"/>
+      <point x="56" y="98"/>
+      <point x="145" y="-5"/>
+      <point x="311" y="-5" type="curve"/>
+      <point x="479" y="-5"/>
+      <point x="570" y="95"/>
+      <point x="570" y="266" type="curve"/>
+      <point x="570" y="433"/>
+      <point x="482" y="538"/>
+      <point x="313" y="538" type="curve"/>
+      <point x="145" y="538"/>
+      <point x="56" y="433"/>
+    </contour>
+    <contour>
+      <point x="149" y="268" type="curve"/>
+      <point x="149" y="387"/>
+      <point x="198" y="469"/>
+      <point x="308" y="469" type="curve"/>
+      <point x="425" y="469"/>
+      <point x="478" y="386"/>
+      <point x="478" y="266" type="curve"/>
+      <point x="478" y="145"/>
+      <point x="425" y="65"/>
+      <point x="316" y="65" type="curve"/>
+      <point x="199" y="65"/>
+      <point x="149" y="146"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
