@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="1">
+  <advance width="239"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="163" y="0" type="curve"/>
+      <point x="163" y="241"/>
+      <point x="163" y="481"/>
+      <point x="163" y="722" type="curve"/>
+      <point x="76" y="722"/>
+      <point x="163" y="722"/>
+      <point x="76" y="722" type="curve"/>
+      <point x="76" y="481"/>
+      <point x="76" y="241"/>
+      <point x="76" y="0" type="curve"/>
+      <point x="163" y="0"/>
+      <point x="76" y="0"/>
+    </contour>
+    <contour>
+      <point x="202" y="869" type="curve"/>
+      <point x="148" y="869"/>
+      <point x="93" y="869"/>
+      <point x="39" y="869" type="curve"/>
+      <point x="39" y="801"/>
+      <point x="39" y="869"/>
+      <point x="39" y="801" type="curve"/>
+      <point x="93" y="801"/>
+      <point x="148" y="801"/>
+      <point x="202" y="801" type="curve"/>
+      <point x="202" y="869"/>
+      <point x="202" y="801"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

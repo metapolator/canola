@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="267"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="101" y="128" type="curve"/>
+      <point x="92" y="105"/>
+      <point x="64" y="27"/>
+      <point x="55" y="4" type="curve"/>
+      <point x="132" y="-66"/>
+      <point x="55" y="4"/>
+      <point x="132" y="-66" type="curve"/>
+      <point x="142" y="-40"/>
+      <point x="177" y="40"/>
+      <point x="187" y="66" type="curve"/>
+      <point x="101" y="128"/>
+      <point x="187" y="66"/>
+    </contour>
+    <contour>
+      <point x="132" y="-66" type="curve"/>
+      <point x="138" y="-61"/>
+      <point x="142" y="-56"/>
+      <point x="150" y="-56" type="curve"/>
+      <point x="161" y="-56"/>
+      <point x="165" y="-65"/>
+      <point x="165" y="-80" type="curve"/>
+      <point x="165" y="-97"/>
+      <point x="153" y="-106"/>
+      <point x="135" y="-106" type="curve"/>
+      <point x="119" y="-106"/>
+      <point x="105" y="-103"/>
+      <point x="93" y="-93" type="curve"/>
+      <point x="49" y="-156"/>
+      <point x="93" y="-93"/>
+      <point x="49" y="-156" type="curve"/>
+      <point x="73" y="-175"/>
+      <point x="98" y="-183"/>
+      <point x="130" y="-183" type="curve"/>
+      <point x="190" y="-183"/>
+      <point x="228" y="-143"/>
+      <point x="228" y="-79" type="curve"/>
+      <point x="228" y="-16"/>
+      <point x="194" y="27"/>
+      <point x="135" y="27" type="curve"/>
+      <point x="104" y="27"/>
+      <point x="82" y="22"/>
+      <point x="55" y="4" type="curve"/>
+      <point x="132" y="-66"/>
+      <point x="55" y="4"/>
+    </contour>
+    <contour>
+      <point x="183" y="66" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="359"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="289" y="35" type="curve"/>
+      <point x="204" y="35"/>
+      <point x="123" y="35"/>
+      <point x="41" y="35" type="curve"/>
+      <point x="41" y="0"/>
+      <point x="41" y="35"/>
+      <point x="41" y="0" type="curve"/>
+      <point x="123" y="0"/>
+      <point x="207" y="0"/>
+      <point x="289" y="0" type="curve"/>
+      <point x="289" y="35"/>
+      <point x="289" y="0"/>
+    </contour>
+    <contour>
+      <point x="259" y="394" type="curve"/>
+      <point x="193" y="394"/>
+      <point x="126" y="394"/>
+      <point x="61" y="394" type="curve"/>
+      <point x="61" y="359"/>
+      <point x="61" y="394"/>
+      <point x="61" y="359" type="curve"/>
+      <point x="126" y="359"/>
+      <point x="193" y="359"/>
+      <point x="259" y="359" type="curve"/>
+      <point x="259" y="394"/>
+      <point x="259" y="359"/>
+    </contour>
+    <contour>
+      <point x="302" y="675" type="curve"/>
+      <point x="275" y="708"/>
+      <point x="252" y="726"/>
+      <point x="213" y="726" type="curve"/>
+      <point x="69" y="726"/>
+      <point x="86" y="560"/>
+      <point x="110" y="373" type="curve"/>
+      <point x="132" y="200"/>
+      <point x="170" y="35"/>
+      <point x="41" y="35" type="curve"/>
+      <point x="41" y="0"/>
+      <point x="41" y="35"/>
+      <point x="41" y="0" type="curve"/>
+      <point x="204" y="0"/>
+      <point x="173" y="181"/>
+      <point x="149" y="380" type="curve"/>
+      <point x="129" y="539"/>
+      <point x="102" y="690"/>
+      <point x="210" y="690" type="curve"/>
+      <point x="242" y="690"/>
+      <point x="260" y="673"/>
+      <point x="278" y="651" type="curve"/>
+      <point x="302" y="675"/>
+      <point x="278" y="651"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

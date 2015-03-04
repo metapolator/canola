@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="318"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="217" y="0" type="curve"/>
+      <point x="217" y="241"/>
+      <point x="217" y="481"/>
+      <point x="217" y="722" type="curve"/>
+      <point x="106" y="722"/>
+      <point x="217" y="722"/>
+      <point x="106" y="722" type="curve"/>
+      <point x="106" y="481"/>
+      <point x="106" y="241"/>
+      <point x="106" y="0" type="curve"/>
+      <point x="217" y="0"/>
+      <point x="106" y="0"/>
+    </contour>
+    <contour>
+      <point x="125" y="848" type="curve"/>
+      <point x="125" y="885"/>
+      <point x="96" y="903"/>
+      <point x="57" y="903" type="curve"/>
+      <point x="19" y="903"/>
+      <point x="-8" y="883"/>
+      <point x="-8" y="848" type="curve"/>
+      <point x="117" y="848"/>
+      <point x="0" y="848"/>
+      <point x="125" y="848" type="curve"/>
+      <point x="125" y="810"/>
+      <point x="96" y="794"/>
+      <point x="57" y="794" type="curve"/>
+      <point x="18" y="794"/>
+      <point x="-8" y="812"/>
+      <point x="-8" y="848" type="curve"/>
+      <point x="117" y="848"/>
+      <point x="0" y="848"/>
+    </contour>
+    <contour>
+      <point x="332" y="848" type="curve"/>
+      <point x="332" y="885"/>
+      <point x="303" y="903"/>
+      <point x="265" y="903" type="curve"/>
+      <point x="226" y="903"/>
+      <point x="200" y="883"/>
+      <point x="200" y="848" type="curve"/>
+      <point x="324" y="848"/>
+      <point x="207" y="848"/>
+      <point x="332" y="848" type="curve"/>
+      <point x="332" y="810"/>
+      <point x="304" y="794"/>
+      <point x="264" y="794" type="curve"/>
+      <point x="225" y="794"/>
+      <point x="200" y="812"/>
+      <point x="200" y="848" type="curve"/>
+      <point x="324" y="848"/>
+      <point x="207" y="848"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

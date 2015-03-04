@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="589"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="133" y="225" type="curve"/>
+      <point x="190" y="198"/>
+      <point x="244" y="180"/>
+      <point x="309" y="180" type="curve"/>
+      <point x="449" y="182"/>
+      <point x="546" y="255"/>
+      <point x="546" y="394" type="curve"/>
+      <point x="546" y="536"/>
+      <point x="436" y="615"/>
+      <point x="280" y="615" type="curve"/>
+      <point x="235" y="615"/>
+      <point x="190" y="615"/>
+      <point x="145" y="615" type="curve"/>
+      <point x="145" y="568"/>
+      <point x="145" y="615"/>
+      <point x="145" y="568" type="curve"/>
+      <point x="187" y="568"/>
+      <point x="230" y="568"/>
+      <point x="272" y="568" type="curve"/>
+      <point x="398" y="568"/>
+      <point x="486" y="506"/>
+      <point x="486" y="391" type="curve"/>
+      <point x="486" y="288"/>
+      <point x="414" y="227"/>
+      <point x="307" y="227" type="curve"/>
+      <point x="247" y="227"/>
+      <point x="206" y="242"/>
+      <point x="153" y="267" type="curve"/>
+      <point x="133" y="226"/>
+      <point x="153" y="267"/>
+    </contour>
+    <contour>
+      <point x="170" y="0" type="curve"/>
+      <point x="170" y="241"/>
+      <point x="170" y="481"/>
+      <point x="170" y="722" type="curve"/>
+      <point x="110" y="722"/>
+      <point x="170" y="722"/>
+      <point x="110" y="722" type="curve"/>
+      <point x="110" y="481"/>
+      <point x="110" y="241"/>
+      <point x="110" y="0" type="curve"/>
+      <point x="170" y="0"/>
+      <point x="110" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>273</integer>
+          <key>y</key>
+          <integer>617</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

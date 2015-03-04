@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="549"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="145" y="457" type="curve"/>
+      <point x="205" y="563"/>
+      <point x="266" y="667"/>
+      <point x="327" y="772" type="curve"/>
+      <point x="221" y="772"/>
+      <point x="326" y="772"/>
+      <point x="220" y="772" type="curve"/>
+      <point x="159" y="667"/>
+      <point x="99" y="563"/>
+      <point x="39" y="457" type="curve"/>
+      <point x="145" y="457"/>
+      <point x="39" y="457"/>
+    </contour>
+    <contour>
+      <point x="510" y="457" type="curve"/>
+      <point x="451" y="561"/>
+      <point x="387" y="669"/>
+      <point x="327" y="772" type="curve"/>
+      <point x="221" y="772"/>
+      <point x="327" y="772"/>
+      <point x="221" y="772" type="curve"/>
+      <point x="280" y="669"/>
+      <point x="344" y="561"/>
+      <point x="404" y="457" type="curve"/>
+      <point x="510" y="457"/>
+      <point x="404" y="457"/>
+    </contour>
+    <contour>
+      <point x="145" y="457" type="curve"/>
+      <point x="205" y="352"/>
+      <point x="266" y="247"/>
+      <point x="327" y="142" type="curve"/>
+      <point x="221" y="142"/>
+      <point x="326" y="142"/>
+      <point x="220" y="142" type="curve"/>
+      <point x="159" y="247"/>
+      <point x="99" y="352"/>
+      <point x="39" y="457" type="curve"/>
+      <point x="145" y="457"/>
+      <point x="39" y="457"/>
+    </contour>
+    <contour>
+      <point x="510" y="457" type="curve"/>
+      <point x="451" y="354"/>
+      <point x="387" y="246"/>
+      <point x="327" y="142" type="curve"/>
+      <point x="221" y="142"/>
+      <point x="327" y="142"/>
+      <point x="221" y="142" type="curve"/>
+      <point x="280" y="246"/>
+      <point x="344" y="354"/>
+      <point x="404" y="457" type="curve"/>
+      <point x="510" y="457"/>
+      <point x="404" y="457"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="440"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="40" y="234" type="curve"/>
+      <point x="111" y="293"/>
+      <point x="182" y="353"/>
+      <point x="252" y="412" type="curve"/>
+      <point x="252" y="491"/>
+      <point x="252" y="412"/>
+      <point x="252" y="491" type="curve"/>
+      <point x="182" y="432"/>
+      <point x="111" y="372"/>
+      <point x="40" y="313" type="curve"/>
+      <point x="40" y="234"/>
+      <point x="40" y="313"/>
+    </contour>
+    <contour>
+      <point x="176" y="0" type="curve"/>
+      <point x="176" y="241"/>
+      <point x="176" y="481"/>
+      <point x="176" y="722" type="curve"/>
+      <point x="89" y="722"/>
+      <point x="176" y="722"/>
+      <point x="89" y="722" type="curve"/>
+      <point x="89" y="481"/>
+      <point x="89" y="241"/>
+      <point x="89" y="0" type="curve"/>
+      <point x="176" y="0"/>
+      <point x="89" y="0"/>
+    </contour>
+    <contour>
+      <point x="132" y="0" type="curve"/>
+      <point x="234" y="0"/>
+      <point x="336" y="0"/>
+      <point x="438" y="0" type="curve"/>
+      <point x="438" y="69"/>
+      <point x="438" y="0"/>
+      <point x="438" y="69" type="curve"/>
+      <point x="336" y="69"/>
+      <point x="234" y="69"/>
+      <point x="132" y="69" type="curve"/>
+      <point x="132" y="0"/>
+      <point x="132" y="69"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

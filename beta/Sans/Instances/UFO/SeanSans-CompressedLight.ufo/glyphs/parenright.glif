@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="262"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="37" y="-275" type="curve"/>
+      <point x="163" y="-73"/>
+      <point x="208" y="91"/>
+      <point x="208" y="328" type="curve"/>
+      <point x="208" y="557"/>
+      <point x="170" y="720"/>
+      <point x="40" y="912" type="curve"/>
+      <point x="4" y="881"/>
+      <point x="40" y="912"/>
+      <point x="4" y="881" type="curve"/>
+      <point x="125" y="697"/>
+      <point x="151" y="541"/>
+      <point x="151" y="325" type="curve"/>
+      <point x="151" y="105"/>
+      <point x="116" y="-53"/>
+      <point x="0" y="-244" type="curve"/>
+      <point x="37" y="-275"/>
+      <point x="0" y="-244"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

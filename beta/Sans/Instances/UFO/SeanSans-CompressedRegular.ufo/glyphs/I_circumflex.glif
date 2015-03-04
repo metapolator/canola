@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="1">
+  <advance width="281"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="179" y="0" type="curve"/>
+      <point x="179" y="241"/>
+      <point x="179" y="481"/>
+      <point x="179" y="722" type="curve"/>
+      <point x="106" y="722"/>
+      <point x="179" y="722"/>
+      <point x="106" y="722" type="curve"/>
+      <point x="106" y="481"/>
+      <point x="106" y="241"/>
+      <point x="106" y="0" type="curve"/>
+      <point x="179" y="0"/>
+      <point x="106" y="0"/>
+    </contour>
+    <contour>
+      <point x="95" y="806" type="line"/>
+      <point x="174" y="972" type="line"/>
+      <point x="85" y="972" type="line"/>
+      <point x="26" y="806" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="806" type="line"/>
+      <point x="203" y="972" type="line"/>
+      <point x="114" y="972" type="line"/>
+      <point x="194" y="806" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

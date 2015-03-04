@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="746.0"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="123.0" y="275"/>
+      <point x="148.0" y="266"/>
+      <point x="177.0" y="245" type="curve"/>
+      <point x="213.0" y="350"/>
+      <point x="281.0" y="416"/>
+      <point x="389.0" y="416" type="curve"/>
+      <point x="472.0" y="416"/>
+      <point x="537.0" y="381"/>
+      <point x="537.0" y="305" type="curve"/>
+      <point x="537.0" y="194"/>
+      <point x="537.0" y="111"/>
+      <point x="537.0" y="0" type="curve"/>
+      <point x="595.0" y="0"/>
+      <point x="639.0" y="0"/>
+      <point x="697.0" y="0" type="curve"/>
+      <point x="697.0" y="116"/>
+      <point x="697.0" y="201"/>
+      <point x="697.0" y="317" type="curve"/>
+      <point x="697.0" y="470"/>
+      <point x="588.0" y="538"/>
+      <point x="425.0" y="538" type="curve"/>
+      <point x="262.0" y="538"/>
+      <point x="155.0" y="449"/>
+      <point x="94.0" y="296" type="curve"/>
+    </contour>
+    <contour>
+      <point x="214.0" y="0"/>
+      <point x="53.0" y="0"/>
+      <point x="214.0" y="0" type="curve"/>
+      <point x="214.0" y="178"/>
+      <point x="214.0" y="355"/>
+      <point x="214.0" y="533" type="curve"/>
+      <point x="53.0" y="533"/>
+      <point x="214.0" y="533"/>
+      <point x="53.0" y="533" type="curve"/>
+      <point x="53.0" y="355"/>
+      <point x="53.0" y="178"/>
+      <point x="53.0" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="391.0" y="610" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="375.0" y="44" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

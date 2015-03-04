@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="1">
+  <advance width="257"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="178" y="0" type="curve"/>
+      <point x="178" y="241"/>
+      <point x="178" y="481"/>
+      <point x="178" y="722" type="curve"/>
+      <point x="79" y="722"/>
+      <point x="178" y="722"/>
+      <point x="79" y="722" type="curve"/>
+      <point x="79" y="481"/>
+      <point x="79" y="241"/>
+      <point x="79" y="0" type="curve"/>
+      <point x="178" y="0"/>
+      <point x="79" y="0"/>
+    </contour>
+    <contour>
+      <point x="184" y="842" type="curve"/>
+      <point x="184" y="876"/>
+      <point x="162" y="894"/>
+      <point x="131" y="894" type="curve"/>
+      <point x="99" y="894"/>
+      <point x="80" y="875"/>
+      <point x="80" y="842" type="curve"/>
+      <point x="186" y="842"/>
+      <point x="78" y="842"/>
+      <point x="184" y="842" type="curve"/>
+      <point x="184" y="806"/>
+      <point x="162" y="790"/>
+      <point x="131" y="790" type="curve"/>
+      <point x="99" y="790"/>
+      <point x="80" y="807"/>
+      <point x="80" y="842" type="curve"/>
+      <point x="186" y="842"/>
+      <point x="78" y="842"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

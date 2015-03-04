@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="1">
+  <advance width="267"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="197" y="0" type="curve"/>
+      <point x="197" y="241"/>
+      <point x="197" y="481"/>
+      <point x="197" y="722" type="curve"/>
+      <point x="70" y="722"/>
+      <point x="197" y="722"/>
+      <point x="70" y="722" type="curve"/>
+      <point x="70" y="481"/>
+      <point x="70" y="241"/>
+      <point x="70" y="0" type="curve"/>
+      <point x="197" y="0"/>
+      <point x="70" y="0"/>
+    </contour>
+    <contour>
+      <point x="151" y="69" type="curve"/>
+      <point x="91" y="35"/>
+      <point x="39" y="7"/>
+      <point x="39" y="-61" type="curve"/>
+      <point x="39" y="-134"/>
+      <point x="80" y="-184"/>
+      <point x="152" y="-184" type="curve"/>
+      <point x="188" y="-184"/>
+      <point x="212" y="-173"/>
+      <point x="240" y="-152" type="curve"/>
+      <point x="183" y="-75"/>
+      <point x="239" y="-151"/>
+      <point x="182" y="-73" type="curve"/>
+      <point x="175" y="-79"/>
+      <point x="167" y="-86"/>
+      <point x="159" y="-86" type="curve"/>
+      <point x="146" y="-86"/>
+      <point x="139" y="-75"/>
+      <point x="139" y="-61" type="curve"/>
+      <point x="139" y="-31"/>
+      <point x="171" y="-17"/>
+      <point x="197" y="0" type="curve"/>
+      <point x="152" y="67"/>
+      <point x="196" y="1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

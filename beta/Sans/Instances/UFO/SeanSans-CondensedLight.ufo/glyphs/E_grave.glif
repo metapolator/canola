@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="1">
+  <advance width="475"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="147" y="350" type="curve"/>
+      <point x="225" y="350"/>
+      <point x="303" y="350"/>
+      <point x="381" y="350" type="curve"/>
+      <point x="381" y="397"/>
+      <point x="381" y="350"/>
+      <point x="381" y="397" type="curve"/>
+      <point x="303" y="397"/>
+      <point x="225" y="397"/>
+      <point x="147" y="397" type="curve"/>
+      <point x="147" y="350"/>
+      <point x="147" y="397"/>
+    </contour>
+    <contour>
+      <point x="136" y="675" type="curve"/>
+      <point x="233" y="675"/>
+      <point x="329" y="675"/>
+      <point x="426" y="675" type="curve"/>
+      <point x="426" y="722"/>
+      <point x="426" y="675"/>
+      <point x="426" y="722" type="curve"/>
+      <point x="329" y="722"/>
+      <point x="233" y="722"/>
+      <point x="136" y="722" type="curve"/>
+      <point x="136" y="675"/>
+      <point x="136" y="722"/>
+    </contour>
+    <contour>
+      <point x="172" y="0" type="curve"/>
+      <point x="172" y="722" type="line"/>
+      <point x="115" y="722"/>
+      <point x="172" y="722"/>
+      <point x="115" y="722" type="curve"/>
+      <point x="115" y="481"/>
+      <point x="115" y="241"/>
+      <point x="115" y="0" type="curve"/>
+      <point x="172" y="0"/>
+      <point x="115" y="0"/>
+    </contour>
+    <contour>
+      <point x="136" y="0" type="curve"/>
+      <point x="241" y="0"/>
+      <point x="345" y="0"/>
+      <point x="450" y="0" type="curve"/>
+      <point x="450" y="47"/>
+      <point x="450" y="0"/>
+      <point x="450" y="47" type="curve"/>
+      <point x="345" y="47"/>
+      <point x="241" y="47"/>
+      <point x="136" y="47" type="curve"/>
+      <point x="136" y="0"/>
+      <point x="136" y="47"/>
+    </contour>
+    <contour>
+      <point x="274" y="813" type="line"/>
+      <point x="203" y="979" type="line"/>
+      <point x="131" y="979" type="line"/>
+      <point x="219" y="813" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

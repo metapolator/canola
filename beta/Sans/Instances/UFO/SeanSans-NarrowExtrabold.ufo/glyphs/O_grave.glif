@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="1">
+  <advance width="724"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <contour>
+      <point x="172" y="360" type="curve" name="FullCurve"/>
+      <point x="172" y="508"/>
+      <point x="220" y="622"/>
+      <point x="358" y="622" type="curve" name="FullCurve"/>
+      <point x="494" y="622"/>
+      <point x="552" y="511"/>
+      <point x="552" y="363" type="curve" name="FullCurve"/>
+      <point x="552" y="215"/>
+      <point x="502" y="101"/>
+      <point x="364" y="101" type="curve" name="FullCurve"/>
+      <point x="226" y="101"/>
+      <point x="172" y="211"/>
+      <point x="172" y="360" type="curve" name="FullCurve"/>
+      <point x="41" y="360"/>
+      <point x="172" y="360"/>
+      <point x="41" y="360" type="curve" name="FullCurve"/>
+      <point x="41" y="143"/>
+      <point x="152" y="-5"/>
+      <point x="359" y="-5" type="curve" name="FullCurve"/>
+      <point x="569" y="-5"/>
+      <point x="683" y="145"/>
+      <point x="683" y="363" type="curve" name="FullCurve"/>
+      <point x="683" y="578"/>
+      <point x="573" y="727"/>
+      <point x="365" y="727" type="curve" name="FullCurve"/>
+      <point x="155" y="727"/>
+      <point x="41" y="578"/>
+      <point x="41" y="360" type="curve" name="FullCurve"/>
+      <point x="172" y="360"/>
+      <point x="41" y="360"/>
+    </contour>
+    <contour>
+      <point x="431" y="786" type="line"/>
+      <point x="330" y="952" type="line"/>
+      <point x="166" y="952" type="line"/>
+      <point x="304" y="786" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

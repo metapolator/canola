@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="587"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="54" y="416" type="curve"/>
+      <point x="532" y="416" type="line"/>
+      <point x="532" y="480"/>
+      <point x="532" y="416"/>
+      <point x="532" y="480" type="curve"/>
+      <point x="54" y="480" type="line"/>
+      <point x="54" y="416"/>
+      <point x="54" y="480"/>
+    </contour>
+    <contour>
+      <point x="328" y="-300" type="curve"/>
+      <point x="328" y="724" type="line"/>
+      <point x="255" y="724"/>
+      <point x="332" y="724"/>
+      <point x="259" y="724" type="curve"/>
+      <point x="259" y="-300" type="line"/>
+      <point x="332" y="-300"/>
+      <point x="255" y="-300"/>
+    </contour>
+    <contour>
+      <point x="54" y="-44" type="curve"/>
+      <point x="532" y="-44" type="line"/>
+      <point x="532" y="20"/>
+      <point x="532" y="-44"/>
+      <point x="532" y="20" type="curve"/>
+      <point x="54" y="20" type="line"/>
+      <point x="54" y="-44"/>
+      <point x="54" y="20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divisionslash" format="1">
+  <advance width="472.0"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="112.0" y="-35" type="line"/>
+      <point x="432.0" y="707" type="line"/>
+      <point x="302.0" y="707" type="line"/>
+      <point x="-18.0" y="-35" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="705" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="457.0" y="-32" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

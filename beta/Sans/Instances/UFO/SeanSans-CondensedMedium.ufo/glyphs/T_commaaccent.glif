@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="1">
+  <advance width="473"/>
+  <unicode hex="0162"/>
+  <outline>
+    <contour>
+      <point x="280" y="0" type="curve"/>
+      <point x="280" y="237"/>
+      <point x="280" y="473"/>
+      <point x="280" y="710" type="curve"/>
+      <point x="193" y="710"/>
+      <point x="280" y="710"/>
+      <point x="193" y="710" type="curve"/>
+      <point x="192" y="473"/>
+      <point x="193" y="237"/>
+      <point x="193" y="0" type="curve"/>
+      <point x="280" y="0"/>
+      <point x="193" y="0"/>
+    </contour>
+    <contour>
+      <point x="11" y="649" type="curve"/>
+      <point x="161" y="649"/>
+      <point x="312" y="649"/>
+      <point x="462" y="649" type="curve"/>
+      <point x="462" y="725"/>
+      <point x="462" y="646"/>
+      <point x="462" y="722" type="curve"/>
+      <point x="312" y="722"/>
+      <point x="161" y="722"/>
+      <point x="11" y="722" type="curve"/>
+      <point x="11" y="646"/>
+      <point x="11" y="725"/>
+    </contour>
+    <contour>
+      <point x="185" y="-307" type="line"/>
+      <point x="248" y="-296"/>
+      <point x="291" y="-246"/>
+      <point x="291" y="-167" type="curve"/>
+      <point x="291" y="-110"/>
+      <point x="272" y="-78"/>
+      <point x="238" y="-78" type="curve"/>
+      <point x="209" y="-78"/>
+      <point x="190" y="-94"/>
+      <point x="190" y="-124" type="curve"/>
+      <point x="190" y="-149"/>
+      <point x="203" y="-168"/>
+      <point x="229" y="-170" type="curve"/>
+      <point x="229" y="-195"/>
+      <point x="223" y="-240"/>
+      <point x="178" y="-257" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

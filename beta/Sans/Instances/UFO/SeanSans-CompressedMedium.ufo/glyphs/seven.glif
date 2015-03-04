@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="387"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="44" y="654" type="curve"/>
+      <point x="372" y="654" type="curve"/>
+      <point x="372" y="722" type="curve"/>
+      <point x="44" y="722" type="curve"/>
+    </contour>
+    <contour>
+      <point x="315" y="722" type="curve"/>
+      <point x="41" y="0" type="curve"/>
+      <point x="132" y="0" type="curve"/>
+      <point x="372" y="654" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

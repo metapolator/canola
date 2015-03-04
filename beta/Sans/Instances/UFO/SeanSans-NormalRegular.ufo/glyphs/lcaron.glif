@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="254"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="163" y="0" type="curve"/>
+      <point x="163" y="267"/>
+      <point x="163" y="533"/>
+      <point x="163" y="800" type="curve"/>
+      <point x="85" y="800"/>
+      <point x="163" y="800"/>
+      <point x="85" y="800" type="curve"/>
+      <point x="85" y="533"/>
+      <point x="85" y="267"/>
+      <point x="85" y="0" type="curve"/>
+      <point x="163" y="0"/>
+      <point x="85" y="0"/>
+    </contour>
+    <contour>
+      <point x="268" y="615" type="line"/>
+      <point x="331" y="630"/>
+      <point x="377" y="678"/>
+      <point x="377" y="754" type="curve"/>
+      <point x="377" y="801"/>
+      <point x="358" y="835"/>
+      <point x="323" y="835" type="curve"/>
+      <point x="295" y="835"/>
+      <point x="276" y="821"/>
+      <point x="276" y="793" type="curve"/>
+      <point x="276" y="769"/>
+      <point x="292" y="753"/>
+      <point x="319" y="750" type="curve"/>
+      <point x="319" y="721"/>
+      <point x="307" y="679"/>
+      <point x="259" y="659" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

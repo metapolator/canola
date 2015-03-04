@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="1">
+  <advance width="323"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="curve"/>
+      <point x="76" y="241"/>
+      <point x="76" y="481"/>
+      <point x="76" y="722" type="curve"/>
+      <point x="35" y="722"/>
+      <point x="76" y="722"/>
+      <point x="35" y="722" type="curve"/>
+      <point x="35" y="481"/>
+      <point x="35" y="241"/>
+      <point x="35" y="0" type="curve"/>
+      <point x="76" y="0"/>
+      <point x="35" y="0"/>
+    </contour>
+    <contour>
+      <point x="54" y="0" type="curve"/>
+      <point x="141" y="0"/>
+      <point x="227" y="0"/>
+      <point x="313" y="0" type="curve"/>
+      <point x="313" y="35"/>
+      <point x="313" y="0"/>
+      <point x="313" y="35" type="curve"/>
+      <point x="227" y="35"/>
+      <point x="141" y="35"/>
+      <point x="54" y="35" type="curve"/>
+      <point x="54" y="0"/>
+      <point x="54" y="35"/>
+    </contour>
+    <contour>
+      <point x="74" y="818" type="line"/>
+      <point x="137" y="984" type="line"/>
+      <point x="87" y="984" type="line"/>
+      <point x="35" y="818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

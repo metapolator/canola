@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="245"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="64" y="645" type="line"/>
+      <point x="175" y="781" type="line"/>
+      <point x="98" y="784" type="line"/>
+      <point x="16" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="371" type="curve"/>
+      <point x="176" y="784" type="line"/>
+      <point x="98" y="784" type="line"/>
+      <point x="98" y="371" type="line"/>
+      <point x="145" y="371"/>
+      <point x="115" y="371"/>
+    </contour>
+    <contour>
+      <point x="129" y="783" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="137" y="372" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="404"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="249" y="725" type="curve"/>
+      <point x="234" y="686"/>
+      <point x="223" y="669"/>
+      <point x="204" y="669" type="curve"/>
+      <point x="178" y="669"/>
+      <point x="165" y="678"/>
+      <point x="148" y="696" type="curve"/>
+      <point x="124" y="718"/>
+      <point x="110" y="730"/>
+      <point x="80" y="730" type="curve"/>
+      <point x="14" y="730"/>
+      <point x="-16" y="664"/>
+      <point x="-34" y="601" type="curve"/>
+      <point x="51" y="553"/>
+      <point x="-34" y="601"/>
+      <point x="51" y="553" type="curve"/>
+      <point x="68" y="596"/>
+      <point x="81" y="613"/>
+      <point x="105" y="613" type="curve"/>
+      <point x="127" y="613"/>
+      <point x="136" y="603"/>
+      <point x="150" y="588" type="curve"/>
+      <point x="178" y="562"/>
+      <point x="194" y="548"/>
+      <point x="230" y="548" type="curve"/>
+      <point x="296" y="548"/>
+      <point x="316" y="611"/>
+      <point x="339" y="679" type="curve"/>
+      <point x="249" y="725"/>
+      <point x="339" y="678"/>
+    </contour>
+    <contour>
+      <point x="148" y="549" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

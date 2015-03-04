@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="264"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="174" y="688" type="curve"/>
+      <point x="125" y="688"/>
+      <point x="75" y="688"/>
+      <point x="26" y="688" type="curve"/>
+      <point x="26" y="591"/>
+      <point x="26" y="688"/>
+      <point x="26" y="591" type="curve"/>
+      <point x="75" y="591"/>
+      <point x="125" y="591"/>
+      <point x="174" y="591" type="curve"/>
+      <point x="174" y="688"/>
+      <point x="174" y="591"/>
+    </contour>
+    <contour>
+      <point x="100" y="591" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

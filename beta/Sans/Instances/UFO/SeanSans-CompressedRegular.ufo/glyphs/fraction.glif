@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="403"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="72" y="-69" type="line"/>
+      <point x="341" y="736" type="line"/>
+      <point x="271" y="736" type="line"/>
+      <point x="2" y="-69" type="line"/>
+    </contour>
+    <contour>
+      <point x="-84" y="737" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="376" y="-66" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nullsuperior" format="1">
+  <advance width="432"/>
+  <outline>
+    <contour>
+      <point x="139" y="595" type="curve"/>
+      <point x="139" y="664"/>
+      <point x="153" y="721"/>
+      <point x="213" y="721" type="curve"/>
+      <point x="274" y="722"/>
+      <point x="289" y="664"/>
+      <point x="289" y="594" type="curve"/>
+      <point x="289" y="524"/>
+      <point x="279" y="464"/>
+      <point x="219" y="464" type="curve"/>
+      <point x="155" y="464"/>
+      <point x="139" y="523"/>
+      <point x="139" y="595" type="curve"/>
+      <point x="99" y="595"/>
+      <point x="72" y="595"/>
+      <point x="32" y="595" type="curve"/>
+      <point x="32" y="466"/>
+      <point x="93" y="375"/>
+      <point x="214" y="375" type="curve"/>
+      <point x="337" y="375"/>
+      <point x="400" y="467"/>
+      <point x="400" y="598" type="curve"/>
+      <point x="400" y="724"/>
+      <point x="338" y="811"/>
+      <point x="218" y="810" type="curve"/>
+      <point x="96" y="810"/>
+      <point x="32" y="722"/>
+      <point x="32" y="595" type="curve"/>
+      <point x="72" y="595"/>
+      <point x="99" y="595"/>
+    </contour>
+    <contour>
+      <point x="225" y="806" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="225" y="380" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

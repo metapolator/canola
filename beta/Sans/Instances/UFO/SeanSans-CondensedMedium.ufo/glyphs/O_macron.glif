@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="1">
+  <advance width="613"/>
+  <unicode hex="014C"/>
+  <outline>
+    <contour>
+      <point x="141" y="360" type="curve" name="FullCurve"/>
+      <point x="141" y="517"/>
+      <point x="166" y="655"/>
+      <point x="304" y="655" type="curve" name="FullCurve"/>
+      <point x="439" y="655"/>
+      <point x="473" y="520"/>
+      <point x="473" y="363" type="curve" name="FullCurve"/>
+      <point x="473" y="206"/>
+      <point x="445" y="67"/>
+      <point x="308" y="67" type="curve" name="FullCurve"/>
+      <point x="171" y="67"/>
+      <point x="141" y="202"/>
+      <point x="141" y="360" type="curve" name="FullCurve"/>
+      <point x="53" y="360"/>
+      <point x="141" y="360"/>
+      <point x="53" y="360" type="curve" name="FullCurve"/>
+      <point x="53" y="156"/>
+      <point x="122" y="-5"/>
+      <point x="305" y="-5" type="curve" name="FullCurve"/>
+      <point x="489" y="-5"/>
+      <point x="560" y="158"/>
+      <point x="560" y="363" type="curve" name="FullCurve"/>
+      <point x="560" y="565"/>
+      <point x="491" y="727"/>
+      <point x="308" y="727" type="curve" name="FullCurve"/>
+      <point x="124" y="727"/>
+      <point x="53" y="564"/>
+      <point x="53" y="360" type="curve" name="FullCurve"/>
+      <point x="141" y="360"/>
+      <point x="53" y="360"/>
+    </contour>
+    <contour>
+      <point x="387" y="869" type="curve"/>
+      <point x="333" y="869"/>
+      <point x="278" y="869"/>
+      <point x="224" y="869" type="curve"/>
+      <point x="224" y="801"/>
+      <point x="224" y="869"/>
+      <point x="224" y="801" type="curve"/>
+      <point x="278" y="801"/>
+      <point x="333" y="801"/>
+      <point x="387" y="801" type="curve"/>
+      <point x="387" y="869"/>
+      <point x="387" y="801"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

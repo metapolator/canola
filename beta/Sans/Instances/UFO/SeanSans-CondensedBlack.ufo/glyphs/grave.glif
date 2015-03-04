@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="377"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="264" y="591" type="line"/>
+      <point x="181" y="757" type="line"/>
+      <point x="9" y="757" type="line"/>
+      <point x="132" y="591" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="590" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

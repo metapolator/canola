@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="1">
+  <advance width="244"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="curve"/>
+      <point x="155" y="178"/>
+      <point x="155" y="355"/>
+      <point x="155" y="533" type="curve"/>
+      <point x="94" y="533"/>
+      <point x="155" y="533"/>
+      <point x="94" y="533" type="curve"/>
+      <point x="94" y="355"/>
+      <point x="94" y="178"/>
+      <point x="94" y="0" type="curve"/>
+      <point x="155" y="0"/>
+      <point x="94" y="0"/>
+    </contour>
+    <contour>
+      <point x="152" y="654" type="line"/>
+      <point x="97" y="820" type="line"/>
+      <point x="27" y="820" type="line"/>
+      <point x="98" y="654" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacron" format="1">
+  <advance width="618"/>
+  <unicode hex="016B"/>
+  <outline>
+    <contour>
+      <point x="517" y="0" type="curve"/>
+      <point x="517" y="179"/>
+      <point x="517" y="354"/>
+      <point x="517" y="533" type="curve"/>
+      <point x="483" y="533"/>
+      <point x="510" y="533"/>
+      <point x="475" y="533" type="curve"/>
+      <point x="475" y="354"/>
+      <point x="475" y="179"/>
+      <point x="475" y="0" type="curve"/>
+      <point x="510" y="0"/>
+      <point x="483" y="0"/>
+    </contour>
+    <contour>
+      <point x="484" y="180" type="curve"/>
+      <point x="446" y="100"/>
+      <point x="376" y="31"/>
+      <point x="294" y="31" type="curve"/>
+      <point x="191" y="31"/>
+      <point x="136" y="88"/>
+      <point x="136" y="192" type="curve"/>
+      <point x="136" y="306"/>
+      <point x="136" y="419"/>
+      <point x="136" y="533" type="curve"/>
+      <point x="101" y="533"/>
+      <point x="128" y="533"/>
+      <point x="93" y="533" type="curve"/>
+      <point x="93" y="418"/>
+      <point x="93" y="305"/>
+      <point x="93" y="189" type="curve"/>
+      <point x="93" y="63"/>
+      <point x="162" y="-5"/>
+      <point x="289" y="-5" type="curve"/>
+      <point x="388" y="-5"/>
+      <point x="465" y="70"/>
+      <point x="506" y="162" type="curve"/>
+      <point x="486" y="176"/>
+      <point x="504" y="166"/>
+    </contour>
+    <contour>
+      <point x="420" y="697" type="curve"/>
+      <point x="342" y="697"/>
+      <point x="264" y="697"/>
+      <point x="186" y="697" type="curve"/>
+      <point x="186" y="662"/>
+      <point x="186" y="697"/>
+      <point x="186" y="662" type="curve"/>
+      <point x="264" y="662"/>
+      <point x="342" y="662"/>
+      <point x="420" y="662" type="curve"/>
+      <point x="420" y="697"/>
+      <point x="420" y="662"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
