@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="465"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="300" y="97" type="line"/>
+      <point x="182" y="97" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="421" y="97" type="line"/>
+      <point x="300" y="97" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="254" type="line"/>
+      <point x="344" y="704" type="line"/>
+      <point x="239" y="700" type="line"/>
+      <point x="30" y="339" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="339" type="line"/>
+      <point x="30" y="339" type="line"/>
+      <point x="31" y="232" type="line"/>
+      <point x="431" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="40" type="line"/>
+      <point x="364" y="700" type="line"/>
+      <point x="242" y="700" type="line"/>
+      <point x="242" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

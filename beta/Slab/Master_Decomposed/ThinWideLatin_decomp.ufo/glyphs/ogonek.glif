@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="343.0"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="166.15" y="16"/>
+      <point x="175.15" y="2"/>
+      <point x="166.15" y="16" type="curve"/>
+      <point x="93.15" y="-10"/>
+      <point x="24.15" y="-24"/>
+      <point x="24.15" y="-98" type="curve"/>
+      <point x="24.15" y="-160"/>
+      <point x="72.15" y="-193"/>
+      <point x="139.15" y="-193" type="curve"/>
+      <point x="179.15" y="-193"/>
+      <point x="205.15" y="-182"/>
+      <point x="241.15" y="-165" type="curve"/>
+      <point x="231.15" y="-149"/>
+      <point x="241.15" y="-165"/>
+      <point x="231.15" y="-149" type="curve"/>
+      <point x="199.15" y="-164"/>
+      <point x="175.15" y="-172"/>
+      <point x="141.15" y="-172" type="curve"/>
+      <point x="86.15" y="-172"/>
+      <point x="46.15" y="-148"/>
+      <point x="46.15" y="-98" type="curve"/>
+      <point x="46.15" y="-32"/>
+      <point x="111.15" y="-24"/>
+      <point x="175.15" y="2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="175.15" y="2" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

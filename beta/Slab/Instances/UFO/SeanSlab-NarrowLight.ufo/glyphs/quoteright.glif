@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="1">
+  <advance width="226"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="78" y="550" type="line"/>
+      <point x="143" y="550"/>
+      <point x="174" y="605"/>
+      <point x="174" y="667" type="curve"/>
+      <point x="174" y="712"/>
+      <point x="161" y="745"/>
+      <point x="132" y="745" type="curve"/>
+      <point x="109" y="745"/>
+      <point x="95" y="734"/>
+      <point x="95" y="711" type="curve"/>
+      <point x="95" y="692"/>
+      <point x="106" y="680"/>
+      <point x="126" y="676" type="curve"/>
+      <point x="126" y="651"/>
+      <point x="125" y="593"/>
+      <point x="78" y="590" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

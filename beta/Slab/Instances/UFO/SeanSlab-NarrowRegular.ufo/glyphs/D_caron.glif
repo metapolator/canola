@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="1">
+  <advance width="727"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="187" y="60" type="curve"/>
+      <point x="44" y="60"/>
+      <point x="195" y="60"/>
+      <point x="52" y="60" type="curve"/>
+      <point x="52" y="0"/>
+      <point x="52" y="60"/>
+      <point x="52" y="0" type="curve"/>
+      <point x="100" y="0"/>
+      <point x="139" y="0"/>
+      <point x="187" y="0" type="curve"/>
+      <point x="187" y="60"/>
+      <point x="187" y="0"/>
+    </contour>
+    <contour>
+      <point x="187" y="722" type="curve"/>
+      <point x="139" y="722"/>
+      <point x="100" y="722"/>
+      <point x="52" y="722" type="curve"/>
+      <point x="52" y="662"/>
+      <point x="52" y="722"/>
+      <point x="52" y="662" type="curve"/>
+      <point x="195" y="662"/>
+      <point x="44" y="662"/>
+      <point x="187" y="662" type="curve"/>
+      <point x="187" y="722"/>
+      <point x="187" y="662"/>
+    </contour>
+    <contour>
+      <point x="147" y="722" type="curve"/>
+      <point x="147" y="481"/>
+      <point x="147" y="241"/>
+      <point x="147" y="0" type="curve"/>
+      <point x="223" y="0"/>
+      <point x="147" y="0"/>
+      <point x="223" y="0" type="curve"/>
+      <point x="223" y="241"/>
+      <point x="223" y="481"/>
+      <point x="223" y="722" type="curve"/>
+      <point x="147" y="722"/>
+      <point x="223" y="722"/>
+    </contour>
+    <contour>
+      <point x="187" y="0" type="curve"/>
+      <point x="244" y="0"/>
+      <point x="294" y="0"/>
+      <point x="351" y="0" type="curve"/>
+      <point x="566" y="0"/>
+      <point x="668" y="133"/>
+      <point x="668" y="354" type="curve"/>
+      <point x="668" y="583"/>
+      <point x="564" y="722"/>
+      <point x="344" y="722" type="curve"/>
+      <point x="289" y="722"/>
+      <point x="241" y="722"/>
+      <point x="187" y="722" type="curve"/>
+      <point x="187" y="668"/>
+      <point x="187" y="716"/>
+      <point x="187" y="662" type="curve"/>
+      <point x="240" y="662"/>
+      <point x="287" y="662"/>
+      <point x="340" y="662" type="curve"/>
+      <point x="518" y="662"/>
+      <point x="593" y="541"/>
+      <point x="593" y="353" type="curve"/>
+      <point x="593" y="175"/>
+      <point x="525" y="60"/>
+      <point x="358" y="60" type="curve"/>
+      <point x="299" y="60"/>
+      <point x="246" y="60"/>
+      <point x="187" y="60" type="curve"/>
+      <point x="187" y="6"/>
+      <point x="187" y="54"/>
+    </contour>
+    <contour>
+      <point x="415" y="972" type="line"/>
+      <point x="293" y="806" type="line"/>
+      <point x="390" y="806" type="line"/>
+      <point x="489" y="972" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="972" type="line"/>
+      <point x="262" y="806" type="line"/>
+      <point x="359" y="806" type="line"/>
+      <point x="238" y="972" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

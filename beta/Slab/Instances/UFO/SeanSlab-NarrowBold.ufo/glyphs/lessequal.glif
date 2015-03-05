@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="687"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="614" y="717" type="curve"/>
+      <point x="431" y="638"/>
+      <point x="247" y="559"/>
+      <point x="64" y="480" type="curve"/>
+      <point x="64" y="380"/>
+      <point x="64" y="479"/>
+      <point x="64" y="380" type="curve"/>
+      <point x="247" y="459"/>
+      <point x="431" y="538"/>
+      <point x="614" y="617" type="curve"/>
+      <point x="614" y="717"/>
+      <point x="614" y="618"/>
+    </contour>
+    <contour>
+      <point x="614" y="241" type="curve"/>
+      <point x="431" y="320"/>
+      <point x="247" y="400"/>
+      <point x="64" y="479" type="curve"/>
+      <point x="64" y="380"/>
+      <point x="64" y="479"/>
+      <point x="64" y="379" type="curve"/>
+      <point x="247" y="300"/>
+      <point x="431" y="221"/>
+      <point x="614" y="142" type="curve"/>
+      <point x="614" y="241"/>
+      <point x="614" y="142"/>
+    </contour>
+    <contour>
+      <point x="64" y="-2" type="curve"/>
+      <point x="247" y="-2"/>
+      <point x="431" y="-2"/>
+      <point x="614" y="-2" type="curve"/>
+      <point x="614" y="93"/>
+      <point x="614" y="-2"/>
+      <point x="614" y="93" type="curve"/>
+      <point x="431" y="93"/>
+      <point x="247" y="93"/>
+      <point x="64" y="93" type="curve"/>
+      <point x="64" y="-2"/>
+      <point x="64" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>656</integer>
+          <key>y</key>
+          <integer>654</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>37</integer>
+          <key>y</key>
+          <integer>390</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

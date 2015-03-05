@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="513"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="298" y="631" type="curve"/>
+      <point x="298" y="659"/>
+      <point x="276" y="673"/>
+      <point x="247" y="673" type="curve"/>
+      <point x="218" y="673"/>
+      <point x="198" y="658"/>
+      <point x="198" y="631" type="curve"/>
+      <point x="285" y="631"/>
+      <point x="211" y="631"/>
+      <point x="298" y="631" type="curve"/>
+      <point x="298" y="602"/>
+      <point x="277" y="589"/>
+      <point x="247" y="589" type="curve"/>
+      <point x="218" y="589"/>
+      <point x="198" y="604"/>
+      <point x="198" y="631" type="curve"/>
+      <point x="285" y="631"/>
+      <point x="211" y="631"/>
+    </contour>
+    <contour>
+      <point x="248" y="590" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

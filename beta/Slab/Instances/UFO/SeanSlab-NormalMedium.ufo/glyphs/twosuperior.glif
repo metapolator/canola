@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="512"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="443" y="305" type="curve"/>
+      <point x="443" y="347"/>
+      <point x="443" y="383"/>
+      <point x="443" y="426" type="curve"/>
+      <point x="375" y="426"/>
+      <point x="448" y="426"/>
+      <point x="380" y="426" type="curve"/>
+      <point x="380" y="405"/>
+      <point x="380" y="391"/>
+      <point x="380" y="370" type="curve"/>
+      <point x="452" y="309"/>
+      <point x="371" y="366"/>
+    </contour>
+    <contour>
+      <point x="73" y="305" type="curve"/>
+      <point x="211" y="305"/>
+      <point x="331" y="305"/>
+      <point x="443" y="305" type="curve"/>
+      <point x="371" y="366"/>
+      <point x="452" y="309"/>
+      <point x="380" y="370" type="curve"/>
+      <point x="279" y="370"/>
+      <point x="173" y="370"/>
+      <point x="73" y="370" type="curve"/>
+      <point x="73" y="305"/>
+      <point x="73" y="370"/>
+    </contour>
+    <contour>
+      <point x="152" y="609" type="curve"/>
+      <point x="178" y="647"/>
+      <point x="207" y="670"/>
+      <point x="253" y="670" type="curve"/>
+      <point x="303" y="670"/>
+      <point x="337" y="646"/>
+      <point x="337" y="601" type="curve"/>
+      <point x="337" y="557"/>
+      <point x="305" y="536"/>
+      <point x="271" y="508" type="curve"/>
+      <point x="205" y="462"/>
+      <point x="139" y="416"/>
+      <point x="73" y="370" type="curve"/>
+      <point x="78" y="306"/>
+      <point x="74" y="370"/>
+      <point x="79" y="306" type="curve"/>
+      <point x="166" y="361"/>
+      <point x="249" y="408"/>
+      <point x="319" y="457" type="curve"/>
+      <point x="374" y="502"/>
+      <point x="421" y="535"/>
+      <point x="421" y="604" type="curve"/>
+      <point x="421" y="692"/>
+      <point x="353" y="735"/>
+      <point x="261" y="735" type="curve"/>
+      <point x="184" y="735"/>
+      <point x="128" y="708"/>
+      <point x="92" y="642" type="curve"/>
+      <point x="152" y="609"/>
+      <point x="92" y="642"/>
+    </contour>
+    <contour>
+      <point x="263" y="735" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="255" y="305" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

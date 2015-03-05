@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="513"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="291" y="525" type="line"/>
+      <point x="297" y="734" type="line"/>
+      <point x="217" y="734" type="line"/>
+      <point x="223" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="264" y="496" type="line"/>
+      <point x="462" y="560" type="line"/>
+      <point x="435" y="635" type="line"/>
+      <point x="241" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="512" type="line"/>
+      <point x="355" y="345" type="line"/>
+      <point x="416" y="397" type="line"/>
+      <point x="280" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="556" type="line"/>
+      <point x="96" y="397" type="line"/>
+      <point x="158" y="347" type="line"/>
+      <point x="285" y="513" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="560" type="line"/>
+      <point x="78" y="636" type="line"/>
+      <point x="51" y="561" type="line"/>
+      <point x="250" y="497" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

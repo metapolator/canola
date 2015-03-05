@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="1">
+  <advance width="579"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="510" y="445" type="line"/>
+      <point x="55" y="445" type="line"/>
+      <point x="55" y="412" type="line"/>
+      <point x="510" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="416" type="line"/>
+      <point x="382" y="719" type="line"/>
+      <point x="345" y="729" type="line"/>
+      <point x="55" y="445" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="291" type="line"/>
+      <point x="387" y="729" type="line"/>
+      <point x="345" y="729" type="line"/>
+      <point x="345" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="324" type="line"/>
+      <point x="248" y="324" type="line"/>
+      <point x="248" y="291" type="line"/>
+      <point x="366" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="291" type="line"/>
+      <point x="476" y="291" type="line"/>
+      <point x="476" y="324" type="line"/>
+      <point x="366" y="324" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="713" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="349" y="297" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

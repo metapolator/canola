@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="273"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="85" y="303" type="line"/>
+      <point x="71" y="-190" type="line"/>
+      <point x="202" y="-190" type="line"/>
+      <point x="190" y="303" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="481" type="curve"/>
+      <point x="69" y="441"/>
+      <point x="98" y="421"/>
+      <point x="138" y="421" type="curve"/>
+      <point x="178" y="421"/>
+      <point x="206" y="442"/>
+      <point x="206" y="481" type="curve"/>
+      <point x="72" y="481"/>
+      <point x="203" y="481"/>
+      <point x="69" y="481" type="curve"/>
+      <point x="69" y="523"/>
+      <point x="98" y="541"/>
+      <point x="139" y="541" type="curve"/>
+      <point x="180" y="541"/>
+      <point x="206" y="520"/>
+      <point x="206" y="481" type="curve"/>
+      <point x="72" y="481"/>
+      <point x="203" y="481"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

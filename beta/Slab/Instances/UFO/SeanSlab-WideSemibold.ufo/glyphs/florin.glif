@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="568"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="510" y="561" type="curve"/>
+      <point x="401" y="561"/>
+      <point x="289" y="561"/>
+      <point x="181" y="561" type="curve"/>
+      <point x="181" y="479"/>
+      <point x="181" y="561"/>
+      <point x="181" y="479" type="curve"/>
+      <point x="289" y="479"/>
+      <point x="401" y="479"/>
+      <point x="510" y="479" type="curve"/>
+      <point x="510" y="561"/>
+      <point x="510" y="479"/>
+    </contour>
+    <contour>
+      <point x="565" y="818" type="curve"/>
+      <point x="445" y="836"/>
+      <point x="354" y="793"/>
+      <point x="323" y="680" type="curve"/>
+      <point x="270" y="484"/>
+      <point x="219" y="288"/>
+      <point x="167" y="92" type="curve"/>
+      <point x="153" y="38"/>
+      <point x="111" y="14"/>
+      <point x="53" y="23" type="curve"/>
+      <point x="33" y="-60"/>
+      <point x="53" y="23"/>
+      <point x="33" y="-60" type="curve"/>
+      <point x="153" y="-76"/>
+      <point x="246" y="-35"/>
+      <point x="278" y="79" type="curve"/>
+      <point x="331" y="279"/>
+      <point x="385" y="477"/>
+      <point x="438" y="677" type="curve"/>
+      <point x="451" y="727"/>
+      <point x="492" y="744"/>
+      <point x="545" y="737" type="curve"/>
+      <point x="565" y="818"/>
+      <point x="545" y="737"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

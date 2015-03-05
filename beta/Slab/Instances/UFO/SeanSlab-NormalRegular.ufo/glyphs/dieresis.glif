@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="395"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="135" y="647" type="curve"/>
+      <point x="135" y="674"/>
+      <point x="115" y="688"/>
+      <point x="87" y="688" type="curve"/>
+      <point x="60" y="688"/>
+      <point x="42" y="673"/>
+      <point x="42" y="647" type="curve"/>
+      <point x="127" y="647"/>
+      <point x="50" y="647"/>
+      <point x="135" y="647" type="curve"/>
+      <point x="135" y="619"/>
+      <point x="115" y="606"/>
+      <point x="87" y="606" type="curve"/>
+      <point x="60" y="606"/>
+      <point x="42" y="620"/>
+      <point x="42" y="647" type="curve"/>
+      <point x="127" y="647"/>
+      <point x="50" y="647"/>
+    </contour>
+    <contour>
+      <point x="301" y="647" type="curve"/>
+      <point x="301" y="674"/>
+      <point x="281" y="688"/>
+      <point x="253" y="688" type="curve"/>
+      <point x="226" y="688"/>
+      <point x="208" y="673"/>
+      <point x="208" y="647" type="curve"/>
+      <point x="293" y="647"/>
+      <point x="215" y="647"/>
+      <point x="301" y="647" type="curve"/>
+      <point x="301" y="619"/>
+      <point x="281" y="606"/>
+      <point x="253" y="606" type="curve"/>
+      <point x="226" y="606"/>
+      <point x="208" y="620"/>
+      <point x="208" y="647" type="curve"/>
+      <point x="293" y="647"/>
+      <point x="215" y="647"/>
+    </contour>
+    <contour>
+      <point x="172" y="609" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

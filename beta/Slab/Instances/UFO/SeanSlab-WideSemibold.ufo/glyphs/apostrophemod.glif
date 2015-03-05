@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="318"/>
+  <outline>
+    <contour>
+      <point x="115" y="504" type="line"/>
+      <point x="213" y="504"/>
+      <point x="274" y="571"/>
+      <point x="274" y="658" type="curve"/>
+      <point x="274" y="722"/>
+      <point x="244" y="772"/>
+      <point x="195" y="772" type="curve"/>
+      <point x="156" y="772"/>
+      <point x="129" y="753"/>
+      <point x="129" y="717" type="curve"/>
+      <point x="129" y="680"/>
+      <point x="156" y="661"/>
+      <point x="196" y="660" type="curve"/>
+      <point x="195" y="621"/>
+      <point x="184" y="571"/>
+      <point x="115" y="565" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

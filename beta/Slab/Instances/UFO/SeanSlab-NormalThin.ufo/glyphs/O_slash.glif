@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="767"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="175" y="-74" type="line"/>
+      <point x="617" y="768" type="line"/>
+      <point x="595" y="778" type="line"/>
+      <point x="154" y="-62" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="360" type="curve"/>
+      <point x="94" y="560"/>
+      <point x="190" y="704"/>
+      <point x="382" y="704" type="curve"/>
+      <point x="574" y="704"/>
+      <point x="672" y="562"/>
+      <point x="672" y="363" type="curve"/>
+      <point x="672" y="164"/>
+      <point x="577" y="19"/>
+      <point x="385" y="19" type="curve"/>
+      <point x="191" y="19"/>
+      <point x="94" y="160"/>
+      <point x="94" y="360" type="curve"/>
+      <point x="69" y="360"/>
+      <point x="94" y="360"/>
+      <point x="69" y="360" type="curve"/>
+      <point x="69" y="144"/>
+      <point x="177" y="-5"/>
+      <point x="384" y="-5" type="curve"/>
+      <point x="591" y="-5"/>
+      <point x="698" y="146"/>
+      <point x="698" y="363" type="curve"/>
+      <point x="698" y="578"/>
+      <point x="591" y="727"/>
+      <point x="383" y="727" type="curve"/>
+      <point x="175" y="727"/>
+      <point x="69" y="576"/>
+      <point x="69" y="360" type="curve"/>
+      <point x="94" y="360"/>
+      <point x="69" y="360"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

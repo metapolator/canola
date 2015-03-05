@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="1">
+  <advance width="714"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="181" y="310" type="curve"/>
+      <point x="181" y="407"/>
+      <point x="256" y="457"/>
+      <point x="359" y="457" type="curve"/>
+      <point x="462" y="457"/>
+      <point x="533" y="406"/>
+      <point x="533" y="310" type="curve"/>
+      <point x="533" y="213"/>
+      <point x="463" y="157"/>
+      <point x="363" y="157" type="curve"/>
+      <point x="255" y="157"/>
+      <point x="181" y="209"/>
+      <point x="181" y="310" type="curve"/>
+      <point x="156" y="310"/>
+      <point x="181" y="310"/>
+      <point x="156" y="310" type="curve"/>
+      <point x="156" y="196"/>
+      <point x="241" y="135"/>
+      <point x="362" y="135" type="curve"/>
+      <point x="478" y="135"/>
+      <point x="557" y="200"/>
+      <point x="557" y="311" type="curve"/>
+      <point x="557" y="421"/>
+      <point x="476" y="479"/>
+      <point x="361" y="479" type="curve"/>
+      <point x="242" y="479"/>
+      <point x="156" y="422"/>
+      <point x="156" y="310" type="curve"/>
+      <point x="181" y="310"/>
+      <point x="156" y="310"/>
+    </contour>
+    <contour>
+      <point x="509" y="407" type="line"/>
+      <point x="645" y="538" type="line"/>
+      <point x="623" y="561" type="line"/>
+      <point x="491" y="425" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="193" type="line"/>
+      <point x="621" y="58" type="line"/>
+      <point x="643" y="81" type="line"/>
+      <point x="508" y="211" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="211" type="line"/>
+      <point x="68" y="81" type="line"/>
+      <point x="90" y="58" type="line"/>
+      <point x="221" y="193" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="425" type="line"/>
+      <point x="90" y="561" type="line"/>
+      <point x="68" y="538" type="line"/>
+      <point x="204" y="407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

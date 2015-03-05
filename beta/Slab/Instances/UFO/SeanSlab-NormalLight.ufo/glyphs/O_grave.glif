@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="1">
+  <advance width="790"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <contour>
+      <point x="125" y="360" type="curve"/>
+      <point x="125" y="545"/>
+      <point x="213" y="677"/>
+      <point x="392" y="677" type="curve"/>
+      <point x="572" y="677"/>
+      <point x="665" y="548"/>
+      <point x="665" y="363" type="curve"/>
+      <point x="665" y="178"/>
+      <point x="576" y="46"/>
+      <point x="397" y="46" type="curve"/>
+      <point x="216" y="46"/>
+      <point x="125" y="174"/>
+      <point x="125" y="360" type="curve"/>
+      <point x="64" y="360"/>
+      <point x="125" y="360"/>
+      <point x="64" y="360" type="curve"/>
+      <point x="64" y="141"/>
+      <point x="181" y="-5"/>
+      <point x="394" y="-5" type="curve"/>
+      <point x="608" y="-5"/>
+      <point x="725" y="143"/>
+      <point x="725" y="363" type="curve"/>
+      <point x="725" y="580"/>
+      <point x="609" y="727"/>
+      <point x="396" y="727" type="curve"/>
+      <point x="181" y="727"/>
+      <point x="64" y="579"/>
+      <point x="64" y="360" type="curve"/>
+      <point x="125" y="360"/>
+      <point x="64" y="360"/>
+    </contour>
+    <contour>
+      <point x="430" y="812" type="line"/>
+      <point x="303" y="978" type="line"/>
+      <point x="223" y="978" type="line"/>
+      <point x="368" y="812" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

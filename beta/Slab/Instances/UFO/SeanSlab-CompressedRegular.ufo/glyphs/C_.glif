@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="504"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="388" y="655" type="curve"/>
+      <point x="388" y="535"/>
+      <point x="388" y="658"/>
+      <point x="388" y="538" type="curve"/>
+      <point x="447" y="538"/>
+      <point x="388" y="538"/>
+      <point x="447" y="538" type="curve"/>
+      <point x="447" y="658"/>
+      <point x="447" y="535"/>
+      <point x="447" y="655" type="curve"/>
+      <point x="388" y="655"/>
+      <point x="447" y="655"/>
+    </contour>
+    <contour>
+      <point x="447" y="655" type="curve"/>
+      <point x="404" y="695"/>
+      <point x="351" y="727"/>
+      <point x="287" y="727" type="curve"/>
+      <point x="106" y="727"/>
+      <point x="58" y="558"/>
+      <point x="58" y="344" type="curve"/>
+      <point x="58" y="150"/>
+      <point x="106" y="-5"/>
+      <point x="274" y="-5" type="curve"/>
+      <point x="359" y="-5"/>
+      <point x="412" y="33"/>
+      <point x="460" y="98" type="curve"/>
+      <point x="414" y="141"/>
+      <point x="459" y="98"/>
+      <point x="414" y="141" type="curve"/>
+      <point x="377" y="92"/>
+      <point x="341" y="58"/>
+      <point x="278" y="58" type="curve"/>
+      <point x="149" y="58"/>
+      <point x="130" y="191"/>
+      <point x="130" y="347" type="curve"/>
+      <point x="130" y="518"/>
+      <point x="148" y="665"/>
+      <point x="284" y="665" type="curve"/>
+      <point x="334" y="665"/>
+      <point x="375" y="640"/>
+      <point x="407" y="608" type="curve"/>
+      <point x="447" y="655"/>
+      <point x="407" y="608"/>
+    </contour>
+    <contour>
+      <point x="283" y="806" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="293" y="-2" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
