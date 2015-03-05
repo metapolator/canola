@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
-  <advance width="256"/>
+  <advance width="255"/>
   <unicode hex="00EE"/>
   <outline>
     <contour>
@@ -11,7 +11,7 @@
       <point x="33" y="0"/>
       <point x="33" y="23"/>
       <point x="33" y="0" type="curve"/>
-      <point x="73" y="0"/>
+      <point x="74" y="0"/>
       <point x="105" y="0"/>
       <point x="145" y="0" type="curve"/>
       <point x="145" y="23"/>
@@ -19,14 +19,14 @@
     </contour>
     <contour>
       <point x="145" y="0" type="curve"/>
-      <point x="182" y="0"/>
-      <point x="213" y="0"/>
+      <point x="183" y="0"/>
+      <point x="212" y="0"/>
       <point x="251" y="0" type="curve"/>
       <point x="251" y="23"/>
       <point x="251" y="0"/>
       <point x="251" y="23" type="curve"/>
       <point x="136" y="23"/>
-      <point x="260" y="23"/>
+      <point x="259" y="23"/>
       <point x="145" y="23" type="curve"/>
       <point x="145" y="0"/>
       <point x="145" y="23"/>
@@ -34,7 +34,7 @@
     <contour>
       <point x="145" y="533" type="curve"/>
       <point x="105" y="533"/>
-      <point x="73" y="533"/>
+      <point x="74" y="533"/>
       <point x="33" y="533" type="curve"/>
       <point x="33" y="510"/>
       <point x="33" y="533"/>
@@ -66,7 +66,7 @@
       <point x="55" y="670" type="line"/>
     </contour>
     <contour>
-      <point x="231" y="670" type="line"/>
+      <point x="230" y="670" type="line"/>
       <point x="164" y="836" type="line"/>
       <point x="132" y="836" type="line"/>
       <point x="205" y="670" type="line"/>
@@ -79,9 +79,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

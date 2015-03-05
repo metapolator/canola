@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="684"/>
+  <advance width="404"/>
   <unicode hex="013E"/>
   <outline>
     <contour>
@@ -50,32 +50,32 @@
       <point x="264" y="267"/>
       <point x="264" y="533"/>
       <point x="264" y="800" type="curve"/>
-      <point x="139" y="800"/>
+      <point x="138" y="800"/>
       <point x="264" y="800"/>
-      <point x="139" y="800" type="curve"/>
-      <point x="139" y="533"/>
-      <point x="139" y="267"/>
-      <point x="139" y="0" type="curve"/>
+      <point x="138" y="800" type="curve"/>
+      <point x="138" y="533"/>
+      <point x="138" y="267"/>
+      <point x="138" y="0" type="curve"/>
       <point x="264" y="0"/>
-      <point x="139" y="0"/>
+      <point x="138" y="0"/>
     </contour>
     <contour>
-      <point x="386" y="572" type="line"/>
-      <point x="491" y="572"/>
-      <point x="559" y="641"/>
-      <point x="559" y="735" type="curve"/>
-      <point x="559" y="805"/>
-      <point x="526" y="859"/>
-      <point x="470" y="859" type="curve"/>
-      <point x="428" y="859"/>
-      <point x="397" y="837"/>
-      <point x="397" y="797" type="curve"/>
-      <point x="397" y="756"/>
-      <point x="428" y="735"/>
-      <point x="473" y="734" type="curve"/>
-      <point x="472" y="693"/>
-      <point x="459" y="646"/>
-      <point x="386" y="639" type="curve"/>
+      <point x="382" y="572" type="line"/>
+      <point x="481" y="579"/>
+      <point x="552" y="643"/>
+      <point x="552" y="740" type="curve"/>
+      <point x="552" y="806"/>
+      <point x="518" y="859"/>
+      <point x="463" y="859" type="curve"/>
+      <point x="421" y="859"/>
+      <point x="389" y="837"/>
+      <point x="389" y="797" type="curve"/>
+      <point x="389" y="756"/>
+      <point x="421" y="735"/>
+      <point x="466" y="734" type="curve"/>
+      <point x="464" y="693"/>
+      <point x="447" y="652"/>
+      <point x="378" y="639" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -85,9 +85,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -22,14 +22,14 @@
       <point x="456" y="154"/>
       <point x="456" y="29"/>
       <point x="456" y="149" type="curve"/>
-      <point x="388" y="149"/>
+      <point x="387" y="149"/>
       <point x="456" y="149"/>
-      <point x="388" y="149" type="curve"/>
-      <point x="388" y="29"/>
-      <point x="388" y="154"/>
-      <point x="388" y="34" type="curve"/>
+      <point x="387" y="149" type="curve"/>
+      <point x="387" y="29"/>
+      <point x="387" y="154"/>
+      <point x="387" y="34" type="curve"/>
       <point x="456" y="34"/>
-      <point x="388" y="34"/>
+      <point x="387" y="34"/>
     </contour>
     <contour>
       <point x="60" y="654" type="curve"/>
@@ -40,7 +40,7 @@
       <point x="380" y="660"/>
       <point x="373" y="667" type="curve"/>
       <point x="366" y="672"/>
-      <point x="369" y="683"/>
+      <point x="368" y="683"/>
       <point x="362" y="689" type="curve"/>
       <point x="357" y="682"/>
       <point x="348" y="686"/>
@@ -90,7 +90,7 @@
       <point x="60" y="722"/>
     </contour>
     <contour>
-      <point x="251" y="801" type="move" name="top"/>
+      <point x="250" y="801" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -100,9 +100,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

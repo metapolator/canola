@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="1">
-  <advance width="445"/>
+  <advance width="444"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
       <point x="0" y="-190" type="curve"/>
-      <point x="149" y="-190"/>
-      <point x="297" y="-190"/>
-      <point x="445" y="-190" type="curve"/>
-      <point x="445" y="-101"/>
-      <point x="445" y="-190"/>
-      <point x="445" y="-101" type="curve"/>
-      <point x="297" y="-101"/>
-      <point x="149" y="-101"/>
+      <point x="148" y="-190"/>
+      <point x="296" y="-190"/>
+      <point x="444" y="-190" type="curve"/>
+      <point x="444" y="-101"/>
+      <point x="444" y="-190"/>
+      <point x="444" y="-101" type="curve"/>
+      <point x="296" y="-101"/>
+      <point x="148" y="-101"/>
       <point x="0" y="-101" type="curve"/>
       <point x="0" y="-190"/>
       <point x="0" y="-101"/>
@@ -25,9 +25,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

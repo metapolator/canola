@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflex" format="1">
-  <advance width="528"/>
+  <advance width="529"/>
   <unicode hex="00F4"/>
   <outline>
     <contour>
@@ -19,8 +19,8 @@
       <point x="159" y="265" type="curve"/>
       <point x="156" y="265"/>
       <point x="44" y="265"/>
-      <point x="40" y="265" type="curve"/>
-      <point x="40" y="107"/>
+      <point x="41" y="265" type="curve"/>
+      <point x="41" y="107"/>
       <point x="112" y="-5"/>
       <point x="262" y="-5" type="curve"/>
       <point x="413" y="-5"/>
@@ -30,8 +30,8 @@
       <point x="415" y="538"/>
       <point x="265" y="538" type="curve"/>
       <point x="113" y="538"/>
-      <point x="40" y="426"/>
-      <point x="40" y="265" type="curve"/>
+      <point x="41" y="426"/>
+      <point x="41" y="265" type="curve"/>
       <point x="44" y="265"/>
       <point x="156" y="265"/>
     </contour>
@@ -43,8 +43,8 @@
     </contour>
     <contour>
       <point x="447" y="618" type="line"/>
-      <point x="365" y="784" type="line"/>
-      <point x="209" y="784" type="line"/>
+      <point x="366" y="784" type="line"/>
+      <point x="210" y="784" type="line"/>
       <point x="327" y="618" type="line"/>
     </contour>
   </outline>
@@ -55,9 +55,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

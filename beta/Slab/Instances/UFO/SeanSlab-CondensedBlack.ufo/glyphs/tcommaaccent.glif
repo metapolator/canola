@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="1">
-  <advance width="329"/>
+  <advance width="330"/>
   <unicode hex="0163"/>
   <outline>
     <contour>
@@ -37,10 +37,10 @@
     </contour>
     <contour>
       <point x="121" y="-382" type="line"/>
-      <point x="217" y="-382"/>
+      <point x="217" y="-381"/>
       <point x="280" y="-312"/>
       <point x="280" y="-206" type="curve"/>
-      <point x="280" y="-119"/>
+      <point x="280" y="-118"/>
       <point x="246" y="-73"/>
       <point x="200" y="-73" type="curve"/>
       <point x="156" y="-73"/>
@@ -61,9 +61,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -7,10 +7,10 @@
       <point x="292" y="412" type="curve"/>
       <point x="285" y="407"/>
       <point x="79" y="303"/>
-      <point x="71" y="298" type="curve"/>
-      <point x="71" y="260"/>
-      <point x="71" y="296"/>
-      <point x="71" y="257" type="curve"/>
+      <point x="72" y="298" type="curve"/>
+      <point x="72" y="260"/>
+      <point x="72" y="296"/>
+      <point x="72" y="257" type="curve"/>
       <point x="79" y="263"/>
       <point x="285" y="368"/>
       <point x="292" y="373" type="curve"/>
@@ -21,10 +21,10 @@
       <point x="293" y="183" type="curve"/>
       <point x="285" y="188"/>
       <point x="79" y="293"/>
-      <point x="71" y="298" type="curve"/>
-      <point x="71" y="260"/>
-      <point x="71" y="296"/>
-      <point x="71" y="257" type="curve"/>
+      <point x="72" y="298" type="curve"/>
+      <point x="72" y="260"/>
+      <point x="72" y="296"/>
+      <point x="72" y="257" type="curve"/>
       <point x="79" y="252"/>
       <point x="285" y="149"/>
       <point x="293" y="144" type="curve"/>
@@ -60,9 +60,23 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>188</integer>
+          <integer>401</integer>
           <key>y</key>
-          <integer>228</integer>
+          <integer>155</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>533</integer>
+          <key>y</key>
+          <integer>277</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -70,9 +84,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

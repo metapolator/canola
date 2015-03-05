@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
-  <advance width="242"/>
+  <advance width="241"/>
   <unicode hex="00B4"/>
   <outline>
     <contour>
       <point x="34" y="591" type="line"/>
-      <point x="174" y="757" type="line"/>
+      <point x="173" y="757" type="line"/>
       <point x="136" y="757" type="line"/>
       <point x="6" y="591" type="line"/>
     </contour>
     <contour>
-      <point x="21" y="591" type="move" name="_top"/>
+      <point x="20" y="591" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -20,9 +20,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

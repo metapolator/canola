@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="1">
-  <advance width="329"/>
+  <advance width="330"/>
   <unicode hex="012A"/>
   <outline>
     <contour>
       <point x="165" y="722" type="curve"/>
       <point x="120" y="722"/>
       <point x="85" y="722"/>
-      <point x="40" y="722" type="curve"/>
-      <point x="40" y="653"/>
-      <point x="40" y="722"/>
-      <point x="40" y="653" type="curve"/>
+      <point x="39" y="722" type="curve"/>
+      <point x="39" y="653"/>
+      <point x="39" y="722"/>
+      <point x="39" y="653" type="curve"/>
       <point x="175" y="653"/>
       <point x="30" y="653"/>
       <point x="165" y="653" type="curve"/>
@@ -19,7 +19,7 @@
     </contour>
     <contour>
       <point x="165" y="653" type="curve"/>
-      <point x="301" y="653"/>
+      <point x="300" y="653"/>
       <point x="156" y="653"/>
       <point x="291" y="653" type="curve"/>
       <point x="291" y="722"/>
@@ -40,7 +40,7 @@
       <point x="291" y="0"/>
       <point x="291" y="69" type="curve"/>
       <point x="156" y="69"/>
-      <point x="301" y="69"/>
+      <point x="300" y="69"/>
       <point x="165" y="69" type="curve"/>
       <point x="165" y="0"/>
       <point x="165" y="69"/>
@@ -49,10 +49,10 @@
       <point x="165" y="69" type="curve"/>
       <point x="30" y="69"/>
       <point x="175" y="69"/>
-      <point x="40" y="69" type="curve"/>
-      <point x="40" y="0"/>
-      <point x="40" y="69"/>
-      <point x="40" y="0" type="curve"/>
+      <point x="39" y="69" type="curve"/>
+      <point x="39" y="0"/>
+      <point x="39" y="69"/>
+      <point x="39" y="0" type="curve"/>
       <point x="85" y="0"/>
       <point x="120" y="0"/>
       <point x="165" y="0" type="curve"/>
@@ -95,9 +95,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

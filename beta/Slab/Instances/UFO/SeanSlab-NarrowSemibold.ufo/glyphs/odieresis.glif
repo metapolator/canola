@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="1">
-  <advance width="579"/>
+  <advance width="580"/>
   <unicode hex="00F6"/>
   <outline>
     <contour>
@@ -48,7 +48,7 @@
       <point x="259" y="680" type="curve"/>
       <point x="259" y="644"/>
       <point x="235" y="628"/>
-      <point x="200" y="628" type="curve"/>
+      <point x="201" y="628" type="curve"/>
       <point x="166" y="628"/>
       <point x="144" y="645"/>
       <point x="144" y="680" type="curve"/>
@@ -58,7 +58,7 @@
     <contour>
       <point x="432" y="680" type="curve"/>
       <point x="432" y="716"/>
-      <point x="407" y="733"/>
+      <point x="408" y="733"/>
       <point x="374" y="733" type="curve"/>
       <point x="340" y="733"/>
       <point x="317" y="714"/>
@@ -83,9 +83,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

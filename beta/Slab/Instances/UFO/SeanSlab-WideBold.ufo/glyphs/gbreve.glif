@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="1">
-  <advance width="703"/>
+  <advance width="704"/>
   <unicode hex="011F"/>
   <outline>
     <contour>
@@ -8,7 +8,7 @@
       <point x="691" y="527" type="line"/>
       <point x="691" y="528"/>
       <point x="644" y="621"/>
-      <point x="644" y="621" type="curve"/>
+      <point x="643" y="621" type="curve"/>
       <point x="422" y="517" type="line"/>
       <point x="483" y="451"/>
       <point x="422" y="518"/>
@@ -117,9 +117,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

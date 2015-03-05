@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="502"/>
+  <advance width="503"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
@@ -19,14 +19,14 @@
     </contour>
     <contour>
       <point x="57" y="510" type="curve"/>
-      <point x="194" y="422"/>
+      <point x="193" y="422"/>
       <point x="331" y="334"/>
       <point x="469" y="246" type="curve"/>
       <point x="469" y="366"/>
       <point x="469" y="246"/>
       <point x="469" y="366" type="curve"/>
       <point x="331" y="454"/>
-      <point x="194" y="542"/>
+      <point x="193" y="542"/>
       <point x="57" y="630" type="curve"/>
       <point x="57" y="510"/>
       <point x="57" y="630"/>
@@ -39,9 +39,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

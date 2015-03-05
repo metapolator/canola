@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="1">
-  <advance width="876"/>
+  <advance width="877"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="73" y="680" type="curve"/>
-      <point x="73" y="649"/>
-      <point x="73" y="618"/>
-      <point x="73" y="587" type="curve"/>
+      <point x="74" y="680" type="curve"/>
+      <point x="74" y="649"/>
+      <point x="74" y="618"/>
+      <point x="74" y="587" type="curve"/>
       <point x="108" y="587"/>
-      <point x="73" y="587"/>
+      <point x="74" y="587"/>
       <point x="108" y="587" type="curve"/>
       <point x="108" y="608"/>
       <point x="108" y="628"/>
       <point x="108" y="649" type="curve"/>
-      <point x="73" y="680"/>
+      <point x="74" y="680"/>
       <point x="108" y="649"/>
     </contour>
     <contour>
@@ -82,10 +82,10 @@
       <point x="345" y="649"/>
       <point x="380" y="680" type="curve"/>
       <point x="278" y="680"/>
-      <point x="175" y="680"/>
-      <point x="73" y="680" type="curve"/>
+      <point x="176" y="680"/>
+      <point x="74" y="680" type="curve"/>
       <point x="108" y="649"/>
-      <point x="73" y="680"/>
+      <point x="74" y="680"/>
     </contour>
     <contour>
       <point x="708" y="273" type="curve"/>
@@ -173,9 +173,7 @@
     </contour>
     <contour>
       <point x="740" y="304" type="curve"/>
-      <point x="724" y="424"/>
-      <point x="708" y="544"/>
-      <point x="692" y="663" type="curve"/>
+      <point x="692" y="663" type="line"/>
       <point x="658" y="663"/>
       <point x="692" y="663"/>
       <point x="658" y="663" type="curve"/>
@@ -260,29 +258,15 @@
           <key>y</key>
           <integer>681</integer>
         </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>363</integer>
-          <key>y</key>
-          <integer>371</integer>
-        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

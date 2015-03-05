@@ -33,10 +33,12 @@
     </contour>
     <contour>
       <point x="95" y="401" type="curve"/>
-      <point x="260" y="289" type="line"/>
-      <point x="260" y="264"/>
-      <point x="260" y="288"/>
-      <point x="260" y="263" type="curve"/>
+      <point x="95" y="401"/>
+      <point x="260" y="289"/>
+      <point x="261" y="289" type="curve"/>
+      <point x="261" y="264"/>
+      <point x="261" y="288"/>
+      <point x="261" y="263" type="curve"/>
       <point x="260" y="264"/>
       <point x="95" y="376"/>
       <point x="95" y="376" type="curve"/>
@@ -47,11 +49,13 @@
       <point x="94" y="176" type="curve"/>
       <point x="94" y="176"/>
       <point x="260" y="288"/>
-      <point x="260" y="289" type="curve"/>
-      <point x="260" y="264"/>
-      <point x="260" y="288"/>
-      <point x="260" y="263" type="curve"/>
-      <point x="94" y="152" type="line"/>
+      <point x="261" y="289" type="curve"/>
+      <point x="261" y="264"/>
+      <point x="261" y="288"/>
+      <point x="261" y="263" type="curve"/>
+      <point x="260" y="263"/>
+      <point x="94" y="152"/>
+      <point x="94" y="152" type="curve"/>
       <point x="94" y="176"/>
       <point x="94" y="152"/>
     </contour>
@@ -63,9 +67,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

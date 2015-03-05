@@ -12,10 +12,10 @@
       <point x="247" y="355"/>
       <point x="247" y="410" type="curve"/>
       <point x="232" y="410"/>
-      <point x="221" y="410"/>
-      <point x="206" y="410" type="curve"/>
+      <point x="220" y="410"/>
+      <point x="205" y="410" type="curve"/>
       <point x="137" y="355"/>
-      <point x="206" y="410"/>
+      <point x="205" y="410"/>
     </contour>
     <contour>
       <point x="205" y="410" type="curve"/>
@@ -49,19 +49,22 @@
       <point x="165" y="765" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="172" y="356" type="move" name="_bottom"/>
+      <point x="171" y="356" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

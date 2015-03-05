@@ -23,9 +23,9 @@
       <point x="361" y="254"/>
       <point x="361" y="380" type="curve"/>
       <point x="361" y="483"/>
-      <point x="311" y="535"/>
-      <point x="217" y="535" type="curve"/>
-      <point x="148" y="535"/>
+      <point x="311" y="538"/>
+      <point x="217" y="538" type="curve"/>
+      <point x="148" y="538"/>
       <point x="103" y="502"/>
       <point x="72" y="462" type="curve"/>
       <point x="108" y="405"/>
@@ -35,13 +35,13 @@
       <point x="158" y="467"/>
       <point x="205" y="467" type="curve"/>
       <point x="258" y="467"/>
-      <point x="275" y="427"/>
-      <point x="275" y="368" type="curve"/>
-      <point x="275" y="245"/>
-      <point x="275" y="123"/>
-      <point x="275" y="0" type="curve"/>
+      <point x="276" y="427"/>
+      <point x="276" y="368" type="curve"/>
+      <point x="276" y="245"/>
+      <point x="276" y="123"/>
+      <point x="276" y="0" type="curve"/>
       <point x="361" y="0"/>
-      <point x="275" y="0"/>
+      <point x="276" y="0"/>
     </contour>
     <contour>
       <point x="319" y="0" type="curve"/>
@@ -96,7 +96,7 @@
       <point x="269" y="732" type="curve"/>
       <point x="244" y="732"/>
       <point x="234" y="746"/>
-      <point x="219" y="765" type="curve" smooth="yes"/>
+      <point x="219" y="765" type="curve"/>
       <point x="200" y="788"/>
       <point x="189" y="804"/>
       <point x="161" y="804" type="curve"/>
@@ -111,7 +111,7 @@
       <point x="181" y="713" type="curve"/>
       <point x="202" y="713"/>
       <point x="209" y="699"/>
-      <point x="221" y="682" type="curve" smooth="yes"/>
+      <point x="221" y="682" type="curve"/>
       <point x="243" y="656"/>
       <point x="257" y="639"/>
       <point x="290" y="639" type="curve"/>
@@ -129,9 +129,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

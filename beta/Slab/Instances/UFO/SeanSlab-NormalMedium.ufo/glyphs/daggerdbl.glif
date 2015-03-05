@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="1">
-  <advance width="700"/>
+  <advance width="701"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="64" y="438" type="curve"/>
+      <point x="63" y="438" type="curve"/>
       <point x="637" y="438" type="line"/>
       <point x="637" y="516"/>
       <point x="637" y="438"/>
       <point x="637" y="516" type="curve"/>
-      <point x="64" y="516" type="line"/>
-      <point x="64" y="438"/>
-      <point x="64" y="516"/>
+      <point x="63" y="516" type="line"/>
+      <point x="63" y="438"/>
+      <point x="63" y="516"/>
     </contour>
     <contour>
-      <point x="394" y="-299" type="curve"/>
-      <point x="394" y="770" type="line"/>
-      <point x="302" y="770"/>
+      <point x="393" y="-299" type="curve"/>
+      <point x="393" y="770" type="line"/>
+      <point x="301" y="770"/>
       <point x="399" y="770"/>
       <point x="307" y="770" type="curve"/>
       <point x="307" y="-299" type="line"/>
       <point x="399" y="-299"/>
-      <point x="302" y="-299"/>
+      <point x="301" y="-299"/>
     </contour>
     <contour>
-      <point x="64" y="-47" type="curve"/>
+      <point x="63" y="-47" type="curve"/>
       <point x="637" y="-47" type="line"/>
       <point x="637" y="31"/>
       <point x="637" y="-47"/>
       <point x="637" y="31" type="curve"/>
-      <point x="64" y="31" type="line"/>
-      <point x="64" y="-47"/>
-      <point x="64" y="31"/>
+      <point x="63" y="31" type="line"/>
+      <point x="63" y="-47"/>
+      <point x="63" y="31"/>
     </contour>
   </outline>
   <lib>
@@ -41,9 +41,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

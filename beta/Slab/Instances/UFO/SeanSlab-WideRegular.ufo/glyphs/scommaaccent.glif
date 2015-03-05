@@ -8,10 +8,10 @@
       <point x="151" y="17"/>
       <point x="223" y="-5"/>
       <point x="312" y="-5" type="curve"/>
-      <point x="450" y="-5"/>
+      <point x="449" y="-5"/>
       <point x="554" y="30"/>
       <point x="554" y="149" type="curve"/>
-      <point x="554" y="267"/>
+      <point x="553" y="267"/>
       <point x="442" y="276"/>
       <point x="315" y="305" type="curve"/>
       <point x="233" y="324"/>
@@ -43,7 +43,7 @@
       <point x="323" y="57" type="curve"/>
       <point x="243" y="57"/>
       <point x="182" y="76"/>
-      <point x="105" y="105" type="curve"/>
+      <point x="104" y="105" type="curve"/>
       <point x="63" y="49"/>
       <point x="106" y="105"/>
     </contour>
@@ -76,22 +76,22 @@
       <point x="62" y="49"/>
     </contour>
     <contour>
-      <point x="250" y="-312" type="line"/>
-      <point x="333" y="-312"/>
-      <point x="379" y="-250"/>
-      <point x="379" y="-177" type="curve"/>
-      <point x="379" y="-124"/>
-      <point x="359" y="-83"/>
-      <point x="320" y="-83" type="curve"/>
-      <point x="290" y="-83"/>
-      <point x="270" y="-97"/>
-      <point x="270" y="-125" type="curve"/>
-      <point x="270" y="-152"/>
-      <point x="289" y="-167"/>
-      <point x="319" y="-170" type="curve"/>
-      <point x="318" y="-204"/>
-      <point x="312" y="-261"/>
-      <point x="250" y="-265" type="curve"/>
+      <point x="241" y="-310" type="line"/>
+      <point x="310" y="-295"/>
+      <point x="362" y="-244"/>
+      <point x="362" y="-166" type="curve"/>
+      <point x="362" y="-120"/>
+      <point x="341" y="-83"/>
+      <point x="302" y="-83" type="curve"/>
+      <point x="273" y="-83"/>
+      <point x="252" y="-97"/>
+      <point x="252" y="-125" type="curve"/>
+      <point x="252" y="-152"/>
+      <point x="271" y="-167"/>
+      <point x="301" y="-170" type="curve"/>
+      <point x="301" y="-204"/>
+      <point x="286" y="-245"/>
+      <point x="232" y="-265" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -101,9 +101,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -4,32 +4,21 @@
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="357" y="443" type="curve"/>
+      <point x="357" y="203" type="line"/>
+      <point x="334" y="214"/>
+      <point x="237" y="252"/>
+      <point x="160" y="283" type="curve"/>
+      <point x="237" y="314"/>
+      <point x="334" y="352"/>
+      <point x="357" y="364" type="curve"/>
+      <point x="357" y="443" type="line"/>
       <point x="320" y="425"/>
       <point x="102" y="341"/>
       <point x="64" y="322" type="curve"/>
-      <point x="64" y="243"/>
-      <point x="64" y="321"/>
-      <point x="64" y="242" type="curve"/>
-      <point x="102" y="261"/>
-      <point x="320" y="345"/>
-      <point x="357" y="364" type="curve"/>
-      <point x="357" y="442"/>
-      <point x="357" y="364"/>
-    </contour>
-    <contour>
-      <point x="357" y="203" type="curve"/>
-      <point x="320" y="221"/>
-      <point x="102" y="304"/>
-      <point x="64" y="322" type="curve"/>
-      <point x="64" y="243"/>
-      <point x="64" y="321"/>
-      <point x="64" y="242" type="curve"/>
+      <point x="64" y="242" type="line"/>
       <point x="102" y="224"/>
       <point x="320" y="142"/>
       <point x="357" y="123" type="curve"/>
-      <point x="357" y="202"/>
-      <point x="357" y="124"/>
     </contour>
   </outline>
   <lib>
@@ -60,9 +49,23 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>188</integer>
+          <integer>401</integer>
           <key>y</key>
-          <integer>228</integer>
+          <integer>155</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>533</integer>
+          <key>y</key>
+          <integer>277</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -70,9 +73,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

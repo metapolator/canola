@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="384"/>
+  <advance width="383"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
@@ -33,13 +33,13 @@
     </contour>
     <contour>
       <point x="164" y="79" type="curve"/>
-      <point x="34" y="79"/>
+      <point x="33" y="79"/>
       <point x="167" y="79"/>
       <point x="37" y="79" type="curve"/>
       <point x="37" y="0"/>
       <point x="37" y="79"/>
       <point x="37" y="0" type="curve"/>
-      <point x="80" y="0"/>
+      <point x="81" y="0"/>
       <point x="121" y="-1"/>
       <point x="164" y="-1" type="curve"/>
       <point x="164" y="79"/>
@@ -59,23 +59,23 @@
       <point x="214" y="0" type="curve"/>
       <point x="214" y="617" type="line"/>
       <point x="214" y="676"/>
-      <point x="219" y="729"/>
-      <point x="271" y="729" type="curve"/>
+      <point x="220" y="729"/>
+      <point x="270" y="729" type="curve"/>
       <point x="291" y="729"/>
-      <point x="309" y="720"/>
+      <point x="308" y="720"/>
       <point x="325" y="709" type="curve"/>
       <point x="366" y="772"/>
       <point x="325" y="709"/>
       <point x="366" y="772" type="curve"/>
       <point x="338" y="791"/>
       <point x="305" y="805"/>
-      <point x="271" y="805" type="curve"/>
+      <point x="270" y="805" type="curve"/>
       <point x="167" y="805"/>
-      <point x="113" y="725"/>
-      <point x="114" y="617" type="curve"/>
-      <point x="114" y="0" type="line"/>
+      <point x="112" y="725"/>
+      <point x="113" y="617" type="curve"/>
+      <point x="113" y="0" type="line"/>
       <point x="214" y="0"/>
-      <point x="114" y="0"/>
+      <point x="113" y="0"/>
     </contour>
   </outline>
   <lib>
@@ -85,9 +85,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

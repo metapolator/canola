@@ -76,12 +76,12 @@
     <contour>
       <point x="133" y="620" type="curve"/>
       <point x="217" y="620"/>
-      <point x="303" y="620"/>
+      <point x="304" y="620"/>
       <point x="388" y="620" type="curve"/>
       <point x="457" y="678"/>
       <point x="388" y="620"/>
       <point x="457" y="678" type="curve"/>
-      <point x="326" y="678"/>
+      <point x="327" y="678"/>
       <point x="194" y="678"/>
       <point x="64" y="678" type="curve"/>
       <point x="133" y="620"/>
@@ -173,9 +173,7 @@
     </contour>
     <contour>
       <point x="895" y="322" type="curve"/>
-      <point x="877" y="431"/>
-      <point x="856" y="539"/>
-      <point x="838" y="648" type="curve"/>
+      <point x="838" y="648" type="line"/>
       <point x="769" y="648"/>
       <point x="838" y="648"/>
       <point x="769" y="648" type="curve"/>
@@ -207,9 +205,9 @@
       <point x="573" y="620"/>
       <point x="629" y="678"/>
       <point x="573" y="620" type="curve"/>
-      <point x="601" y="508"/>
+      <point x="602" y="508"/>
       <point x="638" y="395"/>
-      <point x="666" y="283" type="curve"/>
+      <point x="667" y="283" type="curve"/>
       <point x="742" y="283"/>
       <point x="652" y="283"/>
     </contour>
@@ -260,29 +258,15 @@
           <key>y</key>
           <integer>681</integer>
         </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>363</integer>
-          <key>y</key>
-          <integer>371</integer>
-        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

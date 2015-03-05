@@ -4,22 +4,22 @@
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="168" y="724" type="line"/>
-      <point x="103" y="724"/>
-      <point x="72" y="669"/>
-      <point x="72" y="608" type="curve"/>
-      <point x="72" y="562"/>
+      <point x="155" y="720" type="line"/>
+      <point x="107" y="702"/>
+      <point x="72" y="661"/>
+      <point x="72" y="595" type="curve"/>
+      <point x="72" y="556"/>
       <point x="85" y="529"/>
-      <point x="114" y="529" type="curve"/>
-      <point x="137" y="529"/>
-      <point x="151" y="541"/>
-      <point x="151" y="563" type="curve"/>
-      <point x="151" y="582"/>
-      <point x="140" y="594"/>
-      <point x="120" y="598" type="curve"/>
-      <point x="120" y="623"/>
-      <point x="120" y="681"/>
-      <point x="168" y="685" type="curve"/>
+      <point x="113" y="529" type="curve"/>
+      <point x="135" y="529"/>
+      <point x="149" y="541"/>
+      <point x="149" y="563" type="curve"/>
+      <point x="149" y="582"/>
+      <point x="139" y="594"/>
+      <point x="118" y="598" type="curve"/>
+      <point x="119" y="623"/>
+      <point x="128" y="664"/>
+      <point x="167" y="685" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -29,9 +29,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

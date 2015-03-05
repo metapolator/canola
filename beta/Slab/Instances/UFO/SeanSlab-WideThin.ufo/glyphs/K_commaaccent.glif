@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kcommaaccent" format="1">
-  <advance width="881"/>
+  <advance width="882"/>
   <unicode hex="0136"/>
   <outline>
     <contour>
@@ -134,22 +134,22 @@
       <point x="718" y="1"/>
     </contour>
     <contour>
-      <point x="428" y="-246" type="line"/>
-      <point x="485" y="-246"/>
-      <point x="504" y="-193"/>
-      <point x="504" y="-145" type="curve"/>
-      <point x="504" y="-114"/>
-      <point x="499" y="-88"/>
-      <point x="480" y="-88" type="curve"/>
-      <point x="466" y="-88"/>
-      <point x="459" y="-94"/>
-      <point x="459" y="-106" type="curve"/>
-      <point x="459" y="-117"/>
-      <point x="463" y="-123"/>
-      <point x="475" y="-128" type="curve"/>
-      <point x="475" y="-153"/>
-      <point x="477" y="-223"/>
-      <point x="428" y="-223" type="curve"/>
+      <point x="413" y="-242" type="line"/>
+      <point x="445" y="-217"/>
+      <point x="474" y="-182"/>
+      <point x="474" y="-127" type="curve"/>
+      <point x="474" y="-106"/>
+      <point x="469" y="-88"/>
+      <point x="450" y="-88" type="curve"/>
+      <point x="437" y="-88"/>
+      <point x="429" y="-94"/>
+      <point x="429" y="-106" type="curve"/>
+      <point x="429" y="-117"/>
+      <point x="434" y="-123"/>
+      <point x="445" y="-128" type="curve"/>
+      <point x="445" y="-153"/>
+      <point x="432" y="-196"/>
+      <point x="398" y="-223" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -159,9 +159,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

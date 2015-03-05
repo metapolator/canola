@@ -8,14 +8,14 @@
       <point x="667" y="518"/>
       <point x="667" y="632"/>
       <point x="667" y="506" type="curve"/>
-      <point x="751" y="506"/>
+      <point x="750" y="506"/>
       <point x="667" y="506"/>
-      <point x="751" y="506" type="curve"/>
-      <point x="751" y="632"/>
-      <point x="751" y="518"/>
-      <point x="751" y="644" type="curve"/>
+      <point x="750" y="506" type="curve"/>
+      <point x="750" y="632"/>
+      <point x="750" y="518"/>
+      <point x="750" y="644" type="curve"/>
       <point x="667" y="644"/>
-      <point x="751" y="644"/>
+      <point x="750" y="644"/>
     </contour>
     <contour>
       <point x="739" y="353" type="curve"/>
@@ -46,7 +46,7 @@
       <point x="671" y="78"/>
     </contour>
     <contour>
-      <point x="751" y="644" type="curve"/>
+      <point x="750" y="644" type="curve"/>
       <point x="650" y="702"/>
       <point x="558" y="727"/>
       <point x="442" y="727" type="curve"/>
@@ -74,7 +74,7 @@
       <point x="538" y="642"/>
       <point x="613" y="622"/>
       <point x="697" y="575" type="curve"/>
-      <point x="751" y="644"/>
+      <point x="750" y="644"/>
       <point x="697" y="575"/>
     </contour>
     <contour>
@@ -88,34 +88,6 @@
     <dict>
       <key>com.typemytype.robofont.guides</key>
       <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>104</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>725</integer>
-          <key>y</key>
-          <integer>722</integer>
-        </dict>
         <dict>
           <key>angle</key>
           <real>0.0</real>
@@ -150,9 +122,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

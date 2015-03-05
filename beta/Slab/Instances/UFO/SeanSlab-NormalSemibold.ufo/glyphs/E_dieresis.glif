@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edieresis" format="1">
-  <advance width="700"/>
+  <advance width="699"/>
   <unicode hex="00CB"/>
   <outline>
     <contour>
@@ -116,7 +116,7 @@
     <contour>
       <point x="329" y="846" type="curve"/>
       <point x="329" y="882"/>
-      <point x="303" y="900"/>
+      <point x="302" y="900"/>
       <point x="267" y="900" type="curve"/>
       <point x="231" y="900"/>
       <point x="207" y="880"/>
@@ -142,7 +142,7 @@
       <point x="394" y="880"/>
       <point x="394" y="846" type="curve"/>
       <point x="512" y="846"/>
-      <point x="399" y="846"/>
+      <point x="398" y="846"/>
       <point x="516" y="846" type="curve"/>
       <point x="516" y="809"/>
       <point x="490" y="793"/>
@@ -151,7 +151,7 @@
       <point x="394" y="811"/>
       <point x="394" y="846" type="curve"/>
       <point x="512" y="846"/>
-      <point x="399" y="846"/>
+      <point x="398" y="846"/>
     </contour>
   </outline>
   <lib>
@@ -161,9 +161,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

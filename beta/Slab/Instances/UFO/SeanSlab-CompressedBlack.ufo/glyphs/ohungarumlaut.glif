@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="1">
-  <advance width="525"/>
+  <advance width="504"/>
   <unicode hex="0151"/>
   <outline>
     <contour>
@@ -44,7 +44,7 @@
     <contour>
       <point x="397" y="610" type="line"/>
       <point x="510" y="776" type="line"/>
-      <point x="342" y="776" type="line"/>
+      <point x="343" y="776" type="line"/>
       <point x="268" y="610" type="line"/>
     </contour>
   </outline>
@@ -55,9 +55,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

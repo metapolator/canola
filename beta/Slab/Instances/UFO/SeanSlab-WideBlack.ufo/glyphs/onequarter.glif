@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="1165"/>
+  <advance width="1166"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
@@ -17,7 +17,7 @@
       <point x="381" y="377"/>
       <point x="381" y="255"/>
       <point x="381" y="368" type="curve"/>
-      <point x="363" y="368"/>
+      <point x="364" y="368"/>
       <point x="344" y="368"/>
       <point x="327" y="368" type="curve"/>
       <point x="173" y="255"/>
@@ -41,7 +41,7 @@
       <point x="103" y="517" type="line"/>
       <point x="327" y="706" type="line"/>
       <point x="173" y="706" type="line"/>
-      <point x="36" y="598" type="line"/>
+      <point x="37" y="598" type="line"/>
     </contour>
     <contour>
       <point x="327" y="368" type="curve"/>
@@ -89,9 +89,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

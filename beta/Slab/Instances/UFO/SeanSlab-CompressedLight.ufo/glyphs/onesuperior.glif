@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="299"/>
+  <advance width="298"/>
   <unicode hex="00B9"/>
   <outline>
     <contour>
@@ -13,9 +13,9 @@
       <point x="236" y="358" type="curve"/>
       <point x="217" y="358"/>
       <point x="215" y="358"/>
-      <point x="197" y="358" type="curve"/>
+      <point x="196" y="358" type="curve"/>
       <point x="149" y="318"/>
-      <point x="197" y="358"/>
+      <point x="196" y="358"/>
     </contour>
     <contour>
       <point x="196" y="358" type="curve"/>
@@ -54,14 +54,17 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

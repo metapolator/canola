@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sterling" format="1">
-  <advance width="367"/>
+  <advance width="368"/>
   <unicode hex="00A3"/>
   <outline>
     <contour>
       <point x="303" y="59" type="curve"/>
-      <point x="217" y="59"/>
+      <point x="216" y="59"/>
       <point x="129" y="59"/>
       <point x="45" y="59" type="curve"/>
       <point x="45" y="0"/>
@@ -35,7 +35,7 @@
       <point x="321" y="670" type="curve"/>
       <point x="291" y="708"/>
       <point x="264" y="724"/>
-      <point x="223" y="724" type="curve"/>
+      <point x="222" y="724" type="curve"/>
       <point x="75" y="724"/>
       <point x="80" y="559"/>
       <point x="106" y="369" type="curve"/>
@@ -47,7 +47,7 @@
       <point x="45" y="0" type="curve"/>
       <point x="209" y="0"/>
       <point x="197" y="180"/>
-      <point x="171" y="382" type="curve"/>
+      <point x="170" y="382" type="curve"/>
       <point x="152" y="527"/>
       <point x="129" y="667"/>
       <point x="218" y="667" type="curve"/>
@@ -65,9 +65,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

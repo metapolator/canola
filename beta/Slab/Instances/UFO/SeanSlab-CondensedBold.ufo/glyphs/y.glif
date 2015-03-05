@@ -5,20 +5,20 @@
   <outline>
     <contour>
       <point x="200" y="-210" type="curve"/>
-      <point x="90" y="-211"/>
+      <point x="89" y="-211"/>
       <point x="202" y="-210"/>
-      <point x="92" y="-211" type="curve"/>
-      <point x="92" y="-300"/>
-      <point x="92" y="-211"/>
-      <point x="92" y="-300" type="curve"/>
-      <point x="129" y="-300"/>
+      <point x="91" y="-211" type="curve"/>
+      <point x="91" y="-300"/>
+      <point x="91" y="-211"/>
+      <point x="91" y="-300" type="curve"/>
+      <point x="128" y="-300"/>
       <point x="163" y="-299"/>
       <point x="200" y="-299" type="curve"/>
       <point x="200" y="-210"/>
       <point x="200" y="-299"/>
     </contour>
     <contour>
-      <point x="126" y="534" type="curve"/>
+      <point x="125" y="534" type="curve"/>
       <point x="88" y="534"/>
       <point x="53" y="533"/>
       <point x="16" y="533" type="curve"/>
@@ -27,12 +27,12 @@
       <point x="15" y="444" type="curve"/>
       <point x="128" y="445"/>
       <point x="13" y="444"/>
-      <point x="126" y="445" type="curve"/>
-      <point x="126" y="534"/>
-      <point x="126" y="445"/>
+      <point x="125" y="445" type="curve"/>
+      <point x="125" y="534"/>
+      <point x="125" y="445"/>
     </contour>
     <contour>
-      <point x="126" y="445" type="curve"/>
+      <point x="125" y="445" type="curve"/>
       <point x="256" y="444"/>
       <point x="123" y="445"/>
       <point x="254" y="444" type="curve"/>
@@ -41,9 +41,9 @@
       <point x="254" y="533" type="curve"/>
       <point x="210" y="533"/>
       <point x="169" y="534"/>
-      <point x="126" y="534" type="curve"/>
-      <point x="126" y="445"/>
-      <point x="126" y="534"/>
+      <point x="125" y="534" type="curve"/>
+      <point x="125" y="445"/>
+      <point x="125" y="534"/>
     </contour>
     <contour>
       <point x="477" y="534" type="curve"/>
@@ -63,12 +63,12 @@
       <point x="477" y="445" type="curve"/>
       <point x="585" y="444"/>
       <point x="475" y="445"/>
-      <point x="583" y="444" type="curve"/>
-      <point x="583" y="533"/>
-      <point x="583" y="444"/>
-      <point x="583" y="533" type="curve"/>
-      <point x="547" y="533"/>
-      <point x="513" y="534"/>
+      <point x="582" y="444" type="curve"/>
+      <point x="582" y="533"/>
+      <point x="582" y="444"/>
+      <point x="582" y="533" type="curve"/>
+      <point x="546" y="533"/>
+      <point x="512" y="534"/>
       <point x="477" y="534" type="curve"/>
       <point x="477" y="445"/>
       <point x="477" y="534"/>
@@ -88,21 +88,21 @@
       <point x="242" y="-16"/>
     </contour>
     <contour>
-      <point x="250" y="-300" type="curve"/>
+      <point x="249" y="-300" type="curve"/>
       <point x="326" y="-90"/>
       <point x="467" y="323"/>
-      <point x="544" y="533" type="curve"/>
-      <point x="428" y="533"/>
-      <point x="544" y="533"/>
-      <point x="428" y="533" type="curve"/>
+      <point x="543" y="533" type="curve"/>
+      <point x="427" y="533"/>
+      <point x="543" y="533"/>
+      <point x="427" y="533" type="curve"/>
       <point x="350" y="323"/>
-      <point x="209" y="-90"/>
+      <point x="208" y="-90"/>
       <point x="132" y="-300" type="curve"/>
-      <point x="250" y="-300"/>
+      <point x="249" y="-300"/>
       <point x="132" y="-300"/>
     </contour>
     <contour>
-      <point x="302" y="625" type="move" name="top"/>
+      <point x="301" y="625" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -112,9 +112,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

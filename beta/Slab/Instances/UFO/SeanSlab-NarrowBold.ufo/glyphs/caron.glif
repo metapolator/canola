@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="514"/>
+  <advance width="515"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="319" y="747" type="line"/>
+      <point x="320" y="747" type="line"/>
       <point x="186" y="581" type="line"/>
       <point x="333" y="581" type="line"/>
       <point x="433" y="747" type="line"/>
@@ -12,7 +12,7 @@
     <contour>
       <point x="38" y="747" type="line"/>
       <point x="138" y="581" type="line"/>
-      <point x="285" y="581" type="line"/>
+      <point x="286" y="581" type="line"/>
       <point x="152" y="747" type="line"/>
     </contour>
     <contour>
@@ -26,9 +26,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

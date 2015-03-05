@@ -3,8 +3,8 @@
   <advance width="625"/>
   <outline>
     <contour>
-      <point x="227" y="69" type="curve"/>
-      <point x="154" y="151"/>
+      <point x="228" y="69" type="curve"/>
+      <point x="155" y="151"/>
       <point x="139" y="236"/>
       <point x="139" y="346" type="curve"/>
       <point x="51" y="346"/>
@@ -13,19 +13,19 @@
       <point x="51" y="206"/>
       <point x="88" y="108"/>
       <point x="183" y="4" type="curve"/>
-      <point x="235" y="81"/>
+      <point x="236" y="81"/>
       <point x="157" y="-9"/>
     </contour>
     <contour>
       <point x="139" y="346" type="curve"/>
       <point x="139" y="512"/>
       <point x="174" y="658"/>
-      <point x="307" y="658" type="curve"/>
-      <point x="441" y="658"/>
+      <point x="308" y="658" type="curve"/>
+      <point x="442" y="658"/>
       <point x="485" y="515"/>
       <point x="485" y="349" type="curve"/>
       <point x="485" y="236"/>
-      <point x="468" y="149"/>
+      <point x="469" y="149"/>
       <point x="390" y="69" type="curve"/>
       <point x="398" y="58"/>
       <point x="430" y="13"/>
@@ -35,7 +35,7 @@
       <point x="573" y="349" type="curve"/>
       <point x="573" y="558"/>
       <point x="502" y="727"/>
-      <point x="315" y="727" type="curve"/>
+      <point x="316" y="727" type="curve"/>
       <point x="125" y="727"/>
       <point x="51" y="557"/>
       <point x="51" y="346" type="curve"/>
@@ -43,7 +43,7 @@
       <point x="51" y="346"/>
     </contour>
     <contour>
-      <point x="227" y="69" type="line"/>
+      <point x="228" y="69" type="line"/>
       <point x="26" y="69"/>
       <point x="237" y="69"/>
       <point x="35" y="69" type="curve"/>
@@ -51,8 +51,8 @@
       <point x="35" y="69"/>
       <point x="35" y="0" type="curve"/>
       <point x="89" y="0"/>
-      <point x="173" y="0"/>
-      <point x="227" y="0" type="curve"/>
+      <point x="174" y="0"/>
+      <point x="228" y="0" type="curve"/>
     </contour>
     <contour>
       <point x="390" y="0" type="line"/>
@@ -85,15 +85,29 @@
           <key>y</key>
           <integer>55</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>350</integer>
+          <key>y</key>
+          <integer>21</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

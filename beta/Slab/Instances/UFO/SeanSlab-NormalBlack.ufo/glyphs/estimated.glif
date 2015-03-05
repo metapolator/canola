@@ -7,11 +7,11 @@
       <point x="646" y="180" type="curve"/>
       <point x="577" y="125"/>
       <point x="520" y="109"/>
-      <point x="440" y="109" type="curve"/>
+      <point x="441" y="109" type="curve"/>
       <point x="284" y="109"/>
-      <point x="217" y="221"/>
-      <point x="217" y="370" type="curve"/>
-      <point x="217" y="508"/>
+      <point x="218" y="221"/>
+      <point x="218" y="370" type="curve"/>
+      <point x="218" y="508"/>
       <point x="273" y="615"/>
       <point x="415" y="615" type="curve"/>
       <point x="551" y="615"/>
@@ -22,7 +22,7 @@
       <point x="614" y="366" type="curve"/>
       <point x="629" y="379"/>
       <point x="640" y="387"/>
-      <point x="654" y="400" type="curve"/>
+      <point x="655" y="400" type="curve"/>
       <point x="668" y="412"/>
       <point x="685" y="409"/>
       <point x="699" y="421" type="curve"/>
@@ -52,11 +52,11 @@
       <point x="56" y="370" type="curve"/>
       <point x="56" y="146"/>
       <point x="192" y="-5"/>
-      <point x="440" y="-5" type="curve"/>
+      <point x="441" y="-5" type="curve"/>
       <point x="561" y="-5"/>
       <point x="642" y="26"/>
       <point x="729" y="100" type="curve"/>
-      <point x="692" y="136"/>
+      <point x="693" y="136"/>
       <point x="680" y="147"/>
     </contour>
     <contour>
@@ -79,34 +79,6 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>170</integer>
-          <key>y</key>
-          <integer>429</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>424</integer>
-          <key>y</key>
-          <integer>422</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
           <false/>
@@ -115,65 +87,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>323</integer>
+          <integer>508</integer>
           <key>y</key>
-          <integer>464</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>183</integer>
-          <key>y</key>
-          <integer>606</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>569</integer>
-          <key>y</key>
-          <integer>657</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>228</integer>
-          <key>y</key>
-          <integer>287</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>327</integer>
-          <key>y</key>
-          <integer>287</integer>
+          <integer>576</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -181,9 +97,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -36,14 +36,14 @@
       <point x="145" y="481"/>
       <point x="145" y="241"/>
       <point x="145" y="0" type="curve"/>
-      <point x="295" y="0"/>
+      <point x="294" y="0"/>
       <point x="145" y="0"/>
-      <point x="295" y="0" type="curve"/>
-      <point x="295" y="241"/>
-      <point x="295" y="481"/>
-      <point x="295" y="722" type="curve"/>
+      <point x="294" y="0" type="curve"/>
+      <point x="294" y="241"/>
+      <point x="294" y="481"/>
+      <point x="294" y="722" type="curve"/>
       <point x="145" y="722"/>
-      <point x="295" y="722"/>
+      <point x="294" y="722"/>
     </contour>
     <contour>
       <point x="222" y="0" type="curve"/>
@@ -64,7 +64,7 @@
       <point x="222" y="610" type="curve"/>
       <point x="286" y="610"/>
       <point x="349" y="610"/>
-      <point x="413" y="610" type="curve"/>
+      <point x="412" y="610" type="curve"/>
       <point x="585" y="610"/>
       <point x="672" y="521"/>
       <point x="672" y="350" type="curve"/>
@@ -78,36 +78,19 @@
       <point x="222" y="112"/>
     </contour>
     <contour>
-      <point x="405" y="781" type="move" name="top"/>
+      <point x="404" y="781" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string>AAcent</string>
-          <key>x</key>
-          <integer>677</integer>
-          <key>y</key>
-          <integer>879</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

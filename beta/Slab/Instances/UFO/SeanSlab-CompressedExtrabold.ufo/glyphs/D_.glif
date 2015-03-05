@@ -11,7 +11,7 @@
       <point x="58" y="0"/>
       <point x="58" y="97"/>
       <point x="58" y="0" type="curve"/>
-      <point x="103" y="0"/>
+      <point x="102" y="0"/>
       <point x="144" y="0"/>
       <point x="187" y="0" type="curve"/>
       <point x="187" y="97"/>
@@ -20,7 +20,7 @@
     <contour>
       <point x="187" y="722" type="curve"/>
       <point x="144" y="722"/>
-      <point x="103" y="722"/>
+      <point x="102" y="722"/>
       <point x="58" y="722" type="curve"/>
       <point x="58" y="625"/>
       <point x="58" y="722"/>
@@ -36,19 +36,19 @@
       <point x="123" y="481"/>
       <point x="123" y="241"/>
       <point x="123" y="0" type="curve"/>
-      <point x="249" y="0"/>
+      <point x="248" y="0"/>
       <point x="123" y="0"/>
-      <point x="249" y="0" type="curve"/>
-      <point x="249" y="241"/>
-      <point x="249" y="481"/>
-      <point x="249" y="722" type="curve"/>
+      <point x="248" y="0" type="curve"/>
+      <point x="248" y="241"/>
+      <point x="248" y="481"/>
+      <point x="248" y="722" type="curve"/>
       <point x="123" y="722"/>
-      <point x="249" y="722"/>
+      <point x="248" y="722"/>
     </contour>
     <contour>
       <point x="187" y="0" type="curve"/>
       <point x="229" y="0"/>
-      <point x="269" y="0"/>
+      <point x="268" y="0"/>
       <point x="311" y="0" type="curve"/>
       <point x="505" y="0"/>
       <point x="581" y="143"/>
@@ -56,7 +56,7 @@
       <point x="581" y="572"/>
       <point x="508" y="722"/>
       <point x="309" y="722" type="curve"/>
-      <point x="269" y="722"/>
+      <point x="268" y="722"/>
       <point x="229" y="722"/>
       <point x="187" y="722" type="curve"/>
       <point x="187" y="627"/>
@@ -72,7 +72,7 @@
       <point x="440" y="97"/>
       <point x="323" y="97" type="curve"/>
       <point x="277" y="97"/>
-      <point x="234" y="97"/>
+      <point x="233" y="97"/>
       <point x="187" y="97" type="curve"/>
       <point x="187" y="2"/>
       <point x="187" y="95"/>
@@ -83,31 +83,14 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string>AAcent</string>
-          <key>x</key>
-          <integer>677</integer>
-          <key>y</key>
-          <integer>879</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

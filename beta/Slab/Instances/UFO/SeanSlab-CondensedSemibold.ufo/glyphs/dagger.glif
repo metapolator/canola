@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="1">
-  <advance width="570"/>
+  <advance width="571"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="32" y="418" type="curve"/>
+      <point x="31" y="418" type="curve"/>
       <point x="539" y="418" type="line"/>
       <point x="539" y="505"/>
       <point x="539" y="418"/>
       <point x="539" y="505" type="curve"/>
-      <point x="32" y="505" type="line"/>
-      <point x="32" y="418"/>
-      <point x="32" y="505"/>
+      <point x="31" y="505" type="line"/>
+      <point x="31" y="418"/>
+      <point x="31" y="505"/>
     </contour>
     <contour>
       <point x="332" y="-300" type="curve"/>
       <point x="332" y="740" type="line"/>
-      <point x="232" y="740"/>
+      <point x="231" y="740"/>
       <point x="339" y="740"/>
       <point x="238" y="740" type="curve"/>
       <point x="238" y="-300" type="line"/>
       <point x="339" y="-300"/>
-      <point x="232" y="-300"/>
+      <point x="231" y="-300"/>
     </contour>
   </outline>
   <lib>
@@ -31,9 +31,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

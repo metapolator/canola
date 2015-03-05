@@ -109,7 +109,7 @@
       <point x="674" y="266"/>
       <point x="674" y="316"/>
       <point x="674" y="266" type="curve"/>
-      <point x="688" y="266"/>
+      <point x="689" y="266"/>
       <point x="699" y="266"/>
       <point x="714" y="266" type="curve"/>
       <point x="769" y="316"/>
@@ -132,7 +132,7 @@
     <contour>
       <point x="544" y="678" type="curve"/>
       <point x="508" y="678"/>
-      <point x="470" y="678"/>
+      <point x="471" y="678"/>
       <point x="435" y="678" type="curve"/>
       <point x="435" y="629"/>
       <point x="435" y="678"/>
@@ -173,9 +173,7 @@
     </contour>
     <contour>
       <point x="769" y="316" type="curve"/>
-      <point x="753" y="429"/>
-      <point x="736" y="541"/>
-      <point x="721" y="652" type="curve"/>
+      <point x="721" y="652" type="line"/>
       <point x="663" y="652"/>
       <point x="721" y="652"/>
       <point x="663" y="652" type="curve"/>
@@ -260,29 +258,15 @@
           <key>y</key>
           <integer>681</integer>
         </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>363</integer>
-          <key>y</key>
-          <integer>371</integer>
-        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

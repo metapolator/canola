@@ -49,10 +49,10 @@
       <point x="151" y="699" type="curve"/>
       <point x="283" y="699"/>
       <point x="131" y="699"/>
-      <point x="263" y="699" type="curve"/>
-      <point x="263" y="722"/>
-      <point x="263" y="699"/>
-      <point x="263" y="722" type="curve"/>
+      <point x="264" y="699" type="curve"/>
+      <point x="264" y="722"/>
+      <point x="264" y="699"/>
+      <point x="264" y="722" type="curve"/>
       <point x="219" y="722"/>
       <point x="195" y="722"/>
       <point x="151" y="722" type="curve"/>
@@ -88,22 +88,22 @@
       <point x="151" y="23"/>
     </contour>
     <contour>
-      <point x="237" y="-219" type="line"/>
-      <point x="285" y="-219"/>
-      <point x="300" y="-172"/>
-      <point x="300" y="-130" type="curve"/>
-      <point x="300" y="-100"/>
-      <point x="296" y="-75"/>
-      <point x="276" y="-75" type="curve"/>
-      <point x="263" y="-75"/>
-      <point x="255" y="-81"/>
-      <point x="255" y="-94" type="curve"/>
-      <point x="255" y="-104"/>
-      <point x="260" y="-110"/>
-      <point x="271" y="-115" type="curve"/>
-      <point x="271" y="-136"/>
-      <point x="273" y="-194"/>
-      <point x="237" y="-194" type="curve"/>
+      <point x="251" y="-212" type="line"/>
+      <point x="276" y="-188"/>
+      <point x="296" y="-161"/>
+      <point x="296" y="-113" type="curve"/>
+      <point x="296" y="-92"/>
+      <point x="292" y="-75"/>
+      <point x="274" y="-75" type="curve"/>
+      <point x="261" y="-75"/>
+      <point x="253" y="-81"/>
+      <point x="253" y="-94" type="curve"/>
+      <point x="253" y="-104"/>
+      <point x="258" y="-110"/>
+      <point x="269" y="-115" type="curve"/>
+      <point x="269" y="-136"/>
+      <point x="259" y="-171"/>
+      <point x="235" y="-194" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -113,9 +113,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

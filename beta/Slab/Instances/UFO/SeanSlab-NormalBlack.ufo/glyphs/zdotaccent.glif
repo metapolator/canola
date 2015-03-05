@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zdotaccent" format="1">
-  <advance width="580"/>
+  <advance width="579"/>
   <unicode hex="017C"/>
   <outline>
     <contour>
       <point x="61" y="421" type="curve"/>
       <point x="202" y="421"/>
       <point x="337" y="421"/>
-      <point x="478" y="421" type="curve"/>
+      <point x="479" y="421" type="curve"/>
       <point x="467" y="434"/>
       <point x="445" y="428"/>
       <point x="435" y="440" type="curve"/>
@@ -52,9 +52,9 @@
       <point x="527" y="533"/>
       <point x="527" y="478"/>
       <point x="527" y="533" type="curve"/>
-      <point x="478" y="533"/>
+      <point x="479" y="533"/>
       <point x="527" y="533"/>
-      <point x="478" y="533" type="curve"/>
+      <point x="479" y="533" type="curve"/>
       <point x="337" y="533"/>
       <point x="202" y="533"/>
       <point x="61" y="533" type="curve"/>
@@ -97,7 +97,7 @@
       <point x="246" y="755"/>
       <point x="213" y="729"/>
       <point x="213" y="682" type="curve"/>
-      <point x="379" y="682"/>
+      <point x="380" y="682"/>
       <point x="213" y="682"/>
       <point x="380" y="682" type="curve"/>
       <point x="380" y="631"/>
@@ -106,7 +106,7 @@
       <point x="245" y="610"/>
       <point x="213" y="634"/>
       <point x="213" y="682" type="curve"/>
-      <point x="379" y="682"/>
+      <point x="380" y="682"/>
       <point x="213" y="682"/>
     </contour>
   </outline>
@@ -117,9 +117,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="copyright" format="1">
-  <advance width="985"/>
+  <advance width="986"/>
   <unicode hex="00A9"/>
   <outline>
     <contour>
@@ -19,8 +19,8 @@
       <point x="164" y="323" type="curve"/>
       <point x="62" y="323"/>
       <point x="165" y="323"/>
-      <point x="63" y="323" type="curve"/>
-      <point x="63" y="106"/>
+      <point x="62" y="323" type="curve"/>
+      <point x="62" y="106"/>
       <point x="262" y="4"/>
       <point x="502" y="4" type="curve"/>
       <point x="734" y="4"/>
@@ -30,8 +30,8 @@
       <point x="731" y="645"/>
       <point x="497" y="645" type="curve"/>
       <point x="260" y="645"/>
-      <point x="63" y="542"/>
-      <point x="63" y="323" type="curve"/>
+      <point x="62" y="542"/>
+      <point x="62" y="323" type="curve"/>
       <point x="165" y="323"/>
       <point x="62" y="323"/>
     </contour>
@@ -89,9 +89,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

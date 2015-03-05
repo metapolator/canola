@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="product" format="1">
-  <advance width="676"/>
+  <advance width="677"/>
   <unicode hex="220F"/>
   <outline>
     <contour>
@@ -116,7 +116,7 @@
       <point x="110" y="0"/>
     </contour>
     <contour>
-      <point x="496" y="800" type="curve"/>
+      <point x="497" y="800" type="curve"/>
       <point x="237" y="800"/>
       <point x="495" y="800"/>
       <point x="236" y="800" type="curve"/>
@@ -125,9 +125,9 @@
       <point x="236" y="693" type="curve"/>
       <point x="323" y="693"/>
       <point x="410" y="693"/>
-      <point x="496" y="693" type="curve"/>
-      <point x="496" y="800"/>
-      <point x="496" y="693"/>
+      <point x="497" y="693" type="curve"/>
+      <point x="497" y="800"/>
+      <point x="497" y="693"/>
     </contour>
   </outline>
   <lib>
@@ -137,9 +137,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

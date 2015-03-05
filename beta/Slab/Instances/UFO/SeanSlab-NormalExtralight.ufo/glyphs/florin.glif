@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="florin" format="1">
-  <advance width="459"/>
+  <advance width="458"/>
   <unicode hex="0192"/>
   <outline>
     <contour>
@@ -18,7 +18,7 @@
       <point x="412" y="515"/>
     </contour>
     <contour>
-      <point x="454" y="826" type="curve"/>
+      <point x="453" y="826" type="curve"/>
       <point x="364" y="843"/>
       <point x="302" y="794"/>
       <point x="282" y="703" type="curve"/>
@@ -40,7 +40,7 @@
       <point x="340" y="768"/>
       <point x="382" y="803"/>
       <point x="446" y="791" type="curve"/>
-      <point x="454" y="826"/>
+      <point x="453" y="826"/>
       <point x="446" y="791"/>
     </contour>
   </outline>
@@ -51,9 +51,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

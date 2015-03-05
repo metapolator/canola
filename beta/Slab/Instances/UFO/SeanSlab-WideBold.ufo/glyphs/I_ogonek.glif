@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iogonek" format="1">
-  <advance width="430"/>
+  <advance width="420"/>
   <unicode hex="012E"/>
   <outline>
     <contour>
       <point x="208" y="722" type="curve"/>
       <point x="147" y="722"/>
       <point x="107" y="722"/>
-      <point x="47" y="722" type="curve"/>
-      <point x="47" y="629"/>
-      <point x="47" y="722"/>
-      <point x="47" y="629" type="curve"/>
+      <point x="46" y="722" type="curve"/>
+      <point x="46" y="629"/>
+      <point x="46" y="722"/>
+      <point x="46" y="629" type="curve"/>
       <point x="229" y="629"/>
       <point x="26" y="629"/>
       <point x="208" y="629" type="curve"/>
@@ -49,10 +49,10 @@
       <point x="208" y="93" type="curve"/>
       <point x="26" y="93"/>
       <point x="229" y="93"/>
-      <point x="47" y="93" type="curve"/>
-      <point x="47" y="0"/>
-      <point x="47" y="93"/>
-      <point x="47" y="0" type="curve"/>
+      <point x="46" y="93" type="curve"/>
+      <point x="46" y="0"/>
+      <point x="46" y="93"/>
+      <point x="46" y="0" type="curve"/>
       <point x="107" y="0"/>
       <point x="147" y="0"/>
       <point x="208" y="0" type="curve"/>
@@ -87,7 +87,7 @@
       <point x="305" y="-81"/>
       <point x="361" y="-154"/>
       <point x="305" y="-81" type="curve"/>
-      <point x="285" y="-89"/>
+      <point x="284" y="-89"/>
       <point x="271" y="-97"/>
       <point x="250" y="-97" type="curve"/>
       <point x="224" y="-97"/>
@@ -107,9 +107,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

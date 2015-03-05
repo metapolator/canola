@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="320"/>
+  <advance width="319"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
@@ -11,7 +11,7 @@
       <point x="10" y="0"/>
       <point x="10" y="35"/>
       <point x="10" y="0" type="curve"/>
-      <point x="61" y="0"/>
+      <point x="60" y="0"/>
       <point x="110" y="0"/>
       <point x="160" y="0" type="curve"/>
       <point x="160" y="35"/>
@@ -33,7 +33,7 @@
     </contour>
     <contour>
       <point x="160" y="0" type="curve"/>
-      <point x="211" y="0"/>
+      <point x="210" y="0"/>
       <point x="260" y="0"/>
       <point x="310" y="0" type="curve"/>
       <point x="310" y="35"/>
@@ -68,17 +68,14 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

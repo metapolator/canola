@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="1">
-  <advance width="662"/>
+  <advance width="597"/>
   <unicode hex="013D"/>
   <outline>
     <contour>
@@ -49,11 +49,11 @@
       <point x="185" y="612" type="curve"/>
       <point x="337" y="612"/>
       <point x="177" y="612"/>
-      <point x="328" y="612" type="curve"/>
-      <point x="328" y="722"/>
-      <point x="328" y="612"/>
-      <point x="328" y="722" type="curve"/>
-      <point x="277" y="722"/>
+      <point x="329" y="612" type="curve"/>
+      <point x="329" y="722"/>
+      <point x="329" y="612"/>
+      <point x="329" y="722" type="curve"/>
+      <point x="278" y="722"/>
       <point x="235" y="722"/>
       <point x="185" y="722" type="curve"/>
       <point x="185" y="612"/>
@@ -75,34 +75,34 @@
     </contour>
     <contour>
       <point x="185" y="0" type="curve"/>
-      <point x="310" y="0"/>
-      <point x="436" y="0"/>
+      <point x="311" y="0"/>
+      <point x="437" y="0"/>
       <point x="562" y="0" type="curve"/>
       <point x="562" y="110"/>
       <point x="562" y="0"/>
       <point x="562" y="110" type="curve"/>
-      <point x="436" y="110"/>
-      <point x="310" y="110"/>
+      <point x="437" y="110"/>
+      <point x="311" y="110"/>
       <point x="185" y="110" type="curve"/>
       <point x="185" y="0"/>
       <point x="185" y="110"/>
     </contour>
     <contour>
       <point x="456" y="479" type="line"/>
-      <point x="559" y="479"/>
+      <point x="559" y="480"/>
       <point x="628" y="550"/>
       <point x="628" y="657" type="curve"/>
-      <point x="628" y="742"/>
+      <point x="628" y="743"/>
       <point x="592" y="793"/>
       <point x="540" y="793" type="curve"/>
       <point x="494" y="793"/>
       <point x="462" y="768"/>
       <point x="462" y="721" type="curve"/>
       <point x="462" y="680"/>
-      <point x="488" y="651"/>
+      <point x="489" y="651"/>
       <point x="532" y="651" type="curve"/>
       <point x="531" y="619"/>
-      <point x="525" y="568"/>
+      <point x="525" y="569"/>
       <point x="456" y="557" type="curve"/>
     </contour>
   </outline>
@@ -113,9 +113,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

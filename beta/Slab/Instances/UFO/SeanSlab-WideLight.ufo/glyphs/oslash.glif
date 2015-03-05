@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="1">
-  <advance width="728"/>
+  <advance width="727"/>
   <unicode hex="00F8"/>
   <outline>
     <contour>
       <point x="170" y="-80" type="line"/>
-      <point x="605" y="574" type="line"/>
+      <point x="604" y="574" type="line"/>
       <point x="562" y="599" type="line"/>
       <point x="131" y="-52" type="line"/>
     </contour>
@@ -14,7 +14,7 @@
       <point x="123" y="410"/>
       <point x="214" y="490"/>
       <point x="358" y="490" type="curve"/>
-      <point x="509" y="490"/>
+      <point x="508" y="490"/>
       <point x="604" y="409"/>
       <point x="604" y="266" type="curve"/>
       <point x="604" y="122"/>
@@ -49,9 +49,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

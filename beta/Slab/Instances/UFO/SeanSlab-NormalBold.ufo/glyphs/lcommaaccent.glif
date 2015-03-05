@@ -22,11 +22,11 @@
       <point x="129" y="800"/>
       <point x="74" y="800"/>
       <point x="21" y="800" type="curve"/>
-      <point x="21" y="709"/>
+      <point x="20" y="709"/>
       <point x="21" y="800"/>
-      <point x="21" y="709" type="curve"/>
+      <point x="20" y="709" type="curve"/>
       <point x="183" y="708"/>
-      <point x="21" y="709"/>
+      <point x="20" y="709"/>
       <point x="183" y="708" type="curve"/>
       <point x="183" y="799"/>
       <point x="183" y="709"/>
@@ -60,22 +60,22 @@
       <point x="119" y="0"/>
     </contour>
     <contour>
-      <point x="123" y="-357" type="line"/>
-      <point x="219" y="-357"/>
-      <point x="281" y="-290"/>
-      <point x="281" y="-197" type="curve"/>
-      <point x="281" y="-125"/>
-      <point x="250" y="-77"/>
-      <point x="201" y="-77" type="curve"/>
-      <point x="161" y="-77"/>
-      <point x="133" y="-97"/>
-      <point x="133" y="-137" type="curve"/>
-      <point x="133" y="-174"/>
-      <point x="158" y="-196"/>
-      <point x="198" y="-197" type="curve"/>
-      <point x="197" y="-232"/>
-      <point x="189" y="-283"/>
-      <point x="123" y="-291" type="curve"/>
+      <point x="122" y="-356" type="line"/>
+      <point x="212" y="-349"/>
+      <point x="276" y="-287"/>
+      <point x="276" y="-192" type="curve"/>
+      <point x="276" y="-123"/>
+      <point x="245" y="-77"/>
+      <point x="196" y="-77" type="curve"/>
+      <point x="157" y="-77"/>
+      <point x="128" y="-97"/>
+      <point x="128" y="-137" type="curve"/>
+      <point x="128" y="-174"/>
+      <point x="154" y="-196"/>
+      <point x="193" y="-197" type="curve"/>
+      <point x="193" y="-232"/>
+      <point x="181" y="-276"/>
+      <point x="118" y="-291" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -85,9 +85,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

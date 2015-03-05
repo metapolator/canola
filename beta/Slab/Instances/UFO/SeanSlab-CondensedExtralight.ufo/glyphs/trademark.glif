@@ -173,9 +173,7 @@
     </contour>
     <contour>
       <point x="619" y="304" type="curve"/>
-      <point x="606" y="424"/>
-      <point x="593" y="544"/>
-      <point x="580" y="663" type="curve"/>
+      <point x="580" y="663" type="line"/>
       <point x="546" y="663"/>
       <point x="580" y="663"/>
       <point x="546" y="663" type="curve"/>
@@ -260,29 +258,15 @@
           <key>y</key>
           <integer>681</integer>
         </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>363</integer>
-          <key>y</key>
-          <integer>371</integer>
-        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

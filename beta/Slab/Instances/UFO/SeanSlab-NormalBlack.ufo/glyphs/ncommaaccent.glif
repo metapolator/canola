@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncommaaccent" format="1">
-  <advance width="722"/>
+  <advance width="723"/>
   <unicode hex="0146"/>
   <outline>
     <contour>
@@ -14,13 +14,13 @@
       <point x="492" y="200"/>
       <point x="492" y="107"/>
       <point x="492" y="0" type="curve"/>
-      <point x="588" y="0"/>
+      <point x="589" y="0"/>
       <point x="545" y="0"/>
-      <point x="641" y="0" type="curve"/>
-      <point x="641" y="111"/>
-      <point x="641" y="207"/>
-      <point x="641" y="318" type="curve"/>
-      <point x="641" y="459"/>
+      <point x="642" y="0" type="curve"/>
+      <point x="642" y="111"/>
+      <point x="642" y="207"/>
+      <point x="642" y="318" type="curve"/>
+      <point x="642" y="459"/>
       <point x="569" y="538"/>
       <point x="426" y="538" type="curve"/>
       <point x="296" y="538"/>
@@ -101,20 +101,20 @@
     </contour>
     <contour>
       <point x="283" y="-376" type="line"/>
-      <point x="393" y="-376"/>
-      <point x="468" y="-304"/>
-      <point x="468" y="-197" type="curve"/>
-      <point x="468" y="-113"/>
+      <point x="392" y="-376"/>
+      <point x="467" y="-304"/>
+      <point x="467" y="-196" type="curve"/>
+      <point x="467" y="-113"/>
       <point x="429" y="-57"/>
       <point x="371" y="-57" type="curve"/>
       <point x="323" y="-57"/>
       <point x="289" y="-83"/>
       <point x="289" y="-130" type="curve"/>
       <point x="289" y="-175"/>
-      <point x="321" y="-203"/>
+      <point x="320" y="-203"/>
       <point x="369" y="-203" type="curve"/>
       <point x="368" y="-241"/>
-      <point x="357" y="-287"/>
+      <point x="356" y="-286"/>
       <point x="283" y="-297" type="curve"/>
     </contour>
   </outline>
@@ -125,9 +125,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

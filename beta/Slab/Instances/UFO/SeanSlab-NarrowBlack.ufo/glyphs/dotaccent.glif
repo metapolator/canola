@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="426"/>
+  <advance width="425"/>
   <unicode hex="02D9"/>
   <outline>
     <contour>
       <point x="293" y="643" type="curve"/>
       <point x="293" y="692"/>
-      <point x="259" y="715"/>
-      <point x="214" y="715" type="curve"/>
+      <point x="260" y="715"/>
+      <point x="213" y="715" type="curve"/>
       <point x="167" y="715"/>
-      <point x="137" y="690"/>
-      <point x="137" y="643" type="curve"/>
+      <point x="136" y="690"/>
+      <point x="136" y="643" type="curve"/>
       <point x="293" y="643"/>
-      <point x="137" y="643"/>
+      <point x="136" y="643"/>
       <point x="293" y="643" type="curve"/>
       <point x="293" y="594"/>
       <point x="260" y="573"/>
       <point x="213" y="573" type="curve"/>
-      <point x="166" y="573"/>
-      <point x="137" y="596"/>
-      <point x="137" y="643" type="curve"/>
+      <point x="167" y="573"/>
+      <point x="136" y="596"/>
+      <point x="136" y="643" type="curve"/>
       <point x="293" y="643"/>
-      <point x="137" y="643"/>
+      <point x="136" y="643"/>
     </contour>
     <contour>
       <point x="214" y="574" type="move" name="_top"/>
@@ -34,9 +34,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

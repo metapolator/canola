@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g" format="1">
-  <advance width="428"/>
+  <advance width="432"/>
   <unicode hex="0067"/>
   <outline>
     <contour>
@@ -53,7 +53,7 @@
       <point x="65" y="30"/>
       <point x="128" y="-17"/>
       <point x="213" y="-27" type="curve"/>
-      <point x="277" y="-34"/>
+      <point x="276" y="-34"/>
       <point x="327" y="-63"/>
       <point x="327" y="-128" type="curve"/>
       <point x="327" y="-190"/>
@@ -78,19 +78,19 @@
       <point x="419" y="-232"/>
       <point x="417" y="-120" type="curve"/>
       <point x="417" y="-19"/>
-      <point x="336" y="36"/>
+      <point x="335" y="36"/>
       <point x="231" y="48" type="curve"/>
       <point x="191" y="52"/>
       <point x="164" y="78"/>
       <point x="164" y="119" type="curve"/>
       <point x="164" y="148"/>
       <point x="169" y="168"/>
-      <point x="190" y="188" type="curve"/>
+      <point x="189" y="188" type="curve"/>
       <point x="137" y="239"/>
-      <point x="190" y="188"/>
+      <point x="189" y="188"/>
     </contour>
     <contour>
-      <point x="225" y="632" type="move" name="top"/>
+      <point x="224" y="632" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -117,9 +117,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

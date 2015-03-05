@@ -3,11 +3,11 @@
   <advance width="336"/>
   <outline>
     <contour>
-      <point x="120" y="-122" type="line"/>
-      <point x="232" y="-122"/>
-      <point x="308" y="-51"/>
-      <point x="308" y="51" type="curve"/>
-      <point x="308" y="126"/>
+      <point x="122" y="-122" type="line"/>
+      <point x="231" y="-118"/>
+      <point x="308" y="-49"/>
+      <point x="308" y="53" type="curve"/>
+      <point x="308" y="127"/>
       <point x="270" y="184"/>
       <point x="210" y="184" type="curve"/>
       <point x="163" y="184"/>
@@ -17,11 +17,11 @@
       <point x="163" y="47"/>
       <point x="214" y="47" type="curve"/>
       <point x="212" y="3"/>
-      <point x="197" y="-40"/>
+      <point x="195" y="-37"/>
       <point x="120" y="-48" type="curve"/>
     </contour>
     <contour>
-      <point x="218" y="267" type="move" name="_bottom"/>
+      <point x="222" y="267" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
@@ -31,9 +31,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

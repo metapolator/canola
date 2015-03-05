@@ -4,13 +4,13 @@
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="32" y="595" type="line"/>
-      <point x="115" y="595"/>
-      <point x="161" y="657"/>
-      <point x="161" y="731" type="curve"/>
-      <point x="161" y="783"/>
-      <point x="141" y="824"/>
-      <point x="102" y="824" type="curve"/>
+      <point x="40" y="597" type="line"/>
+      <point x="109" y="612"/>
+      <point x="161" y="663"/>
+      <point x="161" y="741" type="curve"/>
+      <point x="161" y="787"/>
+      <point x="140" y="824"/>
+      <point x="101" y="824" type="curve"/>
       <point x="72" y="824"/>
       <point x="52" y="810"/>
       <point x="52" y="782" type="curve"/>
@@ -18,16 +18,16 @@
       <point x="71" y="740"/>
       <point x="101" y="738" type="curve"/>
       <point x="100" y="704"/>
-      <point x="94" y="646"/>
+      <point x="85" y="662"/>
       <point x="32" y="643" type="curve"/>
     </contour>
     <contour>
-      <point x="225" y="595" type="line"/>
-      <point x="308" y="595"/>
-      <point x="354" y="657"/>
-      <point x="354" y="731" type="curve"/>
-      <point x="354" y="783"/>
-      <point x="334" y="824"/>
+      <point x="233" y="597" type="line"/>
+      <point x="302" y="612"/>
+      <point x="354" y="663"/>
+      <point x="354" y="741" type="curve"/>
+      <point x="354" y="787"/>
+      <point x="333" y="824"/>
       <point x="294" y="824" type="curve"/>
       <point x="265" y="824"/>
       <point x="245" y="810"/>
@@ -36,8 +36,8 @@
       <point x="264" y="740"/>
       <point x="294" y="738" type="curve"/>
       <point x="293" y="704"/>
-      <point x="287" y="646"/>
-      <point x="225" y="643" type="curve"/>
+      <point x="278" y="662"/>
+      <point x="224" y="643" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -47,9 +47,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

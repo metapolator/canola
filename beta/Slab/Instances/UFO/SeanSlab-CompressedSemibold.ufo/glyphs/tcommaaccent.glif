@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="1">
-  <advance width="292"/>
+  <advance width="293"/>
   <unicode hex="0163"/>
   <outline>
     <contour>
@@ -36,22 +36,22 @@
       <point x="278" y="29"/>
     </contour>
     <contour>
-      <point x="109" y="-322" type="line"/>
-      <point x="185" y="-322"/>
-      <point x="229" y="-261"/>
-      <point x="229" y="-178" type="curve"/>
-      <point x="229" y="-110"/>
+      <point x="115" y="-319" type="line"/>
+      <point x="183" y="-311"/>
+      <point x="229" y="-257"/>
+      <point x="229" y="-172" type="curve"/>
+      <point x="229" y="-107"/>
       <point x="207" y="-73"/>
-      <point x="171" y="-73" type="curve"/>
-      <point x="139" y="-73"/>
-      <point x="119" y="-91"/>
-      <point x="119" y="-126" type="curve"/>
-      <point x="119" y="-152"/>
-      <point x="132" y="-174"/>
-      <point x="159" y="-176" type="curve"/>
-      <point x="159" y="-199"/>
-      <point x="161" y="-256"/>
-      <point x="109" y="-264" type="curve"/>
+      <point x="172" y="-73" type="curve"/>
+      <point x="140" y="-73"/>
+      <point x="120" y="-91"/>
+      <point x="120" y="-126" type="curve"/>
+      <point x="120" y="-152"/>
+      <point x="133" y="-174"/>
+      <point x="160" y="-176" type="curve"/>
+      <point x="160" y="-199"/>
+      <point x="157" y="-248"/>
+      <point x="110" y="-264" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -61,9 +61,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -4,32 +4,21 @@
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="159" y="459" type="curve"/>
-      <point x="232" y="565"/>
-      <point x="306" y="671"/>
-      <point x="379" y="778" type="curve"/>
-      <point x="283" y="778"/>
-      <point x="378" y="778"/>
-      <point x="283" y="778" type="curve"/>
-      <point x="209" y="671"/>
-      <point x="136" y="565"/>
-      <point x="63" y="459" type="curve"/>
-      <point x="158" y="459"/>
-      <point x="64" y="459"/>
-    </contour>
-    <contour>
-      <point x="602" y="459" type="curve"/>
+      <point x="602" y="459" type="line"/>
       <point x="529" y="563"/>
       <point x="452" y="673"/>
       <point x="379" y="778" type="curve"/>
-      <point x="284" y="778"/>
-      <point x="379" y="778"/>
-      <point x="283" y="778" type="curve"/>
-      <point x="356" y="673"/>
-      <point x="433" y="563"/>
+      <point x="283" y="778" type="line"/>
+      <point x="209" y="671"/>
+      <point x="136" y="565"/>
+      <point x="63" y="459" type="curve"/>
+      <point x="159" y="459" type="line"/>
+      <point x="216" y="542"/>
+      <point x="274" y="625"/>
+      <point x="332" y="709" type="curve"/>
+      <point x="389" y="625"/>
+      <point x="449" y="540"/>
       <point x="506" y="459" type="curve"/>
-      <point x="601" y="459"/>
-      <point x="507" y="459"/>
     </contour>
   </outline>
   <lib>
@@ -46,9 +35,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <real>121.0</real>
+          <real>101.2</real>
           <key>y</key>
-          <real>452.463675214</real>
+          <real>465.766666667</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -56,9 +45,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

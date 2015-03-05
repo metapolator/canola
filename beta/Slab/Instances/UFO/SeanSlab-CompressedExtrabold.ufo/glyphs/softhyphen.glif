@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="softhyphen" format="1">
-  <advance width="500"/>
+  <advance width="499"/>
   <outline>
     <contour>
       <point x="63" y="382" type="curve"/>
-      <point x="54" y="382"/>
+      <point x="55" y="382"/>
       <point x="446" y="382"/>
       <point x="437" y="382" type="curve"/>
       <point x="437" y="489"/>
       <point x="437" y="382"/>
       <point x="437" y="489" type="curve"/>
       <point x="446" y="489"/>
-      <point x="54" y="489"/>
+      <point x="55" y="489"/>
       <point x="63" y="489" type="curve"/>
       <point x="63" y="382"/>
       <point x="63" y="489"/>
@@ -24,9 +24,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

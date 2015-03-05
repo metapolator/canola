@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="1">
-  <advance width="223"/>
+  <advance width="224"/>
   <unicode hex="00B7"/>
   <outline>
     <contour>
@@ -12,7 +12,7 @@
       <point x="84" y="456"/>
       <point x="84" y="440" type="curve"/>
       <point x="129" y="440"/>
-      <point x="95" y="440"/>
+      <point x="94" y="440"/>
       <point x="140" y="440" type="curve"/>
       <point x="140" y="423"/>
       <point x="128" y="414"/>
@@ -21,7 +21,7 @@
       <point x="84" y="424"/>
       <point x="84" y="440" type="curve"/>
       <point x="129" y="440"/>
-      <point x="95" y="440"/>
+      <point x="94" y="440"/>
     </contour>
   </outline>
   <lib>
@@ -31,9 +31,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

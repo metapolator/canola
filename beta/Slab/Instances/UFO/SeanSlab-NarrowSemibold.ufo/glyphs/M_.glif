@@ -7,11 +7,11 @@
       <point x="763" y="0" type="curve"/>
       <point x="811" y="0"/>
       <point x="849" y="0"/>
-      <point x="897" y="0" type="curve"/>
-      <point x="897" y="80"/>
-      <point x="897" y="0"/>
-      <point x="897" y="80" type="curve"/>
-      <point x="753" y="80"/>
+      <point x="896" y="0" type="curve"/>
+      <point x="896" y="80"/>
+      <point x="896" y="0"/>
+      <point x="896" y="80" type="curve"/>
+      <point x="752" y="80"/>
       <point x="907" y="80"/>
       <point x="763" y="80" type="curve"/>
       <point x="763" y="0"/>
@@ -25,7 +25,7 @@
       <point x="634" y="0"/>
       <point x="634" y="80"/>
       <point x="634" y="0" type="curve"/>
-      <point x="680" y="0"/>
+      <point x="681" y="0"/>
       <point x="717" y="0"/>
       <point x="763" y="0" type="curve"/>
       <point x="763" y="80"/>
@@ -33,7 +33,7 @@
     </contour>
     <contour>
       <point x="156" y="80" type="curve"/>
-      <point x="12" y="80"/>
+      <point x="11" y="80"/>
       <point x="166" y="80"/>
       <point x="22" y="80" type="curve"/>
       <point x="22" y="0"/>
@@ -49,11 +49,11 @@
       <point x="206" y="722" type="curve"/>
       <point x="158" y="722"/>
       <point x="120" y="722"/>
-      <point x="73" y="722" type="curve"/>
+      <point x="72" y="722" type="curve"/>
       <point x="72" y="642"/>
-      <point x="73" y="722"/>
+      <point x="72" y="722"/>
       <point x="72" y="642" type="curve"/>
-      <point x="217" y="642"/>
+      <point x="216" y="642"/>
       <point x="62" y="642"/>
       <point x="206" y="642" type="curve"/>
       <point x="206" y="722"/>
@@ -61,8 +61,8 @@
     </contour>
     <contour>
       <point x="711" y="642" type="curve"/>
-      <point x="855" y="642"/>
-      <point x="701" y="642"/>
+      <point x="854" y="642"/>
+      <point x="700" y="642"/>
       <point x="844" y="642" type="curve"/>
       <point x="844" y="722"/>
       <point x="844" y="642"/>
@@ -90,7 +90,7 @@
     <contour>
       <point x="820" y="0" type="curve"/>
       <point x="801" y="241"/>
-      <point x="780" y="481"/>
+      <point x="779" y="481"/>
       <point x="761" y="722" type="curve"/>
       <point x="667" y="722"/>
       <point x="761" y="722"/>
@@ -105,15 +105,15 @@
       <point x="200" y="0" type="curve"/>
       <point x="216" y="241"/>
       <point x="233" y="481"/>
-      <point x="250" y="722" type="curve"/>
+      <point x="249" y="722" type="curve"/>
       <point x="158" y="722"/>
-      <point x="250" y="722"/>
+      <point x="249" y="722"/>
       <point x="158" y="722" type="curve"/>
       <point x="140" y="481"/>
       <point x="123" y="241"/>
-      <point x="106" y="0" type="curve"/>
+      <point x="105" y="0" type="curve"/>
       <point x="200" y="0"/>
-      <point x="106" y="0"/>
+      <point x="105" y="0"/>
     </contour>
     <contour>
       <point x="502" y="0" type="curve"/>
@@ -125,8 +125,8 @@
       <point x="160" y="722" type="curve"/>
       <point x="243" y="481"/>
       <point x="326" y="241"/>
-      <point x="409" y="0" type="curve"/>
-      <point x="502" y="0"/>
+      <point x="408" y="0" type="curve"/>
+      <point x="501" y="0"/>
       <point x="409" y="0"/>
     </contour>
     <contour>
@@ -139,38 +139,21 @@
       <point x="662" y="722" type="curve"/>
       <point x="580" y="481"/>
       <point x="497" y="241"/>
-      <point x="416" y="0" type="curve"/>
+      <point x="415" y="0" type="curve"/>
       <point x="510" y="0"/>
       <point x="416" y="0"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>852</integer>
-          <key>y</key>
-          <integer>382</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

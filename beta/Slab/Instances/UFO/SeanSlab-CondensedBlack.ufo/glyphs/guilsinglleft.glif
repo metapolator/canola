@@ -4,7 +4,7 @@
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="202" y="487" type="curve"/>
+      <point x="201" y="487" type="curve"/>
       <point x="160" y="453"/>
       <point x="85" y="391"/>
       <point x="43" y="357" type="curve"/>
@@ -13,12 +13,12 @@
       <point x="43" y="217" type="curve"/>
       <point x="85" y="251"/>
       <point x="160" y="324"/>
-      <point x="202" y="358" type="curve"/>
-      <point x="202" y="477"/>
-      <point x="202" y="368"/>
+      <point x="201" y="358" type="curve"/>
+      <point x="201" y="477"/>
+      <point x="201" y="368"/>
     </contour>
     <contour>
-      <point x="202" y="218" type="curve"/>
+      <point x="201" y="218" type="curve"/>
       <point x="160" y="252"/>
       <point x="85" y="322"/>
       <point x="43" y="357" type="curve"/>
@@ -27,9 +27,9 @@
       <point x="43" y="217" type="curve"/>
       <point x="85" y="183"/>
       <point x="160" y="123"/>
-      <point x="202" y="89" type="curve"/>
-      <point x="202" y="208"/>
-      <point x="202" y="99"/>
+      <point x="201" y="89" type="curve"/>
+      <point x="201" y="208"/>
+      <point x="201" y="99"/>
     </contour>
   </outline>
   <lib>
@@ -60,9 +60,23 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>188</integer>
+          <integer>401</integer>
           <key>y</key>
-          <integer>228</integer>
+          <integer>155</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>533</integer>
+          <key>y</key>
+          <integer>277</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -70,9 +84,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

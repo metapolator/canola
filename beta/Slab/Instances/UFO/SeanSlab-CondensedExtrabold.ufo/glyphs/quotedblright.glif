@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="448"/>
+  <advance width="447"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="50" y="531" type="line"/>
-      <point x="140" y="531"/>
-      <point x="198" y="598"/>
-      <point x="198" y="697" type="curve"/>
-      <point x="198" y="778"/>
+      <point x="52" y="532" type="line"/>
+      <point x="139" y="536"/>
+      <point x="198" y="600"/>
+      <point x="198" y="699" type="curve"/>
+      <point x="198" y="779"/>
       <point x="168" y="821"/>
       <point x="124" y="821" type="curve"/>
-      <point x="84" y="821"/>
+      <point x="85" y="821"/>
       <point x="58" y="799"/>
       <point x="58" y="756" type="curve"/>
       <point x="58" y="722"/>
       <point x="77" y="695"/>
-      <point x="112" y="694" type="curve"/>
-      <point x="112" y="668"/>
-      <point x="111" y="613"/>
+      <point x="113" y="694" type="curve"/>
+      <point x="113" y="668"/>
+      <point x="109" y="616"/>
       <point x="50" y="602" type="curve"/>
     </contour>
     <contour>
-      <point x="262" y="531" type="line"/>
-      <point x="353" y="531"/>
-      <point x="410" y="598"/>
-      <point x="410" y="697" type="curve"/>
-      <point x="410" y="778"/>
+      <point x="265" y="532" type="line"/>
+      <point x="352" y="536"/>
+      <point x="410" y="600"/>
+      <point x="410" y="699" type="curve"/>
+      <point x="410" y="779"/>
       <point x="380" y="821"/>
       <point x="337" y="821" type="curve"/>
       <point x="297" y="821"/>
@@ -36,8 +36,8 @@
       <point x="290" y="695"/>
       <point x="325" y="694" type="curve"/>
       <point x="325" y="668"/>
-      <point x="324" y="613"/>
-      <point x="262" y="602" type="curve"/>
+      <point x="322" y="616"/>
+      <point x="263" y="602" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -47,9 +47,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="1">
-  <advance width="606"/>
+  <advance width="605"/>
   <unicode hex="00DC"/>
   <outline>
     <contour>
@@ -35,12 +35,12 @@
       <point x="146" y="722" type="curve"/>
       <point x="106" y="722"/>
       <point x="71" y="722"/>
-      <point x="31" y="722" type="curve"/>
-      <point x="31" y="663"/>
-      <point x="31" y="722"/>
-      <point x="31" y="663" type="curve"/>
+      <point x="32" y="722" type="curve"/>
+      <point x="32" y="663"/>
+      <point x="32" y="722"/>
+      <point x="32" y="663" type="curve"/>
       <point x="152" y="663"/>
-      <point x="25" y="663"/>
+      <point x="26" y="663"/>
       <point x="146" y="663" type="curve"/>
       <point x="146" y="722"/>
       <point x="146" y="663"/>
@@ -116,9 +116,9 @@
       <point x="407" y="867"/>
       <point x="390" y="880"/>
       <point x="367" y="880" type="curve"/>
-      <point x="342" y="880"/>
-      <point x="327" y="866"/>
-      <point x="327" y="841" type="curve"/>
+      <point x="343" y="880"/>
+      <point x="328" y="866"/>
+      <point x="328" y="841" type="curve"/>
       <point x="409" y="841"/>
       <point x="325" y="841"/>
       <point x="407" y="841" type="curve"/>
@@ -126,8 +126,8 @@
       <point x="391" y="801"/>
       <point x="367" y="801" type="curve"/>
       <point x="342" y="801"/>
-      <point x="327" y="815"/>
-      <point x="327" y="841" type="curve"/>
+      <point x="328" y="815"/>
+      <point x="328" y="841" type="curve"/>
       <point x="409" y="841"/>
       <point x="325" y="841"/>
     </contour>
@@ -139,9 +139,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

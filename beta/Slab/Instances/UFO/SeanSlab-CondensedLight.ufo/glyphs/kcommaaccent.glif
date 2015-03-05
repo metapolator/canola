@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcommaaccent" format="1">
-  <advance width="478"/>
+  <advance width="475"/>
   <unicode hex="0137"/>
   <outline>
     <contour>
@@ -11,7 +11,7 @@
       <point x="7" y="0"/>
       <point x="7" y="47"/>
       <point x="7" y="0" type="curve"/>
-      <point x="49" y="0"/>
+      <point x="48" y="0"/>
       <point x="84" y="0"/>
       <point x="126" y="0" type="curve"/>
       <point x="126" y="47"/>
@@ -34,7 +34,7 @@
     <contour>
       <point x="342" y="486" type="curve"/>
       <point x="442" y="486"/>
-      <point x="337" y="486"/>
+      <point x="336" y="486"/>
       <point x="436" y="486" type="curve"/>
       <point x="436" y="533"/>
       <point x="436" y="486"/>
@@ -47,7 +47,7 @@
     </contour>
     <contour>
       <point x="126" y="0" type="curve"/>
-      <point x="162" y="0"/>
+      <point x="161" y="0"/>
       <point x="120" y="0"/>
       <point x="226" y="0" type="curve"/>
       <point x="226" y="47"/>
@@ -76,7 +76,7 @@
     <contour>
       <point x="127" y="800" type="curve"/>
       <point x="85" y="800"/>
-      <point x="50" y="800"/>
+      <point x="49" y="800"/>
       <point x="8" y="800" type="curve"/>
       <point x="8" y="753"/>
       <point x="8" y="800"/>
@@ -106,7 +106,7 @@
       <point x="136" y="275"/>
       <point x="200" y="275" type="curve"/>
       <point x="383" y="518" type="line"/>
-      <point x="325" y="518"/>
+      <point x="324" y="518"/>
       <point x="386" y="533"/>
     </contour>
     <contour>
@@ -120,22 +120,22 @@
       <point x="343" y="20"/>
     </contour>
     <contour>
-      <point x="220" y="-267" type="line"/>
-      <point x="281" y="-267"/>
-      <point x="310" y="-214"/>
-      <point x="310" y="-154" type="curve"/>
-      <point x="310" y="-108"/>
-      <point x="298" y="-77"/>
-      <point x="270" y="-77" type="curve"/>
-      <point x="248" y="-77"/>
-      <point x="235" y="-89"/>
-      <point x="235" y="-110" type="curve"/>
-      <point x="235" y="-128"/>
-      <point x="244" y="-141"/>
-      <point x="263" y="-145" type="curve"/>
-      <point x="263" y="-167"/>
-      <point x="264" y="-225"/>
-      <point x="220" y="-228" type="curve"/>
+      <point x="230" y="-262" type="line"/>
+      <point x="275" y="-245"/>
+      <point x="307" y="-206"/>
+      <point x="307" y="-142" type="curve"/>
+      <point x="307" y="-102"/>
+      <point x="295" y="-77"/>
+      <point x="269" y="-77" type="curve"/>
+      <point x="247" y="-77"/>
+      <point x="234" y="-89"/>
+      <point x="234" y="-110" type="curve"/>
+      <point x="234" y="-128"/>
+      <point x="243" y="-141"/>
+      <point x="261" y="-145" type="curve"/>
+      <point x="261" y="-167"/>
+      <point x="254" y="-208"/>
+      <point x="219" y="-228" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -145,9 +145,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

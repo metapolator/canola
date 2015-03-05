@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bulletoperator" format="1">
-  <advance width="372"/>
+  <advance width="373"/>
   <unicode hex="2219"/>
   <outline>
     <contour>
@@ -11,17 +11,11 @@
       <point x="116" y="537"/>
       <point x="70" y="501"/>
       <point x="70" y="439" type="curve"/>
-      <point x="282" y="439"/>
-      <point x="90" y="439"/>
-      <point x="302" y="439" type="curve"/>
-      <point x="302" y="373"/>
-      <point x="252" y="343"/>
-      <point x="183" y="343" type="curve"/>
-      <point x="115" y="343"/>
       <point x="70" y="376"/>
-      <point x="70" y="439" type="curve"/>
-      <point x="282" y="439"/>
-      <point x="90" y="439"/>
+      <point x="115" y="343"/>
+      <point x="183" y="343" type="curve"/>
+      <point x="252" y="343"/>
+      <point x="302" y="373"/>
     </contour>
   </outline>
   <lib>
@@ -31,9 +25,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

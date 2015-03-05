@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="1">
-  <advance width="256"/>
+  <advance width="255"/>
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="162" y="229" type="line"/>
+      <point x="163" y="229" type="line"/>
       <point x="171" y="722" type="line"/>
       <point x="85" y="722" type="line"/>
-      <point x="93" y="229" type="line"/>
+      <point x="94" y="229" type="line"/>
     </contour>
     <contour>
       <point x="175" y="34" type="curve"/>
       <point x="175" y="61"/>
       <point x="155" y="75"/>
-      <point x="127" y="75" type="curve"/>
+      <point x="128" y="75" type="curve"/>
       <point x="100" y="75"/>
       <point x="82" y="60"/>
       <point x="82" y="34" type="curve"/>
@@ -32,14 +32,31 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>198</integer>
+          <key>y</key>
+          <integer>167</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="600"/>
+  <advance width="601"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
@@ -91,7 +91,7 @@
       <point x="299" y="781" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="356" y="1" type="move" name="bottom"/>
+      <point x="357" y="1" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -101,9 +101,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

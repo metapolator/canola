@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="1">
-  <advance width="645"/>
+  <advance width="644"/>
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="44" y="224" type="curve"/>
-      <point x="514" y="224" type="curve"/>
-      <point x="540" y="314" type="curve"/>
-      <point x="71" y="314" type="curve"/>
+      <point x="44" y="224" type="line"/>
+      <point x="513" y="224" type="line"/>
+      <point x="540" y="314" type="line"/>
+      <point x="71" y="314" type="line"/>
     </contour>
     <contour>
-      <point x="103" y="444" type="curve"/>
-      <point x="575" y="444" type="curve"/>
-      <point x="601" y="534" type="curve"/>
-      <point x="128" y="534" type="curve"/>
+      <point x="103" y="444" type="line"/>
+      <point x="575" y="444" type="line"/>
+      <point x="601" y="534" type="line"/>
+      <point x="128" y="534" type="line"/>
     </contour>
     <contour>
-      <point x="407" y="39" type="curve"/>
-      <point x="600" y="722" type="curve"/>
-      <point x="482" y="722" type="curve"/>
-      <point x="289" y="39" type="curve"/>
+      <point x="407" y="39" type="line"/>
+      <point x="600" y="722" type="line"/>
+      <point x="482" y="722" type="line"/>
+      <point x="289" y="39" type="line"/>
     </contour>
     <contour>
-      <point x="164" y="46" type="curve"/>
-      <point x="355" y="722" type="curve"/>
-      <point x="238" y="722" type="curve"/>
-      <point x="51" y="46" type="curve"/>
+      <point x="164" y="46" type="line"/>
+      <point x="355" y="722" type="line"/>
+      <point x="238" y="722" type="line"/>
+      <point x="51" y="46" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,9 +35,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

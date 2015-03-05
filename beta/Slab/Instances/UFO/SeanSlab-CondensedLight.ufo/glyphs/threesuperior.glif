@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threesuperior" format="1">
-  <advance width="359"/>
+  <advance width="360"/>
   <unicode hex="00B3"/>
   <outline>
     <contour>
@@ -21,13 +21,13 @@
       <point x="278" y="547"/>
       <point x="278" y="621" type="curve"/>
       <point x="278" y="689"/>
-      <point x="238" y="732"/>
-      <point x="171" y="732" type="curve" name=""/>
+      <point x="239" y="732"/>
+      <point x="171" y="732" type="curve"/>
       <point x="132" y="732"/>
       <point x="97" y="708"/>
-      <point x="76" y="677" type="curve"/>
+      <point x="77" y="677" type="curve"/>
       <point x="108" y="652"/>
-      <point x="76" y="677"/>
+      <point x="77" y="677"/>
     </contour>
     <contour>
       <point x="74" y="342" type="curve"/>
@@ -43,7 +43,7 @@
       <point x="136" y="503"/>
       <point x="136" y="533"/>
       <point x="136" y="503" type="curve"/>
-      <point x="195" y="499"/>
+      <point x="196" y="499"/>
       <point x="240" y="473"/>
       <point x="240" y="424" type="curve"/>
       <point x="239" y="377"/>
@@ -69,9 +69,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

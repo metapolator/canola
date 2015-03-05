@@ -4,23 +4,23 @@
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="66" y="257" type="curve"/>
+      <point x="65" y="257" type="curve"/>
       <point x="408" y="257" type="line"/>
       <point x="408" y="375"/>
       <point x="408" y="257"/>
       <point x="408" y="375" type="curve"/>
-      <point x="66" y="375" type="line"/>
-      <point x="66" y="257"/>
-      <point x="66" y="375"/>
+      <point x="65" y="375" type="line"/>
+      <point x="65" y="257"/>
+      <point x="65" y="375"/>
     </contour>
     <contour>
       <point x="408" y="138" type="curve"/>
       <point x="408" y="375" type="line"/>
       <point x="270" y="375"/>
-      <point x="408" y="375"/>
-      <point x="270" y="375" type="curve"/>
-      <point x="270" y="138" type="line"/>
-      <point x="408" y="138"/>
+      <point x="407" y="375"/>
+      <point x="269" y="375" type="curve"/>
+      <point x="269" y="138" type="line"/>
+      <point x="407" y="138"/>
       <point x="270" y="138"/>
     </contour>
   </outline>
@@ -31,9 +31,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

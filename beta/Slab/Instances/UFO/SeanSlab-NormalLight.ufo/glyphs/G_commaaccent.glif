@@ -4,17 +4,17 @@
   <unicode hex="0122"/>
   <outline>
     <contour>
-      <point x="673" y="643" type="curve"/>
-      <point x="673" y="520"/>
-      <point x="673" y="640"/>
-      <point x="673" y="518" type="curve"/>
+      <point x="672" y="643" type="curve"/>
+      <point x="672" y="520"/>
+      <point x="672" y="640"/>
+      <point x="672" y="518" type="curve"/>
       <point x="721" y="518"/>
-      <point x="673" y="518"/>
+      <point x="672" y="518"/>
       <point x="721" y="518" type="curve"/>
       <point x="721" y="640"/>
       <point x="721" y="520"/>
       <point x="721" y="643" type="curve"/>
-      <point x="673" y="643"/>
+      <point x="672" y="643"/>
       <point x="721" y="643"/>
     </contour>
     <contour>
@@ -78,22 +78,22 @@
       <point x="691" y="603"/>
     </contour>
     <contour>
-      <point x="374" y="-278" type="line"/>
-      <point x="444" y="-278"/>
-      <point x="477" y="-222"/>
-      <point x="477" y="-159" type="curve"/>
-      <point x="477" y="-113"/>
-      <point x="463" y="-79"/>
-      <point x="433" y="-79" type="curve"/>
-      <point x="409" y="-79"/>
-      <point x="395" y="-91"/>
-      <point x="395" y="-113" type="curve"/>
-      <point x="395" y="-133"/>
-      <point x="407" y="-145"/>
-      <point x="428" y="-149" type="curve"/>
-      <point x="428" y="-177"/>
-      <point x="427" y="-236"/>
-      <point x="374" y="-239" type="curve"/>
+      <point x="372" y="-275" type="line"/>
+      <point x="424" y="-257"/>
+      <point x="463" y="-214"/>
+      <point x="463" y="-146" type="curve"/>
+      <point x="463" y="-108"/>
+      <point x="449" y="-79"/>
+      <point x="419" y="-79" type="curve"/>
+      <point x="396" y="-79"/>
+      <point x="381" y="-91"/>
+      <point x="381" y="-113" type="curve"/>
+      <point x="381" y="-133"/>
+      <point x="393" y="-145"/>
+      <point x="415" y="-149" type="curve"/>
+      <point x="415" y="-177"/>
+      <point x="403" y="-218"/>
+      <point x="361" y="-239" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -103,9 +103,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

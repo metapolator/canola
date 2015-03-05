@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="space" format="1">
-  <advance width="291"/>
+  <advance width="244"/>
   <unicode hex="0020"/>
   <outline>
-    <contour>
-      <point x="149" y="670" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="150" y="-79" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -17,9 +11,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

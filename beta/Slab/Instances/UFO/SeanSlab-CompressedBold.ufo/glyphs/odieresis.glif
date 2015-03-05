@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="1">
-  <advance width="479"/>
+  <advance width="480"/>
   <unicode hex="00F6"/>
   <outline>
     <contour>
@@ -23,12 +23,12 @@
       <point x="42" y="112"/>
       <point x="98" y="-5"/>
       <point x="238" y="-5" type="curve"/>
-      <point x="378" y="-5"/>
+      <point x="379" y="-5"/>
       <point x="437" y="110"/>
       <point x="437" y="265" type="curve"/>
       <point x="437" y="421"/>
-      <point x="380" y="538"/>
-      <point x="240" y="538" type="curve"/>
+      <point x="381" y="538"/>
+      <point x="241" y="538" type="curve"/>
       <point x="99" y="538"/>
       <point x="42" y="421"/>
       <point x="42" y="265" type="curve"/>
@@ -40,7 +40,7 @@
       <point x="215" y="715"/>
       <point x="190" y="735"/>
       <point x="156" y="735" type="curve"/>
-      <point x="121" y="735"/>
+      <point x="122" y="735"/>
       <point x="99" y="713"/>
       <point x="99" y="676" type="curve"/>
       <point x="216" y="676"/>
@@ -59,21 +59,21 @@
       <point x="379" y="676" type="curve"/>
       <point x="379" y="715"/>
       <point x="354" y="735"/>
-      <point x="320" y="735" type="curve"/>
+      <point x="321" y="735" type="curve"/>
       <point x="286" y="735"/>
       <point x="263" y="713"/>
       <point x="263" y="676" type="curve"/>
       <point x="380" y="676"/>
-      <point x="262" y="676"/>
+      <point x="263" y="676"/>
       <point x="379" y="676" type="curve"/>
       <point x="379" y="637"/>
       <point x="355" y="619"/>
-      <point x="320" y="619" type="curve"/>
+      <point x="321" y="619" type="curve"/>
       <point x="285" y="619"/>
       <point x="263" y="639"/>
       <point x="263" y="676" type="curve"/>
       <point x="380" y="676"/>
-      <point x="262" y="676"/>
+      <point x="263" y="676"/>
     </contour>
   </outline>
   <lib>
@@ -83,9 +83,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

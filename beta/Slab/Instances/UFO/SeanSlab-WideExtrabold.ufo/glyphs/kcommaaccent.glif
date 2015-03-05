@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcommaaccent" format="1">
-  <advance width="743"/>
+  <advance width="735"/>
   <unicode hex="0137"/>
   <outline>
     <contour>
-      <point x="169" y="103" type="curve"/>
+      <point x="168" y="103" type="curve"/>
       <point x="-16" y="104"/>
       <point x="192" y="103"/>
       <point x="8" y="104" type="curve"/>
@@ -13,19 +13,19 @@
       <point x="8" y="0" type="curve"/>
       <point x="69" y="0"/>
       <point x="107" y="-1"/>
-      <point x="169" y="-1" type="curve"/>
-      <point x="169" y="103"/>
-      <point x="169" y="-1"/>
+      <point x="168" y="-1" type="curve"/>
+      <point x="168" y="103"/>
+      <point x="168" y="-1"/>
     </contour>
     <contour>
       <point x="553" y="-1" type="curve"/>
-      <point x="621" y="-1"/>
+      <point x="620" y="-1"/>
       <point x="650" y="0"/>
       <point x="717" y="0" type="curve"/>
       <point x="717" y="104"/>
       <point x="717" y="0"/>
       <point x="717" y="104" type="curve"/>
-      <point x="515" y="103"/>
+      <point x="514" y="103"/>
       <point x="756" y="104"/>
       <point x="554" y="103" type="curve"/>
       <point x="554" y="-1"/>
@@ -46,7 +46,7 @@
       <point x="554" y="533"/>
     </contour>
     <contour>
-      <point x="169" y="-1" type="curve"/>
+      <point x="168" y="-1" type="curve"/>
       <point x="216" y="-1"/>
       <point x="168" y="-1"/>
       <point x="311" y="0" type="curve"/>
@@ -55,9 +55,9 @@
       <point x="311" y="104" type="curve"/>
       <point x="168" y="103"/>
       <point x="311" y="104"/>
-      <point x="169" y="103" type="curve"/>
-      <point x="169" y="-1"/>
-      <point x="169" y="103"/>
+      <point x="168" y="103" type="curve"/>
+      <point x="168" y="-1"/>
+      <point x="168" y="103"/>
     </contour>
     <contour>
       <point x="572" y="533" type="curve"/>
@@ -88,15 +88,15 @@
       <point x="171" y="696"/>
     </contour>
     <contour>
-      <point x="241" y="0" type="curve"/>
-      <point x="241" y="800" type="line"/>
+      <point x="240" y="0" type="curve"/>
+      <point x="240" y="800" type="line"/>
       <point x="99" y="800"/>
-      <point x="241" y="800"/>
+      <point x="240" y="800"/>
       <point x="99" y="800" type="curve"/>
       <point x="99" y="533"/>
       <point x="99" y="267"/>
       <point x="99" y="0" type="curve"/>
-      <point x="241" y="0"/>
+      <point x="240" y="0"/>
       <point x="99" y="0"/>
     </contour>
     <contour>
@@ -120,22 +120,22 @@
       <point x="484" y="52"/>
     </contour>
     <contour>
-      <point x="323" y="-393" type="line"/>
-      <point x="435" y="-393"/>
-      <point x="511" y="-321"/>
-      <point x="511" y="-220" type="curve"/>
-      <point x="511" y="-145"/>
-      <point x="473" y="-86"/>
-      <point x="413" y="-86" type="curve"/>
-      <point x="366" y="-86"/>
-      <point x="331" y="-110"/>
-      <point x="331" y="-154" type="curve"/>
-      <point x="331" y="-200"/>
-      <point x="366" y="-223"/>
-      <point x="416" y="-224" type="curve"/>
-      <point x="415" y="-267"/>
-      <point x="399" y="-311"/>
-      <point x="323" y="-319" type="curve"/>
+      <point x="321" y="-392" type="line"/>
+      <point x="430" y="-389"/>
+      <point x="507" y="-320"/>
+      <point x="507" y="-217" type="curve"/>
+      <point x="507" y="-143"/>
+      <point x="469" y="-86"/>
+      <point x="409" y="-86" type="curve"/>
+      <point x="362" y="-86"/>
+      <point x="327" y="-110"/>
+      <point x="327" y="-154" type="curve"/>
+      <point x="327" y="-200"/>
+      <point x="362" y="-223"/>
+      <point x="412" y="-224" type="curve"/>
+      <point x="411" y="-267"/>
+      <point x="393" y="-307"/>
+      <point x="319" y="-319" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -145,9 +145,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

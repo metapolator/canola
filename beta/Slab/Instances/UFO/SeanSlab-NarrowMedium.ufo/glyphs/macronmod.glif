@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macronmod" format="1">
-  <advance width="320"/>
+  <advance width="321"/>
   <outline>
     <contour>
       <point x="260" y="679" type="curve"/>
       <point x="193" y="679"/>
       <point x="127" y="679"/>
-      <point x="60" y="679" type="curve"/>
-      <point x="60" y="609"/>
-      <point x="60" y="679"/>
-      <point x="60" y="609" type="curve"/>
+      <point x="61" y="679" type="curve"/>
+      <point x="61" y="609"/>
+      <point x="61" y="679"/>
+      <point x="61" y="609" type="curve"/>
       <point x="127" y="609"/>
       <point x="193" y="609"/>
       <point x="260" y="609" type="curve"/>
@@ -24,9 +24,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

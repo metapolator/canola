@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve" format="1">
-  <advance width="450"/>
-  <unicode hex="0306"/>
+  <advance width="451"/>
+  <unicode hex="02D8"/>
   <outline>
     <contour>
       <point x="326" y="741" type="curve"/>
       <point x="326" y="667"/>
-      <point x="260" y="640"/>
+      <point x="261" y="640"/>
       <point x="175" y="640" type="curve"/>
       <point x="94" y="640"/>
       <point x="32" y="669"/>
@@ -34,9 +34,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

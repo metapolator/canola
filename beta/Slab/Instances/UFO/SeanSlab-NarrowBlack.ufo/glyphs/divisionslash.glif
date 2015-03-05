@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divisionslash" format="1">
-  <advance width="507"/>
+  <advance width="508"/>
   <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="100" y="-35" type="line"/>
+      <point x="101" y="-35" type="line"/>
       <point x="482" y="707" type="line"/>
       <point x="350" y="707" type="line"/>
-      <point x="-32" y="-35" type="line"/>
+      <point x="-31" y="-35" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,9 +17,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

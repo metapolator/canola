@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="316"/>
+  <advance width="315"/>
   <unicode hex="00B9"/>
   <outline>
     <contour>
@@ -12,37 +12,37 @@
       <point x="267" y="421"/>
       <point x="267" y="505" type="curve"/>
       <point x="259" y="505"/>
-      <point x="230" y="505"/>
-      <point x="222" y="505" type="curve"/>
+      <point x="229" y="505"/>
+      <point x="221" y="505" type="curve"/>
       <point x="116" y="421"/>
-      <point x="222" y="503"/>
+      <point x="221" y="503"/>
     </contour>
     <contour>
-      <point x="222" y="505" type="curve"/>
+      <point x="221" y="505" type="curve"/>
       <point x="179" y="505"/>
-      <point x="113" y="505"/>
+      <point x="112" y="505"/>
       <point x="69" y="505" type="curve"/>
       <point x="69" y="421"/>
       <point x="69" y="503"/>
       <point x="69" y="420" type="curve"/>
-      <point x="78" y="420"/>
-      <point x="108" y="420"/>
+      <point x="77" y="420"/>
+      <point x="107" y="420"/>
       <point x="116" y="420" type="curve"/>
-      <point x="222" y="503"/>
+      <point x="221" y="503"/>
       <point x="116" y="421"/>
     </contour>
     <contour>
-      <point x="97" y="693" type="line"/>
-      <point x="222" y="837" type="line"/>
+      <point x="96" y="693" type="line"/>
+      <point x="221" y="837" type="line"/>
       <point x="116" y="837" type="line"/>
       <point x="34" y="755" type="line"/>
     </contour>
     <contour>
-      <point x="222" y="505" type="curve"/>
-      <point x="222" y="837" type="line"/>
+      <point x="221" y="505" type="curve"/>
+      <point x="221" y="837" type="line"/>
       <point x="116" y="837" type="line"/>
       <point x="116" y="420" type="line"/>
-      <point x="222" y="503"/>
+      <point x="221" y="503"/>
       <point x="116" y="421"/>
     </contour>
     <contour>
@@ -54,14 +54,17 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

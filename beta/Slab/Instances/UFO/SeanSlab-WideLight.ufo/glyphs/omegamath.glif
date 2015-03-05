@@ -13,7 +13,7 @@
       <point x="69" y="191"/>
       <point x="143" y="90"/>
       <point x="274" y="4" type="curve"/>
-      <point x="307" y="51"/>
+      <point x="308" y="51"/>
       <point x="273" y="1"/>
     </contour>
     <contour>
@@ -45,7 +45,7 @@
     <contour>
       <point x="308" y="48" type="line"/>
       <point x="37" y="48"/>
-      <point x="301" y="48"/>
+      <point x="302" y="48"/>
       <point x="31" y="48" type="curve"/>
       <point x="31" y="0"/>
       <point x="31" y="48"/>
@@ -62,7 +62,7 @@
       <point x="928" y="49"/>
       <point x="928" y="-1"/>
       <point x="928" y="48" type="curve"/>
-      <point x="651" y="48"/>
+      <point x="652" y="48"/>
       <point x="921" y="48"/>
       <point x="645" y="48" type="curve"/>
     </contour>
@@ -85,15 +85,29 @@
           <key>y</key>
           <integer>55</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>350</integer>
+          <key>y</key>
+          <integer>21</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="557"/>
+  <advance width="556"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
       <point x="266" y="436" type="curve"/>
       <point x="245" y="422"/>
-      <point x="85" y="331"/>
+      <point x="84" y="331"/>
       <point x="63" y="317" type="curve"/>
       <point x="63" y="251"/>
       <point x="63" y="311"/>
       <point x="63" y="245" type="curve"/>
-      <point x="85" y="259"/>
+      <point x="84" y="259"/>
       <point x="245" y="353"/>
       <point x="266" y="368" type="curve"/>
       <point x="266" y="433"/>
       <point x="266" y="371"/>
     </contour>
     <contour>
-      <point x="267" y="195" type="curve"/>
+      <point x="266" y="195" type="curve"/>
       <point x="245" y="210"/>
-      <point x="85" y="302"/>
+      <point x="84" y="302"/>
       <point x="63" y="317" type="curve"/>
       <point x="63" y="251"/>
       <point x="63" y="311"/>
       <point x="63" y="245" type="curve"/>
-      <point x="85" y="230"/>
+      <point x="84" y="230"/>
       <point x="245" y="141"/>
-      <point x="267" y="127" type="curve"/>
-      <point x="267" y="192"/>
-      <point x="267" y="130"/>
+      <point x="266" y="127" type="curve"/>
+      <point x="266" y="192"/>
+      <point x="266" y="130"/>
     </contour>
     <contour>
       <point x="471" y="436" type="curve"/>
@@ -46,7 +46,7 @@
       <point x="471" y="371"/>
     </contour>
     <contour>
-      <point x="472" y="195" type="curve"/>
+      <point x="471" y="195" type="curve"/>
       <point x="450" y="210"/>
       <point x="290" y="302"/>
       <point x="268" y="317" type="curve"/>
@@ -55,9 +55,9 @@
       <point x="268" y="245" type="curve"/>
       <point x="290" y="230"/>
       <point x="450" y="141"/>
-      <point x="472" y="127" type="curve"/>
-      <point x="472" y="192"/>
-      <point x="472" y="130"/>
+      <point x="471" y="127" type="curve"/>
+      <point x="471" y="192"/>
+      <point x="471" y="130"/>
     </contour>
   </outline>
   <lib>
@@ -67,9 +67,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

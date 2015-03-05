@@ -20,7 +20,7 @@
     <contour>
       <point x="546" y="23" type="curve"/>
       <point x="418" y="23"/>
-      <point x="568" y="23"/>
+      <point x="569" y="23"/>
       <point x="441" y="23" type="curve"/>
       <point x="441" y="0"/>
       <point x="441" y="23"/>
@@ -75,7 +75,7 @@
     </contour>
     <contour>
       <point x="129" y="0" type="curve"/>
-      <point x="171" y="0"/>
+      <point x="172" y="0"/>
       <point x="107" y="0"/>
       <point x="233" y="0" type="curve"/>
       <point x="233" y="23"/>
@@ -146,31 +146,14 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>852</integer>
-          <key>y</key>
-          <integer>382</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

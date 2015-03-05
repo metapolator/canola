@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="1">
-  <advance width="791"/>
+  <advance width="790"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
@@ -35,10 +35,10 @@
       <point x="628" y="-300" type="curve"/>
       <point x="680" y="-300"/>
       <point x="726" y="-300"/>
-      <point x="778" y="-300" type="curve"/>
-      <point x="778" y="-274"/>
-      <point x="778" y="-290"/>
-      <point x="778" y="-264" type="curve"/>
+      <point x="777" y="-300" type="curve"/>
+      <point x="777" y="-274"/>
+      <point x="777" y="-290"/>
+      <point x="777" y="-264" type="curve"/>
       <point x="638" y="-265"/>
       <point x="767" y="-264"/>
       <point x="628" y="-265" type="curve"/>
@@ -82,14 +82,14 @@
       <point x="649" y="-18"/>
       <point x="649" y="251"/>
       <point x="649" y="533" type="curve"/>
-      <point x="617" y="533"/>
+      <point x="616" y="533"/>
       <point x="635" y="533"/>
       <point x="603" y="533" type="curve"/>
       <point x="603" y="251"/>
       <point x="603" y="-18"/>
       <point x="603" y="-300" type="curve"/>
       <point x="635" y="-300"/>
-      <point x="617" y="-300"/>
+      <point x="616" y="-300"/>
     </contour>
   </outline>
   <lib>
@@ -99,9 +99,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

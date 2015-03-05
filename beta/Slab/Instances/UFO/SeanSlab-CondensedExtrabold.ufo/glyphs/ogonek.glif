@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="1">
-  <advance width="241"/>
+  <advance width="240"/>
   <unicode hex="02DB"/>
   <outline>
     <contour>
@@ -9,28 +9,28 @@
       <point x="-5" y="20"/>
       <point x="-5" y="-48" type="curve"/>
       <point x="-5" y="-121"/>
-      <point x="37" y="-172"/>
+      <point x="36" y="-172"/>
       <point x="109" y="-172" type="curve"/>
       <point x="144" y="-172"/>
       <point x="168" y="-160"/>
-      <point x="197" y="-139" type="curve"/>
+      <point x="196" y="-139" type="curve"/>
       <point x="139" y="-62"/>
       <point x="195" y="-138"/>
       <point x="138" y="-61" type="curve"/>
       <point x="131" y="-66"/>
-      <point x="124" y="-73"/>
+      <point x="123" y="-73"/>
       <point x="115" y="-73" type="curve"/>
       <point x="103" y="-73"/>
-      <point x="96" y="-62"/>
-      <point x="96" y="-48" type="curve"/>
-      <point x="96" y="-18"/>
-      <point x="128" y="-4"/>
+      <point x="95" y="-62"/>
+      <point x="95" y="-48" type="curve"/>
+      <point x="95" y="-18"/>
+      <point x="127" y="-4"/>
       <point x="154" y="13" type="curve"/>
       <point x="108" y="80"/>
       <point x="153" y="14"/>
     </contour>
     <contour>
-      <point x="142" y="13" type="move" name="_bottom"/>
+      <point x="141" y="13" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
@@ -40,9 +40,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

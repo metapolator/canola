@@ -3,7 +3,7 @@
   <advance width="889"/>
   <outline>
     <contour>
-      <point x="321" y="92" type="curve"/>
+      <point x="322" y="92" type="curve"/>
       <point x="234" y="159"/>
       <point x="193" y="236"/>
       <point x="193" y="347" type="curve"/>
@@ -22,11 +22,11 @@
       <point x="280" y="636"/>
       <point x="437" y="636" type="curve"/>
       <point x="598" y="636"/>
-      <point x="694" y="520"/>
-      <point x="694" y="350" type="curve"/>
-      <point x="694" y="235"/>
+      <point x="695" y="520"/>
+      <point x="695" y="350" type="curve"/>
+      <point x="695" y="235"/>
       <point x="650" y="157"/>
-      <point x="557" y="92" type="curve"/>
+      <point x="558" y="92" type="curve"/>
       <point x="604" y="43"/>
       <point x="586" y="54"/>
       <point x="626" y="5" type="curve"/>
@@ -43,19 +43,19 @@
       <point x="72" y="347"/>
     </contour>
     <contour>
-      <point x="321" y="92" type="line"/>
+      <point x="322" y="92" type="line"/>
       <point x="62" y="92"/>
-      <point x="306" y="92"/>
+      <point x="307" y="92"/>
       <point x="47" y="92" type="curve"/>
       <point x="47" y="0"/>
       <point x="47" y="92"/>
       <point x="47" y="0" type="curve"/>
       <point x="122" y="0"/>
       <point x="246" y="0"/>
-      <point x="321" y="0" type="curve"/>
+      <point x="322" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="557" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
       <point x="635" y="0"/>
       <point x="610" y="0"/>
       <point x="841" y="0" type="curve"/>
@@ -64,7 +64,7 @@
       <point x="841" y="92" type="curve"/>
       <point x="576" y="92"/>
       <point x="823" y="92"/>
-      <point x="557" y="92" type="curve"/>
+      <point x="558" y="92" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -85,15 +85,29 @@
           <key>y</key>
           <integer>55</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>350</integer>
+          <key>y</key>
+          <integer>21</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

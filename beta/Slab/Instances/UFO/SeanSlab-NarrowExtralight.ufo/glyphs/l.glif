@@ -18,18 +18,18 @@
       <point x="147" y="0"/>
     </contour>
     <contour>
-      <point x="149" y="800" type="curve"/>
+      <point x="148" y="800" type="curve"/>
       <point x="103" y="800"/>
       <point x="57" y="800"/>
-      <point x="12" y="800" type="curve"/>
+      <point x="11" y="800" type="curve"/>
       <point x="11" y="765"/>
-      <point x="12" y="800"/>
+      <point x="11" y="800"/>
       <point x="11" y="765" type="curve"/>
-      <point x="149" y="765"/>
+      <point x="148" y="765"/>
       <point x="11" y="765"/>
-      <point x="149" y="765" type="curve"/>
-      <point x="149" y="800"/>
-      <point x="149" y="765"/>
+      <point x="148" y="765" type="curve"/>
+      <point x="148" y="800"/>
+      <point x="148" y="765"/>
     </contour>
     <contour>
       <point x="147" y="0" type="curve"/>
@@ -60,7 +60,7 @@
       <point x="125" y="0"/>
     </contour>
     <contour>
-      <point x="147" y="893" type="move" name="top"/>
+      <point x="146" y="893" type="move" name="top"/>
     </contour>
     <contour>
       <point x="157" y="-49" type="move" name="bottom"/>
@@ -68,17 +68,14 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

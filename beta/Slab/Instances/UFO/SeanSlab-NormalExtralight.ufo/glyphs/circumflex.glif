@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
   <advance width="558"/>
-  <unicode hex="0302"/>
+  <unicode hex="02C6"/>
   <outline>
     <contour>
       <point x="70" y="590" type="line"/>
       <point x="213" y="756" type="line"/>
       <point x="154" y="756" type="line"/>
-      <point x="26" y="590" type="line"/>
+      <point x="25" y="590" type="line"/>
     </contour>
     <contour>
       <point x="358" y="590" type="line"/>
       <point x="229" y="756" type="line"/>
       <point x="170" y="756" type="line"/>
-      <point x="313" y="590" type="line"/>
+      <point x="312" y="590" type="line"/>
     </contour>
     <contour>
       <point x="192" y="590" type="move" name="_top"/>
@@ -26,9 +26,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

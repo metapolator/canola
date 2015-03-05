@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="1">
-  <advance width="340"/>
+  <advance width="320"/>
   <unicode hex="00CE"/>
   <outline>
     <contour>
@@ -19,7 +19,7 @@
     </contour>
     <contour>
       <point x="160" y="663" type="curve"/>
-      <point x="294" y="663"/>
+      <point x="295" y="663"/>
       <point x="148" y="663"/>
       <point x="283" y="663" type="curve"/>
       <point x="283" y="722"/>
@@ -40,7 +40,7 @@
       <point x="283" y="0"/>
       <point x="283" y="59" type="curve"/>
       <point x="148" y="59"/>
-      <point x="294" y="59"/>
+      <point x="295" y="59"/>
       <point x="160" y="59" type="curve"/>
       <point x="160" y="0"/>
       <point x="160" y="59"/>
@@ -93,9 +93,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

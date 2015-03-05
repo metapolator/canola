@@ -49,7 +49,7 @@
       <point x="171" y="703"/>
       <point x="206" y="761"/>
       <point x="309" y="761" type="curve"/>
-      <point x="345" y="761"/>
+      <point x="344" y="761"/>
       <point x="377" y="752"/>
       <point x="400" y="739" type="curve"/>
       <point x="412" y="761"/>
@@ -140,15 +140,29 @@
           <key>y</key>
           <integer>513</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>740</integer>
+          <key>y</key>
+          <integer>429</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

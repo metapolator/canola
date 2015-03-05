@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="1">
-  <advance width="238"/>
+  <advance width="239"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
       <point x="170" y="685" type="curve"/>
-      <point x="122" y="685"/>
+      <point x="123" y="685"/>
       <point x="74" y="685"/>
-      <point x="26" y="685" type="curve"/>
-      <point x="26" y="617"/>
-      <point x="26" y="685"/>
-      <point x="26" y="617" type="curve"/>
+      <point x="27" y="685" type="curve"/>
+      <point x="27" y="617"/>
+      <point x="27" y="685"/>
+      <point x="27" y="617" type="curve"/>
       <point x="74" y="617"/>
-      <point x="122" y="617"/>
+      <point x="123" y="617"/>
       <point x="170" y="617" type="curve"/>
       <point x="170" y="685"/>
       <point x="170" y="617"/>
@@ -28,9 +28,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

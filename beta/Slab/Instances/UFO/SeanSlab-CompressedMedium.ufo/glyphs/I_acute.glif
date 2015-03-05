@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="1">
-  <advance width="324"/>
+  <advance width="316"/>
   <unicode hex="00CD"/>
   <outline>
     <contour>
@@ -26,14 +26,14 @@
       <point x="278" y="654"/>
       <point x="278" y="722" type="curve"/>
       <point x="235" y="722"/>
-      <point x="201" y="722"/>
+      <point x="200" y="722"/>
       <point x="158" y="722" type="curve"/>
       <point x="158" y="654"/>
       <point x="158" y="722"/>
     </contour>
     <contour>
       <point x="158" y="0" type="curve"/>
-      <point x="201" y="0"/>
+      <point x="200" y="0"/>
       <point x="235" y="0"/>
       <point x="278" y="0" type="curve"/>
       <point x="278" y="68"/>
@@ -87,9 +87,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

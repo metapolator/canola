@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="1">
-  <advance width="570"/>
+  <advance width="571"/>
   <unicode hex="0119"/>
   <outline>
     <contour>
@@ -39,8 +39,8 @@
       <point x="108" y="128"/>
       <point x="108" y="281" type="curve"/>
       <point x="108" y="416"/>
-      <point x="165" y="502"/>
-      <point x="290" y="502" type="curve"/>
+      <point x="166" y="502"/>
+      <point x="291" y="502" type="curve"/>
       <point x="408" y="502"/>
       <point x="467" y="428"/>
       <point x="467" y="305" type="curve"/>
@@ -81,7 +81,7 @@
       <point x="243" y="-93" type="curve"/>
       <point x="243" y="-41"/>
       <point x="288" y="-24"/>
-      <point x="337" y="-1" type="curve"/>
+      <point x="338" y="-1" type="curve"/>
       <point x="324" y="19"/>
       <point x="335" y="3"/>
     </contour>
@@ -93,9 +93,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

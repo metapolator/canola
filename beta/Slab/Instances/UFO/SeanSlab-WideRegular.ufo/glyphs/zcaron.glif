@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="1">
-  <advance width="649"/>
+  <advance width="648"/>
   <unicode hex="017E"/>
   <outline>
     <contour>
@@ -34,9 +34,9 @@
       <point x="604" y="0"/>
       <point x="604" y="62" type="curve"/>
       <point x="427" y="62"/>
-      <point x="255" y="62"/>
+      <point x="254" y="62"/>
       <point x="78" y="62" type="curve"/>
-      <point x="85" y="57"/>
+      <point x="84" y="57"/>
       <point x="92" y="56"/>
       <point x="99" y="51" type="curve"/>
       <point x="104" y="45"/>
@@ -109,9 +109,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

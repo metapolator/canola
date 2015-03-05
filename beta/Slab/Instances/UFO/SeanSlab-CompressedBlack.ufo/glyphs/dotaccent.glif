@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="384"/>
+  <advance width="383"/>
   <unicode hex="02D9"/>
   <outline>
     <contour>
       <point x="263" y="685" type="curve"/>
       <point x="263" y="732"/>
-      <point x="233" y="755"/>
-      <point x="193" y="755" type="curve"/>
-      <point x="151" y="755"/>
-      <point x="124" y="730"/>
-      <point x="124" y="685" type="curve"/>
+      <point x="234" y="755"/>
+      <point x="192" y="755" type="curve"/>
+      <point x="150" y="755"/>
+      <point x="123" y="730"/>
+      <point x="123" y="685" type="curve"/>
       <point x="263" y="685"/>
-      <point x="124" y="685"/>
+      <point x="123" y="685"/>
       <point x="263" y="685" type="curve"/>
       <point x="263" y="637"/>
-      <point x="234" y="616"/>
-      <point x="193" y="616" type="curve"/>
-      <point x="150" y="616"/>
-      <point x="124" y="639"/>
-      <point x="124" y="685" type="curve"/>
+      <point x="235" y="616"/>
+      <point x="192" y="616" type="curve"/>
+      <point x="151" y="616"/>
+      <point x="123" y="639"/>
+      <point x="123" y="685" type="curve"/>
       <point x="263" y="685"/>
-      <point x="124" y="685"/>
+      <point x="123" y="685"/>
     </contour>
     <contour>
       <point x="192" y="617" type="move" name="_top"/>
@@ -34,9 +34,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

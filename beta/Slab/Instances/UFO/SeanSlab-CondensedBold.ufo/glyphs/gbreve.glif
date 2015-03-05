@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="1">
-  <advance width="477"/>
+  <advance width="485"/>
   <unicode hex="011F"/>
   <outline>
     <contour>
@@ -34,9 +34,9 @@
       <point x="135" y="152"/>
       <point x="245" y="152" type="curve"/>
       <point x="358" y="152"/>
-      <point x="434" y="229"/>
-      <point x="434" y="345" type="curve"/>
-      <point x="434" y="457"/>
+      <point x="433" y="229"/>
+      <point x="433" y="345" type="curve"/>
+      <point x="433" y="457"/>
       <point x="362" y="537"/>
       <point x="250" y="537" type="curve"/>
       <point x="135" y="537"/>
@@ -92,15 +92,15 @@
     <contour>
       <point x="294" y="774" type="curve"/>
       <point x="294" y="738"/>
-      <point x="284" y="709"/>
+      <point x="285" y="709"/>
       <point x="250" y="709" type="curve"/>
       <point x="215" y="709"/>
       <point x="205" y="737"/>
       <point x="205" y="775" type="curve"/>
-      <point x="104" y="775"/>
+      <point x="103" y="775"/>
       <point x="205" y="775"/>
-      <point x="104" y="775" type="curve"/>
-      <point x="104" y="684"/>
+      <point x="103" y="775" type="curve"/>
+      <point x="103" y="684"/>
       <point x="155" y="627"/>
       <point x="246" y="627" type="curve"/>
       <point x="339" y="627"/>
@@ -117,9 +117,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

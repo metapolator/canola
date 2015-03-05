@@ -25,7 +25,7 @@
       <point x="118" y="302"/>
       <point x="118" y="371"/>
       <point x="118" y="305" type="curve"/>
-      <point x="142" y="305"/>
+      <point x="141" y="305"/>
       <point x="163" y="305"/>
       <point x="186" y="305" type="curve"/>
       <point x="271" y="371"/>
@@ -54,14 +54,17 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

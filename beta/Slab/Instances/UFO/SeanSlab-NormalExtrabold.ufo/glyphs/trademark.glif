@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="1">
-  <advance width="1043"/>
+  <advance width="1044"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
@@ -173,9 +173,7 @@
     </contour>
     <contour>
       <point x="924" y="337" type="curve"/>
-      <point x="906" y="436"/>
-      <point x="885" y="535"/>
-      <point x="867" y="634" type="curve"/>
+      <point x="867" y="634" type="line"/>
       <point x="768" y="634"/>
       <point x="867" y="634"/>
       <point x="768" y="634" type="curve"/>
@@ -260,29 +258,15 @@
           <key>y</key>
           <integer>681</integer>
         </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>363</integer>
-          <key>y</key>
-          <integer>371</integer>
-        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

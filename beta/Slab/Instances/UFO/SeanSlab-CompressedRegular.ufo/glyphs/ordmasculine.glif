@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="1">
-  <advance width="334"/>
+  <advance width="333"/>
   <unicode hex="00BA"/>
   <outline>
     <contour>
@@ -18,21 +18,21 @@
       <point x="108" y="530"/>
       <point x="108" y="600" type="curve"/>
       <point x="100" y="600"/>
-      <point x="68" y="600"/>
+      <point x="69" y="600"/>
       <point x="60" y="600" type="curve"/>
       <point x="60" y="502"/>
       <point x="84" y="424"/>
       <point x="169" y="424" type="curve"/>
-      <point x="248" y="424"/>
-      <point x="273" y="501"/>
-      <point x="273" y="599" type="curve"/>
-      <point x="273" y="692"/>
-      <point x="249" y="764"/>
+      <point x="249" y="424"/>
+      <point x="274" y="501"/>
+      <point x="274" y="599" type="curve"/>
+      <point x="274" y="692"/>
+      <point x="250" y="764"/>
       <point x="169" y="764" type="curve"/>
       <point x="85" y="764"/>
       <point x="60" y="692"/>
       <point x="60" y="600" type="curve"/>
-      <point x="68" y="600"/>
+      <point x="69" y="600"/>
       <point x="100" y="600"/>
     </contour>
   </outline>
@@ -43,9 +43,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

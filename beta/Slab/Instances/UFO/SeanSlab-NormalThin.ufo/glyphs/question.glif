@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question" format="1">
-  <advance width="497"/>
+  <advance width="496"/>
   <unicode hex="003F"/>
   <outline>
     <contour>
@@ -8,14 +8,14 @@
       <point x="202" y="297"/>
       <point x="202" y="259"/>
       <point x="202" y="222" type="curve"/>
-      <point x="228" y="222"/>
+      <point x="227" y="222"/>
       <point x="202" y="222"/>
-      <point x="228" y="222" type="curve"/>
-      <point x="228" y="259"/>
-      <point x="228" y="297"/>
-      <point x="228" y="334" type="curve"/>
+      <point x="227" y="222" type="curve"/>
+      <point x="227" y="259"/>
+      <point x="227" y="297"/>
+      <point x="227" y="334" type="curve"/>
       <point x="202" y="334"/>
-      <point x="228" y="334"/>
+      <point x="227" y="334"/>
     </contour>
     <contour>
       <point x="82" y="625" type="line"/>
@@ -64,14 +64,31 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>177</integer>
+          <key>y</key>
+          <integer>88</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

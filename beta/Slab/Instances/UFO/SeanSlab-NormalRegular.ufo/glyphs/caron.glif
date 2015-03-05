@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="504"/>
+  <advance width="505"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
@@ -12,7 +12,7 @@
     <contour>
       <point x="24" y="746" type="line"/>
       <point x="150" y="580" type="line"/>
-      <point x="251" y="580" type="line"/>
+      <point x="252" y="580" type="line"/>
       <point x="103" y="746" type="line"/>
     </contour>
     <contour>
@@ -26,9 +26,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

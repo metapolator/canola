@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="currency" format="1">
-  <advance width="594"/>
+  <advance width="595"/>
   <unicode hex="00A4"/>
   <outline>
     <contour>
       <point x="181" y="310" type="curve"/>
       <point x="181" y="395"/>
       <point x="218" y="457"/>
-      <point x="299" y="457" type="curve"/>
+      <point x="298" y="457" type="curve"/>
       <point x="379" y="457"/>
       <point x="412" y="395"/>
       <point x="412" y="310" type="curve"/>
@@ -19,8 +19,8 @@
       <point x="181" y="310" type="curve"/>
       <point x="156" y="310"/>
       <point x="181" y="310"/>
-      <point x="157" y="310" type="curve"/>
-      <point x="157" y="207"/>
+      <point x="156" y="310" type="curve"/>
+      <point x="156" y="207"/>
       <point x="203" y="135"/>
       <point x="300" y="135" type="curve"/>
       <point x="395" y="135"/>
@@ -29,9 +29,9 @@
       <point x="438" y="409"/>
       <point x="392" y="480"/>
       <point x="301" y="480" type="curve"/>
-      <point x="205" y="480"/>
-      <point x="157" y="410"/>
-      <point x="157" y="310" type="curve"/>
+      <point x="204" y="480"/>
+      <point x="156" y="410"/>
+      <point x="156" y="310" type="curve"/>
       <point x="181" y="310"/>
       <point x="156" y="310"/>
     </contour>
@@ -55,7 +55,7 @@
     </contour>
     <contour>
       <point x="222" y="442" type="line"/>
-      <point x="91" y="577" type="line"/>
+      <point x="90" y="577" type="line"/>
       <point x="69" y="555" type="line"/>
       <point x="204" y="424" type="line"/>
     </contour>
@@ -70,9 +70,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

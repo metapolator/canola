@@ -4,9 +4,26 @@
   <unicode hex="00F3"/>
   <outline>
     <contour>
-      <point x="151" y="268" type="curve"/>
-      <point x="151" y="394"/>
-      <point x="234" y="466"/>
+      <point x="409" y="638" type="line"/>
+      <point x="595" y="804" type="line"/>
+      <point x="468" y="804" type="line"/>
+      <point x="312" y="638" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="-5" type="curve"/>
+      <point x="557" y="-5"/>
+      <point x="686" y="84"/>
+      <point x="686" y="266" type="curve"/>
+      <point x="686" y="443"/>
+      <point x="560" y="538"/>
+      <point x="369" y="538" type="curve"/>
+      <point x="180" y="538"/>
+      <point x="55" y="442"/>
+      <point x="55" y="268" type="curve"/>
+      <point x="55" y="87"/>
+      <point x="182" y="-5"/>
+    </contour>
+    <contour>
       <point x="365" y="466" type="curve"/>
       <point x="502" y="466"/>
       <point x="590" y="394"/>
@@ -17,29 +34,8 @@
       <point x="238" y="67"/>
       <point x="151" y="137"/>
       <point x="151" y="268" type="curve"/>
-      <point x="62" y="268"/>
-      <point x="144" y="268"/>
-      <point x="55" y="268" type="curve"/>
-      <point x="55" y="87"/>
-      <point x="182" y="-5"/>
-      <point x="368" y="-5" type="curve"/>
-      <point x="558" y="-5"/>
-      <point x="686" y="84"/>
-      <point x="686" y="266" type="curve"/>
-      <point x="686" y="443"/>
-      <point x="560" y="538"/>
-      <point x="369" y="538" type="curve"/>
-      <point x="181" y="538"/>
-      <point x="55" y="442"/>
-      <point x="55" y="268" type="curve"/>
-      <point x="144" y="268"/>
-      <point x="62" y="268"/>
-    </contour>
-    <contour>
-      <point x="409" y="638" type="line"/>
-      <point x="595" y="804" type="line"/>
-      <point x="468" y="804" type="line"/>
-      <point x="312" y="638" type="line"/>
+      <point x="151" y="394"/>
+      <point x="234" y="466"/>
     </contour>
   </outline>
   <lib>
@@ -49,9 +45,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

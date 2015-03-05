@@ -6,9 +6,9 @@
     <contour>
       <point x="517" y="169" type="curve"/>
       <point x="476" y="117"/>
-      <point x="429" y="99"/>
-      <point x="361" y="99" type="curve"/>
-      <point x="226" y="99"/>
+      <point x="430" y="99"/>
+      <point x="362" y="99" type="curve"/>
+      <point x="227" y="99"/>
       <point x="172" y="217"/>
       <point x="172" y="371" type="curve"/>
       <point x="172" y="514"/>
@@ -27,12 +27,12 @@
       <point x="561" y="407"/>
       <point x="571" y="418" type="curve"/>
       <point x="399" y="418"/>
-      <point x="283" y="418"/>
+      <point x="284" y="418"/>
       <point x="111" y="418" type="curve"/>
       <point x="111" y="384"/>
       <point x="111" y="360"/>
       <point x="111" y="325" type="curve"/>
-      <point x="283" y="325"/>
+      <point x="284" y="325"/>
       <point x="399" y="325"/>
       <point x="571" y="325" type="curve"/>
       <point x="591" y="325"/>
@@ -52,11 +52,11 @@
       <point x="50" y="371" type="curve"/>
       <point x="50" y="149"/>
       <point x="157" y="-5"/>
-      <point x="361" y="-5" type="curve"/>
+      <point x="362" y="-5" type="curve"/>
       <point x="460" y="-5"/>
       <point x="525" y="26"/>
       <point x="595" y="101" type="curve"/>
-      <point x="567" y="125"/>
+      <point x="568" y="125"/>
       <point x="545" y="144"/>
     </contour>
     <contour>
@@ -69,8 +69,8 @@
     <contour>
       <point x="521" y="388" type="line"/>
       <point x="506" y="527" type="line"/>
-      <point x="434" y="598" type="line"/>
-      <point x="434" y="396" type="line"/>
+      <point x="435" y="598" type="line"/>
+      <point x="435" y="396" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -79,34 +79,6 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>170</integer>
-          <key>y</key>
-          <integer>429</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>424</integer>
-          <key>y</key>
-          <integer>422</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
           <false/>
@@ -115,65 +87,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>323</integer>
+          <integer>508</integer>
           <key>y</key>
-          <integer>464</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>183</integer>
-          <key>y</key>
-          <integer>606</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>569</integer>
-          <key>y</key>
-          <integer>657</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>228</integer>
-          <key>y</key>
-          <integer>287</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>327</integer>
-          <key>y</key>
-          <integer>287</integer>
+          <integer>576</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -181,9 +97,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

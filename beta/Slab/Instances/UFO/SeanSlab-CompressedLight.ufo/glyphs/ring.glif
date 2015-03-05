@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ring" format="1">
-  <advance width="269"/>
+  <advance width="268"/>
   <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="1" y="646" type="curve"/>
-      <point x="1" y="576"/>
+      <point x="0" y="646" type="curve"/>
+      <point x="0" y="576"/>
       <point x="28" y="521"/>
       <point x="91" y="521" type="curve"/>
       <point x="156" y="521"/>
@@ -15,13 +15,13 @@
       <point x="155" y="771"/>
       <point x="89" y="771" type="curve"/>
       <point x="27" y="771"/>
-      <point x="1" y="717"/>
-      <point x="1" y="646" type="curve"/>
-      <point x="53" y="646"/>
+      <point x="0" y="717"/>
+      <point x="0" y="646" type="curve"/>
+      <point x="52" y="646"/>
       <point x="-3" y="646"/>
       <point x="49" y="646" type="curve"/>
       <point x="49" y="687"/>
-      <point x="53" y="727"/>
+      <point x="52" y="727"/>
       <point x="89" y="727" type="curve"/>
       <point x="127" y="727"/>
       <point x="133" y="688"/>
@@ -33,7 +33,7 @@
       <point x="49" y="605"/>
       <point x="49" y="646" type="curve"/>
       <point x="-3" y="646"/>
-      <point x="53" y="646"/>
+      <point x="52" y="646"/>
     </contour>
     <contour>
       <point x="92" y="522" type="move" name="_top"/>
@@ -46,9 +46,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

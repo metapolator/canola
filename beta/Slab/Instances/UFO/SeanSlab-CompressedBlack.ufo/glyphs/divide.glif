@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
-  <advance width="593"/>
+  <advance width="594"/>
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="46" y="252" type="line"/>
-      <point x="547" y="252" type="line"/>
-      <point x="547" y="370" type="line"/>
-      <point x="46" y="370" type="line"/>
+      <point x="45" y="252" type="line"/>
+      <point x="546" y="252" type="line"/>
+      <point x="546" y="370" type="line"/>
+      <point x="45" y="370" type="line"/>
     </contour>
     <contour>
-      <point x="363" y="458" type="curve"/>
-      <point x="363" y="505"/>
-      <point x="333" y="529"/>
-      <point x="293" y="529" type="curve"/>
-      <point x="251" y="529"/>
-      <point x="224" y="503"/>
-      <point x="224" y="458" type="curve"/>
-      <point x="364" y="458"/>
-      <point x="224" y="458"/>
-      <point x="363" y="458" type="curve"/>
-      <point x="363" y="411"/>
-      <point x="334" y="389"/>
-      <point x="293" y="389" type="curve"/>
-      <point x="250" y="389"/>
-      <point x="224" y="412"/>
-      <point x="224" y="458" type="curve"/>
-      <point x="364" y="458"/>
-      <point x="224" y="458"/>
+      <point x="363" y="457" type="curve"/>
+      <point x="363" y="504"/>
+      <point x="334" y="527"/>
+      <point x="292" y="527" type="curve"/>
+      <point x="251" y="527"/>
+      <point x="223" y="502"/>
+      <point x="223" y="457" type="curve"/>
+      <point x="363" y="457"/>
+      <point x="223" y="457"/>
+      <point x="363" y="457" type="curve"/>
+      <point x="363" y="409"/>
+      <point x="335" y="388"/>
+      <point x="292" y="388" type="curve"/>
+      <point x="251" y="388"/>
+      <point x="223" y="411"/>
+      <point x="223" y="457" type="curve"/>
+      <point x="363" y="457"/>
+      <point x="223" y="457"/>
     </contour>
     <contour>
-      <point x="364" y="161" type="curve"/>
-      <point x="364" y="208"/>
-      <point x="333" y="232"/>
-      <point x="293" y="232" type="curve"/>
-      <point x="251" y="232"/>
-      <point x="224" y="206"/>
-      <point x="224" y="161" type="curve"/>
-      <point x="364" y="161"/>
-      <point x="224" y="161"/>
-      <point x="364" y="161" type="curve"/>
-      <point x="364" y="114"/>
-      <point x="335" y="92"/>
-      <point x="293" y="92" type="curve"/>
-      <point x="250" y="92"/>
-      <point x="224" y="115"/>
-      <point x="224" y="161" type="curve"/>
-      <point x="364" y="161"/>
-      <point x="224" y="161"/>
+      <point x="363" y="163" type="curve"/>
+      <point x="363" y="209"/>
+      <point x="334" y="233"/>
+      <point x="292" y="233" type="curve"/>
+      <point x="251" y="233"/>
+      <point x="223" y="207"/>
+      <point x="223" y="163" type="curve"/>
+      <point x="363" y="163"/>
+      <point x="223" y="163"/>
+      <point x="363" y="163" type="curve"/>
+      <point x="363" y="115"/>
+      <point x="335" y="93"/>
+      <point x="293" y="93" type="curve"/>
+      <point x="251" y="93"/>
+      <point x="223" y="117"/>
+      <point x="223" y="163" type="curve"/>
+      <point x="363" y="163"/>
+      <point x="223" y="163"/>
     </contour>
   </outline>
   <lib>
@@ -57,9 +57,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

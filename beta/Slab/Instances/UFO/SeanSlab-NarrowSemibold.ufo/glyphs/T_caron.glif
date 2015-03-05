@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="1">
-  <advance width="613"/>
+  <advance width="614"/>
   <unicode hex="0164"/>
   <outline>
     <contour>
@@ -40,7 +40,7 @@
       <point x="444" y="0"/>
       <point x="444" y="80" type="curve"/>
       <point x="303" y="80"/>
-      <point x="446" y="80"/>
+      <point x="447" y="80"/>
       <point x="306" y="80" type="curve"/>
       <point x="306" y="0"/>
       <point x="306" y="80"/>
@@ -53,7 +53,7 @@
       <point x="167" y="0"/>
       <point x="167" y="80"/>
       <point x="167" y="0" type="curve"/>
-      <point x="214" y="0"/>
+      <point x="215" y="0"/>
       <point x="259" y="0"/>
       <point x="306" y="0" type="curve"/>
       <point x="306" y="80"/>
@@ -107,9 +107,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

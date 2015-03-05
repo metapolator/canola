@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="601"/>
+  <advance width="517"/>
   <unicode hex="010F"/>
   <outline>
     <contour>
@@ -11,7 +11,7 @@
       <point x="263" y="765"/>
       <point x="263" y="800"/>
       <point x="263" y="765" type="curve"/>
-      <point x="395" y="765"/>
+      <point x="396" y="765"/>
       <point x="246" y="765"/>
       <point x="378" y="765" type="curve"/>
       <point x="378" y="800"/>
@@ -42,7 +42,7 @@
       <point x="58" y="119"/>
       <point x="109" y="-4"/>
       <point x="239" y="-4" type="curve"/>
-      <point x="313" y="-4"/>
+      <point x="314" y="-4"/>
       <point x="360" y="49"/>
       <point x="386" y="127" type="curve"/>
       <point x="366" y="151"/>
@@ -51,7 +51,7 @@
       <point x="343" y="82"/>
       <point x="302" y="31"/>
       <point x="242" y="31" type="curve"/>
-      <point x="136" y="31"/>
+      <point x="137" y="31"/>
       <point x="99" y="141"/>
       <point x="99" y="265" type="curve"/>
       <point x="99" y="390"/>
@@ -64,36 +64,36 @@
       <point x="366" y="414"/>
     </contour>
     <contour>
-      <point x="400" y="0" type="curve"/>
-      <point x="400" y="267"/>
-      <point x="400" y="533"/>
-      <point x="400" y="800" type="curve"/>
+      <point x="401" y="0" type="curve"/>
+      <point x="401" y="267"/>
+      <point x="401" y="533"/>
+      <point x="401" y="800" type="curve"/>
       <point x="357" y="800"/>
-      <point x="400" y="800"/>
+      <point x="401" y="800"/>
       <point x="357" y="800" type="curve"/>
       <point x="357" y="533"/>
       <point x="357" y="267"/>
       <point x="357" y="0" type="curve"/>
-      <point x="400" y="0"/>
+      <point x="401" y="0"/>
       <point x="357" y="0"/>
     </contour>
     <contour>
-      <point x="493" y="650" type="line"/>
-      <point x="547" y="650"/>
-      <point x="569" y="700"/>
-      <point x="569" y="751" type="curve"/>
-      <point x="569" y="789"/>
-      <point x="561" y="817"/>
-      <point x="537" y="817" type="curve"/>
-      <point x="519" y="817"/>
-      <point x="509" y="808"/>
-      <point x="509" y="791" type="curve"/>
-      <point x="509" y="777"/>
-      <point x="516" y="768"/>
-      <point x="531" y="763" type="curve"/>
-      <point x="531" y="742"/>
-      <point x="532" y="684"/>
-      <point x="493" y="682" type="curve"/>
+      <point x="505" y="656" type="line"/>
+      <point x="540" y="677"/>
+      <point x="565" y="710"/>
+      <point x="565" y="766" type="curve"/>
+      <point x="565" y="796"/>
+      <point x="558" y="817"/>
+      <point x="535" y="817" type="curve"/>
+      <point x="518" y="817"/>
+      <point x="508" y="808"/>
+      <point x="508" y="791" type="curve"/>
+      <point x="508" y="777"/>
+      <point x="514" y="768"/>
+      <point x="529" y="763" type="curve"/>
+      <point x="529" y="742"/>
+      <point x="520" y="704"/>
+      <point x="491" y="682" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -103,9 +103,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

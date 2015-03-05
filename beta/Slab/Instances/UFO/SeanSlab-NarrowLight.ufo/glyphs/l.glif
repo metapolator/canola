@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="151" y="47" type="curve"/>
-      <point x="12" y="47"/>
+      <point x="11" y="47"/>
       <point x="151" y="47"/>
-      <point x="12" y="47" type="curve"/>
-      <point x="12" y="0"/>
-      <point x="12" y="47"/>
-      <point x="12" y="0" type="curve"/>
+      <point x="11" y="47" type="curve"/>
+      <point x="11" y="0"/>
+      <point x="11" y="47"/>
+      <point x="11" y="0" type="curve"/>
       <point x="58" y="0"/>
       <point x="104" y="0"/>
       <point x="151" y="0" type="curve"/>
@@ -68,17 +68,14 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

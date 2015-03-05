@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ruble" format="1">
-  <advance width="769"/>
+  <advance width="768"/>
   <outline>
     <contour>
       <point x="81" y="173" type="curve"/>
@@ -74,7 +74,7 @@
     </contour>
     <contour>
       <point x="399" y="314" type="curve"/>
-      <point x="591" y="316"/>
+      <point x="592" y="316"/>
       <point x="722" y="344"/>
       <point x="722" y="517" type="curve"/>
       <point x="722" y="688"/>
@@ -102,7 +102,7 @@
       <point x="81" y="334"/>
       <point x="81" y="314" type="curve"/>
       <point x="210" y="314"/>
-      <point x="270" y="314"/>
+      <point x="271" y="314"/>
     </contour>
   </outline>
   <lib>
@@ -112,9 +112,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

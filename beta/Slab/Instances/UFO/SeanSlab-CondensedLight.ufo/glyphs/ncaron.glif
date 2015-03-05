@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron" format="1">
-  <advance width="538"/>
+  <advance width="539"/>
   <unicode hex="0148"/>
   <outline>
     <contour>
@@ -72,17 +72,17 @@
       <point x="151" y="47"/>
     </contour>
     <contour>
-      <point x="179" y="0" type="curve"/>
-      <point x="179" y="178"/>
-      <point x="179" y="355"/>
-      <point x="179" y="533" type="curve"/>
+      <point x="180" y="0" type="curve"/>
+      <point x="180" y="178"/>
+      <point x="180" y="355"/>
+      <point x="180" y="533" type="curve"/>
       <point x="122" y="533"/>
-      <point x="179" y="533"/>
+      <point x="180" y="533"/>
       <point x="122" y="533" type="curve"/>
       <point x="122" y="355"/>
       <point x="122" y="178"/>
       <point x="122" y="0" type="curve"/>
-      <point x="179" y="0"/>
+      <point x="180" y="0"/>
       <point x="122" y="0"/>
     </contour>
     <contour>
@@ -100,7 +100,7 @@
       <point x="151" y="486"/>
     </contour>
     <contour>
-      <point x="355" y="820" type="line"/>
+      <point x="356" y="820" type="line"/>
       <point x="268" y="654" type="line"/>
       <point x="340" y="654" type="line"/>
       <point x="411" y="820" type="line"/>
@@ -119,9 +119,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

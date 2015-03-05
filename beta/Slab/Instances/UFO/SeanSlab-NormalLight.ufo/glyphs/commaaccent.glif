@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccent" format="1">
-  <advance width="275"/>
+  <advance width="274"/>
   <outline>
     <contour>
-      <point x="90" y="-105" type="line"/>
-      <point x="159" y="-105"/>
-      <point x="192" y="-49"/>
-      <point x="192" y="14" type="curve"/>
-      <point x="192" y="59"/>
+      <point x="101" y="-102" type="line"/>
+      <point x="152" y="-84"/>
+      <point x="191" y="-41"/>
+      <point x="191" y="27" type="curve"/>
+      <point x="191" y="65"/>
       <point x="178" y="94"/>
       <point x="148" y="94" type="curve"/>
       <point x="125" y="94"/>
@@ -17,11 +17,11 @@
       <point x="122" y="28"/>
       <point x="144" y="24" type="curve"/>
       <point x="143" y="-4"/>
-      <point x="142" y="-63"/>
+      <point x="132" y="-45"/>
       <point x="90" y="-66" type="curve"/>
     </contour>
     <contour>
-      <point x="168" y="150" type="move" name="_bottom"/>
+      <point x="181" y="150" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
@@ -31,9 +31,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

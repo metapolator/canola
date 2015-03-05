@@ -46,7 +46,7 @@
     </contour>
     <contour>
       <point x="437" y="23" type="curve"/>
-      <point x="273" y="23"/>
+      <point x="272" y="23"/>
       <point x="438" y="23"/>
       <point x="273" y="23" type="curve"/>
       <point x="273" y="0"/>
@@ -133,7 +133,7 @@
       <point x="1161" y="0"/>
       <point x="1245" y="0"/>
       <point x="1330" y="0" type="curve"/>
-      <point x="1583" y="0"/>
+      <point x="1582" y="0"/>
       <point x="1734" y="111"/>
       <point x="1734" y="351" type="curve"/>
       <point x="1734" y="604"/>
@@ -198,13 +198,13 @@
       <point x="2306" y="169" type="curve"/>
       <point x="2306" y="301"/>
       <point x="2184" y="334"/>
-      <point x="2055" y="383" type="curve" smooth="yes"/>
+      <point x="2055" y="383" type="curve"/>
       <point x="1940" y="426"/>
-      <point x="1826" y="450"/>
-      <point x="1826" y="563" type="curve"/>
-      <point x="1826" y="663"/>
-      <point x="1923" y="705"/>
-      <point x="2038" y="705" type="curve"/>
+      <point x="1825" y="450"/>
+      <point x="1825" y="563" type="curve"/>
+      <point x="1825" y="663"/>
+      <point x="1922" y="705"/>
+      <point x="2037" y="705" type="curve"/>
       <point x="2123" y="705"/>
       <point x="2188" y="681"/>
       <point x="2265" y="645" type="curve"/>
@@ -219,15 +219,15 @@
       <point x="1800" y="562" type="curve"/>
       <point x="1800" y="437"/>
       <point x="1918" y="408"/>
-      <point x="2040" y="362" type="curve" smooth="yes"/>
-      <point x="2162" y="317"/>
+      <point x="2039" y="362" type="curve"/>
+      <point x="2161" y="317"/>
       <point x="2281" y="287"/>
       <point x="2281" y="169" type="curve"/>
       <point x="2281" y="50"/>
       <point x="2175" y="20"/>
       <point x="2036" y="20" type="curve"/>
-      <point x="1946" y="20"/>
-      <point x="1862" y="42"/>
+      <point x="1945" y="20"/>
+      <point x="1861" y="42"/>
       <point x="1781" y="79" type="curve"/>
       <point x="1768" y="59"/>
       <point x="1780" y="78"/>
@@ -240,9 +240,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

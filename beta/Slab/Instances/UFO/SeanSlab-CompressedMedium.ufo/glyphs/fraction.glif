@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="1">
-  <advance width="325"/>
+  <advance width="326"/>
   <unicode hex="2044"/>
   <outline>
     <contour>
       <point x="37" y="-62" type="line"/>
       <point x="309" y="731" type="line"/>
       <point x="228" y="731" type="line"/>
-      <point x="-44" y="-62" type="line"/>
+      <point x="-43" y="-62" type="line"/>
     </contour>
     <contour>
       <point x="-132" y="731" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="351" y="-59" type="move" name="bottom"/>
+      <point x="352" y="-59" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -23,9 +23,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

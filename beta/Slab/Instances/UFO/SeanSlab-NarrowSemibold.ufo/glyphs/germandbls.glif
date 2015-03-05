@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="1">
-  <advance width="591"/>
+  <advance width="592"/>
   <unicode hex="00DF"/>
   <outline>
     <contour>
       <point x="162" y="80" type="curve"/>
-      <point x="25" y="80"/>
+      <point x="26" y="80"/>
       <point x="165" y="80"/>
       <point x="28" y="80" type="curve"/>
       <point x="28" y="0"/>
       <point x="28" y="80"/>
       <point x="28" y="0" type="curve"/>
-      <point x="74" y="0"/>
+      <point x="73" y="0"/>
       <point x="117" y="0"/>
       <point x="162" y="0" type="curve"/>
       <point x="162" y="80"/>
@@ -48,7 +48,7 @@
     <contour>
       <point x="213" y="598" type="curve"/>
       <point x="213" y="668"/>
-      <point x="245" y="718"/>
+      <point x="246" y="718"/>
       <point x="312" y="718" type="curve"/>
       <point x="380" y="718"/>
       <point x="423" y="676"/>
@@ -99,9 +99,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

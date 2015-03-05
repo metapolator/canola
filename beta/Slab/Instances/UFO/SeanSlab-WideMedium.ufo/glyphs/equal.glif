@@ -4,32 +4,16 @@
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="87" y="180" type="curve"/>
-      <point x="352" y="180"/>
-      <point x="617" y="180"/>
-      <point x="882" y="180" type="curve"/>
-      <point x="882" y="255"/>
-      <point x="882" y="180"/>
-      <point x="882" y="255" type="curve"/>
-      <point x="617" y="255"/>
-      <point x="352" y="255"/>
-      <point x="87" y="255" type="curve"/>
-      <point x="87" y="180"/>
-      <point x="87" y="255"/>
+      <point x="882" y="402" type="line"/>
+      <point x="882" y="477" type="line"/>
+      <point x="87" y="477" type="line"/>
+      <point x="87" y="402" type="line"/>
     </contour>
     <contour>
-      <point x="87" y="402" type="curve"/>
-      <point x="352" y="402"/>
-      <point x="617" y="402"/>
-      <point x="882" y="402" type="curve"/>
-      <point x="882" y="477"/>
-      <point x="882" y="402"/>
-      <point x="882" y="477" type="curve"/>
-      <point x="617" y="477"/>
-      <point x="352" y="477"/>
-      <point x="87" y="477" type="curve"/>
-      <point x="87" y="402"/>
-      <point x="87" y="477"/>
+      <point x="882" y="180" type="line"/>
+      <point x="882" y="255" type="line"/>
+      <point x="87" y="255" type="line"/>
+      <point x="87" y="180" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,9 +23,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

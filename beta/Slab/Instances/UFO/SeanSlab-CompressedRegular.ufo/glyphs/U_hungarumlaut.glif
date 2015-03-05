@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhungarumlaut" format="1">
-  <advance width="606"/>
+  <advance width="605"/>
   <unicode hex="0170"/>
   <outline>
     <contour>
@@ -35,12 +35,12 @@
       <point x="146" y="722" type="curve"/>
       <point x="106" y="722"/>
       <point x="71" y="722"/>
-      <point x="31" y="722" type="curve"/>
-      <point x="31" y="663"/>
-      <point x="31" y="722"/>
-      <point x="31" y="663" type="curve"/>
+      <point x="32" y="722" type="curve"/>
+      <point x="32" y="663"/>
+      <point x="32" y="722"/>
+      <point x="32" y="663" type="curve"/>
       <point x="152" y="663"/>
-      <point x="25" y="663"/>
+      <point x="26" y="663"/>
       <point x="146" y="663" type="curve"/>
       <point x="146" y="722"/>
       <point x="146" y="663"/>
@@ -111,9 +111,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

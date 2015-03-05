@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eogonek" format="1">
-  <advance width="819"/>
+  <advance width="818"/>
   <unicode hex="0118"/>
   <outline>
     <contour>
@@ -88,27 +88,27 @@
       <point x="219" y="722"/>
     </contour>
     <contour>
-      <point x="304" y="0" type="curve"/>
-      <point x="304" y="722" type="line"/>
+      <point x="303" y="0" type="curve"/>
+      <point x="303" y="722" type="line"/>
       <point x="162" y="722"/>
-      <point x="304" y="722"/>
+      <point x="303" y="722"/>
       <point x="162" y="722" type="curve"/>
       <point x="162" y="481"/>
       <point x="162" y="241"/>
       <point x="162" y="0" type="curve"/>
-      <point x="304" y="0"/>
+      <point x="303" y="0"/>
       <point x="162" y="0"/>
     </contour>
     <contour>
       <point x="219" y="0" type="curve"/>
-      <point x="403" y="0"/>
+      <point x="402" y="0"/>
       <point x="585" y="0"/>
       <point x="769" y="0" type="curve"/>
       <point x="769" y="104"/>
       <point x="769" y="0"/>
       <point x="769" y="104" type="curve"/>
       <point x="585" y="104"/>
-      <point x="403" y="104"/>
+      <point x="402" y="104"/>
       <point x="219" y="104" type="curve"/>
       <point x="219" y="0"/>
       <point x="219" y="104"/>
@@ -130,7 +130,7 @@
       <point x="714" y="-66"/>
       <point x="702" y="-73"/>
       <point x="682" y="-73" type="curve"/>
-      <point x="661" y="-73"/>
+      <point x="660" y="-73"/>
       <point x="644" y="-65"/>
       <point x="644" y="-45" type="curve"/>
       <point x="644" y="-9"/>
@@ -147,9 +147,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

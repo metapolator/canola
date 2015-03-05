@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron" format="1">
-  <advance width="635"/>
+  <advance width="636"/>
   <unicode hex="0148"/>
   <outline>
     <contour>
@@ -16,14 +16,14 @@
       <point x="451" y="0" type="curve"/>
       <point x="526" y="0"/>
       <point x="465" y="0"/>
-      <point x="540" y="0" type="curve"/>
-      <point x="540" y="112"/>
-      <point x="540" y="219"/>
-      <point x="540" y="330" type="curve"/>
-      <point x="540" y="456"/>
+      <point x="541" y="0" type="curve"/>
+      <point x="541" y="112"/>
+      <point x="541" y="219"/>
+      <point x="541" y="330" type="curve"/>
+      <point x="541" y="456"/>
       <point x="493" y="538"/>
       <point x="372" y="538" type="curve"/>
-      <point x="267" y="538"/>
+      <point x="268" y="538"/>
       <point x="186" y="462"/>
       <point x="160" y="337" type="curve"/>
       <point x="186" y="304"/>
@@ -72,17 +72,17 @@
       <point x="167" y="70"/>
     </contour>
     <contour>
-      <point x="211" y="0" type="curve"/>
-      <point x="211" y="178"/>
-      <point x="211" y="355"/>
-      <point x="211" y="533" type="curve"/>
+      <point x="212" y="0" type="curve"/>
+      <point x="212" y="178"/>
+      <point x="212" y="355"/>
+      <point x="212" y="533" type="curve"/>
       <point x="122" y="533"/>
-      <point x="211" y="533"/>
+      <point x="212" y="533"/>
       <point x="122" y="533" type="curve"/>
       <point x="122" y="355"/>
       <point x="122" y="178"/>
       <point x="122" y="0" type="curve"/>
-      <point x="211" y="0"/>
+      <point x="212" y="0"/>
       <point x="122" y="0"/>
     </contour>
     <contour>
@@ -101,7 +101,7 @@
     </contour>
     <contour>
       <point x="425" y="805" type="line"/>
-      <point x="299" y="639" type="line"/>
+      <point x="300" y="639" type="line"/>
       <point x="413" y="639" type="line"/>
       <point x="512" y="805" type="line"/>
     </contour>
@@ -119,9 +119,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

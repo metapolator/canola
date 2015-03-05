@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="1">
-  <advance width="381"/>
+  <advance width="382"/>
   <unicode hex="0130"/>
   <outline>
     <contour>
@@ -74,8 +74,8 @@
       <point x="137" y="0"/>
     </contour>
     <contour>
-      <point x="255" y="841" type="curve"/>
-      <point x="255" y="877"/>
+      <point x="254" y="841" type="curve"/>
+      <point x="254" y="877"/>
       <point x="228" y="895"/>
       <point x="192" y="895" type="curve"/>
       <point x="156" y="895"/>
@@ -83,8 +83,8 @@
       <point x="132" y="841" type="curve"/>
       <point x="250" y="841"/>
       <point x="137" y="841"/>
-      <point x="255" y="841" type="curve"/>
-      <point x="255" y="804"/>
+      <point x="254" y="841" type="curve"/>
+      <point x="254" y="804"/>
       <point x="228" y="787"/>
       <point x="192" y="787" type="curve"/>
       <point x="156" y="787"/>
@@ -101,9 +101,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

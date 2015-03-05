@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedilla" format="1">
-  <advance width="341"/>
+  <advance width="342"/>
   <unicode hex="00B8"/>
   <outline>
     <contour>
@@ -22,11 +22,11 @@
       <point x="157" y="-59"/>
       <point x="161" y="-55"/>
       <point x="168" y="-55" type="curve"/>
-      <point x="178" y="-55"/>
+      <point x="177" y="-55"/>
       <point x="183" y="-61"/>
       <point x="183" y="-73" type="curve"/>
       <point x="183" y="-88"/>
-      <point x="170" y="-95"/>
+      <point x="169" y="-95"/>
       <point x="153" y="-95" type="curve"/>
       <point x="135" y="-95"/>
       <point x="120" y="-91"/>
@@ -41,8 +41,8 @@
       <point x="260" y="-141"/>
       <point x="260" y="-71" type="curve"/>
       <point x="260" y="-5"/>
-      <point x="219" y="38"/>
-      <point x="154" y="38" type="curve"/>
+      <point x="220" y="38"/>
+      <point x="155" y="38" type="curve"/>
       <point x="120" y="38"/>
       <point x="95" y="33"/>
       <point x="64" y="15" type="curve"/>
@@ -60,9 +60,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

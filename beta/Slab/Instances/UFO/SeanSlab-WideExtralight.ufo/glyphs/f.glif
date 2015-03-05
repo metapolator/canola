@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="599"/>
+  <advance width="598"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
@@ -72,10 +72,10 @@
       <point x="448" y="804" type="curve"/>
       <point x="332" y="804"/>
       <point x="250" y="746"/>
-      <point x="250" y="634" type="curve"/>
-      <point x="250" y="0" type="line"/>
+      <point x="251" y="634" type="curve"/>
+      <point x="251" y="0" type="line"/>
       <point x="294" y="0"/>
-      <point x="250" y="0"/>
+      <point x="251" y="0"/>
     </contour>
   </outline>
   <lib>
@@ -85,9 +85,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

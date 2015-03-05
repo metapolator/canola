@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="735"/>
+  <advance width="561"/>
   <unicode hex="010F"/>
   <outline>
     <contour>
@@ -25,7 +25,7 @@
       <point x="527" y="69"/>
       <point x="527" y="0"/>
       <point x="527" y="69" type="curve"/>
-      <point x="393" y="69"/>
+      <point x="392" y="69"/>
       <point x="537" y="69"/>
       <point x="402" y="69" type="curve"/>
       <point x="402" y="-1"/>
@@ -33,7 +33,7 @@
     </contour>
     <contour>
       <point x="407" y="445" type="curve"/>
-      <point x="373" y="501"/>
+      <point x="372" y="501"/>
       <point x="316" y="535"/>
       <point x="245" y="535" type="curve"/>
       <point x="107" y="535"/>
@@ -78,22 +78,22 @@
       <point x="356" y="0"/>
     </contour>
     <contour>
-      <point x="554" y="609" type="line"/>
-      <point x="627" y="609"/>
-      <point x="668" y="668"/>
-      <point x="668" y="744" type="curve"/>
-      <point x="668" y="805"/>
-      <point x="648" y="842"/>
-      <point x="614" y="842" type="curve"/>
+      <point x="560" y="612" type="line"/>
+      <point x="623" y="624"/>
+      <point x="666" y="673"/>
+      <point x="666" y="752" type="curve"/>
+      <point x="666" y="809"/>
+      <point x="646" y="842"/>
+      <point x="613" y="842" type="curve"/>
       <point x="584" y="842"/>
-      <point x="566" y="825"/>
-      <point x="566" y="795" type="curve"/>
-      <point x="566" y="770"/>
-      <point x="579" y="751"/>
-      <point x="605" y="749" type="curve"/>
-      <point x="605" y="725"/>
-      <point x="605" y="668"/>
-      <point x="554" y="662" type="curve"/>
+      <point x="565" y="825"/>
+      <point x="565" y="795" type="curve"/>
+      <point x="565" y="770"/>
+      <point x="578" y="751"/>
+      <point x="604" y="749" type="curve"/>
+      <point x="604" y="725"/>
+      <point x="598" y="679"/>
+      <point x="553" y="662" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -103,9 +103,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

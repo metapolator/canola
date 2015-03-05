@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Thorn" format="1">
-  <advance width="589"/>
+  <advance width="588"/>
   <unicode hex="00DE"/>
   <outline>
     <contour>
@@ -33,7 +33,7 @@
     </contour>
     <contour>
       <point x="185" y="0" type="curve"/>
-      <point x="228" y="0"/>
+      <point x="227" y="0"/>
       <point x="185" y="0"/>
       <point x="313" y="0" type="curve"/>
       <point x="313" y="70"/>
@@ -64,18 +64,18 @@
       <point x="188" y="529" type="curve"/>
       <point x="223" y="529"/>
       <point x="258" y="529"/>
-      <point x="294" y="529" type="curve"/>
+      <point x="293" y="529" type="curve"/>
       <point x="395" y="529"/>
       <point x="457" y="471"/>
       <point x="457" y="380" type="curve"/>
       <point x="457" y="295"/>
       <point x="411" y="237"/>
-      <point x="327" y="237" type="curve"/>
+      <point x="326" y="237" type="curve"/>
       <point x="277" y="237"/>
-      <point x="244" y="251"/>
-      <point x="201" y="274" type="curve"/>
+      <point x="243" y="251"/>
+      <point x="200" y="274" type="curve"/>
       <point x="172" y="215"/>
-      <point x="201" y="274"/>
+      <point x="200" y="274"/>
     </contour>
     <contour>
       <point x="229" y="0" type="curve"/>
@@ -93,7 +93,7 @@
     </contour>
     <contour>
       <point x="185" y="652" type="curve"/>
-      <point x="228" y="652"/>
+      <point x="227" y="652"/>
       <point x="185" y="652"/>
       <point x="313" y="652" type="curve"/>
       <point x="313" y="722"/>
@@ -113,9 +113,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="1">
-  <advance width="561"/>
+  <advance width="562"/>
   <unicode hex="FB02"/>
   <outline>
     <contour>
@@ -33,10 +33,10 @@
     </contour>
     <contour>
       <point x="24" y="445" type="curve"/>
-      <point x="299" y="445" type="line"/>
-      <point x="299" y="533"/>
-      <point x="299" y="445"/>
-      <point x="299" y="533" type="curve"/>
+      <point x="298" y="445" type="line"/>
+      <point x="298" y="533"/>
+      <point x="298" y="445"/>
+      <point x="298" y="533" type="curve"/>
       <point x="24" y="533" type="line"/>
       <point x="24" y="445"/>
       <point x="24" y="533"/>
@@ -50,8 +50,8 @@
       <point x="246" y="721"/>
       <point x="321" y="721" type="curve"/>
       <point x="363" y="721"/>
-      <point x="403" y="711"/>
-      <point x="430" y="704" type="curve"/>
+      <point x="404" y="711"/>
+      <point x="429" y="704" type="curve"/>
       <point x="447" y="732"/>
       <point x="456" y="745"/>
       <point x="474" y="774" type="curve"/>
@@ -59,7 +59,7 @@
       <point x="373" y="806"/>
       <point x="310" y="806" type="curve"/>
       <point x="174" y="806"/>
-      <point x="90" y="733"/>
+      <point x="89" y="733"/>
       <point x="90" y="613" type="curve"/>
       <point x="90" y="0" type="line"/>
       <point x="202" y="0"/>
@@ -67,13 +67,13 @@
     </contour>
     <contour>
       <point x="419" y="88" type="curve"/>
-      <point x="294" y="88"/>
+      <point x="293" y="88"/>
       <point x="419" y="88"/>
-      <point x="294" y="88" type="curve"/>
-      <point x="294" y="0"/>
-      <point x="294" y="88"/>
-      <point x="294" y="0" type="curve"/>
-      <point x="336" y="0"/>
+      <point x="293" y="88" type="curve"/>
+      <point x="293" y="0"/>
+      <point x="293" y="88"/>
+      <point x="293" y="0" type="curve"/>
+      <point x="335" y="0"/>
       <point x="377" y="0"/>
       <point x="419" y="0" type="curve"/>
       <point x="419" y="89"/>
@@ -140,15 +140,29 @@
           <key>y</key>
           <integer>513</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>740</integer>
+          <key>y</key>
+          <integer>429</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

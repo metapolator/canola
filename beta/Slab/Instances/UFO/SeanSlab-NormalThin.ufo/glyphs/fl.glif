@@ -19,14 +19,14 @@
     </contour>
     <contour>
       <point x="222" y="23" type="curve"/>
-      <point x="76" y="23"/>
-      <point x="227" y="23"/>
+      <point x="75" y="23"/>
+      <point x="226" y="23"/>
       <point x="80" y="23" type="curve"/>
       <point x="80" y="0"/>
       <point x="80" y="23"/>
       <point x="80" y="0" type="curve"/>
       <point x="128" y="0"/>
-      <point x="174" y="0"/>
+      <point x="173" y="0"/>
       <point x="222" y="0" type="curve"/>
       <point x="222" y="23"/>
       <point x="222" y="0"/>
@@ -51,19 +51,19 @@
       <point x="435" y="783" type="curve"/>
       <point x="490" y="783"/>
       <point x="542" y="777"/>
-      <point x="589" y="756" type="curve"/>
+      <point x="588" y="756" type="curve"/>
       <point x="598" y="774"/>
       <point x="589" y="757"/>
-      <point x="599" y="774" type="curve"/>
+      <point x="598" y="774" type="curve"/>
       <point x="549" y="797"/>
       <point x="491" y="805"/>
       <point x="435" y="805" type="curve"/>
       <point x="291" y="805"/>
       <point x="209" y="739"/>
-      <point x="210" y="634" type="curve"/>
-      <point x="210" y="0" type="line"/>
+      <point x="209" y="634" type="curve"/>
+      <point x="209" y="0" type="line"/>
       <point x="235" y="0"/>
-      <point x="210" y="0"/>
+      <point x="209" y="0"/>
     </contour>
     <contour>
       <point x="587" y="23" type="curve"/>
@@ -81,30 +81,30 @@
     </contour>
     <contour>
       <point x="587" y="0" type="curve"/>
-      <point x="637" y="0"/>
+      <point x="636" y="0"/>
       <point x="685" y="0"/>
-      <point x="735" y="0" type="curve"/>
-      <point x="735" y="23"/>
-      <point x="735" y="0"/>
-      <point x="735" y="23" type="curve"/>
+      <point x="734" y="0" type="curve"/>
+      <point x="734" y="23"/>
+      <point x="734" y="0"/>
+      <point x="734" y="23" type="curve"/>
       <point x="587" y="23"/>
-      <point x="735" y="23"/>
+      <point x="734" y="23"/>
       <point x="587" y="23" type="curve"/>
       <point x="587" y="0"/>
       <point x="587" y="23"/>
     </contour>
     <contour>
-      <point x="599" y="0" type="curve"/>
-      <point x="599" y="258"/>
-      <point x="599" y="516"/>
-      <point x="599" y="774" type="curve"/>
+      <point x="598" y="0" type="curve"/>
+      <point x="598" y="258"/>
+      <point x="598" y="516"/>
+      <point x="598" y="774" type="curve"/>
       <point x="573" y="774"/>
-      <point x="599" y="774"/>
+      <point x="598" y="774"/>
       <point x="573" y="774" type="curve"/>
       <point x="573" y="516"/>
       <point x="573" y="258"/>
       <point x="573" y="0" type="curve"/>
-      <point x="599" y="0"/>
+      <point x="598" y="0"/>
       <point x="573" y="0"/>
     </contour>
   </outline>
@@ -140,15 +140,29 @@
           <key>y</key>
           <integer>513</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>740</integer>
+          <key>y</key>
+          <integer>429</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="1">
-  <advance width="416"/>
+  <advance width="417"/>
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="78" y="250" type="curve"/>
+      <point x="79" y="250" type="curve"/>
       <point x="165" y="250"/>
       <point x="252" y="250"/>
-      <point x="338" y="250" type="curve"/>
-      <point x="338" y="301"/>
-      <point x="338" y="250"/>
-      <point x="338" y="301" type="curve"/>
+      <point x="337" y="250" type="curve"/>
+      <point x="337" y="301"/>
+      <point x="337" y="250"/>
+      <point x="337" y="301" type="curve"/>
       <point x="252" y="301"/>
       <point x="165" y="301"/>
-      <point x="78" y="301" type="curve"/>
-      <point x="78" y="250"/>
-      <point x="78" y="301"/>
+      <point x="79" y="301" type="curve"/>
+      <point x="79" y="250"/>
+      <point x="79" y="301"/>
     </contour>
   </outline>
   <lib>
@@ -25,9 +25,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

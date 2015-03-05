@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="285"/>
+  <advance width="284"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
       <point x="241" y="769" type="curve"/>
-      <point x="204" y="769"/>
+      <point x="203" y="769"/>
       <point x="166" y="769"/>
       <point x="128" y="769" type="curve"/>
       <point x="114" y="769"/>
@@ -48,7 +48,7 @@
       <point x="196" y="661"/>
       <point x="128" y="661" type="curve"/>
       <point x="166" y="661"/>
-      <point x="204" y="661"/>
+      <point x="203" y="661"/>
       <point x="241" y="661" type="curve"/>
       <point x="241" y="769"/>
       <point x="241" y="661"/>
@@ -61,9 +61,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

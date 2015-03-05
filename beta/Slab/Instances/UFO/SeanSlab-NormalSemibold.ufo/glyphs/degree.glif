@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="degree" format="1">
-  <advance width="523"/>
+  <advance width="524"/>
   <unicode hex="00B0"/>
   <outline>
     <contour>
       <point x="461" y="508" type="curve"/>
       <point x="461" y="631"/>
       <point x="385" y="706"/>
-      <point x="261" y="706" type="curve"/>
+      <point x="262" y="706" type="curve"/>
       <point x="138" y="706"/>
       <point x="62" y="631"/>
       <point x="62" y="509" type="curve"/>
@@ -43,9 +43,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

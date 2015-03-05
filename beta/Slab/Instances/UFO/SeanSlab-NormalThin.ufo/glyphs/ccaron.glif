@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="1">
-  <advance width="535"/>
+  <advance width="534"/>
   <unicode hex="010D"/>
   <outline>
     <contour>
@@ -19,7 +19,7 @@
     </contour>
     <contour>
       <point x="481" y="473" type="curve"/>
-      <point x="433" y="509"/>
+      <point x="434" y="509"/>
       <point x="374" y="538"/>
       <point x="312" y="538" type="curve"/>
       <point x="149" y="538"/>
@@ -38,13 +38,13 @@
       <point x="374" y="18"/>
       <point x="310" y="18" type="curve"/>
       <point x="165" y="18"/>
-      <point x="90" y="112"/>
-      <point x="90" y="267" type="curve"/>
-      <point x="90" y="422"/>
-      <point x="166" y="515"/>
+      <point x="91" y="112"/>
+      <point x="91" y="267" type="curve"/>
+      <point x="91" y="422"/>
+      <point x="167" y="515"/>
       <point x="310" y="515" type="curve"/>
       <point x="367" y="515"/>
-      <point x="421" y="490"/>
+      <point x="422" y="490"/>
       <point x="466" y="457" type="curve"/>
       <point x="481" y="473"/>
       <point x="466" y="457"/>
@@ -57,7 +57,7 @@
     </contour>
     <contour>
       <point x="139" y="837" type="line"/>
-      <point x="269" y="671" type="line"/>
+      <point x="270" y="671" type="line"/>
       <point x="307" y="671" type="line"/>
       <point x="167" y="837" type="line"/>
     </contour>
@@ -69,9 +69,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

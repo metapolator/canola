@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emdash" format="1">
-  <advance width="1032"/>
+  <advance width="1031"/>
   <unicode hex="2014"/>
   <outline>
     <contour>
       <point x="88" y="254" type="curve"/>
       <point x="373" y="254"/>
       <point x="658" y="254"/>
-      <point x="944" y="254" type="curve"/>
-      <point x="944" y="293"/>
-      <point x="944" y="254"/>
-      <point x="944" y="293" type="curve"/>
+      <point x="943" y="254" type="curve"/>
+      <point x="943" y="293"/>
+      <point x="943" y="254"/>
+      <point x="943" y="293" type="curve"/>
       <point x="658" y="293"/>
       <point x="373" y="293"/>
       <point x="88" y="293" type="curve"/>
@@ -25,9 +25,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute" format="1">
-  <advance width="499"/>
+  <advance width="373"/>
   <unicode hex="00ED"/>
   <outline>
     <contour>
-      <point x="216" y="93" type="curve"/>
-      <point x="54" y="93"/>
-      <point x="217" y="93"/>
-      <point x="55" y="93" type="curve"/>
-      <point x="55" y="0"/>
-      <point x="55" y="93"/>
-      <point x="55" y="0" type="curve"/>
-      <point x="109" y="0"/>
-      <point x="163" y="0"/>
-      <point x="216" y="0" type="curve"/>
-      <point x="216" y="93"/>
-      <point x="216" y="0"/>
+      <point x="191" y="93" type="curve"/>
+      <point x="29" y="93"/>
+      <point x="191" y="93"/>
+      <point x="29" y="93" type="curve"/>
+      <point x="29" y="0"/>
+      <point x="29" y="93"/>
+      <point x="29" y="0" type="curve"/>
+      <point x="83" y="0"/>
+      <point x="137" y="0"/>
+      <point x="191" y="0" type="curve"/>
+      <point x="191" y="93"/>
+      <point x="191" y="0"/>
     </contour>
     <contour>
-      <point x="216" y="0" type="curve"/>
-      <point x="269" y="0"/>
-      <point x="321" y="0"/>
-      <point x="373" y="0" type="curve"/>
-      <point x="373" y="93"/>
-      <point x="373" y="0"/>
-      <point x="373" y="93" type="curve"/>
-      <point x="216" y="93"/>
-      <point x="373" y="93"/>
-      <point x="216" y="93" type="curve"/>
-      <point x="216" y="0"/>
-      <point x="216" y="93"/>
+      <point x="191" y="0" type="curve"/>
+      <point x="243" y="0"/>
+      <point x="295" y="0"/>
+      <point x="347" y="0" type="curve"/>
+      <point x="347" y="93"/>
+      <point x="347" y="0"/>
+      <point x="347" y="93" type="curve"/>
+      <point x="191" y="93"/>
+      <point x="347" y="93"/>
+      <point x="191" y="93" type="curve"/>
+      <point x="191" y="0"/>
+      <point x="191" y="93"/>
     </contour>
     <contour>
-      <point x="216" y="533" type="curve"/>
-      <point x="163" y="533"/>
-      <point x="109" y="533"/>
-      <point x="55" y="533" type="curve"/>
-      <point x="55" y="440"/>
-      <point x="55" y="533"/>
-      <point x="55" y="440" type="curve"/>
-      <point x="217" y="440"/>
-      <point x="54" y="440"/>
-      <point x="216" y="440" type="curve"/>
-      <point x="216" y="533"/>
-      <point x="216" y="440"/>
+      <point x="191" y="533" type="curve"/>
+      <point x="137" y="533"/>
+      <point x="83" y="533"/>
+      <point x="29" y="533" type="curve"/>
+      <point x="29" y="440"/>
+      <point x="29" y="533"/>
+      <point x="29" y="440" type="curve"/>
+      <point x="191" y="440"/>
+      <point x="29" y="440"/>
+      <point x="191" y="440" type="curve"/>
+      <point x="191" y="533"/>
+      <point x="191" y="440"/>
     </contour>
     <contour>
-      <point x="283" y="0" type="curve"/>
-      <point x="283" y="178"/>
-      <point x="283" y="355"/>
-      <point x="283" y="533" type="curve"/>
-      <point x="151" y="533"/>
-      <point x="283" y="533"/>
-      <point x="151" y="533" type="curve"/>
-      <point x="151" y="355"/>
-      <point x="151" y="178"/>
-      <point x="151" y="0" type="curve"/>
-      <point x="283" y="0"/>
-      <point x="151" y="0"/>
+      <point x="258" y="0" type="curve"/>
+      <point x="258" y="178"/>
+      <point x="258" y="355"/>
+      <point x="258" y="533" type="curve"/>
+      <point x="126" y="533"/>
+      <point x="258" y="533"/>
+      <point x="126" y="533" type="curve"/>
+      <point x="126" y="355"/>
+      <point x="126" y="178"/>
+      <point x="126" y="0" type="curve"/>
+      <point x="258" y="0"/>
+      <point x="126" y="0"/>
     </contour>
     <contour>
-      <point x="270" y="624" type="line"/>
-      <point x="456" y="790" type="line"/>
-      <point x="291" y="790" type="line"/>
-      <point x="144" y="624" type="line"/>
+      <point x="244" y="624" type="line"/>
+      <point x="431" y="790" type="line"/>
+      <point x="266" y="790" type="line"/>
+      <point x="118" y="624" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -73,9 +73,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="538"/>
+  <advance width="539"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="334" y="746" type="line"/>
+      <point x="335" y="746" type="line"/>
       <point x="197" y="580" type="line"/>
       <point x="361" y="580" type="line"/>
       <point x="461" y="746" type="line"/>
     </contour>
     <contour>
       <point x="43" y="746" type="line"/>
-      <point x="143" y="580" type="line"/>
+      <point x="144" y="580" type="line"/>
       <point x="308" y="580" type="line"/>
       <point x="170" y="746" type="line"/>
     </contour>
     <contour>
-      <point x="250" y="579" type="move" name="_top"/>
+      <point x="251" y="579" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -26,9 +26,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

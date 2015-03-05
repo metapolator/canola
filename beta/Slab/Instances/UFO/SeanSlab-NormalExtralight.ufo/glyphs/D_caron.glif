@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="1">
-  <advance width="800"/>
+  <advance width="799"/>
   <unicode hex="010E"/>
   <outline>
     <contour>
@@ -47,7 +47,7 @@
     </contour>
     <contour>
       <point x="190" y="0" type="curve"/>
-      <point x="259" y="0"/>
+      <point x="258" y="0"/>
       <point x="320" y="0"/>
       <point x="389" y="0" type="curve"/>
       <point x="616" y="0"/>
@@ -97,9 +97,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

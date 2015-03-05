@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="646"/>
+  <advance width="411"/>
   <unicode hex="0165"/>
   <outline>
     <contour>
@@ -36,22 +36,22 @@
       <point x="366" y="29"/>
     </contour>
     <contour>
-      <point x="384" y="599" type="line"/>
-      <point x="481" y="599"/>
-      <point x="544" y="667"/>
-      <point x="544" y="767" type="curve"/>
-      <point x="544" y="846"/>
-      <point x="511" y="894"/>
-      <point x="463" y="894" type="curve"/>
-      <point x="421" y="894"/>
-      <point x="392" y="871"/>
-      <point x="392" y="828" type="curve"/>
-      <point x="392" y="790"/>
-      <point x="416" y="764"/>
-      <point x="455" y="764" type="curve"/>
-      <point x="455" y="733"/>
-      <point x="449" y="681"/>
-      <point x="384" y="671" type="curve"/>
+      <point x="385" y="600" type="line"/>
+      <point x="478" y="603"/>
+      <point x="542" y="669"/>
+      <point x="542" y="769" type="curve"/>
+      <point x="542" y="847"/>
+      <point x="510" y="894"/>
+      <point x="461" y="894" type="curve"/>
+      <point x="419" y="894"/>
+      <point x="391" y="871"/>
+      <point x="391" y="828" type="curve"/>
+      <point x="391" y="790"/>
+      <point x="414" y="764"/>
+      <point x="454" y="764" type="curve"/>
+      <point x="454" y="733"/>
+      <point x="446" y="684"/>
+      <point x="383" y="671" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -61,9 +61,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

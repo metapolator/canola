@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecaron" format="1">
-  <advance width="700"/>
+  <advance width="699"/>
   <unicode hex="011A"/>
   <outline>
     <contour>
@@ -123,7 +123,7 @@
       <point x="150" y="962" type="line"/>
       <point x="273" y="796" type="line"/>
       <point x="410" y="796" type="line"/>
-      <point x="257" y="962" type="line"/>
+      <point x="256" y="962" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -133,9 +133,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>
