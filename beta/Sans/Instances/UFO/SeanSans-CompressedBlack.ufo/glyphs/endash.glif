@@ -1,33 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="1">
-  <advance width="397"/>
+  <advance width="398"/>
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="50" y="224" type="curve"/>
-      <point x="149" y="224"/>
-      <point x="246" y="224"/>
-      <point x="345" y="224" type="curve"/>
-      <point x="345" y="342"/>
-      <point x="345" y="224"/>
-      <point x="345" y="342" type="curve"/>
-      <point x="246" y="342"/>
-      <point x="149" y="342"/>
-      <point x="50" y="342" type="curve"/>
-      <point x="50" y="224"/>
-      <point x="50" y="342"/>
+      <point x="51" y="224" type="curve"/>
+      <point x="150" y="224"/>
+      <point x="247" y="224"/>
+      <point x="346" y="224" type="curve"/>
+      <point x="346" y="342"/>
+      <point x="346" y="224"/>
+      <point x="346" y="342" type="curve"/>
+      <point x="247" y="342"/>
+      <point x="150" y="342"/>
+      <point x="51" y="342" type="curve"/>
+      <point x="51" y="224"/>
+      <point x="51" y="342"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>endash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>686</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>endash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>686</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

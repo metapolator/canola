@@ -53,7 +53,7 @@
       <point x="360" y="587"/>
       <point x="308" y="516"/>
       <point x="278" y="439" type="curve"/>
-      <point x="258" y="387"/>
+      <point x="259" y="387"/>
       <point x="256" y="313"/>
       <point x="200" y="313" type="curve"/>
       <point x="200" y="195"/>
@@ -64,12 +64,56 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>infinity</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1077</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>infinity</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1077</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

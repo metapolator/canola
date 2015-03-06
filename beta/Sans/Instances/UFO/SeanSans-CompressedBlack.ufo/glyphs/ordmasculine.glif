@@ -8,7 +8,7 @@
       <point x="110" y="640"/>
       <point x="115" y="692"/>
       <point x="160" y="692" type="curve"/>
-      <point x="204" y="692"/>
+      <point x="205" y="692"/>
       <point x="210" y="642"/>
       <point x="210" y="591" type="curve"/>
       <point x="210" y="540"/>
@@ -28,7 +28,7 @@
       <point x="298" y="591" type="curve"/>
       <point x="298" y="692"/>
       <point x="255" y="764"/>
-      <point x="164" y="764" type="curve"/>
+      <point x="165" y="764" type="curve"/>
       <point x="72" y="764"/>
       <point x="30" y="692"/>
       <point x="30" y="591" type="curve"/>
@@ -40,12 +40,56 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>524</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>524</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

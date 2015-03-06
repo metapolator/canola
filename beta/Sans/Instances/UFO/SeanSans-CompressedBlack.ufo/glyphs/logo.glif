@@ -77,60 +77,104 @@
       <point x="554" y="107"/>
     </contour>
     <contour>
-      <point x="986" y="53" type="curve"/>
-      <point x="1037" y="11"/>
-      <point x="1082" y="-5"/>
+      <point x="960" y="53" type="curve"/>
+      <point x="1016" y="18"/>
+      <point x="1072" y="-5"/>
       <point x="1147" y="-5" type="curve"/>
       <point x="1269" y="-5"/>
       <point x="1356" y="72"/>
       <point x="1356" y="193" type="curve"/>
       <point x="1356" y="298"/>
-      <point x="1291" y="362"/>
-      <point x="1200" y="418" type="curve"/>
-      <point x="1151" y="450"/>
-      <point x="1112" y="493"/>
-      <point x="1112" y="539" type="curve"/>
-      <point x="1109" y="575"/>
-      <point x="1127" y="613"/>
-      <point x="1159" y="613" type="curve"/>
-      <point x="1197" y="613"/>
-      <point x="1224" y="591"/>
-      <point x="1247" y="575" type="curve"/>
-      <point x="1311" y="661"/>
-      <point x="1247" y="576"/>
-      <point x="1311" y="661" type="curve"/>
-      <point x="1263" y="701"/>
-      <point x="1221" y="716"/>
-      <point x="1161" y="716" type="curve"/>
-      <point x="1050" y="716"/>
-      <point x="974" y="644"/>
+      <point x="1282" y="370"/>
+      <point x="1192" y="429" type="curve"/>
+      <point x="1142" y="462"/>
+      <point x="1112" y="497"/>
+      <point x="1112" y="544" type="curve"/>
+      <point x="1109" y="583"/>
+      <point x="1130" y="622"/>
+      <point x="1163" y="622" type="curve"/>
+      <point x="1200" y="622"/>
+      <point x="1222" y="607"/>
+      <point x="1256" y="583" type="curve"/>
+      <point x="1311" y="670"/>
+      <point x="1256" y="583"/>
+      <point x="1311" y="670" type="curve"/>
+      <point x="1272" y="701"/>
+      <point x="1221" y="725"/>
+      <point x="1161" y="725" type="curve"/>
+      <point x="1050" y="725"/>
+      <point x="974" y="650"/>
       <point x="974" y="535" type="curve"/>
       <point x="974" y="434"/>
-      <point x="1033" y="367"/>
-      <point x="1117" y="315" type="curve"/>
-      <point x="1171" y="281"/>
-      <point x="1218" y="238"/>
-      <point x="1218" y="194" type="curve"/>
-      <point x="1218" y="158"/>
-      <point x="1195" y="108"/>
-      <point x="1154" y="108" type="curve"/>
-      <point x="1116" y="108"/>
-      <point x="1096" y="130"/>
-      <point x="1064" y="155" type="curve"/>
-      <point x="986" y="54"/>
-      <point x="1064" y="155"/>
+      <point x="1015" y="381"/>
+      <point x="1098" y="327" type="curve"/>
+      <point x="1151" y="292"/>
+      <point x="1218" y="252"/>
+      <point x="1218" y="187" type="curve"/>
+      <point x="1218" y="153"/>
+      <point x="1191" y="108"/>
+      <point x="1143" y="108" type="curve"/>
+      <point x="1099" y="108"/>
+      <point x="1064" y="125"/>
+      <point x="1030" y="148" type="curve"/>
+      <point x="960" y="54"/>
+      <point x="1029" y="148"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>logo</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2505</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>logo</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2505</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

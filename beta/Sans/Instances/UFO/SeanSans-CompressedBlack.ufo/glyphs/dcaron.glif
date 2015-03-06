@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="498"/>
+  <advance width="520"/>
   <unicode hex="010F"/>
   <outline>
     <contour>
@@ -50,34 +50,78 @@
       <point x="317" y="0"/>
     </contour>
     <contour>
-      <point x="571" y="563" type="line"/>
-      <point x="663" y="564"/>
-      <point x="722" y="632"/>
-      <point x="722" y="737" type="curve"/>
-      <point x="722" y="826"/>
-      <point x="690" y="869"/>
-      <point x="647" y="869" type="curve"/>
-      <point x="605" y="869"/>
-      <point x="578" y="844"/>
-      <point x="578" y="798" type="curve"/>
-      <point x="578" y="763"/>
-      <point x="596" y="733"/>
-      <point x="631" y="733" type="curve"/>
-      <point x="632" y="709"/>
-      <point x="632" y="652"/>
-      <point x="570" y="639" type="curve"/>
+      <point x="593" y="563" type="line"/>
+      <point x="685" y="564"/>
+      <point x="745" y="632"/>
+      <point x="745" y="737" type="curve"/>
+      <point x="745" y="826"/>
+      <point x="713" y="869"/>
+      <point x="670" y="869" type="curve"/>
+      <point x="628" y="869"/>
+      <point x="601" y="844"/>
+      <point x="601" y="798" type="curve"/>
+      <point x="601" y="763"/>
+      <point x="618" y="733"/>
+      <point x="654" y="733" type="curve"/>
+      <point x="654" y="709"/>
+      <point x="655" y="652"/>
+      <point x="593" y="639" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>806</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>806</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

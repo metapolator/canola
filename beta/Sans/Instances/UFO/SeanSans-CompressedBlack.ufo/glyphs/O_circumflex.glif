@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflex" format="1">
-  <advance width="598"/>
+  <advance width="599"/>
   <unicode hex="00D4"/>
   <outline>
     <contour>
-      <point x="174" y="360" type="curve" name="FullCurve"/>
-      <point x="174" y="492"/>
-      <point x="183" y="615"/>
-      <point x="297" y="615" type="curve" name="FullCurve"/>
+      <point x="175" y="360" type="curve"/>
+      <point x="175" y="492"/>
+      <point x="184" y="615"/>
+      <point x="297" y="615" type="curve"/>
       <point x="404" y="615"/>
       <point x="424" y="495"/>
-      <point x="424" y="363" type="curve" name="FullCurve"/>
+      <point x="424" y="363" type="curve"/>
       <point x="424" y="229"/>
       <point x="413" y="108"/>
-      <point x="301" y="108" type="curve" name="FullCurve"/>
+      <point x="301" y="108" type="curve"/>
       <point x="192" y="108"/>
-      <point x="174" y="227"/>
-      <point x="174" y="360" type="curve" name="FullCurve"/>
-      <point x="36" y="360"/>
-      <point x="174" y="360"/>
-      <point x="36" y="360" type="curve" name="FullCurve"/>
-      <point x="36" y="156"/>
+      <point x="175" y="227"/>
+      <point x="175" y="360" type="curve"/>
+      <point x="37" y="360"/>
+      <point x="175" y="360"/>
+      <point x="37" y="360" type="curve"/>
+      <point x="37" y="156"/>
       <point x="115" y="-5"/>
-      <point x="296" y="-5" type="curve" name="FullCurve"/>
-      <point x="480" y="-5"/>
+      <point x="297" y="-5" type="curve"/>
+      <point x="481" y="-5"/>
       <point x="562" y="157"/>
-      <point x="562" y="363" type="curve" name="FullCurve"/>
+      <point x="562" y="363" type="curve"/>
       <point x="562" y="565"/>
-      <point x="484" y="727"/>
-      <point x="302" y="727" type="curve" name="FullCurve"/>
+      <point x="485" y="727"/>
+      <point x="302" y="727" type="curve"/>
       <point x="119" y="727"/>
-      <point x="36" y="565"/>
-      <point x="36" y="360" type="curve" name="FullCurve"/>
-      <point x="174" y="360"/>
-      <point x="36" y="360"/>
+      <point x="37" y="565"/>
+      <point x="37" y="360" type="curve"/>
+      <point x="175" y="360"/>
+      <point x="37" y="360"/>
     </contour>
     <contour>
-      <point x="243" y="781" type="line"/>
+      <point x="244" y="781" type="line"/>
       <point x="356" y="947" type="line"/>
       <point x="189" y="947" type="line"/>
       <point x="114" y="781" type="line"/>
     </contour>
     <contour>
-      <point x="484" y="781" type="line"/>
+      <point x="485" y="781" type="line"/>
       <point x="411" y="947" type="line"/>
       <point x="244" y="947" type="line"/>
       <point x="356" y="781" type="line"/>
@@ -52,12 +52,56 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ocircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>950</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ocircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>950</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -4,22 +4,22 @@
   <unicode hex="0157"/>
   <outline>
     <contour>
-      <point x="158" y="0" type="curve"/>
-      <point x="158" y="174"/>
-      <point x="158" y="359"/>
-      <point x="158" y="533" type="curve"/>
+      <point x="159" y="0" type="curve"/>
+      <point x="159" y="174"/>
+      <point x="159" y="359"/>
+      <point x="159" y="533" type="curve"/>
       <point x="6" y="533"/>
       <point x="173" y="533"/>
-      <point x="20" y="533" type="curve"/>
-      <point x="20" y="359"/>
-      <point x="20" y="174"/>
-      <point x="20" y="0" type="curve"/>
+      <point x="21" y="533" type="curve"/>
+      <point x="21" y="359"/>
+      <point x="21" y="174"/>
+      <point x="21" y="0" type="curve"/>
       <point x="173" y="0"/>
       <point x="6" y="0"/>
     </contour>
     <contour>
       <point x="131" y="291" type="curve"/>
-      <point x="155" y="406"/>
+      <point x="156" y="406"/>
       <point x="210" y="429"/>
       <point x="266" y="429" type="curve"/>
       <point x="266" y="551"/>
@@ -27,7 +27,7 @@
       <point x="266" y="538" type="curve"/>
       <point x="177" y="538"/>
       <point x="108" y="445"/>
-      <point x="80" y="338" type="curve"/>
+      <point x="81" y="338" type="curve"/>
       <point x="132" y="282"/>
       <point x="80" y="347"/>
     </contour>
@@ -54,12 +54,56 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>465</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>465</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

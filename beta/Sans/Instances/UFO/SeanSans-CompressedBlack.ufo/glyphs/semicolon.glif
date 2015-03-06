@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="223"/>
+  <advance width="224"/>
   <unicode hex="003B"/>
   <outline>
     <contour>
       <point x="6" y="-220" type="line"/>
       <point x="108" y="-220"/>
-      <point x="173" y="-151"/>
-      <point x="173" y="-46" type="curve"/>
-      <point x="173" y="43"/>
-      <point x="138" y="85"/>
+      <point x="174" y="-151"/>
+      <point x="174" y="-46" type="curve"/>
+      <point x="174" y="43"/>
+      <point x="139" y="85"/>
       <point x="90" y="85" type="curve"/>
-      <point x="43" y="85"/>
-      <point x="13" y="61"/>
-      <point x="13" y="15" type="curve"/>
-      <point x="13" y="-20"/>
-      <point x="33" y="-50"/>
+      <point x="45" y="85"/>
+      <point x="14" y="61"/>
+      <point x="14" y="15" type="curve"/>
+      <point x="14" y="-20"/>
+      <point x="34" y="-50"/>
       <point x="73" y="-51" type="curve"/>
       <point x="73" y="-74"/>
       <point x="74" y="-131"/>
@@ -24,7 +24,7 @@
     <contour>
       <point x="160" y="377" type="curve"/>
       <point x="160" y="424"/>
-      <point x="129" y="447"/>
+      <point x="131" y="447"/>
       <point x="89" y="447" type="curve"/>
       <point x="47" y="447"/>
       <point x="20" y="422"/>
@@ -49,12 +49,56 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>semicolon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>184</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>semicolon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>184</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

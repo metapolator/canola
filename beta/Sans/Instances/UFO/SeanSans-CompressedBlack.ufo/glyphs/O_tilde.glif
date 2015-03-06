@@ -1,83 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde" format="1">
-  <advance width="598"/>
+  <advance width="599"/>
   <unicode hex="00D5"/>
   <outline>
     <contour>
-      <point x="174" y="360" type="curve" name="FullCurve"/>
-      <point x="174" y="492"/>
-      <point x="183" y="615"/>
-      <point x="297" y="615" type="curve" name="FullCurve"/>
+      <point x="175" y="360" type="curve"/>
+      <point x="175" y="492"/>
+      <point x="184" y="615"/>
+      <point x="297" y="615" type="curve"/>
       <point x="404" y="615"/>
       <point x="424" y="495"/>
-      <point x="424" y="363" type="curve" name="FullCurve"/>
+      <point x="424" y="363" type="curve"/>
       <point x="424" y="229"/>
       <point x="413" y="108"/>
-      <point x="301" y="108" type="curve" name="FullCurve"/>
+      <point x="301" y="108" type="curve"/>
       <point x="192" y="108"/>
-      <point x="174" y="227"/>
-      <point x="174" y="360" type="curve" name="FullCurve"/>
-      <point x="36" y="360"/>
-      <point x="174" y="360"/>
-      <point x="36" y="360" type="curve" name="FullCurve"/>
-      <point x="36" y="156"/>
+      <point x="175" y="227"/>
+      <point x="175" y="360" type="curve"/>
+      <point x="37" y="360"/>
+      <point x="175" y="360"/>
+      <point x="37" y="360" type="curve"/>
+      <point x="37" y="156"/>
       <point x="115" y="-5"/>
-      <point x="296" y="-5" type="curve" name="FullCurve"/>
-      <point x="480" y="-5"/>
+      <point x="297" y="-5" type="curve"/>
+      <point x="481" y="-5"/>
       <point x="562" y="157"/>
-      <point x="562" y="363" type="curve" name="FullCurve"/>
+      <point x="562" y="363" type="curve"/>
       <point x="562" y="565"/>
-      <point x="484" y="727"/>
-      <point x="302" y="727" type="curve" name="FullCurve"/>
+      <point x="485" y="727"/>
+      <point x="302" y="727" type="curve"/>
       <point x="119" y="727"/>
-      <point x="36" y="565"/>
-      <point x="36" y="360" type="curve" name="FullCurve"/>
-      <point x="174" y="360"/>
-      <point x="36" y="360"/>
+      <point x="37" y="565"/>
+      <point x="37" y="360" type="curve"/>
+      <point x="175" y="360"/>
+      <point x="37" y="360"/>
     </contour>
     <contour>
       <point x="384" y="973" type="curve"/>
-      <point x="366" y="938"/>
+      <point x="365" y="938"/>
       <point x="355" y="936"/>
       <point x="343" y="936" type="curve"/>
-      <point x="319" y="936"/>
+      <point x="320" y="936"/>
       <point x="309" y="942"/>
-      <point x="292" y="955" type="curve"/>
+      <point x="293" y="955" type="curve"/>
       <point x="270" y="973"/>
       <point x="260" y="980"/>
       <point x="235" y="980" type="curve"/>
       <point x="170" y="980"/>
-      <point x="137" y="908"/>
+      <point x="138" y="908"/>
       <point x="119" y="848" type="curve"/>
-      <point x="220" y="788"/>
+      <point x="221" y="788"/>
       <point x="119" y="850"/>
-      <point x="220" y="788" type="curve"/>
-      <point x="240" y="827"/>
-      <point x="255" y="831"/>
+      <point x="221" y="788" type="curve"/>
+      <point x="241" y="827"/>
+      <point x="256" y="831"/>
       <point x="272" y="831" type="curve"/>
       <point x="290" y="831"/>
-      <point x="298" y="826"/>
-      <point x="310" y="815" type="curve"/>
+      <point x="299" y="826"/>
+      <point x="311" y="815" type="curve"/>
       <point x="337" y="792"/>
-      <point x="350" y="781"/>
+      <point x="351" y="781"/>
       <point x="382" y="781" type="curve"/>
       <point x="447" y="781"/>
       <point x="468" y="848"/>
-      <point x="493" y="915" type="curve"/>
+      <point x="494" y="915" type="curve"/>
       <point x="384" y="974"/>
-      <point x="493" y="914"/>
+      <point x="494" y="914"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Otilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>950</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Otilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>950</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -4,40 +4,84 @@
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="34" y="218" type="curve"/>
-      <point x="420" y="218" type="curve"/>
-      <point x="445" y="326" type="curve"/>
-      <point x="58" y="326" type="curve"/>
+      <point x="34" y="218" type="line"/>
+      <point x="420" y="218" type="line"/>
+      <point x="445" y="326" type="line"/>
+      <point x="58" y="326" type="line"/>
     </contour>
     <contour>
-      <point x="76" y="431" type="curve"/>
-      <point x="464" y="431" type="curve"/>
-      <point x="489" y="539" type="curve"/>
-      <point x="99" y="539" type="curve"/>
+      <point x="76" y="431" type="line"/>
+      <point x="464" y="431" type="line"/>
+      <point x="489" y="539" type="line"/>
+      <point x="99" y="539" type="line"/>
     </contour>
     <contour>
-      <point x="351" y="39" type="curve"/>
-      <point x="495" y="722" type="curve"/>
-      <point x="357" y="722" type="curve"/>
-      <point x="213" y="39" type="curve"/>
+      <point x="351" y="39" type="line"/>
+      <point x="495" y="722" type="line"/>
+      <point x="357" y="722" type="line"/>
+      <point x="213" y="39" type="line"/>
     </contour>
     <contour>
-      <point x="159" y="46" type="curve"/>
-      <point x="303" y="722" type="curve"/>
-      <point x="165" y="722" type="curve"/>
-      <point x="27" y="46" type="curve"/>
+      <point x="159" y="46" type="line"/>
+      <point x="303" y="722" type="line"/>
+      <point x="165" y="722" type="line"/>
+      <point x="27" y="46" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>numbersign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>855</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>numbersign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>855</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -7,33 +7,77 @@
       <point x="184" y="61" type="curve"/>
       <point x="184" y="107"/>
       <point x="154" y="131"/>
-      <point x="113" y="131" type="curve"/>
+      <point x="114" y="131" type="curve"/>
       <point x="72" y="131"/>
-      <point x="44" y="105"/>
-      <point x="44" y="61" type="curve"/>
+      <point x="45" y="105"/>
+      <point x="45" y="61" type="curve"/>
       <point x="184" y="61"/>
-      <point x="44" y="61"/>
+      <point x="45" y="61"/>
       <point x="184" y="61" type="curve"/>
       <point x="184" y="13"/>
       <point x="155" y="-9"/>
-      <point x="113" y="-9" type="curve"/>
+      <point x="114" y="-9" type="curve"/>
       <point x="71" y="-9"/>
-      <point x="44" y="15"/>
-      <point x="44" y="61" type="curve"/>
+      <point x="45" y="15"/>
+      <point x="45" y="61" type="curve"/>
       <point x="184" y="61"/>
-      <point x="44" y="61"/>
+      <point x="45" y="61"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>period</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>187</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>period</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>187</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

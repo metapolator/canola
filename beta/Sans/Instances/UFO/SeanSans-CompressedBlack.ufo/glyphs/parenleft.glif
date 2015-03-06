@@ -4,23 +4,23 @@
   <unicode hex="0028"/>
   <outline>
     <contour>
-      <point x="304" y="-205" type="curve"/>
+      <point x="305" y="-205" type="curve"/>
       <point x="186" y="-34"/>
-      <point x="165" y="119"/>
-      <point x="165" y="326" type="curve"/>
-      <point x="165" y="534"/>
-      <point x="187" y="687"/>
-      <point x="303" y="861" type="curve"/>
+      <point x="166" y="119"/>
+      <point x="166" y="326" type="curve"/>
+      <point x="166" y="534"/>
+      <point x="188" y="687"/>
+      <point x="304" y="861" type="curve"/>
       <point x="221" y="930"/>
-      <point x="303" y="861"/>
+      <point x="304" y="861"/>
       <point x="221" y="930" type="curve"/>
       <point x="84" y="732"/>
-      <point x="31" y="566"/>
-      <point x="31" y="326" type="curve"/>
-      <point x="31" y="85"/>
-      <point x="85" y="-81"/>
+      <point x="32" y="566"/>
+      <point x="32" y="326" type="curve"/>
+      <point x="32" y="85"/>
+      <point x="86" y="-81"/>
       <point x="222" y="-281" type="curve"/>
-      <point x="304" y="-205"/>
+      <point x="305" y="-205"/>
       <point x="222" y="-281"/>
     </contour>
   </outline>
@@ -28,12 +28,56 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>410</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>410</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

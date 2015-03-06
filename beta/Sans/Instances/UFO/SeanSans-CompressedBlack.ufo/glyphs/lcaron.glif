@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="252"/>
+  <advance width="334"/>
   <unicode hex="013E"/>
   <outline>
     <contour>
@@ -18,34 +18,78 @@
       <point x="54" y="0"/>
     </contour>
     <contour>
-      <point x="266" y="564" type="line"/>
-      <point x="357" y="565"/>
-      <point x="417" y="633"/>
-      <point x="417" y="739" type="curve"/>
-      <point x="417" y="827"/>
-      <point x="385" y="870"/>
-      <point x="342" y="870" type="curve"/>
-      <point x="300" y="870"/>
-      <point x="273" y="846"/>
-      <point x="273" y="800" type="curve"/>
-      <point x="273" y="764"/>
-      <point x="290" y="734"/>
-      <point x="326" y="734" type="curve"/>
-      <point x="326" y="710"/>
-      <point x="327" y="653"/>
-      <point x="265" y="641" type="curve"/>
+      <point x="347" y="564" type="line"/>
+      <point x="439" y="565"/>
+      <point x="499" y="633"/>
+      <point x="499" y="739" type="curve"/>
+      <point x="499" y="827"/>
+      <point x="467" y="870"/>
+      <point x="424" y="870" type="curve"/>
+      <point x="382" y="870"/>
+      <point x="355" y="846"/>
+      <point x="355" y="800" type="curve"/>
+      <point x="355" y="764"/>
+      <point x="372" y="734"/>
+      <point x="408" y="734" type="curve"/>
+      <point x="408" y="710"/>
+      <point x="409" y="653"/>
+      <point x="347" y="641" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>301</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>301</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -18,18 +18,18 @@
       <point x="135" y="427"/>
     </contour>
     <contour>
-      <point x="124" y="615" type="curve"/>
+      <point x="125" y="615" type="curve"/>
       <point x="215" y="615"/>
       <point x="305" y="615"/>
-      <point x="395" y="615" type="curve"/>
-      <point x="395" y="722"/>
-      <point x="395" y="615"/>
-      <point x="395" y="722" type="curve"/>
+      <point x="396" y="615" type="curve"/>
+      <point x="396" y="722"/>
+      <point x="396" y="615"/>
+      <point x="396" y="722" type="curve"/>
       <point x="305" y="722"/>
       <point x="215" y="722"/>
-      <point x="124" y="722" type="curve"/>
-      <point x="124" y="615"/>
-      <point x="124" y="722"/>
+      <point x="125" y="722" type="curve"/>
+      <point x="125" y="615"/>
+      <point x="125" y="722"/>
     </contour>
     <contour>
       <point x="201" y="0" type="curve"/>
@@ -44,7 +44,7 @@
       <point x="63" y="0"/>
     </contour>
     <contour>
-      <point x="124" y="0" type="curve"/>
+      <point x="125" y="0" type="curve"/>
       <point x="222" y="0"/>
       <point x="320" y="0"/>
       <point x="418" y="0" type="curve"/>
@@ -53,16 +53,16 @@
       <point x="418" y="107" type="curve"/>
       <point x="320" y="107"/>
       <point x="222" y="107"/>
-      <point x="124" y="107" type="curve"/>
-      <point x="124" y="0"/>
-      <point x="124" y="107"/>
+      <point x="125" y="107" type="curve"/>
+      <point x="125" y="0"/>
+      <point x="125" y="107"/>
     </contour>
     <contour>
       <point x="198" y="844" type="curve"/>
       <point x="198" y="891"/>
       <point x="168" y="914"/>
       <point x="127" y="914" type="curve"/>
-      <point x="85" y="914"/>
+      <point x="86" y="914"/>
       <point x="58" y="889"/>
       <point x="58" y="844" type="curve"/>
       <point x="198" y="844"/>
@@ -71,7 +71,7 @@
       <point x="198" y="796"/>
       <point x="169" y="775"/>
       <point x="127" y="775" type="curve"/>
-      <point x="84" y="775"/>
+      <point x="85" y="775"/>
       <point x="58" y="798"/>
       <point x="58" y="844" type="curve"/>
       <point x="198" y="844"/>
@@ -81,33 +81,77 @@
       <point x="389" y="844" type="curve"/>
       <point x="389" y="891"/>
       <point x="359" y="914"/>
-      <point x="318" y="914" type="curve"/>
+      <point x="319" y="914" type="curve"/>
       <point x="277" y="914"/>
-      <point x="249" y="889"/>
-      <point x="249" y="844" type="curve"/>
-      <point x="389" y="844"/>
-      <point x="249" y="844"/>
+      <point x="250" y="889"/>
+      <point x="250" y="844" type="curve"/>
+      <point x="390" y="844"/>
+      <point x="250" y="844"/>
       <point x="389" y="844" type="curve"/>
       <point x="389" y="796"/>
       <point x="360" y="775"/>
       <point x="319" y="775" type="curve"/>
       <point x="276" y="775"/>
-      <point x="249" y="798"/>
-      <point x="249" y="844" type="curve"/>
-      <point x="389" y="844"/>
-      <point x="249" y="844"/>
+      <point x="250" y="798"/>
+      <point x="250" y="844" type="curve"/>
+      <point x="390" y="844"/>
+      <point x="250" y="844"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Edieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>748</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Edieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>748</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

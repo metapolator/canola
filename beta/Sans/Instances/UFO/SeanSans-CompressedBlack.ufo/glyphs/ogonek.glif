@@ -4,45 +4,89 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="78" y="90" type="curve"/>
+      <point x="79" y="90" type="curve"/>
       <point x="21" y="54"/>
-      <point x="-29" y="25"/>
-      <point x="-29" y="-42" type="curve"/>
-      <point x="-29" y="-115"/>
+      <point x="-28" y="25"/>
+      <point x="-28" y="-42" type="curve"/>
+      <point x="-28" y="-115"/>
       <point x="11" y="-169"/>
       <point x="83" y="-169" type="curve"/>
-      <point x="117" y="-169"/>
+      <point x="118" y="-169"/>
       <point x="141" y="-158"/>
       <point x="168" y="-136" type="curve"/>
       <point x="105" y="-50"/>
-      <point x="167" y="-136"/>
+      <point x="168" y="-136"/>
       <point x="105" y="-50" type="curve"/>
-      <point x="100" y="-54"/>
+      <point x="101" y="-54"/>
       <point x="94" y="-61"/>
       <point x="89" y="-61" type="curve"/>
-      <point x="80" y="-61"/>
+      <point x="81" y="-61"/>
       <point x="76" y="-52"/>
       <point x="76" y="-42" type="curve"/>
       <point x="76" y="-15"/>
       <point x="107" y="-2"/>
       <point x="129" y="14" type="curve"/>
       <point x="79" y="89"/>
-      <point x="128" y="15"/>
+      <point x="129" y="15"/>
     </contour>
     <contour>
-      <point x="118" y="15" type="move" name="_bottom"/>
+      <point x="119" y="15" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>298</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>298</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>

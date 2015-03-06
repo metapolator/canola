@@ -13,7 +13,7 @@
       <point x="315" y="161" type="curve"/>
       <point x="314" y="253"/>
       <point x="253" y="291"/>
-      <point x="166" y="326" type="curve" smooth="yes"/>
+      <point x="166" y="326" type="curve"/>
       <point x="137" y="338"/>
       <point x="118" y="358"/>
       <point x="118" y="389" type="curve"/>
@@ -34,7 +34,7 @@
       <point x="-7" y="389" type="curve"/>
       <point x="-7" y="302"/>
       <point x="41" y="255"/>
-      <point x="122" y="224" type="curve" smooth="yes"/>
+      <point x="122" y="224" type="curve"/>
       <point x="157" y="210"/>
       <point x="183" y="190"/>
       <point x="183" y="151" type="curve"/>
@@ -64,12 +64,56 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>scaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>534</integer>
+        </dict>
+        <key>serifs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>scaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>534</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.6795</real>
         <real>1.0</real>
+        <real>0.9418</real>
         <real>1.0</real>
       </array>
     </dict>
