@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvB" format="1">
+  <advance width="277"/>
+  <outline>
+    <contour>
+      <point x="340" y="319" type="curve"/>
+      <point x="340" y="235"/>
+      <point x="315" y="166"/>
+      <point x="244" y="166" type="curve"/>
+      <point x="170" y="166"/>
+      <point x="139" y="234"/>
+      <point x="139" y="320" type="curve"/>
+      <point x="139" y="400"/>
+      <point x="167" y="463"/>
+      <point x="235" y="463" type="curve"/>
+      <point x="306" y="463"/>
+      <point x="340" y="402"/>
+      <point x="340" y="319" type="curve"/>
+      <point x="379" y="319"/>
+      <point x="407" y="319"/>
+      <point x="446" y="319" type="curve"/>
+      <point x="446" y="458"/>
+      <point x="370" y="552"/>
+      <point x="240" y="552" type="curve"/>
+      <point x="110" y="552"/>
+      <point x="33" y="458"/>
+      <point x="33" y="320" type="curve"/>
+      <point x="33" y="177"/>
+      <point x="103" y="73"/>
+      <point x="234" y="73" type="curve"/>
+      <point x="369" y="73"/>
+      <point x="446" y="174"/>
+      <point x="446" y="319" type="curve"/>
+      <point x="407" y="319"/>
+      <point x="379" y="319"/>
+    </contour>
+    <component base="dvDiagonal" xOffset="2" yOffset="2"/>
+    <component base="dvTopbar" xScale="0.816141019828" xOffset="-2"/>
+  </outline>
+</glyph>

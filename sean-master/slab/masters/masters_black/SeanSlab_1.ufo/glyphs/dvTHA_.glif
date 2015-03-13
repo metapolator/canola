@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTHA" format="1">
+  <advance width="920"/>
+  <unicode hex="0925"/>
+  <outline>
+    <contour>
+      <point x="171" y="383"/>
+      <point x="130" y="409"/>
+      <point x="73" y="448" type="curve"/>
+      <point x="55" y="232"/>
+      <point x="183" y="82"/>
+      <point x="400" y="82" type="curve"/>
+      <point x="590" y="82"/>
+      <point x="678" y="169"/>
+      <point x="794" y="377" type="curve"/>
+      <point x="753" y="392"/>
+      <point x="725" y="403"/>
+      <point x="684" y="418" type="curve"/>
+      <point x="626" y="278"/>
+      <point x="543" y="207"/>
+      <point x="407" y="207" type="curve"/>
+      <point x="302" y="207"/>
+      <point x="228" y="255"/>
+      <point x="228" y="344" type="curve"/>
+    </contour>
+    <contour>
+      <point x="228" y="551" type="line"/>
+      <point x="239" y="589"/>
+      <point x="267" y="611"/>
+      <point x="320" y="611" type="curve"/>
+      <point x="368" y="611"/>
+      <point x="398" y="580"/>
+      <point x="398" y="531" type="curve"/>
+      <point x="398" y="436"/>
+      <point x="233" y="448"/>
+      <point x="73" y="448" type="curve"/>
+      <point x="130" y="409"/>
+      <point x="171" y="383"/>
+      <point x="228" y="344" type="curve"/>
+      <point x="397" y="332"/>
+      <point x="559" y="382"/>
+      <point x="559" y="537" type="curve"/>
+      <point x="558" y="663"/>
+      <point x="461" y="728"/>
+      <point x="325" y="728" type="curve"/>
+      <point x="199" y="728"/>
+      <point x="129" y="691"/>
+      <point x="95" y="581" type="curve"/>
+    </contour>
+    <component base="dvStemright" xOffset="604"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

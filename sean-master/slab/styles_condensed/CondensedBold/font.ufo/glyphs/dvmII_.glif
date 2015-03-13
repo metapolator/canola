@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmII" format="1">
+  <advance width="224"/>
+  <unicode hex="0940"/>
+  <outline>
+    <contour>
+      <point x="155" y="668" type="line"/>
+      <point x="141" y="789" type="line" smooth="yes"/>
+      <point x="124" y="927"/>
+      <point x="75" y="1003"/>
+      <point x="-26" y="1003" type="curve"/>
+      <point x="-135" y="1003"/>
+      <point x="-169" y="877"/>
+      <point x="-178" y="712" type="curve"/>
+      <point x="-86" y="670" type="line"/>
+      <point x="-79" y="784"/>
+      <point x="-78" y="909"/>
+      <point x="-22" y="909" type="curve"/>
+      <point x="18" y="909"/>
+      <point x="31" y="863"/>
+      <point x="41" y="785" type="curve" smooth="yes"/>
+      <point x="54" y="686" type="line"/>
+    </contour>
+    <component base="dvmAA" xOffset="-24"/>
+  </outline>
+</glyph>

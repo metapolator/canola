@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNY_CHA" format="1">
+  <advance width="1673.93589397"/>
+  <outline>
+    <component base="dvCHA" xOffset="669"/>
+    <component base="dvNY_base"/>
+    <component base="dvTopbar"/>
+    <component base="dvConnector_short" xOffset="8" yOffset="-36"/>
+    <contour>
+      <point x="1177" y="-113" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="1177" y="-34" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1445" y="715" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

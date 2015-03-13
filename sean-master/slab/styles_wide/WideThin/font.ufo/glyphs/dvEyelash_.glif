@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvEyelash" format="1">
+  <advance width="3"/>
+  <outline>
+    <contour>
+      <point x="6" y="589" type="line"/>
+      <point x="5" y="485"/>
+      <point x="74" y="413"/>
+      <point x="179" y="413" type="curve"/>
+      <point x="241" y="413"/>
+      <point x="290" y="433"/>
+      <point x="320" y="485" type="curve"/>
+      <point x="303" y="496" type="line"/>
+      <point x="272" y="451"/>
+      <point x="231" y="433"/>
+      <point x="178" y="433" type="curve"/>
+      <point x="89" y="433"/>
+      <point x="28" y="496"/>
+      <point x="28" y="588" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xScale="0.518682551441" xOffset="-8"/>
+  </outline>
+</glyph>

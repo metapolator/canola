@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvRA_mUU" format="1">
+  <advance width="925.365489424"/>
+  <outline>
+    <contour>
+      <point x="907" y="189" type="line"/>
+      <point x="907.0" y="382.0"/>
+      <point x="762" y="449"/>
+      <point x="596" y="449" type="curve"/>
+      <point x="517" y="449"/>
+      <point x="431.520408163" y="449.0"/>
+      <point x="353" y="449" type="curve"/>
+      <point x="353" y="407"/>
+      <point x="353" y="374"/>
+      <point x="353" y="332" type="curve"/>
+      <point x="429.473867596" y="332.0"/>
+      <point x="513" y="332"/>
+      <point x="589" y="332" type="curve"/>
+      <point x="670" y="332"/>
+      <point x="746.0" y="313.0"/>
+      <point x="746" y="189" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xScale="1.33543798453" xOffset="7"/>
+    <component base="dvRA_base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

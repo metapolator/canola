@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvP_TTHA" format="1">
+  <advance width="1250.01763612"/>
+  <outline>
+    <component base="dvP"/>
+    <component base="dvTTHA" xOffset="438"/>
+    <contour>
+      <point x="949" y="-95" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="929" y="-10" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="923" y="719" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

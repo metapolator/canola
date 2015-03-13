@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvL_HA" format="1">
+  <advance width="807"/>
+  <outline>
+    <contour>
+      <point x="657" y="-138" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="700" y="718" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="709" y="-220" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvTopbar" xScale="1.27613829878" xOffset="-6"/>
+    <component base="dvLA_open" xOffset="78" yOffset="-16"/>
+    <component base="dvHA" xOffset="405"/>
+  </outline>
+</glyph>

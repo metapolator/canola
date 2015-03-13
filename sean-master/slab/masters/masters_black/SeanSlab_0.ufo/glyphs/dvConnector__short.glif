@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvConnector_short" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="522" y="387" type="line"/>
+      <point x="505" y="350"/>
+      <point x="488" y="325"/>
+      <point x="440" y="325" type="curve" smooth="yes"/>
+      <point x="390" y="325"/>
+      <point x="366" y="340"/>
+      <point x="337" y="368" type="curve"/>
+      <point x="300" y="287" type="line"/>
+      <point x="337" y="249"/>
+      <point x="376" y="229"/>
+      <point x="441" y="229" type="curve" smooth="yes"/>
+      <point x="518" y="229"/>
+      <point x="562" y="273"/>
+      <point x="591" y="328" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

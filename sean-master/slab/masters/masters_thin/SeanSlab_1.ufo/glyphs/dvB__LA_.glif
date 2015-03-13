@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvB_LA" format="1">
+  <advance width="1687.01340895"/>
+  <outline>
+    <component base="dvLA" xOffset="581"/>
+    <component base="dvB" xOffset="-5"/>
+    <contour>
+      <point x="1360" y="-127" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="1363" y="-58" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1340" y="720" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerowidthjoiner" format="1">
+  <advance width="0"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="-101" y="541" type="line"/>
+      <point x="155" y="772" type="line"/>
+      <point x="104" y="818" type="line"/>
+      <point x="-152" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="587" type="line"/>
+      <point x="-101" y="818" type="line"/>
+      <point x="-152" y="772" type="line"/>
+      <point x="104" y="541" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="-230" type="curve"/>
+      <point x="30" y="692" type="line"/>
+      <point x="-30" y="692" type="curve"/>
+      <point x="-30" y="-230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

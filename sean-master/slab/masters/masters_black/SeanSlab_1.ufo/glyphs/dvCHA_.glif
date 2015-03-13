@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvCHA" format="1">
+  <advance width="1044.93589397"/>
+  <unicode hex="091B"/>
+  <outline>
+    <component base="dvCH"/>
+    <component base="dvStem_short" xOffset="422"/>
+    <contour>
+      <point x="640" y="-114" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="640" y="-35" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="787" y="717" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

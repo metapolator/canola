@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTTHA" format="1">
+  <advance width="842.989582608"/>
+  <unicode hex="0920"/>
+  <outline>
+    <contour>
+      <point x="715" y="299"/>
+      <point x="708" y="299"/>
+      <point x="700" y="299" type="curve"/>
+      <point x="700" y="164"/>
+      <point x="586" y="88"/>
+      <point x="442" y="88" type="curve"/>
+      <point x="295" y="88"/>
+      <point x="179" y="163"/>
+      <point x="179" y="300" type="curve"/>
+      <point x="179" y="440"/>
+      <point x="288" y="526"/>
+      <point x="434" y="526" type="curve"/>
+      <point x="584" y="526"/>
+      <point x="700" y="442"/>
+      <point x="700" y="299" type="curve"/>
+      <point x="708" y="299"/>
+      <point x="715" y="299"/>
+      <point x="723" y="299" type="curve"/>
+      <point x="723" y="454"/>
+      <point x="598" y="547"/>
+      <point x="435" y="547" type="curve"/>
+      <point x="276" y="547"/>
+      <point x="156" y="453"/>
+      <point x="156" y="300" type="curve"/>
+      <point x="156" y="151"/>
+      <point x="280" y="66"/>
+      <point x="439" y="66" type="curve"/>
+      <point x="598" y="66"/>
+      <point x="723" y="150"/>
+      <point x="723" y="299" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xScale="1.30755997365"/>
+    <component base="dvStem_short" yScale="0.823445366045" xOffset="123" yOffset="125"/>
+    <contour>
+      <point x="579" y="-92" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="559" y="-7" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="443" y="721" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmII.aLong" format="1">
+  <advance width="265"/>
+  <outline>
+    <contour>
+      <point x="144" y="704" type="line"/>
+      <point x="133" y="773" type="line" smooth="yes"/>
+      <point x="115" y="888"/>
+      <point x="30.0978723404" y="965.0"/>
+      <point x="-93" y="965" type="curve"/>
+      <point x="-314" y="965"/>
+      <point x="-430" y="854"/>
+      <point x="-506" y="706" type="curve"/>
+      <point x="-486" y="696" type="line"/>
+      <point x="-416" y="834"/>
+      <point x="-304" y="944"/>
+      <point x="-96" y="944" type="curve"/>
+      <point x="17.128440367" y="944.0"/>
+      <point x="96" y="877"/>
+      <point x="113" y="773" type="curve" smooth="yes"/>
+      <point x="124" y="704" type="line"/>
+    </contour>
+    <component base="dvmAA" xOffset="-63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

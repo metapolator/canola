@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvPH_LA" format="1">
+  <advance width="1944"/>
+  <outline>
+    <contour>
+      <point x="1712" y="-12" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1656" y="721" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="1701" y="-85" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvLA" xOffset="885"/>
+    <component base="dvPH" xOffset="-2"/>
+  </outline>
+</glyph>

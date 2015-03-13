@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJ_NY_YA" format="1">
+  <advance width="1132"/>
+  <outline>
+    <contour>
+      <point x="-20" y="651" type="line"/>
+      <point x="588" y="651" type="line"/>
+      <point x="588" y="722" type="line"/>
+      <point x="-20" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="384" type="line"/>
+      <point x="574" y="384" type="line"/>
+      <point x="574" y="455" type="line"/>
+      <point x="234" y="455" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="-39" type="curve"/>
+      <point x="135" y="71"/>
+      <point x="135" y="185"/>
+      <point x="135" y="295" type="curve"/>
+      <point x="91" y="295"/>
+      <point x="105" y="295"/>
+      <point x="60" y="295" type="curve"/>
+      <point x="60" y="185"/>
+      <point x="60" y="71"/>
+      <point x="60" y="-39" type="curve"/>
+      <point x="105" y="-39"/>
+      <point x="91" y="-39"/>
+    </contour>
+    <contour>
+      <point x="234" y="384" type="line"/>
+      <point x="311" y="376"/>
+      <point x="357" y="330"/>
+      <point x="357" y="259" type="curve"/>
+      <point x="357" y="195"/>
+      <point x="326" y="146"/>
+      <point x="264" y="146" type="curve"/>
+      <point x="183" y="146"/>
+      <point x="142" y="208"/>
+      <point x="135" y="295" type="curve"/>
+      <point x="110" y="295"/>
+      <point x="90" y="295"/>
+      <point x="64" y="295" type="curve"/>
+      <point x="70" y="165"/>
+      <point x="144" y="74"/>
+      <point x="276" y="74" type="curve"/>
+      <point x="380" y="74"/>
+      <point x="444" y="146"/>
+      <point x="444" y="253" type="curve"/>
+      <point x="444" y="363"/>
+      <point x="373" y="434"/>
+      <point x="257" y="445" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xOffset="426"/>
+    <component base="dvYA_base" xOffset="495" yOffset="13"/>
+    <component base="dvStemright" xOffset="864"/>
+  </outline>
+</glyph>

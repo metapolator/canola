@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvA" format="1">
+  <advance width="1009"/>
+  <unicode hex="0905"/>
+  <outline>
+    <contour>
+      <point x="812" y="474" type="line"/>
+      <point x="768" y="405"/>
+      <point x="703" y="379"/>
+      <point x="621" y="377" type="curve" smooth="yes"/>
+      <point x="538" y="376"/>
+      <point x="474" y="392"/>
+      <point x="399" y="428" type="curve"/>
+      <point x="391" y="408" type="line"/>
+      <point x="469" y="370"/>
+      <point x="536" y="354"/>
+      <point x="622" y="356" type="curve" smooth="yes"/>
+      <point x="711" y="361"/>
+      <point x="783" y="385"/>
+      <point x="828" y="461" type="curve"/>
+    </contour>
+    <component base="dvStem" xOffset="512"/>
+    <component base="dvA_base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

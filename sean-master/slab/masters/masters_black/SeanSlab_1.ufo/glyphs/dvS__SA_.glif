@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_SA" format="1">
+  <advance width="1575.6"/>
+  <outline>
+    <contour>
+      <point x="682" y="379" type="line"/>
+      <point x="641" y="334"/>
+      <point x="566" y="333"/>
+      <point x="505" y="333" type="curve" smooth="yes"/>
+      <point x="442" y="333"/>
+      <point x="376" y="361"/>
+      <point x="329" y="403" type="curve"/>
+      <point x="242" y="334" type="line"/>
+      <point x="313" y="269"/>
+      <point x="399" y="221"/>
+      <point x="495" y="221" type="curve" smooth="yes"/>
+      <point x="596" y="221"/>
+      <point x="698" y="248"/>
+      <point x="768" y="321" type="curve"/>
+    </contour>
+    <component base="dvSA" xOffset="590"/>
+    <component base="dvS" xOffset="-12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

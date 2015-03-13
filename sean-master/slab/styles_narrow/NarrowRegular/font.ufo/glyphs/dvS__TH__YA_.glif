@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_TH_YA" format="1">
+  <advance width="1482"/>
+  <outline>
+    <contour>
+      <point x="526" y="412" type="line"/>
+      <point x="486" y="369"/>
+      <point x="438" y="352"/>
+      <point x="378" y="351" type="curve" smooth="yes"/>
+      <point x="316" y="351"/>
+      <point x="271" y="376"/>
+      <point x="224" y="414" type="curve"/>
+      <point x="188" y="373" type="line"/>
+      <point x="245" y="326"/>
+      <point x="300" y="297"/>
+      <point x="374" y="297" type="curve" smooth="yes"/>
+      <point x="452" y="299"/>
+      <point x="513" y="323"/>
+      <point x="565" y="381" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xScale="0.908688434077" xOffset="57"/>
+    <component base="dvTH_YA" xOffset="420"/>
+    <component base="dvS" xOffset="-5"/>
+  </outline>
+</glyph>

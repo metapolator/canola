@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_TT_VA" format="1">
+  <advance width="704"/>
+  <outline>
+    <contour>
+      <point x="651" y="-234" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="639" y="723" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="651" y="-238" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvSS"/>
+    <component base="dvTopbar" xScale="0.967663100581" xOffset="259"/>
+    <component base="dvTTA_short" xOffset="30"/>
+    <component base="dvStroke_down" yScale="1.35537020021" xOffset="273" yOffset="-207"/>
+    <component base="dvVA_open" xOffset="-54" yOffset="92"/>
+  </outline>
+</glyph>

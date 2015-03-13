@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvHA" format="1">
+  <advance width="510"/>
+  <unicode hex="0939"/>
+  <outline>
+    <contour>
+      <point x="312" y="-129" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="377" y="721" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="364" y="-211" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="205" y="299" type="curve"/>
+      <point x="161" y="332"/>
+      <point x="123" y="362"/>
+      <point x="123" y="417" type="curve"/>
+      <point x="123" y="469"/>
+      <point x="164" y="500"/>
+      <point x="220" y="500" type="curve"/>
+      <point x="274" y="500"/>
+      <point x="324" y="500"/>
+      <point x="379" y="500" type="curve"/>
+      <point x="358" y="518"/>
+      <point x="375" y="503"/>
+      <point x="354" y="521" type="curve"/>
+      <point x="308" y="521"/>
+      <point x="264" y="521"/>
+      <point x="217" y="521" type="curve"/>
+      <point x="148" y="521"/>
+      <point x="99" y="483"/>
+      <point x="99" y="417" type="curve"/>
+      <point x="99" y="354"/>
+      <point x="136" y="320"/>
+      <point x="188" y="284" type="curve"/>
+      <point x="202" y="296"/>
+      <point x="191" y="287"/>
+    </contour>
+    <contour>
+      <point x="354" y="710" type="curve"/>
+      <point x="354" y="646"/>
+      <point x="354" y="585"/>
+      <point x="354" y="521" type="curve"/>
+      <point x="375" y="504"/>
+      <point x="358" y="518"/>
+      <point x="379" y="500" type="curve"/>
+      <point x="379" y="572"/>
+      <point x="379" y="639"/>
+      <point x="379" y="710" type="curve"/>
+      <point x="358" y="710"/>
+      <point x="375" y="710"/>
+    </contour>
+    <contour>
+      <point x="441" y="164" type="line"/>
+      <point x="441" y="261"/>
+      <point x="374" y="324"/>
+      <point x="278" y="324" type="curve"/>
+      <point x="163" y="324"/>
+      <point x="95" y="238"/>
+      <point x="95" y="119" type="curve"/>
+      <point x="95" y="-6"/>
+      <point x="179" y="-91"/>
+      <point x="310" y="-91" type="curve"/>
+      <point x="310" y="-76"/>
+      <point x="310" y="-85"/>
+      <point x="310" y="-70" type="curve"/>
+      <point x="193" y="-70"/>
+      <point x="118" y="6"/>
+      <point x="118" y="119" type="curve"/>
+      <point x="118" y="224"/>
+      <point x="176" y="303"/>
+      <point x="278" y="303" type="curve"/>
+      <point x="362" y="303"/>
+      <point x="418" y="245"/>
+      <point x="418" y="159" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xScale="0.800909294983" xOffset="-3"/>
+  </outline>
+</glyph>

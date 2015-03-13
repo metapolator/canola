@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_TTA" format="1">
+  <advance width="1374"/>
+  <outline>
+    <contour>
+      <point x="723" y="422" type="line"/>
+      <point x="688" y="380"/>
+      <point x="627" y="376"/>
+      <point x="566" y="376" type="curve" smooth="yes"/>
+      <point x="503" y="376"/>
+      <point x="457" y="404"/>
+      <point x="410" y="446" type="curve"/>
+      <point x="323" y="377" type="line"/>
+      <point x="394" y="312"/>
+      <point x="460" y="264"/>
+      <point x="556" y="264" type="curve" smooth="yes"/>
+      <point x="657" y="264"/>
+      <point x="739" y="291"/>
+      <point x="809" y="364" type="curve"/>
+    </contour>
+    <component base="dvS"/>
+    <component base="dvTTA" xOffset="609"/>
+    <contour>
+      <point x="1178" y="-110" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="1158" y="-35" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1134" y="719" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

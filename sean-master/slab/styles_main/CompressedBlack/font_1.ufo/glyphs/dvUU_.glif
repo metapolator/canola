@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvUU" format="1">
+  <advance width="643"/>
+  <unicode hex="090A"/>
+  <outline>
+    <contour>
+      <point x="426" y="118" type="curve"/>
+      <point x="426" y="2" type="line"/>
+      <point x="537" y="2"/>
+      <point x="610" y="83"/>
+      <point x="610" y="194" type="curve"/>
+      <point x="610" y="305"/>
+      <point x="538" y="386"/>
+      <point x="428" y="386" type="curve"/>
+      <point x="332" y="386"/>
+      <point x="287" y="301"/>
+      <point x="254" y="205" type="curve"/>
+      <point x="367" y="155" type="line"/>
+      <point x="383" y="203"/>
+      <point x="395" y="252"/>
+      <point x="442" y="252" type="curve"/>
+      <point x="469" y="252"/>
+      <point x="478" y="222"/>
+      <point x="478" y="191" type="curve"/>
+      <point x="478" y="152"/>
+      <point x="461" y="118"/>
+    </contour>
+    <component base="dvU"/>
+    <component base="dvTopbar" xOffset="184"/>
+  </outline>
+</glyph>

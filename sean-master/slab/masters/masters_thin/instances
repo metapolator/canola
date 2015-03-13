@@ -1,0 +1,8 @@
+# Two masters, one axis
+#KEYS:FamilyName	FontName	FullName	Weight	Coords	IsBold	Masters
+# 5 Masters Thin
+SeanSlab	SeanSlab-CompressedThin	SeanSlab CompressedThin CompressedThin	CompressedThin	-150	0	("SeanSlab_0.ufo", "SeanSlab_1.ufo")
+SeanSlab	SeanSlab-CondensedThin	SeanSlab CondensedThin CondensedThin	CondensedThin	0	0	("SeanSlab_0.ufo", "SeanSlab_1.ufo")
+SeanSlab	SeanSlab-NarrowThin	SeanSlab NarrowThin NarrowThin	NarrowThin	265	0	("SeanSlab_0.ufo", "SeanSlab_1.ufo")
+SeanSlab	SeanSlab-NormalThin	SeanSlab NormalThin NormalThin	NormalThin	530	0	("SeanSlab_0.ufo", "SeanSlab_1.ufo")
+SeanSlab	SeanSlab-WideThin	SeanSlab WideThin WideThin	WideThin	900	0	("SeanSlab_0.ufo", "SeanSlab_1.ufo")

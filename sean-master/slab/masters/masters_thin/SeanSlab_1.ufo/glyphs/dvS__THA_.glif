@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_THA" format="1">
+  <advance width="1513.2"/>
+  <outline>
+    <contour>
+      <point x="796" y="408" type="line"/>
+      <point x="723" y="340"/>
+      <point x="643" y="314"/>
+      <point x="543" y="311" type="curve" smooth="yes"/>
+      <point x="431" y="310"/>
+      <point x="342" y="336"/>
+      <point x="252" y="402" type="curve"/>
+      <point x="242" y="383" type="line"/>
+      <point x="338" y="317"/>
+      <point x="428.233186885" y="287.98666412"/>
+      <point x="544" y="290" type="curve" smooth="yes"/>
+      <point x="650" y="296"/>
+      <point x="737" y="320"/>
+      <point x="812" y="395" type="curve"/>
+    </contour>
+    <component base="dvS"/>
+    <component base="dvTHA" xOffset="638"/>
+    <component base="dvTopbar" xOffset="272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvK_S_TTA" format="1">
+  <advance width="2153"/>
+  <outline>
+    <contour>
+      <point x="1945" y="-18" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1912" y="719" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="1977" y="-104" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvConnector" xScale="1.0389610133" yScale="0.987912090906" xOffset="755" yOffset="49"/>
+    <component base="dvTTA" xOffset="1416"/>
+    <component base="dvK" xOffset="-4"/>
+    <component base="dvS" xOffset="853"/>
+  </outline>
+</glyph>

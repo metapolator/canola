@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvD_RA" format="1">
+  <advance width="414.4"/>
+  <outline>
+    <contour>
+      <point x="350" y="-84" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="350" y="-3" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="316" y="718" type="move" name="abvm.e"/>
+    </contour>
+    <component base="dvRaker" xOffset="30" yOffset="-58"/>
+    <component base="dvDA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

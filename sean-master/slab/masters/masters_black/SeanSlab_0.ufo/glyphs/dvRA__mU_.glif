@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvRA_mU" format="1">
+  <advance width="627.0"/>
+  <outline>
+    <contour>
+      <point x="490" y="89" type="curve"/>
+      <point x="572" y="134"/>
+      <point x="610" y="197"/>
+      <point x="610" y="279" type="curve"/>
+      <point x="610" y="404"/>
+      <point x="520" y="469"/>
+      <point x="396" y="469" type="curve"/>
+      <point x="336" y="469"/>
+      <point x="277" y="469"/>
+      <point x="217" y="469" type="curve"/>
+      <point x="217" y="358"/>
+      <point x="217" y="469"/>
+      <point x="217" y="358" type="curve"/>
+      <point x="272" y="358"/>
+      <point x="326" y="358"/>
+      <point x="381" y="358" type="curve"/>
+      <point x="447" y="358"/>
+      <point x="474" y="327"/>
+      <point x="474" y="279" type="curve"/>
+      <point x="474" y="240"/>
+      <point x="460" y="212"/>
+      <point x="418" y="188" type="curve"/>
+      <point x="490" y="89"/>
+      <point x="418" y="188"/>
+    </contour>
+    <component base="dvTopbar" xScale="1.25006018744" xOffset="5"/>
+    <component base="dvRA_base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

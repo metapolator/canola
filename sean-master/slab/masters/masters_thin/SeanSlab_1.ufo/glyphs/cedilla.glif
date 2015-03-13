@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="391"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="155" y="17"/>
+      <point x="172" y="3"/>
+      <point x="155" y="17" type="curve"/>
+      <point x="135" y="-10"/>
+      <point x="115" y="-36"/>
+      <point x="95" y="-63" type="curve"/>
+      <point x="111" y="-80"/>
+      <point x="95" y="-63"/>
+      <point x="111" y="-80" type="curve"/>
+      <point x="131" y="-52"/>
+      <point x="152" y="-25"/>
+      <point x="172" y="3" type="curve"/>
+    </contour>
+    <contour>
+      <point x="111" y="-81"/>
+      <point x="96" y="-64"/>
+      <point x="111" y="-81" type="curve"/>
+      <point x="133" y="-70"/>
+      <point x="151" y="-68"/>
+      <point x="176" y="-68" type="curve"/>
+      <point x="219" y="-68"/>
+      <point x="251" y="-85"/>
+      <point x="251" y="-125" type="curve"/>
+      <point x="251" y="-169"/>
+      <point x="209" y="-180"/>
+      <point x="158" y="-180" type="curve"/>
+      <point x="122" y="-180"/>
+      <point x="95" y="-178"/>
+      <point x="62" y="-163" type="curve"/>
+      <point x="53" y="-180"/>
+      <point x="62" y="-163"/>
+      <point x="53" y="-180" type="curve"/>
+      <point x="89" y="-195"/>
+      <point x="118" y="-201"/>
+      <point x="157" y="-201" type="curve"/>
+      <point x="222" y="-201"/>
+      <point x="274" y="-183"/>
+      <point x="274" y="-125" type="curve"/>
+      <point x="274" y="-73"/>
+      <point x="233" y="-47"/>
+      <point x="178" y="-47" type="curve"/>
+      <point x="147" y="-47"/>
+      <point x="125" y="-53"/>
+      <point x="96" y="-64" type="curve"/>
+    </contour>
+    <contour>
+      <point x="170" y="3" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

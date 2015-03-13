@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSA" format="1">
+  <advance width="610"/>
+  <unicode hex="0938"/>
+  <outline>
+    <contour>
+      <point x="100" y="386" type="curve"/>
+      <point x="204" y="398"/>
+      <point x="274" y="452"/>
+      <point x="274" y="546" type="curve"/>
+      <point x="274" y="613"/>
+      <point x="257" y="660"/>
+      <point x="218" y="716" type="curve"/>
+      <point x="200" y="702" type="line"/>
+      <point x="238" y="651"/>
+      <point x="250" y="606"/>
+      <point x="250" y="543" type="curve"/>
+      <point x="250" y="456"/>
+      <point x="171" y="410"/>
+      <point x="76" y="407" type="curve"/>
+      <point x="85" y="399"/>
+      <point x="91" y="394"/>
+    </contour>
+    <contour>
+      <point x="76" y="407" type="curve"/>
+      <point x="76" y="219"/>
+      <point x="69" y="7"/>
+      <point x="203" y="7" type="curve"/>
+      <point x="275" y="7"/>
+      <point x="308" y="70"/>
+      <point x="321" y="150" type="curve"/>
+      <point x="302" y="160" type="line"/>
+      <point x="289" y="91"/>
+      <point x="264" y="29"/>
+      <point x="205" y="29" type="curve"/>
+      <point x="100" y="29"/>
+      <point x="100" y="212"/>
+      <point x="100" y="386" type="curve"/>
+      <point x="91" y="394"/>
+      <point x="85" y="399"/>
+    </contour>
+    <component base="dvConnector" xOffset="46" yOffset="64"/>
+    <component base="dvStemright" xOffset="387"/>
+    <component base="dvTopbar" xScale="0.734301445891" xOffset="-14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="1">
+  <advance width="1010"/>
+  <unicode hex="00D4"/>
+  <outline>
+    <contour>
+      <point x="220" y="360"/>
+      <point x="59" y="360"/>
+      <point x="220" y="360" type="curve"/>
+      <point x="220" y="518"/>
+      <point x="330" y="603"/>
+      <point x="498" y="603" type="curve"/>
+      <point x="671" y="603"/>
+      <point x="791" y="524"/>
+      <point x="791" y="363" type="curve"/>
+      <point x="791" y="205"/>
+      <point x="679" y="120"/>
+      <point x="510" y="120" type="curve"/>
+      <point x="336" y="120"/>
+      <point x="220" y="200"/>
+      <point x="220" y="360" type="curve"/>
+      <point x="59" y="360"/>
+      <point x="220" y="360"/>
+      <point x="59" y="360" type="curve"/>
+      <point x="59" y="117"/>
+      <point x="242" y="-5"/>
+      <point x="502" y="-5" type="curve"/>
+      <point x="766" y="-5"/>
+      <point x="951" y="118"/>
+      <point x="951" y="363" type="curve"/>
+      <point x="951" y="604"/>
+      <point x="770" y="727"/>
+      <point x="511" y="727" type="curve"/>
+      <point x="246" y="727"/>
+      <point x="59" y="605"/>
+      <point x="59" y="360" type="curve"/>
+    </contour>
+    <contour>
+      <point x="396" y="781" type="line"/>
+      <point x="590" y="947" type="line"/>
+      <point x="381" y="947" type="line"/>
+      <point x="237" y="781" type="line"/>
+    </contour>
+    <contour>
+      <point x="787" y="781" type="line"/>
+      <point x="639" y="947" type="line"/>
+      <point x="430" y="947" type="line"/>
+      <point x="624" y="781" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

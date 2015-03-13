@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_LA" format="1">
+  <advance width="867"/>
+  <outline>
+    <contour>
+      <point x="721" y="7" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="683" y="722" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="710" y="-66" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="415" y="442" type="line"/>
+      <point x="384" y="412"/>
+      <point x="328" y="400"/>
+      <point x="285" y="401" type="curve" smooth="yes"/>
+      <point x="246" y="401"/>
+      <point x="187" y="419"/>
+      <point x="154" y="441" type="curve"/>
+      <point x="141" y="424" type="line"/>
+      <point x="176" y="400"/>
+      <point x="241" y="381"/>
+      <point x="284" y="381" type="curve" smooth="yes"/>
+      <point x="335" y="380"/>
+      <point x="400" y="394"/>
+      <point x="431" y="433" type="curve"/>
+    </contour>
+    <component base="dvLA" xOffset="291"/>
+    <component base="dvS" xOffset="-14"/>
+  </outline>
+</glyph>

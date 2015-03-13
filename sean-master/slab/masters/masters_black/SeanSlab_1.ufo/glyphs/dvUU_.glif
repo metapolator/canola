@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvUU" format="1">
+  <advance width="1164"/>
+  <unicode hex="090A"/>
+  <outline>
+    <contour>
+      <point x="838" y="140" type="curve"/>
+      <point x="838" y="24" type="line"/>
+      <point x="992" y="24"/>
+      <point x="1115" y="71"/>
+      <point x="1115" y="207" type="curve"/>
+      <point x="1115" y="350"/>
+      <point x="991" y="399"/>
+      <point x="834" y="399" type="curve"/>
+      <point x="687" y="399"/>
+      <point x="593" y="344"/>
+      <point x="478" y="246" type="curve"/>
+      <point x="572" y="160" type="line"/>
+      <point x="658" y="229"/>
+      <point x="723" y="282"/>
+      <point x="834" y="282" type="curve"/>
+      <point x="900" y="282"/>
+      <point x="954" y="268"/>
+      <point x="954" y="207" type="curve"/>
+      <point x="954" y="150"/>
+      <point x="900" y="140"/>
+    </contour>
+    <component base="dvU"/>
+    <component base="dvTopbar" xOffset="482"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

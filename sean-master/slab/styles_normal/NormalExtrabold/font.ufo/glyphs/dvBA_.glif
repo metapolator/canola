@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvBA" format="1">
+  <advance width="660"/>
+  <unicode hex="092C"/>
+  <outline>
+    <contour>
+      <point x="453" y="292" type="curve"/>
+      <point x="421" y="222"/>
+      <point x="377" y="174"/>
+      <point x="303" y="174" type="curve"/>
+      <point x="221" y="174"/>
+      <point x="168" y="228"/>
+      <point x="168" y="314" type="curve"/>
+      <point x="168" y="396"/>
+      <point x="219" y="447"/>
+      <point x="302" y="447" type="curve"/>
+      <point x="374" y="447"/>
+      <point x="432" y="401"/>
+      <point x="460" y="345" type="curve"/>
+      <point x="503" y="385"/>
+      <point x="488" y="360"/>
+      <point x="531" y="400" type="curve"/>
+      <point x="487" y="486"/>
+      <point x="401" y="549"/>
+      <point x="287" y="549" type="curve"/>
+      <point x="143" y="549"/>
+      <point x="39" y="468"/>
+      <point x="39" y="316" type="curve"/>
+      <point x="39" y="161"/>
+      <point x="139" y="70"/>
+      <point x="288" y="70" type="curve"/>
+      <point x="415" y="70"/>
+      <point x="498" y="141"/>
+      <point x="545" y="257" type="curve"/>
+      <point x="487" y="281"/>
+      <point x="512" y="268"/>
+    </contour>
+    <component base="dvDiagonal" xOffset="-19" yOffset="7"/>
+    <component base="dvTopbar" xScale="0.805210821531" xOffset="-3"/>
+    <component base="dvStemright" xOffset="363"/>
+  </outline>
+</glyph>

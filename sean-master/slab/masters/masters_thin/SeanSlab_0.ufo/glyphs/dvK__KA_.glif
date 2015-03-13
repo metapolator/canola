@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvK_KA" format="1">
+  <advance width="1203.27539478"/>
+  <outline>
+    <contour>
+      <point x="859" y="0" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="859" y="0" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="859" y="721" type="move" name="abvm.e"/>
+    </contour>
+    <component base="dvK" xOffset="-18"/>
+    <component base="dvKA" xOffset="520"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

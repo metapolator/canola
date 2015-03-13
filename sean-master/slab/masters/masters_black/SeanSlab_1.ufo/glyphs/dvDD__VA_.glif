@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDD_VA" format="1">
+  <advance width="713.628014527"/>
+  <outline>
+    <component base="dvDD_short" xOffset="12"/>
+    <component base="dvVA_open" xOffset="-602"/>
+    <component base="dvStroke_down" yScale="2.01743936129" xOffset="-20" yOffset="-95"/>
+    <component base="dvTopbar" xScale="1.04362965032" xOffset="1"/>
+    <component base="dvStem_short" yScale="0.772062761643" xOffset="216" yOffset="84"/>
+    <contour>
+      <point x="625" y="-303" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="625" y="-297" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="575" y="719" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

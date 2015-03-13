@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="582"/>
+  <outline>
+    <contour>
+      <point x="30" y="411" type="curve"/>
+      <point x="30" y="411"/>
+      <point x="551" y="411"/>
+      <point x="551" y="411" type="curve"/>
+      <point x="551" y="532"/>
+      <point x="551" y="411"/>
+      <point x="551" y="532" type="curve"/>
+      <point x="551" y="532"/>
+      <point x="30" y="532"/>
+      <point x="30" y="532" type="curve"/>
+      <point x="30" y="411"/>
+      <point x="30" y="532"/>
+    </contour>
+    <contour>
+      <point x="357" y="-301" type="curve"/>
+      <point x="357" y="-301"/>
+      <point x="357" y="750"/>
+      <point x="357" y="750" type="curve"/>
+      <point x="214" y="750"/>
+      <point x="367" y="750"/>
+      <point x="224" y="750" type="curve"/>
+      <point x="224" y="750"/>
+      <point x="224" y="-301"/>
+      <point x="224" y="-301" type="curve"/>
+      <point x="367" y="-301"/>
+      <point x="214" y="-301"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

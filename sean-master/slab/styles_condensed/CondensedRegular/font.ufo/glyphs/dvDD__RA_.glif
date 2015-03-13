@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDD_RA" format="1">
+  <advance width="426"/>
+  <outline>
+    <contour>
+      <point x="276" y="-181" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="320" y="717" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="310" y="-256" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvDDA"/>
+    <component base="dvDoublevirama" xOffset="-19" yOffset="25"/>
+  </outline>
+</glyph>

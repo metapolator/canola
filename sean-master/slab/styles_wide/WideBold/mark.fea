@@ -1,0 +1,70 @@
+# Created: Fri Mar 13 23:19:36 2015
+# PS Name: SeanSlabStd-WideBold
+# MM Inst: None
+# exported from noApp
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_bottom {
+	pos base A <anchor 852 5> mark @MC_bottom;
+	pos base C <anchor 512 7> mark @MC_bottom;
+	pos base E <anchor 705 11> mark @MC_bottom;
+	pos base G <anchor 575 10> mark @MC_bottom;
+	pos base I <anchor 269 1> mark @MC_bottom;
+	pos base K <anchor 498 2> mark @MC_bottom;
+	pos base L <anchor 434 5> mark @MC_bottom;
+	pos base N <anchor 547 2> mark @MC_bottom;
+	pos base R <anchor 501 1> mark @MC_bottom;
+	pos base S <anchor 407 6> mark @MC_bottom;
+	pos base T <anchor 455 3> mark @MC_bottom;
+	pos base U <anchor 562 11> mark @MC_bottom;
+	pos base a <anchor 579 8> mark @MC_bottom;
+	pos base c <anchor 390 9> mark @MC_bottom;
+	pos base e <anchor 460 16> mark @MC_bottom;
+	pos base fraction <anchor 660 -51> mark @MC_bottom;
+	pos base i <anchor 252 10> mark @MC_bottom;
+	pos base k <anchor 423 -3> mark @MC_bottom;
+	pos base l <anchor 248 7> mark @MC_bottom;
+	pos base n <anchor 442 28> mark @MC_bottom;
+	pos base r <anchor 232 23> mark @MC_bottom;
+	pos base s <anchor 347 6> mark @MC_bottom;
+	pos base t <anchor 365 6> mark @MC_bottom;
+	pos base u <anchor 673 14> mark @MC_bottom;
+} MARK_BASE_bottom;
+
+
+lookup MARK_BASE_top {
+	@bGC_G_top = [G U];
+	pos base @bGC_G_top <anchor 522 791> mark @MC_top;
+	pos base A <anchor 491 791> mark @MC_top;
+	pos base C <anchor 503 791> mark @MC_top;
+	pos base D <anchor 456 791> mark @MC_top;
+	pos base E <anchor 414 791> mark @MC_top;
+	pos base I <anchor 207 791> mark @MC_top;
+	pos base L <anchor 208 791> mark @MC_top;
+	pos base N <anchor 540 791> mark @MC_top;
+	pos base O <anchor 484 791> mark @MC_top;
+	pos base R <anchor 413 791> mark @MC_top;
+	pos base S <anchor 385 791> mark @MC_top;
+	pos base T <anchor 417 791> mark @MC_top;
+	pos base Y <anchor 395 791> mark @MC_top;
+	pos base Z <anchor 425 791> mark @MC_top;
+	pos base a <anchor 345 625> mark @MC_top;
+	pos base c <anchor 376 625> mark @MC_top;
+	pos base dotlessi <anchor 217 625> mark @MC_top;
+	pos base e <anchor 362 625> mark @MC_top;
+	pos base fraction <anchor -76 717> mark @MC_top;
+	pos base g <anchor 353 625> mark @MC_top;
+	pos base i <anchor 193 624> mark @MC_top;
+	pos base l <anchor 201 886> mark @MC_top;
+	pos base n <anchor 438 624> mark @MC_top;
+	pos base o <anchor 375 625> mark @MC_top;
+	pos base r <anchor 273 625> mark @MC_top;
+	pos base s <anchor 313 625> mark @MC_top;
+	pos base u <anchor 390 625> mark @MC_top;
+	pos base y <anchor 421 625> mark @MC_top;
+	pos base z <anchor 329 624> mark @MC_top;
+} MARK_BASE_top;
+
+
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTTA" format="1">
+  <advance width="765"/>
+  <unicode hex="091F"/>
+  <outline>
+    <contour>
+      <point x="366" y="521"/>
+      <point x="527" y="404"/>
+      <point x="366" y="521" type="curve"/>
+      <point x="362" y="521"/>
+      <point x="360" y="521"/>
+      <point x="356" y="521" type="curve"/>
+      <point x="194" y="521"/>
+      <point x="67" y="447"/>
+      <point x="67" y="281" type="curve"/>
+      <point x="67" y="97"/>
+      <point x="215" y="23"/>
+      <point x="403" y="23" type="curve"/>
+      <point x="527" y="23"/>
+      <point x="642" y="56"/>
+      <point x="735" y="141" type="curve"/>
+      <point x="646" y="221" type="line"/>
+      <point x="568" y="162"/>
+      <point x="486" y="140"/>
+      <point x="403" y="140" type="curve"/>
+      <point x="306" y="140"/>
+      <point x="228" y="179"/>
+      <point x="228" y="281" type="curve"/>
+      <point x="228" y="380"/>
+      <point x="306" y="404"/>
+      <point x="400" y="404" type="curve"/>
+      <point x="445" y="404"/>
+      <point x="481" y="404"/>
+      <point x="527" y="404" type="curve"/>
+    </contour>
+    <contour>
+      <point x="785" y="722"/>
+      <point x="785" y="593"/>
+      <point x="785" y="722" type="curve"/>
+      <point x="517" y="722"/>
+      <point x="248" y="722"/>
+      <point x="-20" y="722" type="curve"/>
+      <point x="-20" y="593"/>
+      <point x="-20" y="722"/>
+      <point x="-20" y="593" type="curve"/>
+      <point x="248" y="593"/>
+      <point x="517" y="593"/>
+      <point x="785" y="593" type="curve"/>
+    </contour>
+    <contour>
+      <point x="366" y="663"/>
+      <point x="527" y="663"/>
+      <point x="366" y="663" type="curve"/>
+      <point x="366" y="615"/>
+      <point x="366" y="568"/>
+      <point x="366" y="521" type="curve"/>
+      <point x="527" y="404"/>
+      <point x="366" y="521"/>
+      <point x="527" y="404" type="curve"/>
+      <point x="527" y="491"/>
+      <point x="527" y="576"/>
+      <point x="527" y="663" type="curve"/>
+    </contour>
+    <contour>
+      <point x="601" y="-99" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="569" y="-13" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="527" y="716" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

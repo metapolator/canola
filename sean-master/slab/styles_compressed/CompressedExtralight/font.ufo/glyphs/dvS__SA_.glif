@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_SA" format="1">
+  <advance width="826"/>
+  <outline>
+    <contour>
+      <point x="331" y="408" type="line"/>
+      <point x="308" y="375"/>
+      <point x="275" y="361"/>
+      <point x="235" y="362" type="curve" smooth="yes"/>
+      <point x="193" y="362"/>
+      <point x="164" y="382"/>
+      <point x="133" y="411" type="curve"/>
+      <point x="113" y="386" type="line"/>
+      <point x="149" y="352"/>
+      <point x="184" y="331"/>
+      <point x="232" y="331" type="curve" smooth="yes"/>
+      <point x="284" y="330"/>
+      <point x="326" y="348"/>
+      <point x="354" y="392" type="curve"/>
+    </contour>
+    <component base="dvSA" xOffset="272"/>
+    <component base="dvS" xOffset="-14"/>
+  </outline>
+</glyph>

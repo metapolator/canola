@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="236"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="101" y="-4" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="92" y="11" type="curve"/>
+      <point x="48" y="-13"/>
+      <point x="23" y="-53"/>
+      <point x="23" y="-103" type="curve"/>
+      <point x="23" y="-153"/>
+      <point x="42" y="-198"/>
+      <point x="86" y="-198" type="curve"/>
+      <point x="109" y="-198"/>
+      <point x="125" y="-182"/>
+      <point x="140" y="-165" type="curve"/>
+      <point x="136" y="-162"/>
+      <point x="129" y="-156"/>
+      <point x="125" y="-152" type="curve"/>
+      <point x="114" y="-165"/>
+      <point x="104" y="-175"/>
+      <point x="88" y="-175" type="curve"/>
+      <point x="56" y="-175"/>
+      <point x="46" y="-140"/>
+      <point x="46" y="-103" type="curve"/>
+      <point x="46" y="-61"/>
+      <point x="65" y="-26"/>
+      <point x="101" y="-4" type="curve"/>
+      <point x="99" y="0"/>
+      <point x="95" y="8"/>
+    </contour>
+  </outline>
+</glyph>

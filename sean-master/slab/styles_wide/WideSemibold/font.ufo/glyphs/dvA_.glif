@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvA" format="1">
+  <advance width="983"/>
+  <unicode hex="0905"/>
+  <outline>
+    <contour>
+      <point x="760" y="450" type="line"/>
+      <point x="731" y="398"/>
+      <point x="686" y="377"/>
+      <point x="626" y="377" type="curve" smooth="yes"/>
+      <point x="555" y="377"/>
+      <point x="507" y="401"/>
+      <point x="444" y="434" type="curve"/>
+      <point x="389" y="382" type="line"/>
+      <point x="465" y="327"/>
+      <point x="531" y="295"/>
+      <point x="627" y="296" type="curve" smooth="yes"/>
+      <point x="726" y="297"/>
+      <point x="791" y="341"/>
+      <point x="833" y="424" type="curve"/>
+    </contour>
+    <component base="dvA_base"/>
+    <component base="dvStem" xOffset="580"/>
+  </outline>
+</glyph>

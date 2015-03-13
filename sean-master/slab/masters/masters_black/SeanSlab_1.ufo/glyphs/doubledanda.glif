@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubledanda" format="1">
+  <advance width="730.8"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="508" y="722"/>
+      <point x="669" y="722"/>
+      <point x="508" y="722" type="curve"/>
+      <point x="508" y="481"/>
+      <point x="508" y="241"/>
+      <point x="508" y="0" type="curve"/>
+      <point x="669" y="0"/>
+      <point x="508" y="0"/>
+      <point x="669" y="0" type="curve"/>
+      <point x="669" y="241"/>
+      <point x="669" y="481"/>
+      <point x="669" y="722" type="curve"/>
+    </contour>
+    <contour>
+      <point x="190" y="722"/>
+      <point x="350" y="722"/>
+      <point x="190" y="722" type="curve"/>
+      <point x="190" y="481"/>
+      <point x="190" y="241"/>
+      <point x="190" y="0" type="curve"/>
+      <point x="350" y="0"/>
+      <point x="190" y="0"/>
+      <point x="350" y="0" type="curve"/>
+      <point x="350" y="241"/>
+      <point x="350" y="481"/>
+      <point x="350" y="722" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

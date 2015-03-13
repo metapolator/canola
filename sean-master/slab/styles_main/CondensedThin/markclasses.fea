@@ -1,0 +1,57 @@
+# Created: Fri Mar 13 22:35:02 2015
+# PS Name: SeanSlab-CondensedThin
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.e_n75_740 = [dvAnusvara dvmAI_Reph_Anusvara];
+@mGC_abvm.e_n83_741 = [dvmEcandra dvmEcandra_Anusvara];
+@mGC_blwm.u_401_n1 = [dvmvL dvmvLL];
+
+markClass @mGC_abvm.e_n75_740 <anchor -75 740> @MC_abvm.e;
+markClass @mGC_abvm.e_n83_741 <anchor -83 741> @MC_abvm.e;
+markClass @mGC_blwm.u_401_n1 <anchor 401 -1> @MC_blwm.u;
+markClass acute <anchor 18 590> @MC_top;
+markClass breve <anchor 103 619> @MC_top;
+markClass caron <anchor 90 592> @MC_top;
+markClass cedilla <anchor 120 2> @MC_bottom;
+markClass circumflex <anchor 91 590> @MC_top;
+markClass comma <anchor 58 119> @MC_bottom;
+markClass commaaccent <anchor 128 68> @MC_bottom;
+markClass dieresis <anchor 113 655> @MC_top;
+markClass dotaccent <anchor 238 655> @MC_top;
+markClass dvAnusvara.amI <anchor -75 740> @MC_abvm.i;
+markClass dvCandrabindu <anchor -23 740> @MC_abvm.e;
+markClass dvRaker <anchor 319 269> @MC_top;
+markClass dvReph <anchor -72 723> @MC_abvm.e;
+markClass dvReph.amI <anchor -85 725> @MC_abvm.i;
+markClass dvReph_Anusvara <anchor -64 719> @MC_abvm.e;
+markClass dvReph_Anusvara.amI <anchor -65 715> @MC_abvm.i;
+markClass dvVirama <anchor -92 0> @MC_blwm.virama;
+markClass dvmAI <anchor -65 718> @MC_abvm.e;
+markClass dvmAI_Anusvara <anchor -64 721> @MC_abvm.e;
+markClass dvmAI_Reph <anchor -78 728> @MC_abvm.e;
+markClass dvmE <anchor -82 738> @MC_abvm.e;
+markClass dvmE_Anusvara <anchor -79 710> @MC_abvm.e;
+markClass dvmE_Reph <anchor -92 720> @MC_abvm.e;
+markClass dvmE_Reph_Anusvara <anchor -90 724> @MC_abvm.e;
+markClass dvmU <anchor -71 18> @MC_blwm.u;
+markClass dvmUU <anchor -37 45> @MC_blwm.u;
+markClass dvmvR <anchor -55 30> @MC_blwm.u;
+markClass dvmvRR <anchor -78 14> @MC_blwm.u;
+markClass foursuperior <anchor 211 700> @MC_top;
+markClass foursuperior <anchor 212 279> @MC_bottom;
+markClass grave <anchor 140 590> @MC_top;
+markClass hungarumlaut <anchor 165 705> @MC_top;
+markClass macron <anchor 102 659> @MC_top;
+markClass nullsuperior <anchor 214 282> @MC_bottom;
+markClass nullsuperior <anchor 220 687> @MC_top;
+markClass ogonek <anchor 111 -3> @MC_bottom;
+markClass onesuperior <anchor 188 682> @MC_top;
+markClass onesuperior <anchor 189 284> @MC_bottom;
+markClass ring <anchor 94 549> @MC_top;
+markClass threesuperior <anchor 178 275> @MC_bottom;
+markClass threesuperior <anchor 196 694> @MC_top;
+markClass tilde <anchor 138 606> @MC_top;
+markClass twosuperior <anchor 185 278> @MC_bottom;
+markClass twosuperior <anchor 212 694> @MC_top;
+

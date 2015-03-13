@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvPHx_PHxA" format="1">
+  <advance width="2012"/>
+  <outline>
+    <component base="dvPH" xOffset="-1"/>
+    <component base="dvAnusvara" xOffset="520" yOffset="-959"/>
+    <component base="dvAnusvara" xOffset="1351" yOffset="-958"/>
+    <component base="dvPHA" xOffset="853"/>
+    <contour>
+      <point x="1643" y="-114" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="1584" y="-37" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1584" y="717" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

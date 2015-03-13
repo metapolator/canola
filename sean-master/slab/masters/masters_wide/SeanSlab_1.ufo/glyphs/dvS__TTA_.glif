@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_TTA" format="1">
+  <advance width="1323"/>
+  <outline>
+    <contour>
+      <point x="1112" y="-35" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1097" y="719" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="1132" y="-110" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="698" y="424" type="line"/>
+      <point x="664" y="383"/>
+      <point x="605" y="378"/>
+      <point x="546" y="378" type="curve" smooth="yes"/>
+      <point x="485" y="378"/>
+      <point x="441" y="406"/>
+      <point x="395" y="446" type="curve"/>
+      <point x="310" y="376" type="line"/>
+      <point x="379" y="314"/>
+      <point x="443" y="268"/>
+      <point x="536" y="268" type="curve" smooth="yes"/>
+      <point x="634" y="268"/>
+      <point x="714" y="295"/>
+      <point x="782" y="365" type="curve"/>
+    </contour>
+    <component base="dvTTA" xOffset="585"/>
+    <component base="dvS"/>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_CHA" format="1">
+  <advance width="1134"/>
+  <outline>
+    <contour>
+      <point x="856" y="-22" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="957" y="717" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="856" y="-101" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvCHA" xOffset="426"/>
+    <component base="dvNA_base" xOffset="4" yOffset="20"/>
+    <component base="dvTopbar" xOffset="-7"/>
+  </outline>
+</glyph>

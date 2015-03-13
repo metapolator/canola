@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvEyelash" format="1">
+  <advance width="277.2"/>
+  <outline>
+    <contour>
+      <point x="395" y="464" type="line"/>
+      <point x="354" y="446"/>
+      <point x="319" y="439"/>
+      <point x="264" y="439" type="curve"/>
+      <point x="198" y="439"/>
+      <point x="144" y="456"/>
+      <point x="144" y="532" type="curve"/>
+      <point x="-17" y="532" type="line"/>
+      <point x="-17" y="376"/>
+      <point x="107" y="322"/>
+      <point x="264" y="322" type="curve"/>
+      <point x="350" y="322"/>
+      <point x="426" y="340"/>
+      <point x="473" y="374" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xScale="0.687250761923" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

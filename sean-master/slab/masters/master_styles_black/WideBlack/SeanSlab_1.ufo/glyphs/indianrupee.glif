@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="indianrupee" format="1">
+  <advance width="733"/>
+  <outline>
+    <contour>
+      <point x="267" y="256" type="line"/>
+      <point x="385" y="279"/>
+      <point x="460" y="360"/>
+      <point x="460" y="478" type="curve"/>
+      <point x="460" y="563"/>
+      <point x="419" y="623"/>
+      <point x="350" y="672" type="curve"/>
+      <point x="311" y="645"/>
+      <point x="281" y="623"/>
+      <point x="243" y="597" type="curve"/>
+      <point x="283" y="563"/>
+      <point x="310" y="526"/>
+      <point x="310" y="474" type="curve"/>
+      <point x="310" y="384"/>
+      <point x="214" y="365"/>
+      <point x="110" y="365" type="curve"/>
+    </contour>
+    <contour>
+      <point x="110" y="365" type="line"/>
+      <point x="110" y="155"/>
+      <point x="202" y="-16"/>
+      <point x="392" y="-16" type="curve"/>
+      <point x="498" y="-16"/>
+      <point x="576" y="33"/>
+      <point x="636" y="120" type="curve"/>
+      <point x="608" y="146"/>
+      <point x="575" y="170"/>
+      <point x="546" y="196" type="curve"/>
+      <point x="507" y="140"/>
+      <point x="462" y="101"/>
+      <point x="393" y="101" type="curve"/>
+      <point x="315" y="101"/>
+      <point x="273" y="169"/>
+      <point x="267" y="256" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xScale="0.889819594149" xOffset="76"/>
+    <component base="dvTopbar" xScale="0.889819594149" xOffset="77" yOffset="-181"/>
+  </outline>
+</glyph>

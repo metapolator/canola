@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="354"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="257" y="-300"/>
+      <point x="97" y="-300"/>
+      <point x="257" y="-300" type="curve"/>
+      <point x="257" y="-176"/>
+      <point x="257" y="-52"/>
+      <point x="257" y="72" type="curve"/>
+      <point x="97" y="72"/>
+      <point x="257" y="72"/>
+      <point x="97" y="72" type="curve"/>
+      <point x="97" y="-52"/>
+      <point x="97" y="-176"/>
+      <point x="97" y="-300" type="curve"/>
+    </contour>
+    <contour>
+      <point x="257" y="428"/>
+      <point x="97" y="428"/>
+      <point x="257" y="428" type="curve"/>
+      <point x="257" y="552"/>
+      <point x="257" y="676"/>
+      <point x="257" y="800" type="curve"/>
+      <point x="97" y="800"/>
+      <point x="257" y="800"/>
+      <point x="97" y="800" type="curve"/>
+      <point x="97" y="676"/>
+      <point x="97" y="552"/>
+      <point x="97" y="428" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

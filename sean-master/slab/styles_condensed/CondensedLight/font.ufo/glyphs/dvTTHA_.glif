@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTTHA" format="1">
+  <advance width="485"/>
+  <unicode hex="0920"/>
+  <outline>
+    <contour>
+      <point x="334" y="8" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="276" y="722" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="354" y="-77" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="377" y="302" type="curve"/>
+      <point x="377" y="199"/>
+      <point x="342" y="111"/>
+      <point x="251" y="111" type="curve"/>
+      <point x="159" y="111"/>
+      <point x="120" y="199"/>
+      <point x="120" y="303" type="curve"/>
+      <point x="120" y="402"/>
+      <point x="157" y="484"/>
+      <point x="244" y="484" type="curve"/>
+      <point x="334" y="484"/>
+      <point x="377" y="402"/>
+      <point x="377" y="302" type="curve"/>
+      <point x="397" y="302"/>
+      <point x="411" y="302"/>
+      <point x="431" y="302" type="curve"/>
+      <point x="431" y="431"/>
+      <point x="367" y="531"/>
+      <point x="247" y="531" type="curve"/>
+      <point x="128" y="531"/>
+      <point x="66" y="432"/>
+      <point x="66" y="303" type="curve"/>
+      <point x="66" y="170"/>
+      <point x="125" y="62"/>
+      <point x="246" y="62" type="curve"/>
+      <point x="370" y="62"/>
+      <point x="431" y="169"/>
+      <point x="431" y="302" type="curve"/>
+      <point x="411" y="302"/>
+      <point x="397" y="302"/>
+    </contour>
+    <component base="dvTopbar" xScale="0.832712911325" xOffset="-10"/>
+    <component base="dvStem_short" yScale="0.889700502976" xOffset="-24" yOffset="77"/>
+  </outline>
+</glyph>

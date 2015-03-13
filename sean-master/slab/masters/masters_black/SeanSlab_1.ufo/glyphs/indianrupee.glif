@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="indianrupee" format="1">
+  <advance width="762.0"/>
+  <outline>
+    <contour>
+      <point x="274" y="252" type="line"/>
+      <point x="394" y="274"/>
+      <point x="472" y="356"/>
+      <point x="472" y="476" type="curve"/>
+      <point x="472" y="561"/>
+      <point x="431" y="622"/>
+      <point x="360" y="670" type="curve"/>
+      <point x="321" y="643"/>
+      <point x="290" y="621"/>
+      <point x="251" y="594" type="curve"/>
+      <point x="292" y="561"/>
+      <point x="320" y="525"/>
+      <point x="320" y="473" type="curve"/>
+      <point x="320" y="381"/>
+      <point x="221" y="363"/>
+      <point x="114" y="363" type="curve"/>
+    </contour>
+    <contour>
+      <point x="114" y="363" type="line"/>
+      <point x="114" y="152"/>
+      <point x="214" y="-17"/>
+      <point x="408" y="-17" type="curve"/>
+      <point x="516" y="-17"/>
+      <point x="595" y="32"/>
+      <point x="659" y="119" type="curve"/>
+      <point x="628" y="148"/>
+      <point x="604" y="171"/>
+      <point x="572" y="200" type="curve"/>
+      <point x="529" y="141"/>
+      <point x="481" y="100"/>
+      <point x="408" y="100" type="curve"/>
+      <point x="327" y="100"/>
+      <point x="281" y="166"/>
+      <point x="274" y="252" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xScale="0.904786438435" xOffset="78"/>
+    <component base="dvTopbar" xScale="0.904786438435" xOffset="79" yOffset="-182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

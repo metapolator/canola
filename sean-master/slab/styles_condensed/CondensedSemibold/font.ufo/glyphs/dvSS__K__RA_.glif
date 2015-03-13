@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_K_RA" format="1">
+  <advance width="1015"/>
+  <outline>
+    <contour>
+      <point x="706" y="-38" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="706" y="719" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="707" y="-89" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvSS"/>
+    <component base="dvKA" xOffset="296"/>
+    <component base="dvRaker" xOffset="219" yOffset="-68"/>
+  </outline>
+</glyph>

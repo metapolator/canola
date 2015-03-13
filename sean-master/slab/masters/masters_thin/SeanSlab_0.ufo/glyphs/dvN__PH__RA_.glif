@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_PH_RA" format="1">
+  <advance width="1019"/>
+  <outline>
+    <contour>
+      <point x="717" y="-20" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="717" y="-33" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="712" y="722" type="move" name="abvm.e"/>
+    </contour>
+    <component base="dvN_PHA"/>
+    <component base="dvRaker" xOffset="388" yOffset="37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

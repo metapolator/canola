@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJ_NA" format="1">
+  <advance width="944"/>
+  <outline>
+    <contour>
+      <point x="576" y="474" type="curve"/>
+      <point x="443" y="474"/>
+      <point x="314" y="474"/>
+      <point x="181" y="474" type="curve"/>
+      <point x="181" y="447"/>
+      <point x="181" y="406"/>
+      <point x="181" y="379" type="curve"/>
+      <point x="314" y="379"/>
+      <point x="443" y="379"/>
+      <point x="576" y="379" type="curve"/>
+      <point x="576" y="406"/>
+      <point x="576" y="447"/>
+    </contour>
+    <contour>
+      <point x="15" y="384" type="line"/>
+      <point x="23" y="219"/>
+      <point x="35" y="52"/>
+      <point x="187" y="52" type="curve"/>
+      <point x="298" y="52"/>
+      <point x="370" y="143"/>
+      <point x="370" y="265" type="curve"/>
+      <point x="370" y="385"/>
+      <point x="298" y="476"/>
+      <point x="181" y="476" type="curve"/>
+      <point x="181" y="441"/>
+      <point x="181" y="413"/>
+      <point x="181" y="377" type="curve"/>
+      <point x="235" y="377"/>
+      <point x="245" y="316"/>
+      <point x="245" y="253" type="curve"/>
+      <point x="245" y="199"/>
+      <point x="227" y="151"/>
+      <point x="181" y="151" type="curve"/>
+      <point x="114" y="151"/>
+      <point x="117" y="294"/>
+      <point x="112" y="418" type="curve"/>
+    </contour>
+    <component base="dvTopbar" xOffset="-2"/>
+    <component base="dvNA" xOffset="379"/>
+  </outline>
+</glyph>

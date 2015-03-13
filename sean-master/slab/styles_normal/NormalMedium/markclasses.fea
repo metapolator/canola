@@ -1,0 +1,55 @@
+# Created: Fri Mar 13 23:18:39 2015
+# PS Name: SeanSlabStd-NormalMedium
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.e_n91_740 = [dvmEcandra dvmEcandra_Anusvara];
+@mGC_blwm.u_562_n2 = [dvmvL dvmvLL];
+
+markClass @mGC_abvm.e_n91_740 <anchor -91 740> @MC_abvm.e;
+markClass @mGC_blwm.u_562_n2 <anchor 562 -2> @MC_blwm.u;
+markClass acute <anchor 85 590> @MC_top;
+markClass breve <anchor 154 566> @MC_top;
+markClass caron <anchor 231 577> @MC_top;
+markClass cedilla <anchor 211 52> @MC_bottom;
+markClass circumflex <anchor 281 589> @MC_top;
+markClass commaaccent <anchor 199 196> @MC_bottom;
+markClass dieresis <anchor 181 597> @MC_top;
+markClass dotaccent <anchor 235 595> @MC_top;
+markClass dvAnusvara <anchor -90 749> @MC_abvm.e;
+markClass dvAnusvara.amI <anchor -75 740> @MC_abvm.i;
+markClass dvCandrabindu <anchor -49 740> @MC_abvm.e;
+markClass dvReph <anchor -72 729> @MC_abvm.e;
+markClass dvReph.amI <anchor -73 733> @MC_abvm.i;
+markClass dvReph_Anusvara <anchor -63 726> @MC_abvm.e;
+markClass dvReph_Anusvara.amI <anchor -62 728> @MC_abvm.i;
+markClass dvVirama <anchor -97 0> @MC_blwm.virama;
+markClass dvmAI <anchor -82 727> @MC_abvm.e;
+markClass dvmAI_Anusvara <anchor -80 729> @MC_abvm.e;
+markClass dvmAI_Reph <anchor -81 727> @MC_abvm.e;
+markClass dvmAI_Reph_Anusvara <anchor -98 730> @MC_abvm.e;
+markClass dvmE <anchor -92 723> @MC_abvm.e;
+markClass dvmE_Anusvara <anchor -89 696> @MC_abvm.e;
+markClass dvmE_Reph <anchor -98 710> @MC_abvm.e;
+markClass dvmE_Reph_Anusvara <anchor -100 718> @MC_abvm.e;
+markClass dvmU <anchor -104 15> @MC_blwm.u;
+markClass dvmUU <anchor -79 22> @MC_blwm.u;
+markClass dvmvR <anchor -75 20> @MC_blwm.u;
+markClass dvmvRR <anchor -92 9> @MC_blwm.u;
+markClass foursuperior <anchor 293 734> @MC_top;
+markClass foursuperior <anchor 298 306> @MC_bottom;
+markClass grave <anchor 251 574> @MC_top;
+markClass hungarumlaut <anchor 227 620> @MC_top;
+markClass macron <anchor 149 604> @MC_top;
+markClass nullsuperior <anchor 271 302> @MC_bottom;
+markClass nullsuperior <anchor 275 728> @MC_top;
+markClass ogonek <anchor 157 9> @MC_bottom;
+markClass onesuperior <anchor 223 725> @MC_top;
+markClass onesuperior <anchor 229 306> @MC_bottom;
+markClass ring <anchor 139 517> @MC_top;
+markClass threesuperior <anchor 218 298> @MC_bottom;
+markClass threesuperior <anchor 228 734> @MC_top;
+markClass tilde <anchor 209 561> @MC_top;
+markClass twosuperior <anchor 254 305> @MC_bottom;
+markClass twosuperior <anchor 263 735> @MC_top;
+

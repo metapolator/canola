@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_K_RA" format="1">
+  <advance width="1696.01339269"/>
+  <outline>
+    <component base="dvSS"/>
+    <component base="dvKA" xOffset="471"/>
+    <component base="dvRaker" xOffset="685" yOffset="-22"/>
+    <contour>
+      <point x="1088" y="-89" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="1087" y="-38" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1073" y="728" type="move" name="abvm.e"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

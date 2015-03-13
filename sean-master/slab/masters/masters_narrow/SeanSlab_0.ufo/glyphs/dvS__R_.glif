@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_R" format="1">
+  <advance width="435"/>
+  <outline>
+    <contour>
+      <point x="534" y="458" type="line"/>
+      <point x="497" y="414"/>
+      <point x="434" y="402"/>
+      <point x="377" y="401" type="curve" smooth="yes"/>
+      <point x="322" y="401"/>
+      <point x="267" y="422"/>
+      <point x="221" y="449" type="curve"/>
+      <point x="210" y="431" type="line"/>
+      <point x="259" y="402"/>
+      <point x="319" y="381"/>
+      <point x="376" y="381" type="curve" smooth="yes"/>
+      <point x="442" y="382"/>
+      <point x="512" y="395"/>
+      <point x="550" y="448" type="curve"/>
+    </contour>
+    <component base="dvS" xOffset="-9"/>
+    <component base="dvRaker" xOffset="221" yOffset="-15"/>
+  </outline>
+</glyph>

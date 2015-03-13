@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_DDA" format="1">
+  <advance width="817.265378565"/>
+  <outline>
+    <contour>
+      <point x="739" y="-137" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="720" y="-49" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="752" y="718" type="move" name="abvm.e"/>
+    </contour>
+    <component base="dvNA_base" xOffset="-71" yOffset="9"/>
+    <component base="dvTopbar"/>
+    <component base="dvDDA" xOffset="375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
