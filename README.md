@@ -29,14 +29,14 @@ And we should get a copy of the original.
 
 
 
-######[Setting up *Black Wide*](https://github.com/metapolator/canola/blob/master/notes/blackwide.md)
-######[Setting up *Thin Wide*](https://github.com/metapolator/canola/blob/master/notes/thinwide.md)
-######[Interpolating *Thin Wide* and *Black Wide*](https://github.com/metapolator/canola/blob/master/notes/interpolating.md)
-######[Setting up *Thin Compressed* and *Black Compressed*](https://github.com/metapolator/canola/blob/master/notes/thincompressed.md)
-######[Joints and Knots](https://github.com/metapolator/canola/blob/master/notes/knots.md)
-######[Creating a four-master design space](https://github.com/metapolator/canola/blob/master/notes/stepping.md)
-######[Adding contrast](https://github.com/metapolator/canola/blob/master/notes/contrast.md)
-######[Rendering all Instances](https://github.com/metapolator/canola/blob/master/notes/super.md)
+###### [Setting up *Black Wide*](https://github.com/metapolator/canola/blob/master/notes/blackwide.md)
+###### [Setting up *Thin Wide*](https://github.com/metapolator/canola/blob/master/notes/thinwide.md)
+###### [Interpolating *Thin Wide* and *Black Wide*](https://github.com/metapolator/canola/blob/master/notes/interpolating.md)
+###### [Setting up *Thin Compressed* and *Black Compressed*](https://github.com/metapolator/canola/blob/master/notes/thincompressed.md)
+###### [Joints and Knots](https://github.com/metapolator/canola/blob/master/notes/knots.md)
+###### [Creating a four-master design space](https://github.com/metapolator/canola/blob/master/notes/stepping.md)
+###### [Adding contrast](https://github.com/metapolator/canola/blob/master/notes/contrast.md)
+###### [Rendering all Instances](https://github.com/metapolator/canola/blob/master/notes/super.md)
 
 ![alt tag](https://raw.githubusercontent.com/metapolator/canola/325e84da9f1dc7b098bcbaa05c8edc651013f73e/sean.png)
 
